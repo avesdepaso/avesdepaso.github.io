@@ -1,0 +1,445 @@
+{:id "mont-domuyo--point-culminant-de-la-patagonie",
+ :title "Mont Domuyo",
+ :published-at #inst "2015-02-07T16:00:46.806-00:00",
+ :updated-at #inst "2015-01-21T12:20:35.860-00:00",
+ :visibility :public,
+ :cover
+ {:width 240,
+  :id
+  {:photoset-id nil,
+   :original-format nil,
+   :secret "746191d431",
+   :original-secret nil,
+   :id "16263584736",
+   :farm-id 8,
+   :server-id "7540"},
+  :provider :flickr,
+  :height 180},
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Situ��e dans la cordill��re des vents, la montagne Domuyo est peu connue du grand public car plut��t bien isol��e dans le nord de la Province de Neuqu��n. Deux guides / huit clients. Tous venus en solitaire sauf nous : Diana de la Pampa, Pablo y Santiago de Buenos Aires, Diego de Puerto Madryn, Mario, le cur�� de Lomas, Carlos d&#39;Uruguay. ")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "3cc1e7a5c4",
+    :original-secret nil,
+    :id "16103160489",
+    :farm-id 8,
+    :server-id "7516"},
+   :provider :flickr,
+   :height 135}
+  {:type :heading, :content "DIA 1", :level 2}
+  {:type :paragraph,
+   :content
+   ("Nous partons de San Martin avec Benja. Il est 7.30 am. La route est longue! Nous passons Zapala, Chos Malal, Andacollo (ville mini��re!)...Carcarvo et nous terminons notre route au d��part du trek . On croise Carlos sur le bord de route, le propri��taire de mules! On lui r��serve deux b��tes \npour le lendemain. Elles transporteront le mat��riel collectif jusqu&#39;au \ncamp de base (3400m). Il est 21h! Nous allons planter les tentes sur le terrain de Carlos pour la nuit.")}
+  {:type :photoset,
+   :caption "Nuit/Matin",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "18d7f463d1",
+       :original-secret nil,
+       :id "16287499191",
+       :farm-id 8,
+       :server-id "7461"},
+      :provider :flickr,
+      :height 180}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "93908744dd",
+       :original-secret nil,
+       :id "16263353206",
+       :farm-id 8,
+       :server-id "7530"},
+      :provider :flickr,
+      :height 180}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "362fc0fec2",
+       :original-secret nil,
+       :id "16101753118",
+       :farm-id 8,
+       :server-id "7528"},
+      :provider :flickr,
+      :height 180}]]}
+  {:type :heading, :content "Dia 2", :level 2}
+  {:type :paragraph,
+   :content
+   ("Notre premier jour de marche nous prendra pr��s de 6 heures. 900m de positif. R��sultat, une assez longue marche d&#39;approche au bord du "
+    [:i {} "rio"]
+    ". Nous d��couvrons aussi sur le sentier les nombreuses "
+    [:i {} "lagunas"]
+    " (petits lacs) de montagnes jusqu&#39;au camp de base sans nom : 3400m"
+    [:br {}]
+    [:br {}]
+    "Surprenant, ici, les sites n&#39;ont pas de nom, m��me pas les nombreux glaciers alentours. Preuve de son isolement total...")}
+  {:type :photoset,
+   :caption "Marche d'approche au camp de base",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "66a81183f3",
+       :original-secret nil,
+       :id "16103414907",
+       :farm-id 9,
+       :server-id "8666"},
+      :provider :flickr,
+      :height 180}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "0d458d9bf8",
+       :original-secret nil,
+       :id "15666853454",
+       :farm-id 8,
+       :server-id "7574"},
+      :provider :flickr,
+      :height 180}]]}
+  {:type :photo,
+   :caption "",
+   :width 180,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "55843bc51f",
+    :original-secret nil,
+    :id "16288408652",
+    :farm-id 8,
+    :server-id "7468"},
+   :provider :flickr,
+   :height 240}
+  {:type :photo,
+   :caption "Location de mules chez Carlos",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "4c4ab88b65",
+    :original-secret nil,
+    :id "15666843264",
+    :farm-id 8,
+    :server-id "7580"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("Le soleil tape, on plante les tentes et on pr��pare le matos pour l&#39;ascension. On profite des moments libres pour conna��tre nos co-��quipiers de montagnes. On a beaucoup de chance car nous sommes accompagn��s uniquement d&#39;argentins. Ca nous permet de bien rentrer dans le coeur d&#39;une culture pour laquelle il nous nous reste tant �� apprendre!!!")}
+  {:type :photo,
+   :caption "Equipo!!!",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "181955e849",
+    :original-secret nil,
+    :id "16288481262",
+    :farm-id 9,
+    :server-id "8589"},
+   :provider :flickr,
+   :height 180}
+  {:type :photoset,
+   :caption "Camp de base",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "f81220a824",
+       :original-secret nil,
+       :id "16263455596",
+       :farm-id 8,
+       :server-id "7510"},
+      :provider :flickr,
+      :height 180}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "37b6a26de7",
+       :original-secret nil,
+       :id "16103088389",
+       :farm-id 8,
+       :server-id "7469"},
+      :provider :flickr,
+      :height 180}]]}
+  {:type :photo,
+   :caption "R��glage des crampons",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "ee1b9094fd",
+    :original-secret nil,
+    :id "16101921208",
+    :farm-id 9,
+    :server-id "8605"},
+   :provider :flickr,
+   :height 180}
+  {:type :photo,
+   :caption "La cuisine du campement",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "6e5a9c3bd5",
+    :original-secret nil,
+    :id "15667046564",
+    :farm-id 9,
+    :server-id "8666"},
+   :provider :flickr,
+   :height 240}
+  {:type :heading, :content "Dia 3", :level 2}
+  {:type :paragraph,
+   :content
+   ("Le jour de l&#39;ascension est id��al. R��veil �� 1.30 hrs du matin pour partir �� 2.30 hrs. "
+    [:br {}]
+    "Petite attention sp��ciale de la part des guides : ils nous apportent le thermos et des petits g��teaux �� l&#39;entr��e de chaque tente.�� "
+    [:br {}]
+    "Il fait pas trop froid. Un vent l��ger devrait passer de 4 �� 9 noeuds pour midi. Tout le monde est �� l&#39;heure et excit�� ;-) ")}
+  {:type :photo,
+   :caption "Pr��ts pour l'ascension",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "8c0a37d787",
+    :original-secret nil,
+    :id "16289449535",
+    :farm-id 8,
+    :server-id "7480"},
+   :provider :flickr,
+   :height 180}
+  {:type :paragraph,
+   :content
+   ("Tout de suite, on sera mis dans le bain. Ca grimpe dans un champ de pierrier. Nos lampes frontales nous ��clairent les pas du voisin d&#39;en face. Notre seul rep��re. Cette zone est remplie de fossiles de toutes tailles. C&#39;est magic&#39;!! Il semble que ce fut un site VIVANT avant de se convertir en montagne de sable venteuse. L&#39;ascension est suppos��e durer 8 heures... ")}
+  {:type :photo,
+   :caption "Fossiles",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "4239092c9e",
+    :original-secret nil,
+    :id "15666837344",
+    :farm-id 8,
+    :server-id "7528"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("Nous rencontrons avec julien de nouvelles difficult��s encore jamais rencontr��es�� tels que des pentes �� 50 degr��s... (longueeee), des bouts de glaciers congel��s et leur p��nitents, 100 m��tres de rappel �� la m��thode argentine : se hisser sur une corde avec tes mains et des crampons. A cet endroit, les chutes de pierre sont fr��quentes."
+    [:br {}]
+    [:br {}]
+    " ")}
+  {:type :photo,
+   :caption "Glacier et p��nitents",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "9fe4e878db",
+    :original-secret nil,
+    :id "16101905038",
+    :farm-id 8,
+    :server-id "7565"},
+   :provider :flickr,
+   :height 135}
+  {:type :photoset,
+   :caption "Acarreo",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "538aae5412",
+       :original-secret nil,
+       :id "15667020714",
+       :farm-id 8,
+       :server-id "7517"},
+      :provider :flickr,
+      :height 180}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "c808deafc8",
+       :original-secret nil,
+       :id "16311176935",
+       :farm-id 9,
+       :server-id "8682"},
+      :provider :flickr,
+      :height 180}]]}
+  {:type :photo,
+   :caption "Nos guides et moi",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "30a40094bb",
+    :original-secret nil,
+    :id "16287515281",
+    :farm-id 8,
+    :server-id "7473"},
+   :provider :flickr,
+   :height 180}
+  {:type :paragraph,
+   :content
+   ("Mais �� 10hs nous sommes toujours �� 1.30hs de marche du sommet. Malheureusement, nous ne poursuivrons pas la "
+    [:i {} "cumbre (sommet)"]
+    ". Nous faisons demi-tour en pleine pente de 50 degr��s. Le chemin est dur (glac��). Je suis ext��nu��e mentalement (tu sais ces moments o�� tu commences �� g��mir pour avancer hehe). Quand �� Julien, il est peu emball�� par le vide qui pourrait t&#39;envoyer directement dans le coeur du glacier norte este si tu fais un faux pas.... Nous serons 4 �� repartir pendant que 6 poursuivent vers le sommet. ")}
+  {:type :photo,
+   :width 180,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "9382791f89",
+    :original-secret nil,
+    :id "16101896028",
+    :farm-id 8,
+    :server-id "7498"},
+   :provider :flickr,
+   :height 240}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :height 180,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "8ff743394d",
+       :original-secret nil,
+       :id "15669553623",
+       :farm-id 8,
+       :server-id "7536"},
+      :provider :flickr}
+     {:width 240,
+      :height 180,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "881a0016a8",
+       :original-secret nil,
+       :id "15667005374",
+       :farm-id 8,
+       :server-id "7544"},
+      :provider :flickr}]],
+   :caption
+   "Apr��s pr��s de 2 heures de marche en pente \"verticale\"....on stopppe"}
+  {:type :paragraph,
+   :content
+   ("Le retour vers le camp est une autre aventure. Bien que la route soit la m��me, on d��couvre les paysages de jour, la sympathique douleur de genoux, on descend les pierriers sur les talons (Julien adore et il est vraiment super rapide dans les descentes!). Nous sommes de retour au camp vers 13.45 heures. Nous avons r��alis��, ce jour l��, plus de 11hs de marche. One record! On profite de l&#39;apr��m pour fare du Dodo, du yoga, de la lecture et manger des tortillas!")}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "cdca09103a",
+       :original-secret nil,
+       :id "16263469096",
+       :farm-id 8,
+       :server-id "7576"},
+      :provider :flickr,
+      :height 180}]]}
+  {:type :photoset,
+   :caption "Camp'",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "e13a049276",
+       :original-secret nil,
+       :id "15669665683",
+       :farm-id 8,
+       :server-id "7507"},
+      :provider :flickr,
+      :height 160}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "70d326efbc",
+       :original-secret nil,
+       :id "16263463816",
+       :farm-id 9,
+       :server-id "8597"},
+      :provider :flickr,
+      :height 180}]]}
+  {:type :paragraph,
+   :content
+   ("Domuyo, t&#39;es pas cool parce qu&#39;on a pas vu ton toit et ton panorama!!! Mais�� ce qui est s��r c&#39;est que tu nous a enseign�� pleins de trucs! On est d��j�� pr��ts pour le prochain sommet.... mais lequel??? On cherche!")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "8645c6462c",
+    :original-secret nil,
+    :id "16101932768",
+    :farm-id 9,
+    :server-id "8681"},
+   :provider :flickr,
+   :height 135}
+  {:type :heading, :content "Dia 4", :level 2}
+  {:type :paragraph,
+   :content
+   ("Cette journ��e nous montre la fin du trip. On reprend le sentier qui nous m��ne �� la sortie! c&#39;est fini.... Pour faire durer un peu les plaisirs, on profite sur le chemin de thermes d&#39;eaux chaudes naturelles. C&#39;est bon pour d��tendre nos muscles erreint��s par l&#39;exercice. On passera ��galement la soir��e en "
+    [:i {} "Caba��as"]
+    " avec "
+    [:i {} "Asado "]
+    "oblige!"
+    [:br {}]
+    [:br {}]
+    "Super soir��e, super douche, super lit! ")}
+  {:type :photo,
+   :caption "Termas de Aguas Calientes",
+   :width 180,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "85bd4399e7",
+    :original-secret nil,
+    :id "16313250432",
+    :farm-id 8,
+    :server-id "7478"},
+   :provider :flickr,
+   :height 240}
+  {:type :photoset,
+   :caption "Caba��as et Asado",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "4f51dca132",
+       :original-secret nil,
+       :id "15667061904",
+       :farm-id 8,
+       :server-id "7497"},
+      :provider :flickr,
+      :height 180}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "df55774cf6",
+       :original-secret nil,
+       :id "16287694501",
+       :farm-id 9,
+       :server-id "8682"},
+      :provider :flickr,
+      :height 180}]]}],
+ :blog "avesdepaso"}

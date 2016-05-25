@@ -1,0 +1,421 @@
+{:updated-at #inst "2014-09-25T22:51:28.158-00:00",
+ :tags #{:argentine :amerique-du-sud},
+ :cover
+ {:width 1024,
+  :user-id "96129378@N07",
+  :category-id "72157647618858100",
+  :id
+  {:photoset-id nil,
+   :original-format nil,
+   :secret "42e5cd27d4",
+   :original-secret nil,
+   :id "15353938952",
+   :farm-id 4,
+   :server-id "3929"},
+  :provider :flickr,
+  :height 678},
+ :published-at #inst "2013-01-21T01:01:49.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content ("Ce mois-ci, on a fait chauffer le pick up !")}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647618858100",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "b3e7fcff0c",
+    :original-secret nil,
+    :id "15331156156",
+    :farm-id 4,
+    :server-id "3878"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   "Sortie de la mine, je file chercher Julien qui vient de faire le trajet que je fais tous les 15 jours!! 2.30 hrs de vol entre Buenos aires et Comodoro Rivadavia��� A ��a tu rajoutes les 7hrs de bus pour traverser d���est en ouest l���Argentine et��atterrir���� Perito Moreno!! The PUEBLO!"}
+  {:type :paragraph,
+   :content
+   ("Julien est fatigu����� c���est pas grave, je monte dans son bus qui continue jusqu��� aux��"
+    [:a {:href "http://fr.wikipedia.org/wiki/Los_Antiguos"} "Antiguos"]
+    "! Un petit bled de 2000 habitants. Mais pourquoi donc les Antiguos??? rrrrhhh c���est un mini bled mais c���est la qu���ils ont trouv�� que de faire pousser des cerises ��a marchait!!! R��sultat ? 5kilos de cerises en 5 jours de vadrouilles haha ! et sans froutfroute comme dit ma m��re!")}
+  {:type :photo,
+   :caption "Village Los Antiguos",
+   :alt "Village Los Antiguos ",
+   :width 500,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/01/ruta-40-41-18.jpg?w=500&h=331"},
+   :provider :wordpress,
+   :height 331}
+  {:type :paragraph,
+   :content
+   ("En plus des cerises, on est proche de la fronti��re avec le Chili et donc aux pieds de la cordill��re des Andes, pas tr��s haute �� cet endroit de la Cha��ne, mais on peut jeter un oeil au "
+    [:a
+     {:href "http://en.wikipedia.org/wiki/Cerro_Castillo"}
+     "Cerro Castillo"]
+    " (2675m) et il est beau ce petit! Et au bord du lac de Buenos Aires, c���est plut��t magique!!")}
+  {:type :photo,
+   :caption "P��cheur des Antiguos et Chanteur !",
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647618858100",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "54e0812f2d",
+    :original-secret nil,
+    :id "15167347799",
+    :farm-id 3,
+    :server-id "2950"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   ("Apr��s deux jours �� visiter tous les recoins du village, nous faisons marche arri��re �� Perito Moreno pour r��cup��rer le Pick-up!! La on rigole plus! Ca fait des mois que je vois tout le monde se ballader en pick-up dans la r��gion. ��Jusque l��, j���occupe la place du passager (me manque la formation conduite de 4*4 pour ��tre autoris��e �� conduire sur le gisement). Cette fois-ci, c���est �� mon tour de jouer "
+    [:span {:title ";-)", :class "wp-smiley emoji emoji-wink"} ";-)"])}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647618858100",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "f8a5d164f9",
+    :original-secret nil,
+    :id "15167630957",
+    :farm-id 4,
+    :server-id "3857"},
+   :provider :flickr,
+   :height 678}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647618858100",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "0a1ee1e5d2",
+    :original-secret nil,
+    :id "15350859251",
+    :farm-id 4,
+    :server-id "3856"},
+   :provider :flickr,
+   :height 680}
+  {:type :paragraph,
+   :content
+   ("Pour compl��ter notre d��couverte de la r��gion, nous avons choisi la mytique route 40 sur 400kms. Nous nous sommes d���abord aventur��s sur les chemins de terres qui nous m��nent aux Cuevas de las manos (patrimoine mondiale de l���Unesco). Tout comme notre grotte de Lascaux, les argentins (indig��nes pr��-tehuelche) ont eux aussi trouv�� que des empreintes de leurs mains sur la roche, ca pourrait ��tre sympa!! Ces mains ont plus de 9000 ans et la rando te donne une vue incroyable sur le Rio pinturas et son canyon!")}
+  {:type :photoset,
+   :caption "Rio Pinturas",
+   :photos
+   [[{:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647618858100",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "abcfebf7de",
+       :original-secret nil,
+       :id "15167549827",
+       :farm-id 3,
+       :server-id "2945"},
+      :provider :flickr,
+      :height 678}
+     {:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647618858100",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "519a9a227a",
+       :original-secret nil,
+       :id "15167505178",
+       :farm-id 3,
+       :server-id "2942"},
+      :provider :flickr,
+      :height 678}]]}
+  {:type :photo,
+   :caption "Manos rupestres",
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647618858100",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "6a11b35caf",
+    :original-secret nil,
+    :id "15167357920",
+    :farm-id 4,
+    :server-id "3844"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   ("C���est pas tout mais si on veut rejoindre le parc national de Perito Moreno, faut qu���on file ! En route !")}
+  {:type :paragraph,
+   :content
+   ("Cerises au volant, on mange du kilom��tre jusqu����� faire connaissance avec les locaux de Bajo Caracoles. Je connaissais le village de nom (�� travailler dans la r��gion, je connais bien ma g��ographie) mais je d��couvre un village de 30 personnes au milieu de rien!! L���attraction principale? Faire le plein d���essence m��me si tu as encore plein d���essence dans le ventre car le d��sert de la patagonie pourrait bien te r��server des petites surprises���")}
+  {:type :photoset,
+   :photos
+   [[{:width 678,
+      :user-id "96129378@N07",
+      :category-id "72157647618858100",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "9d146a0b98",
+       :original-secret nil,
+       :id "15167322050",
+       :farm-id 4,
+       :server-id "3883"},
+      :provider :flickr,
+      :height 1024}
+     {:width 678,
+      :user-id "96129378@N07",
+      :category-id "72157647618858100",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "56c87bd013",
+       :original-secret nil,
+       :id "15167334180",
+       :farm-id 4,
+       :server-id "3898"},
+      :provider :flickr,
+      :height 1024}]]}
+  {:type :paragraph, :content "Un tour de village et on est reparti!"}
+  {:type :paragraph,
+   :content
+   ("Le d��sert, la route 40 entre b��ton (120km/h) et caillasse (70km/h)���. et 5 heures plus tard : l���entr��e du Parque National de Perito Moreno : M��connu de tous, on est tr��s ��mu de pouvoir y mettre les pieds! Cr��e en 1937, il porte le nom d���un argentin explorateur et naturaliste! Avec 1000 visiteurs par an, autant dire que ce parque conserve toute son authenticit��, sa nature est pr��serv��e et ses autochtones aussi : guanacos, nandoue de patagonie, flamant roses de Patagonie, des canards ���.tout ��a a foison!")}
+  {:type :photo,
+   :caption "Guanacos sur la 40",
+   :alt "Guanacos sur la 40",
+   :width 500,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/01/dsc_1220.jpg?w=500&h=331"},
+   :provider :wordpress,
+   :height 331}
+  {:type :photo,
+   :width 1024,
+   :height 428,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647618858100",
+   :id
+   {:id "15351087801",
+    :farm-id 4,
+    :server-id "3883",
+    :photoset-id nil,
+    :secret "645f598e09",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Lago Belgrano"}
+  {:type :paragraph,
+   :content
+   ("Mais tu le payes : du froid, un peu de pluie, des nuages qui jouent �� cache cache entre les sommets de la cordill��re, sans oublier l���incontournable vent de Patagonie!!!!")}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647618858100",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "8b03f6fd40",
+    :original-secret nil,
+    :id "15331266986",
+    :farm-id 4,
+    :server-id "3907"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   ("Julien pourra vous en parler dans un prochain article ��;-)"
+    [:br {}]
+    "On continue la visite : veilles estancias et camping, miradores de fauna .....")}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647618858100",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "ffc1b08363",
+       :original-secret nil,
+       :id "15167508190",
+       :farm-id 4,
+       :server-id "3903"},
+      :provider :flickr,
+      :height 678}
+     {:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647618858100",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "b64f39d70f",
+       :original-secret nil,
+       :id "15351013051",
+       :farm-id 4,
+       :server-id "3869"},
+      :provider :flickr,
+      :height 678}]]}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647618858100",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "ed53d17fc1",
+       :original-secret nil,
+       :id "15353843102",
+       :farm-id 4,
+       :server-id "3871"},
+      :provider :flickr,
+      :height 678}
+     {:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647618858100",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "bfb9f220f0",
+       :original-secret nil,
+       :id "15167480050",
+       :farm-id 4,
+       :server-id "3860"},
+      :provider :flickr,
+      :height 677}]]}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647618858100",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "4ac4e39711",
+    :original-secret nil,
+    :id "15167413299",
+    :farm-id 4,
+    :server-id "3906"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   ("Apres 2 jours �� vagabonder, nous attaquons la route retour pour la mine���")}
+  {:type :paragraph,
+   :content
+   "Ce retour tant sous estim�� hehe���. et oui entre la carte et les kms r��els, ���. y a une petite diff��rence. C���est l�� que je me dis qu���on n���est pas encore tout �� fait reconverti en argentin���"}
+  {:type :paragraph,
+   :content
+   "Enfin tout ��a parce qu���on voulait passer par une autre route : la 41 !!!"}
+  {:type :photo,
+   :caption "D��sert sur la route 41",
+   :alt "D��sert sur la route 41",
+   :width 500,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/01/ruta-40-41-12.jpg?w=500&h=331"},
+   :provider :wordpress,
+   :height 331}
+  {:type :paragraph,
+   :content
+   ("On conna��t tous la mythique 40 mais la 41 est vachement plus passionnante! Du d��sert, des lacs de sels, des lagunas de glaciers, des canyons, de la chaleur, des montagnes enneig��es, des estancias (fermes) perch��es au milieu de rien, de vastes ��tendues pour le plus grand bonheur des moutons qui viennent de perdre leur manteau (sont tout rabougris les moutons en ce moment). En somme : un joyeux spectacle de couleurs pour les yeux!!")}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647618858100",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "e2039c4d28",
+    :original-secret nil,
+    :id "15167567028",
+    :farm-id 4,
+    :server-id "3892"},
+   :provider :flickr,
+   :height 678}
+  {:type :photo,
+   :caption "Grands espaces",
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647618858100",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "da3101d124",
+    :original-secret nil,
+    :id "15350935901",
+    :farm-id 4,
+    :server-id "3858"},
+   :provider :flickr,
+   :height 678}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647618858100",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "f4b82f256b",
+       :original-secret nil,
+       :id "15354135215",
+       :farm-id 4,
+       :server-id "3886"},
+      :provider :flickr,
+      :height 678}
+     {:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647618858100",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "43a2bb6ca6",
+       :original-secret nil,
+       :id "15167431020",
+       :farm-id 4,
+       :server-id "3850"},
+      :provider :flickr,
+      :height 678}
+     {:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647618858100",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "57b3d95aa5",
+       :original-secret nil,
+       :id "15353807262",
+       :farm-id 4,
+       :server-id "3897"},
+      :provider :flickr,
+      :height 678}]]}
+  {:type :paragraph,
+   :content
+   ("Les derniers kms nous font passer de vall��es en vall��es avant de rejoindre Perito, mon terminus! Julien continuera sa route pour Buenos Aires���")}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647618858100",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "522e3cb99b",
+    :original-secret nil,
+    :id "15350924541",
+    :farm-id 4,
+    :server-id "3885"},
+   :provider :flickr,
+   :height 679}
+  {:type :video, :id "57814170", :provider :vimeo}],
+ :title "Rutas del sur!",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "rutas-del-sur",
+ :source-id "2406",
+ :blog "avesdepaso",
+ :visibility :public}

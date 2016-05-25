@@ -1,0 +1,133 @@
+{:updated-at #inst "2015-07-22T22:43:25.612-00:00",
+ :cover
+ {:width 240,
+  :height 159,
+  :id
+  {:id "19869743571",
+   :farm-id 1,
+   :server-id "423",
+   :photoset-id nil,
+   :secret "519e75e077",
+   :original-secret nil,
+   :original-format nil},
+  :provider :flickr,
+  :type :photo},
+ :published-at #inst "2015-07-22T22:41:43.934-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Juin 2015, le mois de ma démission de Golcdcorp Cerro Negro.... une période plutôt triste mais aussi l'occasion de se donner quelques moments de répis et bien sur voyager encore et encore."
+    [:br {}]
+    [:br {}]
+    [:b {} "Voyager :"]
+    " un mode qui a beaucoup changer en nous.... je me souviens de ces voyages où nous avions 15 jours de vacances et nous nous imposions de faire les meilleurs plans des guides et nous terminions notre voyage avec 1000 photos, un carnet de notes remplies de tips et histoires. Peut-être à ce moment là, on se sentait bien et convaincus d'avoir vécu le pays ?...."
+    [:br {}]
+    [:br {}]
+    "hehehehehe, aujourd'hui, ca me fait doucement sourire.... on ne connaît pas plus un pays après 15 jours passé à vadrouiller et cahuter dans tous ces recoins touristiques. On obtient juste un apercu, ''"
+    [:i {} "la pasamos bien"]
+    "&quot; (on passe un bon moment), mais on peut difficilement se faire une idée des réalités. Même passer des nuits chez 'l'habitant' revête un côté bien superficiel à notre goût, sauf si ces habitants sont tes Amis."
+    [:br {}]
+    [:br {}]
+    "Depuis que nous avons décidé de vivre l'étranger, je me sens un peu plus concernée par la réalité de chaque pays, ses coutumes, son rythme de vie, son climat et par défaut, son 'humeur'!"
+    [:br {}]
+    [:br {}]
+    "Quelle chance avons nous eu de faire notre nid en Argentine durant casi 4 années.... l'impression de s'argentiniser jour après jour, de créer des liens forts, de pouvoir avoir atteint certaine crédibilité et une amitié pour être à leurs yeux, un des leurs!!!"
+    [:br {}]
+    "Querida Argentina, te quiero y para siempre!"
+    [:br {}]
+    [:br {}]
+    "Un bonheur qui se reproduira? qui sait?"
+    [:br {}]
+    [:br {}]
+    "Enfin toute expérience a une fin pour donner place à une nouvelle aventure, n'est ce pas?"
+    [:br {}]
+    [:br {}]
+    "Alors voilà, avant de nous relancer dans le grand bain français, nous avons choisi de voyager trois mois et dire Au revoir à l'América latina et ses Sudaca (con carino chicos, no se enojen), surnoms des locaux qui appartiennent au continent du sud. Ce ne fut pas trop difficile après tout de prendre cette décision..."
+    [:br {}]
+    [:br {}]
+    "Alors le programme est le suivant..... louer un Van et expérimenter l'engin entre le Chili et l'Argentine en juillet .... doux rêve de vadrouilleurs. Seul point bancal, nous sommes en hiver!!!! on ne le sait pas encore mais ça nous réserve de bonnes surprises hehe....")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "3fa94262c9",
+    :original-secret nil,
+    :id "19302249034",
+    :farm-id 1,
+    :server-id "286"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ("Puis bon l'hiver ne durera pas si longtemps puisque nous passerons ensuite deux mois au brésil entre le mois d'août et septembre 2015."
+    [:br {}]
+    [:br {}]
+    "Nous avons déjà passé plus d'un mois au Brésil en 2009 (une belle surprise) et en septembre 2014 pour fêter mes 30 petites années d'existence. Alors on continue avec cette folie brésilienne. L'attirance continue avec force pour ce cher pays, puisque nous avons décider de louer et vivre dans une 'cahute' à Paraty, ville coloniale du sud (région Rio de Janeiro)."
+    [:br {}]
+    [:br {}]
+    "Enfin, commencons par expérimenter le Van Ghost Buster!!! Yiiihaaaa")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "c393c672dd",
+    :original-secret nil,
+    :id "19917336152",
+    :farm-id 1,
+    :server-id "273"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ("----"
+    [:br {}]
+    [:br {}]
+    "Junio, el mes de mi renuncia en Goldcorp Cerro Negro.... un periodo mas bien triste pero es una ocasi��n para ofrecerse una pausa y obviamente viajar m��s y m��s. Viajar : un modo que ha bien cambiando estos ��ltimos a��os para nosotros....��"
+    [:br {}]
+    [:br {}]
+    "Me acuerdo de��aquellos viajes donde contabamos de 15 d��as de vacaciones y nos impidamos hacer los mejores lugares del planeta seg��n los gu��as tur��sticos. Terminabamos el viaje con 1000 fotitas, un carnet de notas y otras historias. Quiz��s, en este momento, sent��amos y est��bamos convencidos de haber vivido el pa��s? Jajaja, hoy en d��a, me hace sonre��r...��"
+    [:br {}]
+    [:br {}]
+    "No conocemos m��s un pa��s por haber pasado 15��d��as de vacaciones en sus rincones tur��sticos. Obtenemos un buen panorama, la pasamos bien pero podemos dif��cilmente darse una idea de la realidad, de Su Verdad. Hasta pasar noche en la casa del aut��ctono nos result�� bastante superficial para nuestro gusto, salvo que el habitante sea tu Amigo.��"
+    [:br {}]
+    [:br {}]
+    "Desde que decidimos vivir en el extranjero, me siento un��poco mas interesada por la realidad de un pa��s, sus costumbres, su ritmo de vida, su clima o mas : su humor/animo!! Que suerte tenemos de haber poder armar nuestro nido en Argentina durante casi 4 a��os.... Esa impresi��n de argentinizarse d��a tras d��a, de crear vinculos fuertes, poder alcanzar una cierta credibilidad y amistad para estar para sus ojos ( y coraz��n), uno de ellos!!!��"
+    [:br {}]
+    [:br {}]
+    "Querida Argentina, te quiero y para siempre!��"
+    [:br {}]
+    "Una suerte que��se podr��a volver a��producir? qu��en sabe?��"
+    [:br {}]
+    "En fin, toda experiencia��tiene un fin para dar lugar a otra aventura, no es cierto?"
+    [:br {}]
+    [:br {}]
+    "Entonces, antes de largarnos en el gran ba��o franc��s, hemos elegido viajar tres meses y decir Adi��s a la America latina y sus sudacas (con cari��o chicos, no se enojen). No fue tan dif��cil tomar aquella decisi��n.��"
+    [:br {}]
+    [:br {}]
+    "El programa sera el siguiente ....��alquiler un Van y experimentarlo entre Chile y Argentina en Julio.... Dulce sue��o de viajeros. Solo punto a contra, nos encontramos en invierno!!! No lo sabemos todavia pero nos reserva algunas sorpresas este viajecito jajaja....��"
+    [:br {}]
+    [:br {}]
+    "Pues, el invierno no durar�� tanto ya que luego nos instalaremos dos��meses en Brasil entre agosto y septiembre 2015. Hemos ya pasado un mes en Brasil en 2009 (un sorpresa incre��ble para nosotros) y en septiembre 2014 para festejar mis 30 anitos de existencia. Entonces, seguiremos con la locura brasilera. La atracci��n sigue manteni��ndose para este pa��s cari��oso. Hemos elegido alquiler y vivir en una casita en Paraty, Cuidad colonial, ex puerto clandestino del camino de oro hacia a portugal (Regi��n de Rio de Janeiro).��"
+    [:br {}]
+    [:br {}]
+    "En fin, empecemos por la experiencia con el Van Ghost��Buster!!! Yihaaaa")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "e7b7af728e",
+    :original-secret nil,
+    :id "19857399942",
+    :farm-id 1,
+    :server-id "472"},
+   :provider :flickr,
+   :height 159}],
+ :title "The Ghost Buster Van Experience",
+ :locations
+ ({:latitude -41.1378011, :longitude -73.0270307, :accuracy 37}),
+ :id "the-van-experience",
+ :blog "avesdepaso",
+ :visibility :public}

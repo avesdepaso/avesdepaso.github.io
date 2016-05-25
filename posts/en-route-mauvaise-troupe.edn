@@ -1,0 +1,48 @@
+{:updated-at #inst "2012-01-07T16:10:03.000-00:00",
+ :tags #{:costa-rica},
+ :published-at #inst "2012-01-07T16:10:03.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Ahh finalement le jour du d��part est arriv��! Apr��s quelques mois �� g��rer le stress du d��m��nagement, s���assoir dans notre si��ge d���avion tout miteux est un vrai bonheur. En prime l���agent des douanes am��ricaines a ��t�� presque cordial! Reste plus qu����� patienter une petite 24���aine d���heures et �� nous la c��te riche! Oui on aime bien souffrir en avion, �� moins de 2 connections et 1 nuit �� l���a��roport on est pas int��ress��. D���ailleurs je ne conseille pas l���a��roport de Denver comme h��tel, �� part si vous aimez dormir sur les chaises en plastique du Macdo. A quand des "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/H%C3%B4tel_capsule"}
+     "h��tels capsules"]
+    " dans les a��roports !? Ya pas un entrepreneur dans l���assembl��e? Je donne des id��es comme ��a moi! Gratos!")}
+  {:type :paragraph,
+   :content
+   ("Troisi��me vol direction "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/San_Jos%C3%A9_(Costa_Rica)"}
+     "San Jos��"]
+    ". On est bon l��, plus que 3 heures! C���est court ��a 3 heures! Enfin sauf si on est assis �� c��t�� ��� d���un "
+    [:a
+     {:href
+      "http://fr.wikipedia.org/wiki/Th%C3%A9ologie_du_mormonisme"}
+     "mormon"]
+    "! Vous savez, ceux qui gagnent des parties de baby foot au paradis (ou des vierges, je sais plus) �� chaque nouveau converti (ou cadavre baptis�� ��� sisi). L���adolescent mormon doit, �� la sortie de la "
+    [:a
+     {:href
+      "http://en.wikipedia.org/wiki/Education_in_the_United_States"}
+     "High School"]
+    " (soit vers les 19 ans), passer 2 ans ou plus �� l�����tranger pr��cher la bonne parole."
+    "\nOn avait d��j�� crois�� un petit troupeau de boutonneux en pantalon �� pinces et chemise blanche au P��rou, maintenant au Costa Rica. On peux les croiser �� Paris aussi, souvent par 2. Ca fait un peu op��ration clonage �� la "
+    [:a {:href "http://fr.wikipedia.org/wiki/Ra%C3%ABl"} "Ra��l"]
+    " tout ��a.")}
+  {:type :paragraph,
+   :content
+   "Si vous voulez plus de renseignements, adressez-vous �� soeur Annec."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/01/dsc_0236.jpg?w=450&h=679"},
+   :width 450,
+   :height 679,
+   :alt "DSC_0236"}],
+ :title "En route mauvaise troupe",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "en-route-mauvaise-troupe",
+ :source-id "2032",
+ :blog "avesdepaso",
+ :visibility :public}

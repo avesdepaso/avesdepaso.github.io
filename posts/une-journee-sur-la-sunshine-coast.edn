@@ -1,0 +1,79 @@
+{:updated-at #inst "2011-07-05T19:02:44.000-00:00",
+ :tags #{:vancouver},
+ :published-at #inst "2011-07-05T19:02:44.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "La Sunshine Coast se trouve �� quelques kms au nord de Vancouver."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/06/dsc_0006.png?w=400&h=266"},
+   :width 400,
+   :height 266,
+   :alt "DSC_0006",
+   :caption "M��me la mouette croque la vue !!"}
+  {:type :paragraph,
+   :content
+   "Depuis Horseshoe Bay, il faut prendre un Ferry qui vous permet d���acc��der �� la c��te nord de la British Columbia. Alors voil��, on vient d���accueillir les parents de Julien �� Vancouver avec son fr��re Matthieu et on a choisi cette destination pour le WE. Un petit tour de Ferry donc pour commencer���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/06/dsc_0998.png?w=400&h=266"},
+   :width 400,
+   :height 266,
+   :alt "DSC_0998",
+   :caption "Ferry from Horseshoe Bay"}
+  {:type :paragraph,
+   :content
+   "45 minutes plus tard, on file fl��ner �� Gibbsons, petite ville de bord de mer avec son port, ses plages, ses petites sentiers c��tiers��� c���est magique et tellement proche de Vancouver."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/06/dsc_0005.png?w=400&h=266"},
+   :width 400,
+   :height 266,
+   :alt "DSC_0005",
+   :caption "Gibbsons"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/06/dsc_0014.png?w=400&h=266"},
+   :width 400,
+   :height 266,
+   :alt "DSC_0014",
+   :caption "Out of the city !!"}
+  {:type :paragraph,
+   :content
+   "Nous pique-niquons ensuite au bord de mer���. les plages dans le coin s�����talent sur des kms. On est jamais trop nombreux sur les plages de BC. L���odeur de nos sandwichs en font baver plus d���un et surtout les chiens."}
+  {:type :paragraph,
+   :content
+   "On continue la route vers Sechelt ou nous faisons une ballade autour d���un fjord. On est en pleine jungle foresti��re, on profite d���une marche au bord de la mer ou l���on rencontre les ���kayakers��� ou encore les chasseurs de coquille St Jacques,���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/06/dsc_0067.png?w=400&h=266"},
+   :width 400,
+   :height 266,
+   :alt "DSC_0067",
+   :caption "Marche dans le Wildness de la Colombie Britannique"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/06/dsc_0047.png?w=400&h=266"},
+   :width 400,
+   :height 266,
+   :alt "DSC_0047",
+   :caption "Marche au bord de mer"}],
+ :title "Une journ��e sur la sunshine coast",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "une-journee-sur-la-sunshine-coast",
+ :source-id "1643",
+ :blog "avesdepaso",
+ :visibility :public}

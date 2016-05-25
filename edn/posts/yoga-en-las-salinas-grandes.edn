@@ -1,0 +1,162 @@
+{:updated-at #inst "2014-10-05T02:34:34.336-00:00",
+ :tags #{:argentine :amerique-du-sud},
+ :cover
+ {:width 1024,
+  :user-id "96129378@N07",
+  :category-id "72157647622236899",
+  :id
+  {:photoset-id nil,
+   :original-format nil,
+   :secret "cd64075174",
+   :original-secret nil,
+   :id "15167955160",
+   :farm-id 3,
+   :server-id "2946"},
+  :provider :flickr,
+  :height 678},
+ :published-at #inst "2012-12-11T22:36:30.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Notre voyage dans le nord, fut aussi l���occasion de marcher sur les Salinas Grandes qui se trouvent dans la Puna (Altiplano).")}
+  {:type :photo,
+   :caption "Cuesta de Lipan",
+   :width 678,
+   :user-id "96129378@N07",
+   :category-id "72157647622236899",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "db0be1d813",
+    :original-secret nil,
+    :id "15167961529",
+    :farm-id 3,
+    :server-id "2941"},
+   :provider :flickr,
+   :height 1024}
+  {:type :paragraph,
+   :content
+   ("Nous avions d��j�� visit�� le Salar de Uyuni en Bolivie (2009 ��� 15000km2), les Salinas Grandes ne repr��sentent ���que��� 1500 km2 mais comme nous les avons visit��es durant la saison s��che, bah c�����tait diff��rent hehe !! Elles culminent �� 4000 m��tres d���altitude!")}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647622236899",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "abcea506dd",
+    :original-secret nil,
+    :id "15354389762",
+    :farm-id 3,
+    :server-id "2941"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   ("En creusant des bassins, ces petits derniers se remplissent d���eau.�� Sous l���effet d���un tas de truc (soleil, ��vaporation���), le bassin s���ass��che et le sel se s��pare de l���eau !")}
+  {:type :photo,
+   :caption "Echantillons de Sel",
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647622236899",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "623d28d6ec",
+    :original-secret nil,
+    :id "15351527821",
+    :farm-id 4,
+    :server-id "3853"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   ("J���en ai profit�� pour faire quelques mouvements de yoga puisque l���endroit si pr��tait!")}
+  {:type :photo,
+   :caption "Suyanamaskara",
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647622236899",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "04202bc3fa",
+    :original-secret nil,
+    :id "15354699195",
+    :farm-id 4,
+    :server-id "3895"},
+   :provider :flickr,
+   :height 680}
+  {:type :photo,
+   :caption "Suyanamaskara Bis",
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647622236899",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "0e91f0ffeb",
+    :original-secret nil,
+    :id "15167989790",
+    :farm-id 4,
+    :server-id "3918"},
+   :provider :flickr,
+   :height 677}
+  {:type :photo,
+   :caption "Utthita Trakonasana",
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647622236899",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "8729581a57",
+    :original-secret nil,
+    :id "15354352412",
+    :farm-id 3,
+    :server-id "2950"},
+   :provider :flickr,
+   :height 678}
+  {:type :photo,
+   :caption "Utthita Hasta Padangustasana",
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647622236899",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "463d097023",
+    :original-secret nil,
+    :id "15354665215",
+    :farm-id 4,
+    :server-id "3898"},
+   :provider :flickr,
+   :height 679}
+  {:type :photo,
+   :caption "Ardha Baddha Padmottanasana",
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647622236899",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "15268fda9c",
+    :original-secret nil,
+    :id "15351493591",
+    :farm-id 3,
+    :server-id "2948"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph, :content ("Un petit clin d���oeil!")}
+  {:type :paragraph,
+   :content
+   ("Non loin d���ici, on trouve la plus vieille mine d���Argentine ! El Aguilar : plus de 80 ans d���exploitation du zinc, plomb y argent!")}
+  {:type :photo,
+   :caption
+   "Minera Aguilar - Nivel 8 Campamento Beta Mina - 4680 metros"}],
+ :title "Yoga en las salinas grandes!",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "yoga-en-las-salinas-grandes",
+ :source-id "2333",
+ :blog "avesdepaso",
+ :visibility :public}

@@ -1,0 +1,133 @@
+{:updated-at #inst "2015-01-31T02:12:35.727-00:00",
+ :cover
+ {:width 240,
+  :id
+  {:photoset-id nil,
+   :original-format nil,
+   :secret "a33132a564",
+   :original-secret nil,
+   :id "15923351345",
+   :farm-id 8,
+   :server-id "7505"},
+  :provider :flickr,
+  :height 159},
+ :published-at #inst "2015-01-31T02:12:58.903-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Direction la r��gion du d��sert de l&#39;Atacama, au nord du Chili, pour notre seconde partie de voyage en famille. Malgr�� de nombreuses similarit��s avec l&#39;Argentine les diff��rences culturelles se font ressentir, �� tel point que le Chili gagne vite son sobriquet d&#39;Allemagne de l&#39;Am��rique du Sud. Les chiliens semblent d&#39;accord, ils commencent la plupart de leur phrase d&#39;un "
+    [:i {} "ja "]
+    "incongru"
+    [:i {} "."])}
+  {:type :paragraph,
+   :content
+   ("Le d��sert d&#39;Atacama, le plus sec du monde, est aussi un d��sert urbain. L&#39;unique endroit o�� nous trouverons des logements est la ville ultra-touristique de San Pedro d&#39;Atacama. L&#39;atmosph��re s&#39;en ressent forc��ment m��me si le centre ville a un certain charme. C&#39;est par contre le hub parfait pour explorer la r��gion.")}
+  {:type :paragraph,
+   :content
+   ("Premi��re ��tape, le champ de geyser d&#39;"
+    [:a
+     {:href "https://fr.wikipedia.org/wiki/Geysers_d%27El_Tatio"}
+     "El Tatio"]
+    ". Pour en profiter pleinement nous arrivons en d��but d&#39;apr��s-midi, quand le lieu est vide. Cela nous laisse le temps de pousser la ballade un peu plus loin, dans les hauteurs, pour se d��gourdir les jambes.")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "46c60832b9",
+    :original-secret nil,
+    :id "16311201166",
+    :farm-id 8,
+    :server-id "7543"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ("La meilleure mani��re de profiter du spectacle matinal, avant l&#39;arriv��e de minibus rempli de touristes, c&#39;est de dormir sur place. Une nuit en tente �� 4300m d&#39;altitude ca revigore!")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "19351d5108",
+    :original-secret nil,
+    :id "15922729012",
+    :farm-id 8,
+    :server-id "7465"},
+   :provider :flickr,
+   :height 159}
+  {:type :photo,
+   :caption "Un geyser, ca peut aussi faire office de bain chaud",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "7b0d908600",
+    :original-secret nil,
+    :id "15736138290",
+    :farm-id 8,
+    :server-id "7571"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ("L&#39;industrie mini��re a historiquement toujours ��t�� importante au chili."
+    [:br {}]
+    "Une occasion a ne pas rater! Assez de nature maintenant.. Depuis qu&#39;Annec rase des montagnes, creuse des galleries de centaines de m��tres et explose des collines aux quatre coins des lagunes, elle s&#39;int��resse �� ce que fais la comp��tition."
+    [:br {}]
+    "Direction "
+    [:a
+     {:href "https://fr.wikipedia.org/wiki/Chuquicamata"}
+     "Chuquicamata"]
+    ", o�� se trouve la mine de cuivre �� ciel ouvert la plus profonde��du monde: 1000 m��tres. L��, ca rigole plus.")}
+  {:type :photo,
+   :class ["stretched"],
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "2c9ceab9cb",
+    :original-secret nil,
+    :id "16336216022",
+    :farm-id 9,
+    :server-id "8681"},
+   :provider :flickr,
+   :height 160}
+  {:type :paragraph,
+   :content
+   ("Bon on a du d��placer la ville avoisinante maintenant ensevelie sous les d��bris de roche et les environs nagent sous les produits chimiques utilis��s pour l&#39;extraction: on n&#39;arr��te pas le progr��s.")}
+  {:type :photo,
+   :caption "Pour se faire pardonner, connexion avec la Pacha Mama",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "51ea4ca058",
+    :original-secret nil,
+    :id "16149723030",
+    :farm-id 9,
+    :server-id "8598"},
+   :provider :flickr,
+   :height 160}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "767f412239",
+    :original-secret nil,
+    :id "15714653774",
+    :farm-id 8,
+    :server-id "7494"},
+   :provider :flickr,
+   :height 160}
+  {:type :paragraph,
+   :content ("Plut��t sympa le Chili au final, on reviendra!")}],
+ :title "Geysers en altitude",
+ :locations
+ ({:latitude -40.160514899999995,
+   :longitude -71.35820919999999,
+   :accuracy 63}),
+ :id "geysers-en-altitude",
+ :blog "avesdepaso",
+ :visibility :public}

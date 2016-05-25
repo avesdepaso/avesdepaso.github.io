@@ -1,0 +1,577 @@
+{:updated-at #inst "2015-07-05T01:21:41.535-00:00",
+ :tags #{:patagonie :argentine :mine},
+ :license :by-nc-nd,
+ :cover
+ {:width 240,
+  :type :photo,
+  :id
+  {:photoset-id nil,
+   :original-format nil,
+   :secret "4e932c7b9c",
+   :original-secret nil,
+   :id "14342815041",
+   :farm-id 4,
+   :server-id "3843"},
+  :provider :flickr,
+  :height 159},
+ :published-at #inst "2015-04-19T01:54:57.527-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Un de ces trucs qui me tient à coeur depuis un moment! Vous parler de mes meilleurs moments à la mine!"
+    [:br {}]
+    "Je vais fêter en Juillet mes 3 ans à Goldcorp Cerro Negro. Je peux dire que je me sens un peu chez moi là-bas en Patagonie à la mine: sur ma LUNE."
+    [:br {}]
+    [:br {}]
+    "Tout commence par un voyage de 30 heures..... depuis San Martin de los Andes, Terre humaine totalement banale au bord de la Cordillère des Andes, en passant par Buenos Aires Capitale, Comodoro Rivadavia (secte du pétrole) et enfin Cerro Negro."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    [:i
+     {}
+     "Unas de estas cosas que me pega al��coraz��n��desde hace un tiempo! Hablarles de mis mejores��momentos en la mina!"
+     [:br {}]
+     "Voy a festejar mis 3 a��os en Goldcorp Cerro Negro. Puedo decir que me siento como en casa alla en la mina Patagonia : sobre la LUNA"
+     [:br {}]
+     [:br {}]
+     "Todo empieza por un viaje de 30 horas .... desde San Martin de Los Andes, Tierra humana totalmente ordinaria, al borde de la cordillera de los Andes, viajando por Buenos Aires Capital, Comodoro Rivadavia (la secta del��petr��leo) y por fin Cerro Negro."])}
+  {:type :photo,
+   :caption
+   "Vue peu apres le décollage depuis San Martin de los Andes - Vue sur Volcan Lanin et Villarica",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "e00974b515",
+    :original-secret nil,
+    :id "16905258577",
+    :farm-id 8,
+    :server-id "7694"},
+   :provider :flickr,
+   :height 240}
+  {:type :photo,
+   :caption
+   "Départ depuis l'Aéroport J. Newberry a Buenos Aires pour Comodoro Rivadavia (Province du Chubut) - 5.15hrs",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "4b013bc40c",
+    :original-secret nil,
+    :id "16905231897",
+    :farm-id 9,
+    :server-id "8730"},
+   :provider :flickr,
+   :height 135}
+  {:type :photo,
+   :caption
+   "Ultime plaisir gustatif avant d'arriver sur la lune - Dans le Bus de Comodoro Rivadavia a La lune - Atlantique au centre.",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "4d53578be9",
+    :original-secret nil,
+    :id "16925079520",
+    :farm-id 9,
+    :server-id "8804"},
+   :provider :flickr,
+   :height 120}
+  {:type :heading, :content "Vivir en la Luna", :level 2}
+  {:type :heading, :content "IMAGINE", :level 3}
+  {:type :paragraph,
+   :content
+   ("Imagine: une terre stérile comme la lune avec un gisement au milieu où des corps de métiers inédits se mélangent: administrateur de campement, lavadero (service de lingerie), plombiers, ingénieurs en tout genre, RRHH (représentant la masse féminine), électriciens, mécaniciens, des opérateurs d'équipements géants, des chefs, quelques gringos (étrangers) pour manager le tout. 1400 cuchis (les hommes de cette lune) sur le campement EUREKA."
+    [:br {}]
+    "Les cuchis de EUREKA sont dédiés au développement et production de la veine terrestre qui porte le même nom que le campement."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    [:i
+     {}
+     "Imagina : Una tierra est��ril como la luna con un yacimiento en el medio y donde cuerpos de trabajo in��ditos comparten : Administrador de campamento, lavadero, mec��nicos, el��ctricos, ingenieros de..., RRHH (representa la masa feminina), operadores de equipos gigantes, jefes, algunos gringos para manager el todo. 1400 cuchis, los hombres de esta luna, comparten su vida en el campamento EUREKA. Los cuchis de EUREKA se dedican al desarrollo y a la producci��n de la veta cual tiene el mismo nombre que su campamento."])}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157644601190380",
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "d95f77cb93",
+    :original-secret "2a010cfccf",
+    :id "14159221729",
+    :farm-id 6,
+    :server-id "5571"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   ("Un autre campement s'est construit à 17 kms: VEIN ZONE. Quelques 1800 cuchis y ont partagé leurs temps. Les cuchis de Vein Zone étaient jusque récemment dédiés à la construction de l'usine de production des lingot. Aujourd'hui, nombreux sont les cuchis qui sont retournés sur Terre ou sur une autre lune pour laisser place au fonctionnement de la production."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    [:i
+     {}
+     "Otro campamento se ha armado a solamente 17kms : VEIN ZONE. Algunos 1800 cuchis han compartido su tiempo ah����en su momento. Los cuchis de Vein Zone se dedicaron en la construcci��n de la planta que produce hoy unos lingotes lindos. Hoy en dia, muchos son los cuchis que volvieron a la Tierra o en otra luna para dejar lugar a la producci��n."])}
+  {:caption "Plant under construction",
+   :width 1024,
+   :type :photo,
+   :user-id "96129378@N07",
+   :category-id "72157644601190380",
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "d38be77884",
+    :original-secret "cf41b4a65b",
+    :id "14342749861",
+    :farm-id 4,
+    :server-id "3894"},
+   :class ["stretched"],
+   :provider :flickr,
+   :height 678}
+  {:type :photoset,
+   :caption "Soudeurs et Moulin de trituration",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "e2419236ed",
+       :original-secret nil,
+       :id "14159420609",
+       :farm-id 6,
+       :server-id "5514"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "0c462847bc",
+       :original-secret nil,
+       :id "14159559257",
+       :farm-id 3,
+       :server-id "2939"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :paragraph,
+   :content
+   ("Chaque cuchi doit accomplir entre 14 et 20 jours de travail chaque mois. Les 10 jours qui lui restent lui permette de Dormir, retrouver sa progéniture, manger des vrais trucs de la terre ou encore s'acharner à la construction de sa maison (majeur source d'investissement du cuchi argentin)."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    [:i
+     {}
+     "Cada cuchi debe cumplir entre 14 y 20 d��as de trabajo por mes. Los 10-14 d��as que le queda le permite Dormir, encontrarse con su progenitura, comer verdaderas cosas de la tierra o bien seguir con la construcci��n de su casa (mayor fuente de inversion del cuchi argentino)."])}
+  {:type :photoset,
+   :class ["stretched"],
+   :photos
+   [[{:width 678,
+      :user-id "96129378@N07",
+      :category-id "72157644601190380",
+      :id
+      {:photoset-id nil,
+       :original-format "jpg",
+       :secret "4e0f940909",
+       :original-secret "412713e54c",
+       :id "14159297770",
+       :farm-id 6,
+       :server-id "5474"},
+      :provider :flickr,
+      :height 1024}
+     {:width 678,
+      :user-id "96129378@N07",
+      :category-id "72157644601190380",
+      :id
+      {:photoset-id nil,
+       :original-format "jpg",
+       :secret "0935e1c52d",
+       :original-secret "2075700455",
+       :id "14366100753",
+       :farm-id 4,
+       :server-id "3868"},
+      :provider :flickr,
+      :height 1024}
+     {:width 678,
+      :user-id "96129378@N07",
+      :category-id "72157644601190380",
+      :id
+      {:photoset-id nil,
+       :original-format "jpg",
+       :secret "14b2281630",
+       :original-secret "1848d57ac5",
+       :id "14159292408",
+       :farm-id 3,
+       :server-id "2899"},
+      :provider :flickr,
+      :height 1024}
+     {:width 678,
+      :user-id "96129378@N07",
+      :category-id "72157644601190380",
+      :id
+      {:photoset-id nil,
+       :original-format "jpg",
+       :secret "fa077a7338",
+       :original-secret "89d3b9d7f5",
+       :id "14345964555",
+       :farm-id 4,
+       :server-id "3887"},
+      :provider :flickr,
+      :height 1024}]
+    []
+    []
+    []
+    []]}
+  {:type :heading, :content "TERRE STERILE", :level 3}
+  {:type :paragraph,
+   :content
+   ("Les cuchis sont venu s'installer sur une terre fertile patagonique où survivent des animaux typiques de cette contrée perdue comme le guanaco, le pitchi, le nandoue, le puma, le renard... Dernièrement on a reçu la visite des vaches de Gauchos, les anciens de la lune, et des putois (rrrhh pleins de putois)."
+    [:br {}]
+    [:br {}]
+    "Les propriétaires des estancias s'entendent relativement bien avec les cuchis. Il se fait de forme régulière des trocs de Moutons dépecés prêt à cuire à la cruz (croix)!"
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    [:i
+     {}
+     "Los cuchis se instalaron sobre una tierra fertil patagonica donde sobreviven animales t��picos de esta tierra perdida... como el guanaco, el pitchi, el nandue, el Puma, el zorro.... y ultimamente, recibimos la visita de las vacas del alrededor y zorrinos (un mont��n de zorrinos....)."
+     [:br {}]
+     [:br {}]
+     "Los pocos due��os de las estancias se llevan bastante bien con los cuchis. Se��forman intercambios de ovejas listas para cocinar a la cruz."])}
+  {:type :photo,
+   :caption
+   "Viande cuite à la croix - célèbre peinture de Molina Campos",
+   :width 400,
+   :id
+   {:url
+    "https://2ea8c72d00560315c50902231f7f14a82ce36b99.googledrive.com/host/0B2xlM9sWoSAKb1d5bnZHZUNyN2M/molina campos.jpg"},
+   :provider :google-drive,
+   :height 262}
+  {:type :paragraph,
+   :content
+   ("Même si les cuchis n'ont rien à cacher, La zone est protégée. Le long des chemins d'accès à la lune, apparaissent des guérites où les contrôles sont obligatoires pour entrer ou sortir. Eureka et Vein Zone sont deux campements qui tentent de conserver un lieu de vie sans violence. L'alcool, la drogue et les armes sont interdits."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    [:i
+     {}
+     "Aunque los cuchis no tienen nada para esconder, la zona esta protegida. Al entrar en los caminos de acceso a la luna, aparecen garitas donde los controles son obligatorios para entrar o salir. Eureka y Vein Zone son dos campamentos cuales tienden a conservar un lugar de vida sin violencia. El alcool, la drogua y las armas est��n prohibidas."])}
+  {:caption "Rio Pinturas y Flamengos",
+   :width 1024,
+   :type :photo,
+   :user-id "96129378@N07",
+   :category-id "72157644601190380",
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "78d1eb66b5",
+    :original-secret "56e808a962",
+    :id "14159390648",
+    :farm-id 4,
+    :server-id "3899"},
+   :class ["stretched"],
+   :provider :flickr,
+   :height 678}
+  {:type :heading, :content "CAMP", :level 3}
+  {:type :paragraph,
+   :content
+   ("Chaque campement permet au cuchi de survivre dans une certaine mesure comme sur la terre. Il est mis à disposition un self, salles de récréations et gym tout ceci dans le but d'éviter le mal de la lune. Le kiosco est un mini market où l'on peut retirer la quotidienne 'chauca' (goûter), de la pâte à dentifrice, des tampax (ahhh nan, y en a plus sur la terre d'Argentine.....)."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    [:i
+     {}
+     "Cada campamento permite al cuchi sobrevivir de cierta forma como en la tierra. Est��n a nuestra disposici��n un comedor, salas de recreaciones, gym todo esto para aliviar el ambiente y evitar el mareo de la luna. El kiosco es un mini mercado donde se puede retirar la chauca cotidiana, la pasta dent��frica, tampax ( ahhhhh naaaaa estos, no est��n mas en el mercado argentino en este momento!!!)"])}
+  {:type :photoset,
+   :caption "Eureka - Hiver 2013",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "5b571a651c",
+       :original-secret nil,
+       :id "17086761576",
+       :farm-id 8,
+       :server-id "7602"},
+      :provider :flickr,
+      :height 135}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "f25593a51b",
+       :original-secret nil,
+       :id "17112053831",
+       :farm-id 9,
+       :server-id "8797"},
+      :provider :flickr,
+      :height 135}]]}
+  {:type :photoset,
+   :caption "Session de Gym et guitarreada",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "54e3eb6b62",
+       :original-secret nil,
+       :id "17088133256",
+       :farm-id 8,
+       :server-id "7594"},
+      :provider :flickr,
+      :height 240}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "0799a8b42d",
+       :original-secret nil,
+       :id "16926289948",
+       :farm-id 9,
+       :server-id "8785"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :paragraph,
+   :content
+   ("Je suis hébergé sur le campement Eureka. Le rythme ne semble jamais s'arrêter. A 7hrs, les 'modulos' ou containers se réveillent. Lorsque l'on sort dehors, il fait frais, la brise est légère. On sent l'odeur des repas du midi déjà en préparation.\nLe petit déjeuner reste un moment privilégié. Des petits jus en poudre, des facturas (viennoiserie) qui viennent d'un autre monde, du lait, du miel, presque un dej' normal pour la vie d'un humain!"
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    [:i
+     {}
+     "Vivo en el campamento Eureka. El ritmo de trabajo no se para nunca. A las 7hrs, los modulos dormitorios se despiertan. Al momento de salir afuera, esta fresco y el viento puede ya estar despierto tamb��en ;). El aire tiene olor a comida del medio dia en preparaci��n. El desayuno queda como un momento privilegiado. jugos en polvos, facturas que llegan de otro mundo, leche, miel.... casi un desayuno normal que se toman los hombres de la tierra!"])}
+  {:type :photo,
+   :caption "Essayages et Camouflage",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "3cc920ba59",
+    :original-secret nil,
+    :id "17111189632",
+    :farm-id 8,
+    :server-id "7718"},
+   :provider :flickr,
+   :height 240}
+  {:type :heading, :content "MISSION", :level 3}
+  {:type :paragraph,
+   :content
+   ("Il est 8hrs. Le shift de nuit s'en va au repos. Réunion d'opération et le shift de jour file à son poste."
+    [:br {}]
+    "Emilio est déjà la. C'est mon partner de travail. On fait les 400 coups de la formation avec Emi. Il est technique, je suis soft. Il est formateur d'équipements miniers et je lui apporte mes compétences RH."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    [:i
+     {}
+     "Son las 8hrs. El turno noche se va a descansar. Sale la reuni��n de operaci��n y el turno de d��a arranca."
+     [:br {}]
+     "Emilio esta ya en la oficina. Es mi partner, Mi partner de trabajo. Hemos hecho mucho con Emi. El es el t��cnico, yo la blanda. Es instructor de equipos mineros y le brindo la competencia RRHH."])}
+  {:type :photo,
+   :caption "Mon Partner",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "6bbb2eced8",
+    :original-secret nil,
+    :id "17087891186",
+    :farm-id 9,
+    :server-id "8706"},
+   :provider :flickr,
+   :height 159}
+  {:type :photo,
+   :caption
+   "Un mercredi soir - Changement de shift - Croisemente de collegues qui arrivent à la mine ou partent en repos (Ezequiel - Emilio - Paula - Pamela)",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "e73fd8ab2c",
+    :original-secret nil,
+    :id "16490187374",
+    :farm-id 8,
+    :server-id "7653"},
+   :provider :flickr,
+   :height 125}
+  {:type :paragraph,
+   :content
+   ("En tout, on forme une équipe de 15 personnes pour affronter les challenges de la Lune : Enseigner, Former, renforcer les compétences des villageois, c'est notre mission et elle est pas impossible. Un chouette challenge pour développer les compétences des cuchis de l'industrie. Tout ceci grâce à des graines internationales : France!!, Argentine, Chili, USA, Canada...."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    [:i
+     {}
+     "En total, formamos un equipo de 15 personas para afrontar los desaf��os ��de��capacitaci��n��de la��Luna : Ense��ar, formar, reforzar los conocimientos y las habilidades de los habitantes, es nuestra misi��n. Un lindo desaf��o para desarrollar las competencias de los cuchis de la industria. Gracias a unas semillas internacionales : Francia, Argentina, Chile, USA, Canada...."])}
+  {:caption "True miners",
+   :width 1024,
+   :type :photo,
+   :user-id "96129378@N07",
+   :category-id "72157644601190380",
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "ce467aa2d8",
+    :original-secret "be079849e0",
+    :id "14342700891",
+    :farm-id 4,
+    :server-id "3856"},
+   :class ["stretched"],
+   :provider :flickr,
+   :height 678}
+  {:type :photo,
+   :caption "Camion Profil bas",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "5caac24185",
+    :original-secret nil,
+    :id "16491403684",
+    :farm-id 8,
+    :server-id "7703"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("Pour accomplir notre mission, on a pleins de ressources :"
+    [:br {}]
+    [:br {}]
+    "Fernanda, la camioneta. Fer peut rouler partout, sur les chemins, sous terre, c'est une tout terrain!"
+    [:br {}]
+    [:br {}]
+    "Les sims : Simulateurs sud africains pour les débuts de carrières sur les équipements de perforations. Des équipements, tout pleins! Des opérateurs motivés!!"
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    [:i
+     {}
+     "Para cumplir con nuestra misi��n, tenemos varios recursos:"
+     [:br {}]
+     "Fernanda, la camioneta. Fer puede ir por todos lados, en caminos de ripio, bajo tierra. Es todo terreno!"
+     [:br {}]
+     [:br {}]
+     "Los sims : Simuladores sur africanos para los inicios de��carreras��en equipos��de��perforaci��n��o��camiones. Equipos, muchos ! y muchos operadores motivados para subirse a mas equipos!!"])}
+  {:type :photoset,
+   :caption "Fernanda & Simulateur d'��quipements miniers",
+   :photos
+   [[{:width 955,
+      :id
+      {:url
+       "https://2ea8c72d00560315c50902231f7f14a82ce36b99.googledrive.com/host/0B2xlM9sWoSAKb1d5bnZHZUNyN2M/unnamed.jpg"},
+      :provider :google-drive,
+      :height 537}]
+    []
+    [{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "258b10d4da",
+       :original-secret nil,
+       :id "14345994995",
+       :farm-id 3,
+       :server-id "2915"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :paragraph,
+   :content
+   ("Aujourd'hui, on produit le doré ou lingot d'un certain poid, qui quitte la mine certains jours de la semaine, prend un bateau dans un certain port et voyage  vers une destination presque inconnue. Mais l'or ne disparait jamais... il reste, il dort....toujours!!"
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    [:i
+     {}
+     "Hoy, producimos el Dor�� o lingote de un cierto peso, lo cual sale de la Luna ciertos d��as de la semana, toma un barco en un cierto puerto y viaja a un destino casi desconocido. Pero sepan que el oro no desaparece nunca... Duerme para siempre!"])}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "0f44a333ee",
+    :original-secret nil,
+    :id "16924842008",
+    :farm-id 8,
+    :server-id "7685"},
+   :provider :flickr,
+   :height 135}
+  {:type :paragraph,
+   :content
+   ("Après la campagne de travail, on dit au revoir à la lune qu'on est content de quitter pour retrouver nos amoureux, enfants, chiens,.... et pour ca, ca demande de refaire 30 heures de voyage....hehehe"
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    [:i
+     {}
+     "Despu��s��de la campa��a de trabajo, decimos Ciao a la luna. Estamos felices dejar el lugar para encontrarnos con nuestras familias, enamorados/as, hijos, perros.... y para eso, voy a viajar nuevamente mis 30 horas jajaja...."])}
+  {:type :photo,
+   :caption
+   "3.30 am - panne sur la route 39 .....on attend un nouveau bus!...... et on rate�� la navette spaciale pour Buenos Aires....��",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "376c87dddd",
+    :original-secret nil,
+    :id "16926267180",
+    :farm-id 8,
+    :server-id "7622"},
+   :provider :flickr,
+   :height 155}
+  {:type :photo,
+   :caption "Rio Pinturas",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "e3f4012b43",
+    :original-secret nil,
+    :id "14345382614",
+    :farm-id 6,
+    :server-id "5492"},
+   :provider :flickr,
+   :height 159}
+  {:type :photoset,
+   :caption "Lindas Vistas",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "58ebd161f7",
+       :original-secret nil,
+       :id "16926256828",
+       :farm-id 8,
+       :server-id "7587"},
+      :provider :flickr,
+      :height 240}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "d1987fc619",
+       :original-secret nil,
+       :id "16493905773",
+       :farm-id 8,
+       :server-id "7676"},
+      :provider :flickr,
+      :height 240}]]}],
+ :title "Vivir en la mina",
+ :locations
+ ({:latitude -40.1604099, :longitude -71.3581098, :accuracy 40}),
+ :id "vivir-a-la-mina",
+ :blog "avesdepaso",
+ :visibility :public}

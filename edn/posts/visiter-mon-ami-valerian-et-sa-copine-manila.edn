@@ -1,0 +1,123 @@
+{:updated-at #inst "2011-02-05T17:40:05.000-00:00",
+ :tags #{:laos},
+ :published-at #inst "2011-02-05T06:12:08.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "La premi��re raison qui nous envoie au Laos est bel et bien de revoir  mon ami Val��rian et sa super nenette Manila qui vivent tous les deux  dans la Capitale. Ils se sont rencontr��s en France mais ont choisi de  vivre et tenter leur chance dans le pays d���origine de Manila."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/00070-04-janvier-2011-450d.jpg?w=300&h=200"},
+   :width 300,
+   :height 200,
+   :alt "00070-04 janvier 2011-450D",
+   :caption "Val��r&#39;"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/00837-07-janvier-2011-450d.jpg?w=200&h=300"},
+   :width 200,
+   :height 300,
+   :alt "00837-07 janvier 2011-450D",
+   :caption "Manila"}
+  {:type :paragraph,
+   :content
+   "Quelle  bonne id��e ! Nous avons fait la connaissance de la culture Lao comme il  se doit : repas en famille, la d��couverte de la cuisine Lao tr��s vari��es  tels que le Sin Daat (grillades Lao) et le nem Nuong (cuisson de viande  �� l���eau) sans oublier le sticky rice et la Laap !"}
+  {:type :paragraph,
+   :content
+   ([:em {} "Erratum "]
+    ": Valer vient me corriger : Le nem Nuong, cest une autre plat, disons plut��t Sin Tjoum pour la cuisson de la viande �� l���eau !!! merci Val��r !!")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050003.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1050003",
+   :caption "Sin Tjoum"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050077.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1050077",
+   :caption "Soir��e Sin Daat"}
+  {:type :paragraph,
+   :content
+   ("Mais on a aussi  d��couvert cette vie de fran��ais expatri��s dans le pays aux milliers  d�����l��phants. Ils ne sont pas aussi nombreux que le mammif��re en question  mais tout de m��me fort pr��sents dans le d��veloppement du pays. Ainsi  nous avons eu l���occasion de passer une soir��e avec les grands chefs des  agences de tourisme du Laos &amp; ONG ! Quelle dr��le de rencontre "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/01605-19-janvier-2011-450d.jpg?w=300&h=200"},
+   :width 300,
+   :height 200,
+   :alt "soir��e franconphone",
+   :caption "Soir��e franconphone"}
+  {:type :paragraph,
+   :content
+   "Nous sommes accueillis par ailleurs chez la maman de Manila dans une  maison qui ne ressemblerait �� aucune maison locale. Mais cet accueil  chaleureux dans un environnement plus que normal est tout de m��me un  enchantement ! (Merci �� vous pour l���accueil !!)"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050102.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1050102",
+   :caption "Presque les pieds dans l&#39;eau"}
+  {:type :paragraph,
+   :content
+   "On s���attarde ainsi sur la terrasse pour organiser enfin notre voyage.  Ca sent bon les fleurs,on est entour��s du soleil et d���orchid��es."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p10501051.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1050105",
+   :caption "R��flexion sur le parcours..."}
+  {:type :paragraph,
+   :content
+   "On profite ��galement de notre temps pour visiter le march�� du  matin, local bien s��r��� On y sent toujours les parfums de viande crues  en attente de propri��taire���. Nos yeux s�����carquillent devant les  couleurs folles des ��pices, et on d��couvre toujours de nouveaux fruits  plus dingues les uns que les autres. On s���y perd, on tourne dans les  diff��rents quartiers : coiffeur, vente de soie, ��lectronique���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050091.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1050091",
+   :caption "Vas donc chez le coiffeur du coin..."}
+  {:type :paragraph,
+   :content
+   "On finira notre parcours au massage Lao devant le M��kong. De tous les  massages que j���ai fait, c���est le premier o�� je vois la masseuse te laver  les doigts de pieds (tr��s bonne id��e ma foi). Le massage lao est plut��t  sportif. La plupart des muscles sont �����cras��s��� par la force du masseur.  Certains mouvement vous font craquer, le but ��tant toujours de d��tendre  l���atmosph��re de son corps. Du pur bonheur !"}
+  {:type :paragraph,
+   :content
+   "Vientiane n���est qu���une entr��e en mati��re. Nous avons pr��vu de  parcourir le Nord du Laos. Et oui seulement le Nord���. pour faire  350km, il vous faut faire environ 12 h de bus sur des routes  caboss��es��� aille ca fait mal quand on voyage ���que��� 3 semaines."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060125.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060125",
+   :caption "Toujours en bus..."}
+  {:type :paragraph,
+   :content
+   "Nous avons donc pr��vu de passer par les lieux�� suivants et leurs environs : Vang Vieng, Luang prabang, Vieng Phukha, Nong Kiaw, Muang noi���"}],
+ :title "Visiter mon ami Val��rian et sa copine Manila",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "visiter-mon-ami-valerian-et-sa-copine-manila",
+ :source-id "1318",
+ :blog "avesdepaso",
+ :visibility :public}

@@ -1,0 +1,123 @@
+{:updated-at #inst "2011-03-13T08:02:21.000-00:00",
+ :tags #{:vancouver},
+ :published-at #inst "2011-03-13T03:31:50.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Voilà un petit post bien sympa que je vous propose ici. Si un jour vous décidez de venir vivre au Canada et que comme moi vous n'avez pas d'emploi à la clé à votre arrivée ; en fait vous vous expatriez vous même comme un grand, c'est encore plus flatteur nan ???? Par contre pas de temps à perdre lorsque vous mettez le pied sur le sol canadien !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/03/jobs_wanted.jpg?w=356&h=300"},
+   :width 356,
+   :height 300,
+   :alt "jobs_wanted"}
+  {:type :paragraph,
+   :content
+   "Je crois qu'il faut avant tout garder son projet professionnel en tête. Il y a le job qui te correspond et le job de survie que tu maintiens pour payer tes factures si tu as besoin. Je me donne 6 mois pour trouver mon emploi !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/03/p1060781.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060781",
+   :caption "Alors dans quelle tour travailler ?"}
+  {:type :paragraph,
+   :content
+   "Suite aux différents workshop que j'ai suivi à mon arrivée avec Educacentre, j'ai mis en pratique les conseils qu'on m'a remis dans le New Comer's Tool Kit! Au départ, ça se passe un peu comme en France, je refais un CV et une lettre adaptée pour chaque candidature, je m'inscris sur les job boards du coin, je postule aux offres et j'aimerai faire jouer mes amis, mon réseau professionnel mais je n'en ai pas ici !"}
+  {:type :paragraph,
+   :content
+   "Mais ce qui est sûr c'est que le français aura plus de chance de trouver un emploi si :"}
+  {:type :paragraph,
+   :content "il réseaute sans connaître personne !!!"}
+  {:type :paragraph,
+   :content
+   "Une fois qu'on a dit ça c'est pas fini, c'est en fait là que ça commence! Je me rends compte que je vais devoir redoubler d'efforts et faire du réseau : du vrai !!! Une consultante RH me raconte lors d'un séminaire que je me faut rencontrer environ 6 personnes par semaine et que le temps moyen pour trouver un emploi en RH, c'est 6 mois ! ... Pas de temps à perdre donc!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/03/p1060785.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060785",
+   :caption "mon espace de travail"}
+  {:type :paragraph,
+   :content
+   "Un peu comme chez nous, au moins 80 % des offres sont cachées et non diffusées sur Internet d'où ce besoin de rencontrer des travailleurs autour d'un café pour discuter de leur entreprise et des opportunités à venir. Ce qu'on ne ferait pas aisément en France mais ici c'est une obligation !"}
+  {:type :paragraph,
+   :content
+   ("Un autre moyen de rencontrer du monde, c'est de faire du volontariat ou aller dans des "
+    [:a {:title "meet-up", :href "http://www.meetup.com/"} "meet-up"]
+    " qui sont en fait des rencontres autour d'un thème avec des gens que tu ne connais pas dans des lieux publics.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/03/logo.png?w=66&h=45"},
+   :width 66,
+   :height 45,
+   :alt "logo"}
+  {:type :paragraph,
+   :content
+   "Les recruteurs ne perdent pas leur temps. Dès qu'ils ont trouvé les bons CV, les candidats sont contactés très rapidement (je dirais dans la journée) pour un entretien téléphonique ultra organisé avec une quinzaine de questions ciblées. Si le candidat passe la première étape, il sera convoqué. L'entretien pourrait bien se passer dans un bureau de l'entreprise mais aussi en conference call avec un recruteur basé à Toronto et un responsable RH ou technique aux US pour un poste localisé à Vancouver (ça m'est arrivé !). La population est tellement mobile et plutôt que de payer un billet d'avion pour faire passer des entretiens, Skype devient un outil indispensable ! Si l'entretien est convaincant, tu peux commencer le lendemain ! (ça ça ne m'est pas encore arrivé)! Et pour les autres candidats, il ne faudra pas s'attendre à recevoir une lettre de remerciement pour l'intérêt qu'ils ont porté à l'entreprise. Ici, c'est considéré comme une perte de temps."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/03/networking12.jpg?w=257&h=300"},
+   :width 257,
+   :height 300,
+   :alt "Networking(1)(2)",
+   :caption "C'est le pays de la  business card !"}
+  {:type :paragraph,
+   :content
+   "Alors pour ça, je me suis inscrite dans plusieurs meet-up qui me 'correspondent' :"}
+  {:type :paragraph,
+   :content
+   ("* "
+    [:a
+     {:title "BC HRMA",
+      :href "http://www.bchrma.org/",
+      :target "_blank"}
+     "BC HRMA"]
+    " (Bristish Columbia Human Resources Management Association) :")}
+  {:type :paragraph,
+   :content
+   "L'association professionnelle RH par excellence. Elle permet de rencontrer des membres de la fonction RH qui doivent devenir mes meilleurs amis! Yeahhhh! Réseautage, roundtables, annuaire, offres d'emplois en interne! C'est une de mes meilleures cartes je crois."}
+  {:type :paragraph,
+   :content
+   "* La chambre de commerce Francophone pour rencontrer les CEO et entrepreneurs francophones de la région entre 7 et 9h du matin le vendredi. J'ai fait mon premier meet up récemment et j'avoue que j'ai été pas mal attirée par le buffet de fromages francophones!!! (celui-là je vous rassure, c'était le soir). Un délice en plus de rencontrer des gens fort sympathiques français ou québécois en général"}
+  {:type :paragraph,
+   :content
+   "Les autres meetup sont plus orientés vers les loisirs: Les Vancouver Mountaineers!!! On se donne RDV un samedi matin pour aller faire quelques kms en raquette dans les montagnes avoisinantes tout en papotant. C'est là aussi que tu peux trouver des copains canadiens qui eux ont un boulot et pourront te donner un coup de main parfois."}
+  {:type :paragraph,
+   :content
+   "Enfin, le conversational English meetup!! Celui où tu vas chez Tim Hortons (le starbucks canadien) prendre un chocolat et discuter avec des nouveaux arrivants qui souhaitent aussi rencontrer du monde et parler anglais. Ces nouveaux arrivants sont plutôt asiatiques que français en général!"}
+  {:type :paragraph,
+   :content
+   "Avec tous ces meet-up et autres rdv, moi j'ai choisi le vélo pour me déplacer (quand il ne pleut pas)"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/03/p1060786.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060786",
+   :caption "A bicyclette !"}
+  {:type :paragraph,
+   :content
+   ("Voilà qui pourra peut-être vous aider vous aussi dans le cadre de votre prochain projet de vie au canada ! "
+    [:span
+     {:class "wp-smiley emoji emoji-wink", :title ";-)"}
+     ";-)"])}],
+ :title "Chercher un emploi à Vancouver",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "chercher-un-emploi-au-vancouver",
+ :source-id "1521",
+ :blog "avesdepaso",
+ :visibility :public}

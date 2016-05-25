@@ -1,0 +1,344 @@
+{:updated-at #inst "2009-06-05T18:00:09.000-00:00",
+ :tags #{:equateur},
+ :published-at #inst "2009-06-05T17:52:42.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("J���en revais depuis ma lecture des livres de "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Stephen_Jay_Gould"}
+     "Stephen Jay Gould"]
+    " qui m���a amen�� "
+    [:span
+     {}
+     "�� d��couvrir plus en d��tails "
+     [:a
+      {:href "http://fr.wikipedia.org/wiki/Charles_Darwin"}
+      "Darwin"]
+     " et son voyage aux ��les Galapagos. "])}
+  {:type :paragraph,
+   :content
+   ([:span
+     {}
+     "Beaucoup de temps pass�� sur Internet pour passer en revue les diff��rentes fa��ons d���en profiter au maximum, notamment de la riche faune et flore end��mique, et donc d���expectative. Heureusement nous n���avons pas ��t�� d��cu, loin de l"]
+    [:span {} "��!"])}
+  {:type :paragraph,
+   :content
+   ([:span {} "D"]
+    "��s notre arriv��e "
+    [:span {} "�� Guayaquil nous nous pr��cipitons "]
+    [:span
+     {}
+     "�� l���a��roport: prochain d��part pour les Galapagos le lendemain matin. Ok pas de probl"]
+    "��me, Guayaquil ne nous attirant pas du tout nous allons attendre, et donc dormir ici."
+    "\nLe lendemain, on nous met tout de suite dans le bain: nos bagages doivent ��tre verifi��s par une machine sp��ciale pour que l���on n���introduise pas par inadvertance des substances non authoris��es sur les ��les. On mesurera plus tard l���efficacit�� de la manoeuvre: au moment d���embarquer dans l���avion, un membre du personnel de s��curit�� vient alpaguer Anne-C��cile pour l���emener dans un quelconque hangar sombre. Quelques instants plus tard la revoil"
+    [:span
+     {}
+     "�� m���expliquant que notre pauvre petite bouteille de gaz de camping ne pourrait pas faire le trajet avec nous, trop dangereux. Au moins aussi dangereux qu���un flacon de d��odorant��� Encore plus dr��le, comme nous sommes pr��voyant, nous avons une autre bouteille de gaz dans l���autre sac! Anne-C��cile se d��voue par aller en faire profiter l�����quipage. Encore quelques minutes d���attente, le capitaine qui s���impatiente (c���est sensible ces petites b��tes l"]
+    [:span {} "��"]
+    [:span {} ")."])}
+  {:type :paragraph,
+   :content
+   ("Finalement nous arrivons "
+    [:span {} "�� destination. On se croirait un peu "]
+    [:span
+     {}
+     "�� Disneyland au d��but, mais ��a va vite passer. Un bus, un bac puis un autre bus plus tard nous voil"]
+    [:span {} "�� "]
+    [:span
+     {}
+     "�� Puerto Ayora, ville principale de l�����le de Santa-Cruz. Peupl��e d���agences touristiques et sans charme cette ville ne nous retiendra pas longtemps. Nous visitons quand m��me l���institut Darwin qui nous permettra de rencontrer nos premiers animaux en libert��: la tortue et l���iguane terrestres."])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4160-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "C'est de la bonne tortue ca",
+   :caption "C&#39;est de la bonne tortue ��a"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4162-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Iguane terrestre, gentil mais de loin",
+   :caption "Iguane terrestre, gentil mais de loin"}
+  {:type :paragraph,
+   :content
+   "Un petit tour vers le port et nous pouvons observer un p��lican qui attend patiemment que les poissonniers veuillent bien lui jeter des restes."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4118-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Manger!",
+   :caption "Manger!"}
+  {:type :paragraph,
+   :content
+   "Avant de prendre un bateau pour l�����le plus paisible de San Cristobal nous louons des v��los pour faire le tour de Santa Cruz. Enfin c�����tait le plan au d��but mais l�����le est plus grande qu���on ne l���estimait sur la carte��� Le temps quand m��me d���aller sur une plage paradisiaque peupl��e entre autres d���iguanes marins et de visiter quelques tunnels de lave."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4167-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Bras de mer isol��",
+   :caption "Bras de mer isol��"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4197-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "P��lican endormi",
+   :caption "P��lican endormi"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4212-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Beuaaahh!",
+   :caption "Beuaaahh!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4213-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Et en plus il est pas tout seul",
+   :caption "Et en plus il est pas tout seul"}
+  {:type :paragraph,
+   :content
+   ("Tra��nant nonchalamment le long du port en attendant notre bateau pour San Cristobal, nous nous voyons proposer par un organisateur de tour une excursion snorkeling (plong��e avec tuba) d���une demi journ��e "
+    [:span
+     {}
+     "�� un tarif que nous ne pouvons refuser. Bien nous en a pris puisqu���en plus de tous les poissons multicolores que nous avons aper��u nous avons pu nager avec les lions de mer (sorte d���otaries, un peu plus gros)."])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4233-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "On est bon l��!",
+   :caption "On est bon l��!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4318-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Un lion de mer femelle",
+   :caption "Un lion de mer femelle"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4242-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Le canal de l'amour, tristement vide",
+   :caption "Le canal de l&#39;amour, tristement vide"}
+  {:type :paragraph,
+   :content
+   ("Arriv��s �� San Cristobal, on sent tout de suite la diff��rence: presque pas de touristes et peu de harc��lement touristique. Fort de notre exp��rience de la matin��e nous d��cidons de tenter de d��goter une journ��e de snorkeling autour de l�����le. Nous rencontrons deux autres touristes avec qui nous partirons sur un petit bateau de p��cheur, beaucoup plus classe que les gros bateaux des autres touristes."
+    "\nPremi��re ��tape l�����le Lobos o�� nous nagerons une nouvelle fois avec des lions de mer. En chemin nous croisons des "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Fou_%C3%A0_pieds_bleus"}
+     "fous �� pieds bleus"]
+    " et des fr��gates, notamment les fameux m��les qui gonflent une poche rouge au niveau de leur cou pour attirer les femelles.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4280-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Les fous �� pattes bleus",
+   :caption "Les fous �� pieds bleus"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4327-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Pas farouche!",
+   :caption "Pas farouche!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4340-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Fr��gates �� l'assault",
+   :caption "Fr��gates �� l&#39;assault"}
+  {:type :paragraph,
+   :content
+   ("Direction ensuite plus au nord au rocher "
+    [:em {} "Leon Dormido "]
+    "qui nous promet de belles surprises. Apr��s un tour rapide du rocher pendant lequel nous pouvons apercevoir �� une dizaine de m��tre de profondeur des requins ainsi que des tortues marines, nous nous arr��tons au niveau d���un ��troit passage de quelques m��tres de largeur encadr�� de paroi de plusieurs dizaines de m��tres de hauteur. Les vagues sont un peu plus fortes ici, Anne-C��cile ne nagera pas pour rejoindre l���autre c��t��. Je m�����lance, accompagn�� d���un autre touriste, et commence �� apercevoir au fond de l���eau un requin que j���observe quelques instants. Relevant la t��te pour continuer d���avancer, je me retrouve nez �� nez avec un groupe de 4 ou 5 "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Raie_aigle"}
+     "raies aigles"]
+    " qui arrivent dans ma direction, �� 5 m��tres �� ma droite, puis des requins d���entre 1 et 2 m��tres qui vont et viennent sous moi. Quelques secondes apr��s, le temps que je r��alise que je vais certainement survivre �� cette rencontre, je continue �� avancer, doucement, en croisant des requins, plusieurs dizaines, parfois seulement �� 2 m��tres de moi. Instant magique.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4358-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Leon dormido",
+   :caption "Leon dormido"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4363-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Le fameux passage",
+   :caption "Le fameux passage"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4381-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "C'est pas du plastique",
+   :caption "C&#39;est pas du plastique"}
+  {:type :paragraph,
+   :content
+   "Nous finirons la journ��e sur une plage de sable blanc. Un peu de repos apr��s ces ��motions!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4404-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Pr��paration �� la bronzette",
+   :caption "Pr��paration �� la bronzette"}
+  {:type :paragraph,
+   :content
+   ("Un chemin le long des c��tes nous permet d���acc��der au lieu-dit "
+    [:em {} "Tijeretas, "]
+    "domin�� par la statue de Darwin, qui permet de faire de magnifiques plong��es. Ici plus qu���ailleurs nous aurons l���impression de nager dans un aquarium g��ant, croisant dizaines de poissons ��xotiques, des tortues marines ainsi que les fameux lions de mer. Quel bonheur de nager dans des bancs de dizaines de milliers de poissons, r��agissant comme un seul homme. De l���autre c��t�� du port la "
+    [:em {} "Loberia"]
+    " nous permettra de d��couvrir encore d���autres esp��ces de poissons.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4413-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Quel grand homme!",
+   :caption "Quel grand homme!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4439-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "En famille",
+   :caption "En famille"}
+  {:type :paragraph,
+   :content
+   ("Direction ensuite le centre de l�����le, "
+    [:em {} "El Progreso"]
+    ", o�� nous dormirons �� la "
+    [:em {} "Casa del Ceibo,"]
+    " une cabane, tout confort, nich��e dans l���arbre le plus grand et le plus ancien de l�����le.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4462-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "La cabanne dans l'arbre",
+   :caption "La cabane dans l&#39;arbre"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4467-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Tout confort quand meme!",
+   :caption "Tout confort quand m��me!"}
+  {:type :paragraph,
+   :content
+   "D���ici nous voulons visiter quelques lieux indiqu��s dans les brochures touristiques, notamment une plantation de caf��.\nApr��s une bonne heure de marche sur des chemins o�� rien n���est indiqu�� nous tombons sur le grand portail de la plantation, malheureusement ferm��. Nous continuons plus loin, pensant trouver une autre entr��e, avant de renoncer et revenir �� ce portail. Nous p��n��trons dans l���enceinte et empruntons une ouverture dans le grillage, �� la recherche de quelqu���un. Encore une heure apr��s nous arrivons �� une grande cabane remplie de lits superpos��s, mais vide. Le lieu semble ne pas avoir ��t�� habit�� r��cemment.\nQuelques centaines de m��tres plus loin nous apercevons des machines ainsi qu���une nurserie de jeunes plants de caf��. Toujours personne. Finalement nous aurons visit�� les lieux, tout seul!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4474-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Un peu sinistre",
+   :caption "Un peu sinistre"}
+  {:type :paragraph,
+   :content
+   "Le dernier jour nous marchons plus loin, toujours le long d���une route, pour d��couvrir une lagune qui parait ��tre toujours embrum��e, puis une plage aux vagues impressionnantes."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4482-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Toujours le style",
+   :caption "Toujours le style"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4512-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "On peut bien s'amuser",
+   :caption "On peut bien s&#39;amuser"}
+  {:type :paragraph,
+   :content
+   "Et oui c���est d��j�� fini! Mais nous reviendrons, j���en suis s��r."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4523-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Avant le d��part",
+   :caption "Avant le d��part"}
+  {:type :paragraph,
+   :content
+   "Je conseillerais bien �� tous les lecteurs de ce blog (coucou maman!!) de venir visiter ces ��les, mais je pr��f��re en profiter tout seul, ��go��stement. Ne venez pas. S���il vous plait."}
+  {:type :paragraph,
+   :content
+   ([:a
+     {:href "http://fr.wikipedia.org/wiki/Raie_aigle", :rel "nofollow"}
+     "http://fr.wikipedia.org/wiki/Raie_aigle"])}],
+ :title "Iles Galapagos",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "iles-galapagos",
+ :source-id "916",
+ :blog "avesdepaso",
+ :visibility :public}

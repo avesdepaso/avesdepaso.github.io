@@ -1,0 +1,135 @@
+{:id "fin-de-saison",
+ :title "Fin de saison",
+ :published-at #inst "2014-11-03T02:08:10.990-00:00",
+ :updated-at #inst "2014-10-23T17:39:13.907-00:00",
+ :visibility :public,
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Qui dit fin d&#39;hiver dit fin de saison de ski. A 15 minutes de la station "
+    [:a {:href "http://chapelco.com/"} "Chapelco"]
+    ", forc��ment on ne se prive pas et on profite du pass saison sp��cial locaux. L&#39;occasion pour moi de peaufiner ma technique du triple lutz.")}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157648118594222",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "a90336354d",
+    :original-secret nil,
+    :id "15192740868",
+    :farm-id 4,
+    :server-id "3865"},
+   :provider :flickr,
+   :height 576}
+  {:type :photo,
+   :caption "Bienvenidos!!",
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157648118594222",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "fbecf480bc",
+    :original-secret nil,
+    :id "15192691907",
+    :farm-id 4,
+    :server-id "3839"},
+   :provider :flickr,
+   :height 576}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157648118594222",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "3de94e7409",
+    :original-secret nil,
+    :id "15192682157",
+    :farm-id 4,
+    :server-id "3924"},
+   :provider :flickr,
+   :height 576}
+  {:type :paragraph,
+   :content
+   ("Passage obligatoire chez le vieux campeur lors de notre dernier s"
+    [:span
+     {:style
+      "line-height: 28.7999992370605px; text-align: left; word-spacing: 1.60000002384186px;"}
+     "��"]
+    "jour en France pour s&#39;equipper moiti"
+    [:span
+     {:style
+      "line-height: 28.7999992370605px; text-align: left; word-spacing: 1.60000002384186px;"}
+     "��"]
+    "��moins cher qu&#39;ici.")}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157648118594222",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "1bd6e61280",
+    :original-secret nil,
+    :id "15378838892",
+    :farm-id 4,
+    :server-id "3883"},
+   :provider :flickr,
+   :height 576}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157648118594222",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "ae8cbc7a8e",
+    :original-secret nil,
+    :id "15192543278",
+    :farm-id 4,
+    :server-id "3925"},
+   :provider :flickr,
+   :height 1024}
+  {:type :paragraph,
+   :content
+   ("En p"
+    [:span
+     {:style
+      "line-height: 28.7999992370605px; text-align: left; word-spacing: 1.60000002384186px;"}
+     "��"]
+    "riode haute difficile de se frayer son chemin �� travers la jungle de br"
+    [:span
+     {:style
+      "line-height: 28.7999992370605px; text-align: left; word-spacing: 1.60000002384186px;"}
+     "��"]
+    "siliens d"
+    [:span
+     {:style
+      "line-height: 28.7999992370605px; text-align: left; word-spacing: 1.60000002384186px;"}
+     "��"]
+    "couvrant les joies de la neige. En p"
+    [:span
+     {:style
+      "line-height: 28.7999992370605px; text-align: left; word-spacing: 1.60000002384186px;"}
+     "��"]
+    "riode basse beaucoup plus de place mais plus de neige.. On profite alors de la vue incroyable!")}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157648118594222",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "af2571d1e3",
+    :original-secret nil,
+    :id "15192487499",
+    :farm-id 4,
+    :server-id "3912"},
+   :provider :flickr,
+   :height 576}
+  {:type :paragraph,
+   :content ("Les beaux jours arrivent, au tour du kayak?")}],
+ :blog "avesdepaso"}

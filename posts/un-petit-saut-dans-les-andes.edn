@@ -1,0 +1,197 @@
+{:updated-at #inst "2014-09-27T02:30:17.332-00:00",
+ :tags #{:argentine :amerique-du-sud},
+ :cover
+ {:width 1024,
+  :height 678,
+  :provider :flickr,
+  :user-id "96129378@N07",
+  :category-id "72157647656554420",
+  :id
+  {:id "15173919057",
+   :farm-id 4,
+   :server-id "3911",
+   :photoset-id nil,
+   :secret "925a6b940e",
+   :original-secret nil,
+   :original-format nil}},
+ :published-at #inst "2012-05-13T21:12:55.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Ah ils sont fort les argentins en jours f��ri��s ! A d��faut de 6 semaines de cong��s, nous avons le droit �� quelques jours dans l���ann��e adoss��s aux WE ce qui nous permet de faire des petits sauts �� l���int��rieur du pays!"}
+  {:type :paragraph,
+   :content
+   ("L���a��roport national est a 20 minutes de la maison ce qui nous offre d��j�� pas mal de possibilit��s pour voyager �� l���nt��rieur de la nation ! Nous d��collons de Buenos aires �� 6h30 du mat���. Une heure et quart plus tard, Julien et moi, on s�����merveille devant le tapis de neige form�� par les nuages et les quelques chapeaux des dames blanches des Andes qui culminent dans les parages jusqu����� 6900 m (Aconcagua). On se contentera d���aller au pied des 6000 cette fois-ci ! Mais ce n���est que partie remise pour une ascension���.")}
+  {:type :photo,
+   :width 1024,
+   :height 677,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647656554420",
+   :id
+   {:id "15357272851",
+    :farm-id 4,
+    :server-id "3845",
+    :photoset-id nil,
+    :secret "39af22fd69",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("A notre arriv��e, nous avons rejoint Momo et Mika, amis de Paris en vacances en Argentine en ce d��but d���automne ! Aucun regret, m��me �� cette ��poque la m��t��o est avec nous !!! On se retrouve donc �� Mendoza, fief des "
+    [:em {} "Bodega"]
+    "s (caves �� vins) et de la viniculture du Malbec : THE c��page des argentins. Vous me direz que celui-ci est plut��t mal per��u des fran��ais mais ici, je peux vous assurer que le climat et l���air des montagnes lui valent un succ��s au-del�� des fronti��res argentines !")}
+  {:type :paragraph,
+   :content
+   ("Mendoza, c���est aussi, une ville de 930 000 habitants��ravag��e par un tremblement de terre en 1861. Pour autant, les "
+    [:em {} "mendocinos"]
+    " (habitants de Mendoza) n���ont pas quitt�� leurs terres et la production de vin s���est largement d��velopp��e depuis. Bien que le march�� vin rapporte bien ici , l�����conomie de la r��gion n���est pas au plus au de sa forme et la pauvret�� se fait ressentir.")}
+  {:type :paragraph,
+   :content
+   ("On ne perd pas trop de temps : direction le "
+    [:em {} "Cordor del Plata"]
+    ", cha��ne de montagnes des pr��-Andes !��Sur la route, nous nous rapprochons toujours de cette barri��re de rochers culminant tant��t �� 5000 tant��t �� 6000m���")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647656554420",
+   :id
+   {:id "15173919057",
+    :farm-id 4,
+    :server-id "3911",
+    :photoset-id nil,
+    :secret "925a6b940e",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Chaine Cordon del Plata"}
+  {:type :paragraph,
+   :content
+   ("Etant accompagn��s de nos h��tes, nous avons choisis le refuge de montagne �� la place de la tente. Nous sommes accueillis par Jessi, son Husky et son feu de chemin��e ! Parfait "
+    [:span {:title ";-)", :class "wp-smiley emoji emoji-wink"} ";-)"])}
+  {:type :paragraph,
+   :content
+   ("Il est 11h, temps de quitter le chaud pour le sentier de rando. Nous marchons en direction des Lomas Blancas culminant a 3850m.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647656554420",
+   :id
+   {:id "15337424686",
+    :farm-id 3,
+    :server-id "2949",
+    :photoset-id nil,
+    :secret "4b2b0e2e2c",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Cabane de berger"}
+  {:type :paragraph,
+   :content
+   ("Sachant qu���on ��tait au niveau de la mer la veille, il nous faut quelques heures pour nous acclimater. Momo et Mika rentre ce soir l�� avec un mal de t��te bien sympa. Il est 20h, les deux tentent de s���en s��parer �� coup de cachet et de dodo sous les couvertures en poils de lama.")}
+  {:type :photo,
+   :width 678,
+   :height 1024,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647656554420",
+   :id
+   {:id "15173675289",
+    :farm-id 3,
+    :server-id "2949",
+    :photoset-id nil,
+    :secret "3e32f47032",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Un bon petit poulet-pur��e les remet vite sur pied pour le lendemain ou nous d��cidons de nous approcher des��6000m (la Plata, Vallecitos���) ! Le ciel est bleu et la vue est magnifique comme d���habitude "
+    [:span {:title ";-)", :class "wp-smiley emoji emoji-wink"} ";-)"])}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647656554420",
+   :id
+   {:id "15357226651",
+    :farm-id 4,
+    :server-id "3909",
+    :photoset-id nil,
+    :secret "2bcb9a5e62",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Potes et Sommet Vallecitos (5700m)"}
+  {:type :photo,
+   :width 678,
+   :height 1024,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647656554420",
+   :id
+   {:id "15173720010",
+    :farm-id 4,
+    :server-id "3842",
+    :photoset-id nil,
+    :secret "d6647ef283",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Notre derni��re journ��e �� Mendoza est un premier mai ! Ici aussi, c���est la f��te du travail. C���est l���ocasion pour les argentins de faire 2 ou 3 manifs de revendication pendant que nous visitons une de ces caves du coin, non loin de Mendoza, �� Maip��.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647656554420",
+   :id
+   {:id "15360087232",
+    :farm-id 4,
+    :server-id "3908",
+    :photoset-id nil,
+    :secret "f59a50f65c",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Enfin, m��me si il y a du tourisme, ca n���a pas emp��cher les cavistes de prendre cong�� ce jour l����� du coup, nous visitons une des rares bodegas ouverte ce jour l��: Carinae ! Une paire de fran��ais, Brigitte et Philippe, est venue s���installer dans le coin en 1998 et a d��cid��e de se mettre �� la production de vin. Le Malbec est bien s��r leur marque de fabrique de part la r��gion, mais nous d��gustons aussi des blends (m��lange de plusieurs c��pages). Ca fait du bien de revenir aux sources : boire du bon vin, accompagn�� de pain et de fromage ! un d��lice.")}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647656554420",
+      :id
+      {:id "15360066892",
+       :farm-id 4,
+       :server-id "3838",
+       :photoset-id nil,
+       :secret "1312bd1817",
+       :original-secret nil,
+       :original-format nil}}
+     {:width 1024,
+      :height 680,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647656554420",
+      :id
+      {:id "15173690290",
+       :farm-id 3,
+       :server-id "2949",
+       :photoset-id nil,
+       :secret "aac0beef53",
+       :original-secret nil,
+       :original-format nil}}]],
+   :caption "Bodega Carinae a Maipu"}
+  {:type :paragraph,
+   :content "Un mardi matin : retour �� Buenos Aires en avion���"}],
+ :title "Un petit saut dans les Andes ���",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "un-petit-saut-dans-les-andes",
+ :source-id "2197",
+ :blog "avesdepaso",
+ :visibility :public}

@@ -1,0 +1,67 @@
+{:updated-at #inst "2010-05-27T10:27:34.000-00:00",
+ :tags #{:allemagne},
+ :published-at #inst "2010-05-27T10:27:34.000-00:00",
+ :elements
+ [{:type :paragraph, :content "FRIEDRICHSHAIN & WEST KREUZBERG"}
+  {:type :paragraph,
+   :content
+   "Samedi, on décide de visiter le quartier de Friedrichshain, Berlin  Est : cette partie de la ville conserve un patrimoine et une culture  différente des quartiers centraux. Jusqu'en 1994, les russes conservent encore la garde de la zone. Alors que la plus longue partie du mur (1,3km) est conservée sur le bord de la Spree sous le nom de East Side  Gallery, pas un seul coin n'a été abandonné. Les artistes se sont succédés pour le décorer !!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/05/p1000741.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1000741",
+   :caption "East Side Gallery"}
+  {:type :paragraph,
+   :content
+   ("On découvre les marchés. En spécialiste du TASTE mood, Lucille veut tout essayer : Wurtz (la saussice du coin), une soupe viande-oignons, elle est encore attirée par des grillades de poissons."
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"]
+    " Enfin, ya deux trucs qui nous ont plus dans ce quartier : la  nourriture et les fringues. Un tas de créateurs et friperies se partagent le marché. C'est devenu un quartier libre et tendance ! Mais  on oubliera pas la Karl Marx Allee, Grande avenue construite à l'époque soviétique.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/05/p1000734.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1000734",
+   :caption "Spécialités"}
+  {:type :paragraph,
+   :content
+   "On passe la Spree pour rendre visite au Check point Charlie, un des  passages Ouest-Est les plus populaires entre la zone américaine et russe. On aurait tendance à ne pas recommander le musée du Check point, trop  petit, peu d'explication et une dame pas très sympa surveille les toilettes. Ah oui, et il faut sortir du musée (dans la rue) pour re-rentrer par l'entrée du musée si tu veux un jour récupérer tes biens laissés au vestiaire. Etrange."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/05/p1000744.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1000744",
+   :caption "Check Point Charlie"}
+  {:type :paragraph,
+   :content
+   "Ah ce moment là, j'avais pas encore tout à fait bien compris l'histoire du Mauer (Mur). Mais ça nous a pas si démotivé des musées,  puisqu'on a filé au Jugend Museum : le musée des enfants où la vie est beaucoup plus cool. Nous avons suivi 2 expositions : l'une sur le besoin de montrer et faire accepter aux enfants les différences, l'autre de  nouveau sur la construction du mur jusqu'à sa démolition mais en image avec quelques textes super bien expliqués."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/05/p1000786.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1000786",
+   :caption "No man's land & Mauer"}
+  {:type :paragraph,
+   :content
+   ("Et ah ce moment l��, tout nous est paru tellement plus clair "
+    [:span
+     {:class "wp-smiley emoji emoji-wink", :title ";-)"}
+     ";-)"])}],
+ :title "BERLIN  (Part 2)",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "berlin-part-2",
+ :source-id "1111",
+ :blog "avesdepaso",
+ :visibility :public}

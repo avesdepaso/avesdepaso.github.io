@@ -1,0 +1,68 @@
+{:updated-at #inst "2009-02-18T18:48:12.000-00:00",
+ :tags #{:venezuela},
+ :cover
+ {:provider :wordpress,
+  :id
+  {:url
+   "https://vadrouilles.files.wordpress.com/2009/02/img_1331-50.jpg?w=150&h=100"},
+  :type :photo,
+  :alt "Roraima trek - Venezuela",
+  :caption "Departure"},
+ :published-at #inst "2009-02-18T18:48:12.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("C��est parti pour l��aventure sur les caminos de rando. Nous avons opt�� pour un trek de 6 jours a la conqu��te du Tepuy "
+    [:a {:href "http://fr.wikipedia.org/wiki/Mont_Roraima"} "Roraima "]
+    ": oui, c��est lui que Julien regarde a gauche. 2810m d��altitude et un monde animal et floral unique sur son chapeau.")}
+  {:type :paragraph,
+   :content
+   "Nous d��couvrons notre international��team et nos gentils porteurs et cookers. Au total 16 personnes sur le sentier !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/02/img_1477-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "l����quipe de choc",
+   :caption "l����quipe de choc"}
+  {:type :paragraph,
+   :content
+   "1er jour : D��nivel�� 600m ��� 3h30 de marche et 13 km dans les pattes. C��est gentil pour se mettre en jambes.�� On se fait piquer par les ���Puris-Puris��� (toute petite b��te mais costaud la b��te, elle te laisse des piqures sympas)��et les mosquitos."}
+  {:type :paragraph,
+   :content
+   "��Un truc fascinant : les candle flies, ces petites lucioles volantes ! c��est magique la nuit."}
+  {:type :paragraph,
+   :content
+   "2��me jour : D��nivel�� 800 m ��� 5h de marche et 8 km. On a commenc�� a sentir l��effort dans nos petites gambettes de parisiens���ouille"}
+  {:type :paragraph,
+   :content
+   "On d��couvre un environnement humide. On a probablement dormi a cot�� de gros serpents���"}
+  {:type :paragraph,
+   :content
+   "3��me jour : Ascension du Roraima avec 1000 m de d��nivel��. La, on arrete de rigoler et on grimpe pendant 4h30���."}
+  {:type :paragraph,
+   :content
+   "4��me jour : Ballade��au sommet du Roraima��� et dodo dans les grottes"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/02/img_1471-50.jpg?w=150&h=99"},
+   :alt "Sommet du Roraima",
+   :caption "Sommet du Roraima"}
+  {:type :paragraph,
+   :content
+   "5��me jour : On attaque la descente entre les cascades qui nous arrosent, la pluie,��les roches a escalader et la boue qui nous enivre!"}
+  {:type :paragraph,
+   :content "7h de marche, 1700m de descente jusqu��au premier camp."}
+  {:type :paragraph,
+   :content
+   "6��me jour : retour au village indig��ne Paratepuy. On a pleins les pattes mais on le sait pas encore���."}],
+ :title "Roraima Trek",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "roraima-trek",
+ :source-id "504",
+ :blog "avesdepaso",
+ :visibility :public}

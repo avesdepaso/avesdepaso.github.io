@@ -1,0 +1,294 @@
+{:updated-at #inst "2014-09-25T03:21:46.747-00:00",
+ :tags #{:argentine},
+ :cover
+ {:width 1024,
+  :height 678,
+  :provider :flickr,
+  :user-id "96129378@N07",
+  :category-id "72157647546674579",
+  :id
+  {:id "15150163399",
+   :farm-id 4,
+   :server-id "3871",
+   :photoset-id nil,
+   :secret "e5c8a96da0",
+   :original-secret nil,
+   :original-format nil}},
+ :published-at #inst "2013-04-11T23:23:37.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content ".. ou presque. En tout cas de ce c��t�� du pacifique."}
+  {:type :paragraph,
+   :content
+   ("Le renouvellement de nos visas �� "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Province_de_Mendoza"}
+     "Mendoza"]
+    " (1000kms de Buenos Aires quand m��me, certainement une id��e du minist��re du tourisme argentin) nous a fourni l���opportunit�� de visit�� un peu plus les andes. Quel bonheur que de renouveler son visa! Un de mes trucs pr��f��r��s en tant qu���expatri��.")}
+  {:type :photo,
+   :width 1024,
+   :height 489,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647546674579",
+   :id
+   {:id "15337058035",
+    :farm-id 4,
+    :server-id "3881",
+    :photoset-id nil,
+    :secret "9809e342e7",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Mendoza c���est le vin mais c���est aussi��"
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Aconcagua"}
+     "l���Aconcagua"]
+    ",\n le sommet la plus ��lev�� du monde en dehors de la cha��ne de l���Himalaya, \navec quasi 7000M. Hmm int��ressant! Quelques heures de bus plus tard et \non plante la tente de camping avec cette vue.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647546674579",
+   :id
+   {:id "15336736222",
+    :farm-id 4,
+    :server-id "3878",
+    :photoset-id nil,
+    :secret "a27128094e",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   "Ou plut��t le jardin d���une maison du bled. Enfin jardin je suis g��n��reux, c���est pas tr��s visible sur la photo mais il sert plus de d��potoir que de potager. D���ailleurs la propri��taire n���a jamais ��t�� admirer l���Aconcagua, pourtant d���acc��s gratuit ��et �� moins de 2 kms �� pied de sa maison!! Ouahou quelle curiosit��!"}
+  {:type :paragraph,
+   :content
+   ("Au d��but du si��cle dernier les Anglais sont arriv��s, ont trouv�� un pont naturel en sel sympa, construit une esp��ce de thalasso pour "
+    [:del {} "sensur��"]
+    " et tout abandon�� quand ca c���est cass�� la gueule. Les anglais ont toujours eu un certains talents pour se faire bien voir �� l�����tranger.")}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647546674579",
+      :id
+      {:id "15336730202",
+       :farm-id 3,
+       :server-id "2943",
+       :photoset-id nil,
+       :secret "87a0b0bfc0",
+       :original-secret nil,
+       :original-format nil}}
+     {:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647546674579",
+      :id
+      {:id "15150269379",
+       :farm-id 4,
+       :server-id "3856",
+       :photoset-id nil,
+       :secret "882dd06af2",
+       :original-secret nil,
+       :original-format nil}}]]}
+  {:type :paragraph,
+   :content
+   ("On aper��oit au fond �� droite les ruines de l���hotel. L�����glise par contre, sur la gauche, est bien conserv��e.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647546674579",
+   :id
+   {:id "15313995416",
+    :farm-id 4,
+    :server-id "3890",
+    :photoset-id nil,
+    :secret "9413646e6c",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Puente del Inca"}
+  {:type :paragraph,
+   :content
+   ("Le lendemain matin d��part aux aurores pour rejoindre le premier camp am��nag�� en route vers le sommet. On coupe par la pampa pour ��viter la route et on arrive rapidement �� un poste de gardes: comment ��a le tampon? Bah vas-y tamponnes, toi! Ca sera l���aventure de ta vie! Bon finalement on doit retourner voir le responsable tamponnage et son ami le responsable distribution du sac en plastique officiel. 4kms en plus aller-retour sur la route qu���on voulait justement ��viter.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647546674579",
+   :id
+   {:id "15150145280",
+    :farm-id 4,
+    :server-id "3897",
+    :photoset-id nil,
+    :secret "a0a8a43af0",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Aconcagua"}
+  {:type :paragraph,
+   :content
+   ("Finalement on d��couvre le sommet. Pas si impressionnant qu���on pourrait l���imaginer, ��notamment parce qu���entour�� d���autres sommets qui le cachent.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647546674579",
+   :id
+   {:id "15333829031",
+    :farm-id 4,
+    :server-id "3873",
+    :photoset-id nil,
+    :secret "6009ae9b43",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   "L���arriv��e au camp de base, constell�� de tentes bomb��es, est toujours ��trange. Les touristes de passage s���ajoutent aux exp��ditions commerciales qui mettent en place de v��ritables villages de tentes pour la dur��e de la saison. On peut m��me acheter des pizzas et de la bi��re! Enfin contre l�����quivalent de son poids en pesos. Bien s��r les summiters (qui ont conquis le sommet) payent avec plaisir et la bi��re coule �� flot. Bon �� petit flot, �� flotounet. Ok, ils dorment tous en se bavant sur le bonet et en r��vant d���un vrai matelas."}
+  {:type :paragraph,
+   :content
+   ("D��tail int��ressant: chaque entreprise dispose de ses propres toilettes (un trou quoi), cadenass��es. La seule disponible pour nous se retrouve bien vite ���encombr��e���. Heureusement les gardes ma��trisent le karcher. Je veux pas balancer mais certaines ont choisi une option alternative.")}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647546674579",
+      :id
+      {:id "15333823381",
+       :farm-id 3,
+       :server-id "2944",
+       :photoset-id nil,
+       :secret "7c89fd31f8",
+       :original-secret nil,
+       :original-format nil}}
+     {:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647546674579",
+      :id
+      {:id "15150267480",
+       :farm-id 3,
+       :server-id "2944",
+       :photoset-id nil,
+       :secret "382a090cbe",
+       :original-secret nil,
+       :original-format nil}}]]}
+  {:type :paragraph,
+   :content
+   ("On continue la journ��e en direction de la place des fran��ais, utilis��es comme camp de base pour affronter la face sud. On s���arr��tera avant, la journ��e est longue et je tra��ne la pate. La route le long d���un glacier offre quand m��me un superbe point de vue sur cette face, presque abrupte.")}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647546674579",
+      :id
+      {:id "15336972145",
+       :farm-id 3,
+       :server-id "2944",
+       :photoset-id nil,
+       :secret "10910f4632",
+       :original-secret nil,
+       :original-format nil}}]]}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647546674579",
+   :id
+   {:id "15313927736",
+    :farm-id 4,
+    :server-id "3870",
+    :photoset-id nil,
+    :secret "84a810beeb",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647546674579",
+   :id
+   {:id "15336643612",
+    :farm-id 4,
+    :server-id "3917",
+    :photoset-id nil,
+    :secret "7ca663deaf",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Pas foule niveau faune, mis �� part les caravanes de mules qui charrient les tonnes de matos pour ces feignasses d���alpinistes.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647546674579",
+   :id
+   {:id "15313878016",
+    :farm-id 4,
+    :server-id "3923",
+    :photoset-id nil,
+    :secret "475ff17303",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Mulas"}
+  {:type :photo,
+   :width 678,
+   :height 1024,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647546674579",
+   :id
+   {:id "15313839376",
+    :farm-id 4,
+    :server-id "3851",
+    :photoset-id nil,
+    :secret "e4db663265",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photo,
+   :alt "DSC_0509",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/04/dsc_0509.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :paragraph,
+   :content
+   ("Il reste de quoi faire dans le coin, notamment admirer la vue d���en haut! A notre prochain renouvellement de visa?")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647546674579",
+   :id
+   {:id "15336896415",
+    :farm-id 3,
+    :server-id "2943",
+    :photoset-id nil,
+    :secret "598fb2f0e2",
+    :original-secret nil,
+    :original-format nil}}],
+ :title "Le toit du monde",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "le-toit-du-monde",
+ :source-id "2487",
+ :blog "avesdepaso",
+ :visibility :public}

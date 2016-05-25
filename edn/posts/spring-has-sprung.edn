@@ -1,0 +1,81 @@
+{:updated-at #inst "2011-04-26T07:13:40.000-00:00",
+ :tags #{:vancouver},
+ :published-at #inst "2011-04-26T07:13:40.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("A Paris, on entend dire que le printemps est arriv�� depuis fin mars���. A Vancouver, ��a commence �� devenir tout juste int��ressant !! hehe "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :paragraph,
+   :content
+   "Les cherry trees (cerisier japonais) sont en fleurs�� ���."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1070005.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1070005",
+   :caption "Notre quartier en fleur"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1070006.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1070006",
+   :caption "Vancouver en Avril"}
+  {:type :paragraph,
+   :content
+   "Les fans de jardin enfilent la tenue et d��blaient leur bout de terre���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1070233.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1070233",
+   :caption "Cypress Community Garden"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1070232.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1070232",
+   :caption "Comme �� la campagne"}
+  {:type :paragraph,
+   :content "On nous a m��me offert des jonquilles au boulot !���."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1070151.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1070151",
+   :caption "Au petit dej"}
+  {:type :paragraph,
+   :content
+   "Et puis on voit de plus en plus de cyclistes sur les pistes, toujours en tenue gore-tex pour prot��ger de la pluie tout de m��me���. et oui, je vous raconte ��a mais jeudi 13 avril, il neigeait de gros flocons pendant 2 heures���"}
+  {:type :paragraph,
+   :content "rrrhh, va tranquille le printemps ici ���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1070082.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1070082",
+   :caption "&quot;Blossom&quot;"}],
+ :title "Spring has sprung",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "spring-has-sprung",
+ :source-id "1552",
+ :blog "avesdepaso",
+ :visibility :public}

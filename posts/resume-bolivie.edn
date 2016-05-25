@@ -1,0 +1,33 @@
+{:updated-at #inst "2009-04-30T14:45:19.000-00:00",
+ :tags #{:bolivie},
+ :published-at #inst "2009-04-30T14:45:19.000-00:00",
+ :elements
+ [{:type :paragraph, :content "8h"}
+  {:type :paragraph,
+   :content ([:em {} [:strong {} "Ce qu���on a aim�� :"]])}
+  {:type :paragraph, :content "l���artisanat"}
+  {:type :paragraph,
+   :content ([:strong {} [:em {} "Ce qu���on a moins aim�� :"]])}
+  {:type :paragraph,
+   :content "le trop plein de touristes du Salar d���Uyuni"}
+  {:type :paragraph,
+   :content
+   ("La Bolivie restera certainement un de nos pays pr��f��r��s et l���on risque d���y revenir. Et n���oubliez pas: "
+    [:em
+     {}
+     "En Bolivie on se d��brouille et ya de la place pour tout le monde."])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_3175-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "La Paz et Huyana potosi au loin �� gauche",
+   :caption "La Paz et Huayna potosi au loin �� gauche"}],
+ :title "R��sum�� Bolivie",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "resume-bolivie",
+ :source-id "747",
+ :blog "avesdepaso",
+ :visibility :public}

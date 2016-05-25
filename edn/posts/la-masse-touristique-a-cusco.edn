@@ -1,0 +1,191 @@
+{:updated-at #inst "2009-05-15T23:30:46.000-00:00",
+ :tags #{:perou},
+ :cover
+ {:provider :wordpress,
+  :id
+  {:url
+   "https://vadrouilles.files.wordpress.com/2009/05/img_3501-50.jpg?w=300&h=199"},
+  :type :photo,
+  :width 300,
+  :height 199,
+  :alt "Plaza de Armas",
+  :caption "Plaza de Armas"},
+ :published-at #inst "2009-05-15T23:30:46.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Un petit mot tout de m��me sur Cusco, capitale culturelle du P��rou, qui fut pendant une bonne quinzaine de jours notre QG. "
+    [:span
+     {}
+     "Autant dire que les touristes affluent et notamment les fran"]
+    [:em {} "��"]
+    [:span
+     {}
+     "ais qui adorent l���histoire ! du coup, nous croisons tout type de touristes : baroudeurs, touristes en voyages organi"]
+    [:span {} "s��s, "]
+    [:span {} "p��ruviens en vacances et autres sud a"]
+    [:span {} "m��ricains���"])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3502-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Architecture de Cusco",
+   :caption "Architecture de Cusco"}
+  {:type :paragraph,
+   :content
+   ("Cusco est donc particul"
+    [:span {} "i��"]
+    "rement impact"
+    [:span {} "��e par les voyageurs ce qui a pour cons"]
+    [:span {} "��quence de rendre une partie des autochtones "]
+    [:span {} "totalement d"]
+    [:span {} "��pendants du tourisme."])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3510-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Cath��drale de Cusco",
+   :caption "Cath��drale de Cusco"}
+  {:type :paragraph,
+   :content
+   "Du coup, d��s qu���on est blanc, qu���on porte un��bonnet p��ruvien et qu���on se prom��ne en ville, on se fait alpaguer par 36 personnages en tout genre : clochards, enfants, artistes peintres, vendeurs de clopes, masseuses, cireurs de chaussures, aboyeurs de restaurants���."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3508-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Ambiance nocturne",
+   :caption "Ambiance nocturne"}
+  {:type :paragraph,
+   :content
+   ("Mise �� part ces petits d��bordements qui nous agacent, Cusco est une ville culturelle magique. Ses places, ses murs de pierres, ses petits balcons, ses f��tes��nous font malgr"
+    [:span {} "�� tout passer un excellent moment. "])}
+  {:type :paragraph,
+   :content
+   ([:div
+     {:id "attachment_842",
+      :style "width: 310px",
+      :class "wp-caption aligncenter"}
+     [:img
+      {:class "size-medium wp-image-842",
+       :title "IMG_3520 [50%]",
+       :src
+       "https://vadrouilles.files.wordpress.com/2009/05/img_3520-50.jpg?w=300&h=199",
+       :alt "Jour de f��te",
+       :width "300",
+       :height "199"}]
+     [:p {:class "wp-caption-text"} "Jour de f��te"]])}
+  {:type :paragraph,
+   :content
+   ([:div
+     {:id "attachment_843",
+      :style "width: 209px",
+      :class "wp-caption aligncenter"}
+     [:img
+      {:class "size-medium wp-image-843",
+       :title "IMG_3527 [50%]",
+       :src
+       "https://vadrouilles.files.wordpress.com/2009/05/img_3527-50.jpg?w=199&h=300",
+       :alt "Pas de danse",
+       :width "199",
+       :height "300"}]
+     [:p {:class "wp-caption-text"} "Pas de danse"]]
+    [:div
+     {:class "mceTemp mceIEcenter"}
+     [:div
+      {:id "attachment_844",
+       :style "width: 209px",
+       :class "wp-caption aligncenter"}
+      [:img
+       {:class "size-medium wp-image-844",
+        :title "IMG_3530 [50%]",
+        :src
+        "https://vadrouilles.files.wordpress.com/2009/05/img_3530-50.jpg?w=199&h=300",
+        :alt "Petit mod��le p��ruvien",
+        :width "199",
+        :height "300"}]
+      [:p {:class "wp-caption-text"} "Petit mod��le p��ruvien"]]])}
+  {:type :paragraph,
+   :content
+   ([:span {} "Nous profitons "]
+    [:span {} "��galement d���une journ"]
+    [:span {} "��e de visite autour de la Vall"]
+    [:span {} "��e Sac"]
+    [:span {} "r��e, car nombreux sont les incas "]
+    [:span {} "��"]
+    [:span {} " s���"]
+    "��"
+    [:span {} "tre instal"]
+    [:span {} "l"]
+    [:span
+     {}
+     "��s ici. Ils ont construits des villes impressionnantes telles que Pisac, Ollantaytambo et Chinchero. "])}
+  {:type :paragraph,
+   :content
+   ([:div
+     {:id "attachment_845",
+      :style "width: 310px",
+      :class "wp-caption aligncenter"}
+     [:img
+      {:class "size-medium wp-image-845",
+       :title "IMG_3754 [50%]",
+       :src
+       "https://vadrouilles.files.wordpress.com/2009/05/img_3754-50.jpg?w=300&h=199",
+       :alt "Ruines de Pisca",
+       :width "300",
+       :height "199"}]
+     [:p {:class "wp-caption-text"} "Ruines de Pisac"]])}
+  {:type :paragraph,
+   :content
+   ([:span {} "Leur "]
+    [:span {} "��conomie "]
+    [:span
+     {}
+     "reposait principalement sur l���agriculture. Ainsi, ils construisaient des terrasses avec m"]
+    [:span {} "��canisme d���iriguation, cette zone repr"]
+    [:span {} "��sentait souvent la majorit"]
+    [:span
+     {}
+     "�� des sites. Ensuite, pour des raisons qui leur sont propres, ils adoraient le calendrier solaire (Inti Watana) et "]
+    [:span
+     {}
+     "r��alisaient des observatoires pour analyser le ciel et ses "]
+    [:span {} "��toiles. "])}
+  {:type :paragraph,
+   :content
+   ([:div
+     {:id "attachment_846",
+      :style "width: 310px",
+      :class "wp-caption aligncenter"}
+     [:img
+      {:class "size-medium wp-image-846",
+       :title "IMG_3747 [50%]",
+       :src
+       "https://vadrouilles.files.wordpress.com/2009/05/img_3747-50.jpg?w=300&h=199",
+       :alt "Terrasses de cultures",
+       :width "300",
+       :height "199"}]
+     [:p {:class "wp-caption-text"} "Terrasses de cultures"]])}
+  {:type :paragraph,
+   :content
+   ([:span {} "Pour ma part, j���ai ador"]
+    [:span
+     {}
+     "�� les fontaines ou l���on pouvait se laver, enfin sutout les"]
+    [:span
+     {}
+     " ��lites! Apres avoir sculpter des goulots inclin��s et en y posant le doigt, le d��bit de l���eau de la fontaine change pour devenir plus large. C���est excellent. Ces incas ��taient forts�� intelligents !!"])}],
+ :title "La masse touristique a Cusco",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "la-masse-touristique-a-cusco",
+ :source-id "834",
+ :blog "avesdepaso",
+ :visibility :public}

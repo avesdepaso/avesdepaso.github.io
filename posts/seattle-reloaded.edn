@@ -1,0 +1,221 @@
+{:updated-at #inst "2011-11-18T07:21:41.000-00:00",
+ :tags #{:etats-unis},
+ :published-at #inst "2011-08-09T17:49:08.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Seattle c���est pas loin, alors on en profite. Une demi-heure de voiture et voil�� la fronti��re ultra-s��curis��e. Pas mal de canadiens viennent faire leurs emplettes le weekend dans les villes frontali��res pour profiter de meilleurs prix (et ��ventuellement priver l�����tat de TVA)."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0035.png?w=400&h=265"},
+   :width 400,
+   :height 265,
+   :alt "DSC_0035"}
+  {:type :paragraph,
+   :content
+   ("Un petit tour rapide au"
+    [:a
+     {:href "http://www.empmuseum.org/index.asp"}
+     " mus��e de la musique"]
+    ", le temps d���admirer un paquet de guitares et les ic��nes locales (Jimmy Hendrix, Nirvana).")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0062.png?w=400&h=604"},
+   :width 400,
+   :height 604,
+   :alt "DSC_0062"}
+  {:type :paragraph,
+   :content
+   "Et on peut attaquer les choses s��rieuses: les cookies. Taille am��ricaine."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0076.png?w=400&h=604"},
+   :width 400,
+   :height 604,
+   :alt "DSC_0076",
+   :caption "Et pourtant j&#39;ai une grosse t��te"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0077.png?w=400&h=265"},
+   :width 400,
+   :height 265,
+   :alt "DSC_0077",
+   :caption "Karine et Manue (en road trip depuis NYC)"}
+  {:type :paragraph,
+   :content
+   ("Le "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Mont_Rainier"}
+     "mont Rainier"]
+    " appara��t au loin. Impossible de le manquer �� Seattle. Enfin quand il fait beau���")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0082.png?w=400&h=265"},
+   :width 400,
+   :height 265,
+   :alt "DSC_0082"}
+  {:type :paragraph,
+   :content
+   "Forc��ment quand on voit ��a, on a envie de gambader pas loin. Direction le parc du mont Rainier pour un peu de grimpette."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0100.png?w=400&h=265"},
+   :width 400,
+   :height 265,
+   :alt "DSC_0100"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0117.png?w=400&h=265"},
+   :width 400,
+   :height 265,
+   :alt "DSC_0117"}
+  {:type :paragraph,
+   :content
+   "Ca y est ��a rigole plus: on d��balle tout le bordel du coffre et on se lance �� l���assaut de camp Muir, un des camps d���altitude permettant d���arriver au sommet. 1500m de d��nivel�� pour arriver �� 3000m, ��a commence �� ��tre s��rieux. Crampons plus piolets pour faire genre on est des montagnards et on y va."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0130.png?w=400&h=604"},
+   :width 400,
+   :height 604,
+   :alt "DSC_0130"}
+  {:type :paragraph,
+   :content
+   ("C���est un peu le Disneyland du coin ici alors on est pas seul. On croise un paquet de cord��es emmen��es par des guides, et quelques patriotes am��ricains. Faudra lui dire que c���est d��j�� les US ici, pas besoin de planter le "
+    [:del {} "b��ton"]
+    " drapeau.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0136.png?w=400&h=604"},
+   :width 400,
+   :height 604,
+   :alt "DSC_0136"}
+  {:type :paragraph,
+   :content
+   "Le soleil tape, il fait chaud et on bronze. Conseil de pro: ne pas oublier de se tartiner de cr��me solaire (je garde les photos gores au chaud pour plus tard)."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0140.png?w=400&h=265"},
+   :width 400,
+   :height 265,
+   :alt "DSC_0140"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0146.png?w=400&h=604"},
+   :width 400,
+   :height 604,
+   :alt "DSC_0146"}
+  {:type :paragraph,
+   :content "Une fois l��-haut on est content, alors on sourit."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0153.png?w=400&h=265"},
+   :width 400,
+   :height 265,
+   :alt "DSC_0153"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0155.png?w=400&h=265"},
+   :width 400,
+   :height 265,
+   :alt "DSC_0155"}
+  {:type :paragraph,
+   :content
+   "Quand on commence �� avoir des crampes �� la bouche, on redescend. Beaucoup plus marrant, en mode luge ou course."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0166.png?w=400&h=604"},
+   :width 400,
+   :height 604,
+   :alt "DSC_0166"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0182.png?w=400&h=265"},
+   :width 400,
+   :height 265,
+   :alt "DSC_0182"}
+  {:type :paragraph,
+   :content
+   "Arriv��e en bas: euh surprise. Pas mal d���habitants de la r��gion de Seattle viennent ici pour goutter aux joies de la neige. Certains dans des tenues plut��t inhabituelles (ou alors c���est des prototypes pour la saison hiver 2012)."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0188.png?w=400&h=604"},
+   :width 400,
+   :height 604,
+   :alt "DSC_0188"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0192.png?w=400&h=265"},
+   :width 400,
+   :height 265,
+   :alt "DSC_0192"}
+  {:type :paragraph,
+   :content
+   ("Repos m��rit��, direction le camping pour glander au coin du feu. Quelques heures �� fl��ner le long de "
+    [:a {:href "http://fr.wikipedia.org/wiki/Lac_Union"} "Lake Union"]
+    " avant de rentrer �� la maison.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0199.png?w=400&h=265"},
+   :width 400,
+   :height 265,
+   :alt "DSC_0199"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0218.png?w=400&h=265"},
+   :width 400,
+   :height 265,
+   :alt "DSC_0218",
+   :caption "Drive Inn old style"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0227.png?w=400&h=265"},
+   :width 400,
+   :height 265,
+   :alt "DSC_0227",
+   :caption "Lake Union et son Expo de bateau en bois ! (Seattle)"}],
+ :title "Seattle reloaded",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "seattle-reloaded",
+ :source-id "1704",
+ :blog "avesdepaso",
+ :visibility :public}

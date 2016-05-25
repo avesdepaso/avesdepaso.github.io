@@ -1,0 +1,199 @@
+{:updated-at #inst "2014-09-26T04:12:06.133-00:00",
+ :tags #{:argentine},
+ :cover
+ {:width 678,
+  :height 1024,
+  :provider :flickr,
+  :user-id "96129378@N07",
+  :category-id "72157636626220784",
+  :id
+  {:id "10313932016",
+   :farm-id 6,
+   :server-id "5497",
+   :photoset-id nil,
+   :secret "0c0df736dc",
+   :original-secret nil,
+   :original-format nil}},
+ :published-at #inst "2013-10-21T02:26:06.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "De retour en Patagonie pour El Calafate et sa petite soeur El Chalten, bien nomm��e la capitale nationale de la randonn��e. Nous profitons �� fond du temps incroyable et d���un ciel parfait qui, aux dires des locaux, ne se manifeste que tr��s rarement plusieurs jours de suite. Pour nous ce sera toute la semaine!"}
+  {:type :photo,
+   :width 450,
+   :id
+   {:original-format "jpg",
+    :secret "5071f79cca",
+    :id "10313961313",
+    :farm-id "8",
+    :server-id "7344"},
+   :provider :flickr,
+   :height 298}
+  {:type :photo,
+   :width 450,
+   :id
+   {:original-format "jpg",
+    :secret "bc064dcc06",
+    :id "10313776465",
+    :farm-id "8",
+    :server-id "7397"},
+   :provider :flickr,
+   :height 298}
+  {:type :paragraph,
+   :content
+   "El Calafate est connue pour son glacier atypique: le p��rito Moreno. El ���perito��� Moreno, c���est avant tout un explorateur Argentin qui a donn�� son nom �� la moiti�� de tout ce qui se trouve dans la Patagonie argentine. ��Le village proche de la mine o�� Annec passe des vacances 2 semaines par mois s���appelle aussi Perito Moreno. En Argentine son nom est devenu synonyme du glacier. Ironie du sort, il ne l���a jamais vu."}
+  {:type :photo,
+   :width 450,
+   :id
+   {:original-format "jpg",
+    :secret "c1d04a7368",
+    :id "10351108795",
+    :farm-id "4",
+    :server-id "3697"},
+   :provider :flickr,
+   :height 298}
+  {:type :paragraph,
+   :content
+   "Le Perito Moreno est l���un des rares glaciers de la Patagonie �� stagner: en fait il avance mais est bloqu�� par une avanc��e de terre, provoquant quotidiennement d���impressionnantes chutes de blocs de glace. L���activit�� du coin en faite: on se poste pendant des heures �� l���aff��t de la chute des plus gros blocs. Vu l���intensit�� mentale concentr��e sur ces pans de glaces, ils devraient exploser avant m��me de toucher l���eau."}
+  {:type :photo,
+   :width 371,
+   :id
+   {:original-format "jpg",
+    :secret "17213f1278",
+    :id "10313723105",
+    :farm-id "6",
+    :server-id "5527"},
+   :provider :flickr,
+   :height 560}
+  {:type :paragraph,
+   :content
+   "Les choses deviennent plus s��rieuses en arrivant dans le village d���El Chalten, au nord du parc Nacional Los Glaciares. 3 jours de randonn��e en autonomie autour des Cerro Torre et Fitz Roy, parmi les plus belles montagnes au monde, presque seuls. Retour aux sources!"}
+  {:type :photo,
+   :width 450,
+   :id
+   {:original-format "jpg",
+    :secret "4ccc86da02",
+    :id "10313875163",
+    :farm-id "4",
+    :server-id "3685"},
+   :provider :flickr,
+   :height 298}
+  {:type :photo,
+   :width 371,
+   :id
+   {:original-format "jpg",
+    :secret "f204e0b657",
+    :id "10314141693",
+    :farm-id "3",
+    :server-id "2808"},
+   :provider :flickr,
+   :height 560}
+  {:type :photo,
+   :width 371,
+   :id
+   {:original-format "jpg",
+    :secret "bebcb855bc",
+    :id "10314109873",
+    :farm-id "4",
+    :server-id "3739"},
+   :provider :flickr,
+   :height 560}
+  {:type :photo,
+   :width 450,
+   :id
+   {:original-format "jpg",
+    :secret "d7f2ccd24a",
+    :id "10351099206",
+    :farm-id "8",
+    :server-id "7352"},
+   :provider :flickr,
+   :height 298}
+  {:type :paragraph,
+   :content
+   "En prime le dernier jour un petit chemin anodin se transforme en magnifique rando avec bonne petite marche dans la neige et magnifique vue comme r��compense."}
+  {:type :photo,
+   :width 450,
+   :id
+   {:original-format "jpg",
+    :secret "058d1d750d",
+    :id "10313911775",
+    :farm-id "4",
+    :server-id "3693"},
+   :provider :flickr,
+   :height 298}
+  {:type :photo,
+   :width 371,
+   :id
+   {:original-format "jpg",
+    :secret "27b03ccbce",
+    :id "10313932016",
+    :farm-id "6",
+    :server-id "5497"},
+   :provider :flickr,
+   :height 560}
+  {:type :paragraph,
+   :content
+   "Changement de plan de derni��re minute, direction Rio Gallegos, le fief des Kirchner. Difficile de faire moins sexy, la ville est un hub p��trolier tr��s morose. Apparemment l���argent du p��trole n���est pas r��investi ici ��� Mais plus au sud, juste �� la fronti��re avec le chili, direction une r��serve naturelle o�� des milliers de pingouins de Magellan nidifient chaque ann��e. 2 heures de voyage all�� en taxi sur du ripio (route de terre), ca se m��rite! Mais ca vaut largement le coup."}
+  {:type :photo,
+   :width 450,
+   :id
+   {:original-format "jpg",
+    :secret "d2b9468d56",
+    :id "10313896416",
+    :farm-id "3",
+    :server-id "2819"},
+   :provider :flickr,
+   :height 298}
+  {:type :photo,
+   :width 450,
+   :id
+   {:original-format "jpg",
+    :secret "67bc1ac4ab",
+    :id "10313885226",
+    :farm-id "6",
+    :server-id "5471"},
+   :provider :flickr,
+   :height 298}
+  {:type :paragraph,
+   :content
+   ("Pour finir direction une estancia pour une journ��e de Gaucho. Plut��t touristique mais l���occasion de se replonger dans le quotidien des premiers occidentaux �� avoir peupl�� la r��gion. Pour le sort r��serv�� aux populations originelles vous pouvez vous renseigner "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Patagonie#Colonisation"}
+     "l��"]
+    ".")}
+  {:type :photo,
+   :width 450,
+   :id
+   {:original-format "jpg",
+    :secret "76111386f9",
+    :id "10313998083",
+    :farm-id "8",
+    :server-id "7357"},
+   :provider :flickr,
+   :height 298}
+  {:type :photo,
+   :width 371,
+   :id
+   {:original-format "jpg",
+    :secret "a3e4f57b83",
+    :id "10351136905",
+    :farm-id "8",
+    :server-id "7317"},
+   :provider :flickr,
+   :height 560}
+  {:type :photo,
+   :width 450,
+   :id
+   {:original-format "jpg",
+    :secret "81a3b940e1",
+    :id "10351129616",
+    :farm-id "6",
+    :server-id "5528"},
+   :provider :flickr,
+   :height 298}],
+ :title "Le paradis du randonneur",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "le-paradis-du-randonneur",
+ :source-id "2696",
+ :blog "avesdepaso",
+ :visibility :public}

@@ -1,0 +1,56 @@
+{:updated-at #inst "2009-06-11T15:23:42.000-00:00",
+ :tags #{:equateur},
+ :cover
+ {:provider :wordpress,
+  :id
+  {:url
+   "https://vadrouilles.files.wordpress.com/2009/06/img_4525-50.jpg?w=199&h=300"},
+  :type :photo,
+  :width 199,
+  :height 300,
+  :alt "Cathédrale de Cuenca",
+  :caption "Cathédrale de Cuenca"},
+ :published-at #inst "2009-06-11T15:23:42.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Après Les galapagos, retour sur terre pour visiter la métropole de l'Equateur. Nous passons par Cuenca, ville coloniale où nous nous contentons de musées, du marché, de ballades, de ciné et de la découverte du Panama (de son vrai nom Monte Cristi)."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4529-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Le cireur de chaussures",
+   :caption "Le cireur de chaussures"}
+  {:type :paragraph,
+   :content
+   "Nous ne pouvions pas passer à côté : le panama, ce chapeau qui donne trop la classe ! Nous rentrons dans la boutique du célèbre Don Alberto Pulla, maestro du Panama qui depuis l'âge de 6 ans grâce à un apprentissage sur le tas avec son papa fabrique des chapeaux, autant dire qu'à son âge, il maîtrise le toucher du fameux chapeau."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4530-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Don Alberto Pulla - Fabricant de panama",
+   :caption "Don Alberto Pulla - Fabricant de panama"}
+  {:type :paragraph,
+   :content
+   "Il nous emmène dans son pays des merveilles et nous fait découvrir tous ses modèles : y en a pour tous les prix de 15 à 200 $ !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4533-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Le séchage du panama",
+   :caption "Le séchage du panama"}],
+ :title "Cuenca et le Panama",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "cuenca-et-le-panama",
+ :source-id "957",
+ :blog "avesdepaso",
+ :visibility :public}

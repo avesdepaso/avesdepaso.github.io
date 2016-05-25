@@ -1,0 +1,31 @@
+{:updated-at #inst "2011-11-18T07:23:33.000-00:00",
+ :tags #{:vancouver},
+ :published-at #inst "2011-11-15T08:18:35.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Nous aussi on soutient "
+    [:a {:href "http://www.movember.com/"} "movember"]
+    " �� notre fa��on.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/11/moustache.jpg?w=400&h=277"},
+   :width 400,
+   :height 277,
+   :alt "moustache"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/11/dsc_0016.jpg?w=403&h=265"},
+   :width 403,
+   :height 265,
+   :alt "DSC_0016"}],
+ :title "Movember",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "movember",
+ :source-id "1932",
+ :blog "avesdepaso",
+ :visibility :public}

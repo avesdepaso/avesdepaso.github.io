@@ -1,0 +1,169 @@
+{:updated-at #inst "2011-02-05T17:43:12.000-00:00",
+ :tags #{:laos},
+ :published-at #inst "2011-02-05T16:19:12.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Lors de notre voyage le but ��tait aussi de rentrer en contact avec les  nombreuses ethnies locales. Parmi les plus repr��sent��es figurent les  Lao, les Hmongs, les Khamu ou encore les Akha. Ces diff��rentes tribus  sont apparues au Laos par la force des migrations, l���histoire des  peuples, la politique ��� On sort ainsi de Luang Prabang pour aller �� la rencontre des peuples lao et autres ethnies du Nord du pays."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050521.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1050521",
+   :caption "Les ��coliers"}
+  {:type :paragraph,
+   :content
+   "On d��couvre sur la route les rizi��res et les travailleurs en manche longue alors qu���il fait un temps magnifique et chaud !! on apprend par la suite qu���ils se couvre du soleil pour ne pas ressembler au paysan vis �� vis des populations urbaines."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050157.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1050157",
+   :caption "Replantation dans les rizi��res"}
+  {:type :paragraph,
+   :content
+   "Nous arrivons au petit matin �� Vieng Phukha vers 5h30���. il fait encore nuit et on est �� la rue��� le village s�����veille : le coq fait son cocorico habituelle et embarque par la m��me tous ces copains dans un orchestre magistral ! On entend les pleurs d���un b��b�� derri��re quelques feuilles de bamboo en guise de mur, les chiens refont surface et d��marre leur errance pour la journ��e et on assiste �� l���arriv��e des agricultrices du coin avec leur panier remplis d���herbes et autres fruits et l��gumes. Il est 6h, elle courent s���installer �� leur emplacement au march�� du village."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060081.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060081",
+   :caption "Marche au pas pour rejoindre le march��"}
+  {:type :paragraph,
+   :content
+   "On ne manquera pas de leur acheter quelques produits avant de partir pour la jungle ! En effet, �� 8h, le g��rant qui s���occupe d���une petite agence d�����co-tourisme du coin vient de se lever et il ouvre sa porte��� il nous accueille et nous propose de partir une heure plus tard pour 3 jours de marche dans la jungle alentours afin de rencontrer les ethnies Hmongs, Lahu, Khamu, Akha et Khui. On fait la rencontre de Sikkam qui sera notre guide pour ce p��riple qui sans lui n���aurait pu se faire. Les guides ici, sont en fait des locaux qui ont longtemps emprunt��s les chemins verts et humides."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050941.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1050941",
+   :caption "Une cas au milieu de la jungle"}
+  {:type :paragraph,
+   :content
+   "On marche des heures durant �� traverser des rizi��res puis �� p��n��trer dans la jungle o�� l���on fait rapidement connaissance avec les sangsues et la g��n��rosit�� de la flore ici-bas��� les repas se mangent sur feuille de bananier !!! C���est tr��s adventure style !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p10600651.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1060065",
+   :caption "Une nelle assiette de riz"}
+  {:type :paragraph,
+   :content
+   "Nous arrivons finalement dans un village de Lahu et Hmongs (Ban Nam Paman et Ban Nam Noi) o�� nous ne manquons pas de participer �� la f��te du jour de l���an. Les jeunes filles sont �� la chor��graphie tandis que les gar��ons s���occupent du son ou �� boire le lao-lao (alcool de riz local) �� l���int��rieur de maisons de bamboo."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050984.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1050984",
+   :caption "Ca joue de partout !"}
+  {:type :paragraph,
+   :content
+   "Il y a des enfants partout !!! nous sommes entour��s �� ce moment l�� de 300 personnes environ. Et il n���y a aucun autre touriste �� part nous ! On se sent presque ext��rieur."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050981.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1050981",
+   :caption "Femme Hmongs"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060009.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060009",
+   :caption "Femmes Lahu"}
+  {:type :paragraph,
+   :content
+   "Notre rencontrons par ailleurs une jeune Hmong qui a r��ussi �� ��tudier (pas facile dans le coin) en ville et parle un peu anglais. Ils nous raconte un peu son histoire. Il a 26 ans mais n���a pu rejoindre l�����cole que tardivement mais il esp��re pouvoir monter un business dans son village en ouvrant une petite ��picerie, ce genre de boutique n���existe pas au village, chacun faisant sa tambouille."}
+  {:type :paragraph,
+   :content
+   "Aussi, je tombe raide dingue de ces femmes qui portent leur enfant avec un bout de tissu ! J���ai finalement achet�� le m��me par la suite ���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060025.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1060025",
+   :caption "G��nial le porte b��b��"}
+  {:type :paragraph,
+   :content
+   "Nous poursuivons notre route le lendemain pour rejoindre un village de 4 maisons. Wahouuuu���. on s���est senti hors du commun. Quel calme��� un homme est entrain de se faire une machette, les femmes sont �� la cuisine et les enfants s���approchent pour en savoir un peu plus sur nos bouilles de touristes."}
+  {:type :paragraph,
+   :content
+   "On passe en revue les images d���un bouquin ou plus particuli��rement les peintures de Frida Khalo (eh oui, j���ai lu sa biographie ��� en Asie!), on regarde ensemble les photos de voyage��� C���est craquant de voir comment ils sont ��merveill��s par ce que tu leur montre mais je ne suis pas sur qu���il en comprenne le sens parfois. Ici l�����ducation n���existe pas���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060056.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060056",
+   :caption "2��me village"}
+  {:type :paragraph,
+   :content
+   "Ce p��riple nous a convaincue de pleins de choses mais encore plus du ���Bon pegnian��� attitude��� je vous explique. Ici au Laos, la plupart des locaux sont religieusement rattach�� au Bouddhisme, ce qui fait d���eux d�����ternels hommes au destin dessin�� o�� la r��incarnation apr��s la mort ne fera d���eux des hommes toujours plus heureux et plus riches. La mort n���est donc pas un probl��me. C���est comme ��a, c���est pas grave, Bon Pegnian���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050150.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1050150",
+   :caption "Sur la route"}
+  {:type :paragraph,
+   :content
+   ("Cet ��tat d���esprit est propre au Boudhisme en g��n��ral mais s���y ajoute chez les Lao, la d��brouillardise et le souhait de ne pas toujours vouloir ��voluer (bien que les jeunes prennent la main). On a donc pas crois�� d���usines ou d���industrie en dehors de Vientiane. La capitale vient d���ouvrir�� en 2010 son premier supermarch�� (dont le 2��me ��tage est encore ferm��). La chine s���empare tout doucement mais surement des parts de march��s et la France se charge de d��velopper le tourisme �� tout va��� mais le Lao dans tout ��a devient assez rapidement d��pendant de ce syst��me sans se soucier vraiment de l�����volution ���en tout cas il y a une chose qu���ils ont bien compris c���est la fixation des prix "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"]
+    " un sandwich nutella se vend en janvier 2011 10000 kips partout dans le nord du Laos. Ainsi, il n���y pas n��gociation possible et leur tarifs restent les m��mes voir vont augmenter puisqu���il commencent tout de m��me �� conna��tre le business eh !")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050690.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1050690",
+   :caption "Ciao Laos"}
+  {:type :paragraph, :content ([:em {} "Merci �� :"])}
+  {:type :paragraph,
+   :content
+   "Nit pour nous avoir h��berg�� quelques nuits �� Vientiane"}
+  {:type :paragraph,
+   :content
+   "Val��rian et Manila pour nous avoir fait d��couvrir la culture et les bons plans"}
+  {:type :paragraph,
+   :content
+   "Encore Val��rian pour les photos que tu m���as envoy�� !! (quleques unes affich��es sur le blog sont les tiennes)"}],
+ :title "Une semaine au milieu des peuples",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "une-semaine-au-milieu-des-peuples",
+ :source-id "1328",
+ :blog "avesdepaso",
+ :visibility :public}

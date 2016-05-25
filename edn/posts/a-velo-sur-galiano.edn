@@ -1,0 +1,132 @@
+{:updated-at #inst "2011-08-04T06:46:38.000-00:00",
+ :tags #{:vancouver},
+ :published-at #inst "2011-08-04T06:46:38.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("On en rêvait, on a essayé, on a aimé. "
+    [:a
+     {:title "Galiano Island",
+      :href "http://en.wikipedia.org/wiki/Galiano_Island"}
+     "Galiano"]
+    " Island à vélo "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/p1070456.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "P1070456",
+   :caption "Ca commence par le ferry"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/p1070466.png?w=400&h=533"},
+   :width 400,
+   :height 533,
+   :alt "P1070466",
+   :caption "Un poil charg��"}
+  {:type :paragraph,
+   :content
+   ("Avec 45 minutes de vélo par jour et des ballades chaque WE, on s'est dit qu'un WE entier à pédaler nous tenterai bien. Les gulf islands sont un bon terrain d'essai pour les amateurs. Un peu de skytrain (métro local), un peu de bus, un peu de bateau et on débarque avec nos 2 vélos, une tente, et 2 sacoches !! Ouai les sacoches ça le fait bien "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"]
+    " A peine le pied sur l'île, on actionne les pédales et c'est parti pour 2 journées ensoleillées (par je ne sais quel miracle!).")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/p1070582.png?w=400&h=533"},
+   :width 400,
+   :height 533,
+   :alt "P1070582",
+   :caption "Tonnerre mécanique"}
+  {:type :paragraph,
+   :content
+   "Galiano, c'est une ile qui ressemble à une banane de 30 kilomètres. Elle a 3 parcs protégés, une réserve indienne, des plages à tomber par terre, peu de touristes, des sealions."}
+  {:type :paragraph,
+   :content
+   "Nous avions décidé d'en faire les coins, les recoins. bingo ! On se teste d'abord sur les routes. Ca monte et ca descend sans cesse mais on s'en sort, je dirais même qu'on aime ca ! En fait, moi je suis devenu un peu addict depuis que je prends mon vélo tous les matins. Quand on a faim ou qu'on fatigue, on s'arrête sur un ptit bout de plage déserte."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/p1070540.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "P1070540"}
+  {:type :paragraph,
+   :content
+   ("Et puis on roule encore jusqu'à rencontrer LE lac de l'île. On croise au dessus de nous des tas d'oiseaux dont l'aigle américain ! Y en a tout pleins par chez nous "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :paragraph,
+   :content
+   "On découvre qu'à vélo, nos yeux sont en éveil. On voit tout pleins de trucs qu'on verrait peut-être pas en voiture ou en bus. La petite biche qui broute sur le bord de route ou la paon qui trainasse au soleil"}
+  {:type :paragraph,
+   :content
+   "Et on roule encore jusqu'à arriver au bout de l'île qui est en fait une réserve indienne. Les réserves indiennes sont des terrains privés que l'on ne peut pénétrer. On découvre à l'entrée de leur terrain une magnifique vieille carcasse de bateau."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/p1070519.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "P1070519"}
+  {:type :paragraph,
+   :content
+   "Le camping où l'on a prévu de dormir est normalement juste derrière la réserve si on regarde le topo de l'île. Mais comment y parvenir ? Bonjour madame, dites vous savez comment rejoindre le camp d'ici ?"}
+  {:type :paragraph,
+   :content
+   "Réponse de madame : il vous faut revenir en arrière pour prendre une autre route."}
+  {:type :paragraph,
+   :content
+   "Résultat : 2h de route en plus dans les jambes pour atteindre le camp ! Mais on ne regrette pas! C'est le plus beau des campings dans lequel on ai dormi je crois. Super wild (nature), au bord de mer, avec une plage des plus sauvages tout comme la flore qui nous entoure."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/p1070527.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "P1070527",
+   :caption "T&#39;es pas un peu perdu toi??"}
+  {:type :paragraph,
+   :content
+   "Ici les campings ressemblent à de vrais petits nids dans la nature. On préserve au maximum la nature. Pas de point d'eau potable (ça ferait mal à la terre de se voir coller un tuyau d'eau potable jusque là), pas de douche, juste une paire de toilettes bio !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/p1070578.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "P1070578"}
+  {:type :paragraph,
+   :content
+   "Que du bonheur ce petit WE à pédaler et profiter de la nature."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/p1070570.png?w=400&h=533"},
+   :width 400,
+   :height 533,
+   :alt "P1070570"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/p1070571.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "P1070571",
+   :caption "Hmmm kayak"}],
+ :title "A vélo sur Galiano",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "a-velo-sur-galiano",
+ :source-id "1694",
+ :blog "avesdepaso",
+ :visibility :public}

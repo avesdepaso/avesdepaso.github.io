@@ -1,0 +1,393 @@
+{:updated-at #inst "2014-09-26T03:51:39.915-00:00",
+ :tags #{:argentine :amerique-du-sud},
+ :cover
+ {:width 1024,
+  :user-id "96129378@N07",
+  :category-id "72157640203890154",
+  :id
+  {:photoset-id nil,
+   :original-format nil,
+   :secret "2e27d2e603",
+   :original-secret nil,
+   :id "12165667196",
+   :farm-id 4,
+   :server-id "3827"},
+  :provider :flickr,
+  :height 678},
+ :published-at #inst "2014-02-03T02:59:00.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Janvier, c���est le mois de renouvellement de notre saint graal : le VISA! Alors c���est parti pour ��� Mendoza!"}
+  {:type :paragraph,
+   :content
+   "L���an pass�� nous l���avons fait en bus (20hrs), cette ann��e ce sera en avion (1.30hrs). C���est comme si on ��tait des habitu��s, on sort de l���a��roport et on file au bureau des migrants. On croise les m��mes t��tes de l���an pass��. On nous reconna��t. On passe par le bureau de Gloria puis de Mariana et la���. on nous indique qu���il manque un papier���. aille���."}
+  {:type :paragraph,
+   :content
+   "M. papote avec G. et hop le tour est jou��, plus besoin de papier. Yeah!!"}
+  {:type :paragraph,
+   :content
+   "On a notre renouvellement pour un an et il nous reste 10 jours pour profiter du coin. C���est partiiiiii!!"}
+  {:type :paragraph, :content "MENDOZA"}
+  {:type :paragraph,
+   :content
+   ("Mendoza, c���est la troisi��me fois qu���on y met les pieds. La premi��re fois, c�����tait moche, froid, on manquait de se faire agresser par des gosses de 12 ans. L���an pass��, on est rest�� 6hrs en ville le temps de r��gulariser nos papiers���. Cette ann��e, nous avons pris le temps de vadrouiller dans le barrio et���� notre plus grand plaisir! Une ville en fleur, sous la chaleur, sa "
+    [:a
+     {:title "Rambla", :href "http://fr.wikipedia.org/wiki/Rambla"}
+     "rambla"]
+    ", ses places, et ���.. "
+    [:a
+     {:href
+      "http://www.experiencemendoza.com/en/things-to-do/shopping/brillat-savarin/"}
+     "Brillat "]
+    [:a
+     {:href
+      "http://www.experiencemendoza.com/en/things-to-do/shopping/brillat-savarin/"}
+     "Savarin"]
+    ", une p��tisserie���� la francaise comme il y en a tr��s peu en Argentine��� du pain qui ressemble���� une vraie baguette, de la brioche qui fond dans la bouche, des medialunas (croissants) bien feuilleut��es, des macarons top m��ga originaux (pour m���en souvenir dans 10 ans: orange triple sec, malbec/cassis, mente)���.. bref, un cadeau tomb�� du ciel pour nous franchouillards!!")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640203890154",
+   :id
+   {:id "12165402356",
+    :farm-id 8,
+    :server-id "7442",
+    :photoset-id nil,
+    :secret "d9a182b961",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photo,
+   :width 472,
+   :id
+   {:original-format "jpg",
+    :secret "db1fcab56c",
+    :id "12165381316",
+    :farm-id "8",
+    :server-id "7343"},
+   :provider :flickr,
+   :height 312}
+  {:type :photo,
+   :width 530,
+   :id
+   {:original-format "jpg",
+    :secret "e67cffeb74",
+    :id "12164944933",
+    :farm-id "3",
+    :server-id "2847"},
+   :provider :flickr,
+   :height 351}
+  {:type :paragraph, :content ("VALLECITOS")}
+  {:type :paragraph,
+   :content
+   ("Le Cordon del Plata se trouve���� 2 heures de Mendoza, cette cha��ne de montagnes qui pr��c��de les Andes! C���est un peu un endroit cool pour s���acclimater���� l���altitude et s���entra��ner aux activit��s de haute montagne. Momo et Mika connaissent bien! "
+    [:span {:title ";-)", :class "wp-smiley emoji emoji-wink"} ";-)"])}
+  {:type :photo,
+   :width 1024,
+   :height 768,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640203890154",
+   :id
+   {:id "12020516183",
+    :farm-id 4,
+    :server-id "3797",
+    :photoset-id nil,
+    :secret "92666be845",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   "Cette fois-ci, nous avions pour projet de grimper le Cerro Vallecitos (5450m)."}
+  {:type :paragraph,
+   :content
+   "Une petite bi��re chez Adrian avant de partir, ultime caf��/resto de montagne."}
+  {:type :photo,
+   :width 407,
+   :id
+   {:original-format "jpg",
+    :secret "47d01a9056",
+    :id "12165069735",
+    :farm-id "8",
+    :server-id "7397"},
+   :provider :flickr,
+   :height 614}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640203890154",
+   :id
+   {:id "12165375234",
+    :farm-id 4,
+    :server-id "3779",
+    :photoset-id nil,
+    :secret "fed8749178",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photo,
+   :width 473,
+   :id
+   {:original-format "jpg",
+    :secret "935aea9747",
+    :id "12165399694",
+    :farm-id "4",
+    :server-id "3697"},
+   :provider :flickr,
+   :height 314}
+  {:type :photo,
+   :width 678,
+   :height 1024,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640203890154",
+   :id
+   {:id "12165460454",
+    :farm-id 8,
+    :server-id "7418",
+    :photoset-id nil,
+    :secret "1e7428a956",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Tout va bien jusqu���au camp de base Salto de agua (4300m). Juste le temps de monter la tente, ranger les sacs et on commence par une petite bruine���� la bretonne���.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640203890154",
+   :id
+   {:id "12165122003",
+    :farm-id 4,
+    :server-id "3752",
+    :photoset-id nil,
+    :secret "976413df03",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640203890154",
+   :id
+   {:id "12165103033",
+    :farm-id 4,
+    :server-id "3792",
+    :photoset-id nil,
+    :secret "a54c90808f",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("On sourit en se disant que ca va s���arr��ter dans l���apr��s-midi. Mais, apr��s la bruine, c���est au tour de la gr��le de passer par l�����mmmh d���accord��� on annule la marche d���approche du jour���� 4600m vu que l��-haut on y voit rien���ca sent mauvais le sommet. En effet, nous restons enferm�� dans la tente une apr��s-midi et une nuit en raison d���une gentille temp��te de neige et d���un orage qui n���arrivait malheureusement pas���� sortir du cirque de montagnes dans lequel nous nous trouvions���sortie pr��vue juste pour pipi/remplissage de bouteille d���eau/lavage de dents.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640203890154",
+   :id
+   {:id "12165253904",
+    :farm-id 4,
+    :server-id "3771",
+    :photoset-id nil,
+    :secret "85e4b27ca2",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("J���aime le camping mais quand ca mouille, je me rend malade. Julien avait bien adopt�� Marta, la carpa (tente) mais j���avoue qu���elle m���avait pas tout prouv��e���� moi. Et bien je dois dire que rien���� dire en fait! On est pas trop mal rest��s au sec malgr�� l���humidit�� forc��e. Merci Marta!")}
+  {:type :photo,
+   :width 678,
+   :height 1024,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640203890154",
+   :id
+   {:id "12165326484",
+    :farm-id 3,
+    :server-id "2880",
+    :photoset-id nil,
+    :secret "be184e3ff2",
+    :original-secret nil,
+    :original-format nil},
+   :caption "FRIOOOOOOO"}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640203890154",
+   :id
+   {:id "12164851435",
+    :farm-id 4,
+    :server-id "3781",
+    :photoset-id nil,
+    :secret "7fd62649eb",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Good morning"}
+  {:type :paragraph,
+   :content
+   "On retourne���� la base du trek bredouille, sans m��me apercevoir le Vallecitos une seule seconde derri��re nous��� la temp��te bat son plein l��-haut���"}
+  {:type :paragraph,
+   :content
+   "On se reprend une petite bi��re chez Adrian et on appelle Pedro, le seul taxi driver du coin qui te ram��ne au village le plus proche pour faire la connexion avec le colectivo."}
+  {:type :paragraph,
+   :content
+   "S��chage de la tente au retour a Mendoza sous un soleil de plomb!"}
+  {:type :photo,
+   :width 442,
+   :id
+   {:original-format "jpg",
+    :secret "b77f4f2ba5",
+    :id "12164597275",
+    :farm-id "4",
+    :server-id "3705"},
+   :provider :flickr,
+   :height 293}
+  {:type :paragraph, :content "SAN MARTIN DE LOS ANDES"}
+  {:type :paragraph,
+   :content
+   ("Notre destin argentin nous ram��ne toujours���� San Martin de los Andes ces derniers temps. Il y a un an que nous avions choisi cette bourgade comme nouvelle destination et dans un mois nous r��aliserons notre projet!")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640203890154",
+   :id
+   {:id "12164428025",
+    :farm-id 6,
+    :server-id "5510",
+    :photoset-id nil,
+    :secret "45247dc640",
+    :original-secret nil,
+    :original-format nil},
+   :caption "San Martin de los Andes"}
+  {:type :paragraph,
+   :content
+   ("La veille, on appelle pour se r��server une petite chambre d���ho(s)tel mais ���no hay lugar���, ���completo���. San Martin ���a Pleno��� comme on dit ici���. c���est la saison haute et de nombreux locaux viennent y passer leur semaine de vacances. ok pour le Camping? ���. OK!!")}
+  {:type :paragraph,
+   :content
+   "Et qu���est ce qui fait son apparition ?? la pluie!! ici, le climat est similaire���� Vancouver. C���est pour ca qu���on a choisi cette ville nan? Peu importe, tout le reste est tellement cool, qu���on apercoit un rayon de soleil dans chaque grosse goutte de flotte."}
+  {:type :paragraph,
+   :content
+   "Visite d���apparts au programme ��� 5 jours pour trouver notre appart ��� On est lundi ��� on a fait 20 agences (95% des agences de la ville) ����� visit�� 2 apparts."}
+  {:type :paragraph,
+   :content "C���est tout ce qu���il y a de disponible ���. mmh ok"}
+  {:type :photo,
+   :width 491,
+   :id
+   {:original-format "jpg",
+    :secret "97d5064db6",
+    :id "12165223046",
+    :farm-id "3",
+    :server-id "2817"},
+   :provider :flickr,
+   :height 326}
+  {:type :paragraph,
+   :content
+   ("M���enfin, un des deux appart correpond : cool style, pleins de fen��tres, une place de parking pour Fernanda (notre future voiture), vue sur le lac Lacar!!! On craque, on signe, c���est paquet�� en DEUX jours.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640203890154",
+   :id
+   {:id "12164597093",
+    :farm-id 3,
+    :server-id "2816",
+    :photoset-id nil,
+    :secret "59a2630235",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Lac Lacar"}
+  {:type :paragraph,
+   :content
+   ("Un petit rayon soleil finit par pointer le bout de son nez avant de quitter la ville. On file au mirador Bandurrias pour d��couvrir le WILD qui va nous entourer���� partir de Mars. Wahouuuuu!")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640203890154",
+   :id
+   {:id "12164393055",
+    :farm-id 6,
+    :server-id "5477",
+    :photoset-id nil,
+    :secret "f8bd1e1ef8",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Panorama depuis le Mirador Bandurrias"}
+  {:type :paragraph, :content "A dans un mois���"}
+  {:type :paragraph, :content "NEUQUEN"}
+  {:type :paragraph,
+   :content
+   "Notre voyage prend fin���� Neuquen, capital de la province qui porte le m��me nom. A ���seulement��� 7hrs de bus de San Martin de los Andes, nous reprendrons l���avion pour Buenos Aires. Sur la carte, NQN ne ressemble���� rien. En vrai, c���est pas si mal!!"}
+  {:type :paragraph,
+   :content
+   "Neuquen est au milieu de l���Argentine, en pleine Patagonie nordique = d��sert sec et poussi��reux, mesetas (forme de vieux tepuy grignot��)���Mais fait partie de ces villes actives : en avant la propret�� dans les espaces publics, mus��es sur l���histoire de la ville et ses pionniers, am��nagement de parcours sportifs, son paseo de la costa au bord du R��o Limay, son ancienne gare��� Neuquen, tu m���a surpris!!"}
+  {:type :paragraph,
+   :content
+   ("Tout comme���� Mendoza, jusque dans les ann��es 90���s, le train passait par l��. Depuis le gouvenement Menem (l���homme de la privatisation des services), le service ferroviairre a ��t�� privatis�� et abandonn�� a d��faut de fonds��� Depuis les "
+    [:a
+     {:href
+      "http://www.flechabus.com.ar/organiza-tu-viaje/nuestros-servicios"}
+     "bus cama"]
+    " ont pris le march��! Ciao le train��� On trouve encore beaucoup de rails et vieilles gares abandonn��es partout en Argentine.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640203890154",
+   :id
+   {:id "12164540013",
+    :farm-id 4,
+    :server-id "3779",
+    :photoset-id nil,
+    :secret "96187805de",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   "On s���est m��lang�� une apr��s-midi avec les neuquinos au bord du rio Limay."}
+  {:type :photo,
+   :width 491,
+   :id
+   {:original-format "jpg",
+    :secret "a09137d1d6",
+    :id "12164937066",
+    :farm-id "4",
+    :server-id "3772"},
+   :provider :flickr,
+   :height 326}
+  {:type :photo,
+   :width 491,
+   :id
+   {:original-format "jpg",
+    :secret "f549f4b657",
+    :id "12163905825",
+    :farm-id "3",
+    :server-id "2877"},
+   :provider :flickr,
+   :height 326}
+  {:type :paragraph,
+   :content
+   "Bref, nous n���avons pas fini de d��couvrir ses environs���. vignobles, d��couvertes pal��ontologiques, agroturisme!"}
+  {:type :paragraph, :content "Fin du voyage, retour Buenos Aires."}],
+ :title "P��lerinage �� Mendoza et plus���.",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "pelerinage-a-mendoza-et-plus",
+ :source-id "2722",
+ :blog "avesdepaso",
+ :visibility :public}

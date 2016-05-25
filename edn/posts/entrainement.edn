@@ -1,0 +1,47 @@
+{:updated-at #inst "2009-02-02T13:23:57.000-00:00",
+ :cover
+ {:provider :wordpress,
+  :id
+  {:url
+   "https://vadrouilles.files.wordpress.com/2009/02/dscn1785.jpg?w=150&h=112"},
+  :type :photo,
+  :alt "dscn1785"},
+ :published-at #inst "2009-02-02T13:20:33.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ([:a
+     {:href "http://en.wikipedia.org/wiki/Man_vs._Wild"}
+     "Seul face �� la nature"]
+    ", "
+    [:a
+     {:href "http://en.wikipedia.org/wiki/Survivorman"}
+     "Survivorman"]
+    ", "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/The_Argentine"}
+     "Che: L���Argentin"]
+    ", "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Guerrilla"}
+     "Che: Guerilla"]
+    [:a
+     {:href
+      "http://fr.wikipedia.org/wiki/Aguirre,_la_col%C3%A8re_de_Dieu"}
+     ", Aguirre"]
+    ", "
+    [:a
+     {:href
+      "http://www.jiraidormirchezvous.com/index-fr.php?page=accueil"}
+     "J���irai dormir chez vous"]
+    ", "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Carnets_de_voyage"}
+     "Carnets de voyage"]
+    "��� on est bon l��!!")}],
+ :title "Entrainement",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "entrainement",
+ :source-id "459",
+ :blog "avesdepaso",
+ :visibility :public}

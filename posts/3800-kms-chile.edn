@@ -1,0 +1,414 @@
+{:updated-at #inst "2015-08-16T20:03:15.858-00:00",
+ :cover
+ {:width 240,
+  :type :photo,
+  :id
+  {:photoset-id nil,
+   :original-format nil,
+   :secret "1af6436bd3",
+   :original-secret nil,
+   :id "20180973376",
+   :farm-id 1,
+   :server-id "301"},
+  :provider :flickr,
+  :height 159},
+ :published-at #inst "2015-08-16T20:03:19.129-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Le Chili est juste à côté de chez nous et nous craignions de partir sans en avoir vu tous les recoins des régions alentours à San Martin de los Andes : O' Higgins, Del Maule, Biobio, Auraucania, Los Rios, Los Lagos qui sont les régions les plus vertes! Le Van nous aura permis de découvrir un nouveau chili et aussi de profiter des coins que nous avions beaucoup aimé par le passé."
+    [:br {}]
+    [:br {}]
+    [:span
+     {:style "line-height: 28.7999992370605px;"}
+     "Pour avoir un petit aperçu du Tour, c'est par"]
+    [:a
+     {:style "line-height: 28.7999992370605px;",
+      :href
+      "https://www.google.com.br/maps/dir/Puerto+Varas,+X+Regi%C3%B3n,+Chili/Lota,+Chili/Constituci%C3%B3n,+Chili/Vichuqu%C3%A9n,+Chili/Pichilemu,+Chili/Curacaut%C3%ADn,+Chili/Puc%C3%B3n,+Chili/Petrohu%C3%A9,+Chili/Puerto+Varas,+Chili/@-37.7533856,-77.0810306,6z/data=!3m1!4b1!4m61!4m60!1m5!1m1!1s0x96177a4de813c08f:0xd3a56f4bd2de8c16!2m2!1d-72.9833!2d-41.3167!1m10!1m1!1s0x9669eae9e4fe5fd5:0x7f045f0b4283de55!2m2!1d-73.1545822!2d-37.0920575!3m4!1m2!1d-72.7153798!2d-36.2863286!3s0x966861fc2387079d:0x3972e69683949d3a!1m5!1m1!1s0x96665f4687ed19f5:0x18b1075e8c2e2b21!2m2!1d-72.4167!2d-35.3333!1m5!1m1!1s0x9666a11991135cbb:0xe56f3ceb03dc4edb!2m2!1d-71.9953972!2d-34.8837446!1m5!1m1!1s0x966159df9f3f3af1:0x39b7f415a42b4f30!2m2!1d-72.0047731!2d-34.3867245!1m5!1m1!1s0x966cae36fb756e9f:0xa8fad04edc7d0a73!2m2!1d-71.8876695!2d-38.4401849!1m5!1m1!1s0x96147f42351988d1:0x3c5c238b02dc5935!2m2!1d-71.9776285!2d-39.2722541!1m5!1m1!1s0x961761646bbe2707:0xc6949dbf57d15ab5!2m2!1d-72.4078406!2d-41.1409781!1m5!1m1!1s0x96177a4de813c08f:0xd3a56f4bd2de8c16!2m2!1d-72.9833!2d-41.3167!3e0"}
+     "ici"]
+    [:br {}]
+    [:br {}]
+    [:i
+     {}
+     "Chile Es solamente a unos kms de la casa y queriamos evitar irnos sin haber visto los rincones de las regiones alrededores : O'Higgins, Del Maule, Biobio, Auraucania, Los Rios, Los Lagos. Le Van nos habra permitido descubrir un Otro Chile y tambien aprovechamos para volver en lugares que nos han gustado en el pasado."]
+    [:br {}]
+    "Para tener idea del Tour, click"
+    [:a
+     {:href
+      "https://www.google.com.br/maps/dir/Puerto+Varas,+X+Regi%C3%B3n,+Chili/Lota,+Chili/Constituci%C3%B3n,+Chili/Vichuqu%C3%A9n,+Chili/Pichilemu,+Chili/Curacaut%C3%ADn,+Chili/Puc%C3%B3n,+Chili/Petrohu%C3%A9,+Chili/Puerto+Varas,+Chili/@-35.9172815,-72.9336917,10z/data=!4m61!4m60!1m5!1m1!1s0x96177a4de813c08f:0xd3a56f4bd2de8c16!2m2!1d-72.9833!2d-41.3167!1m10!1m1!1s0x9669eae9e4fe5fd5:0x7f045f0b4283de55!2m2!1d-73.1545822!2d-37.0920575!3m4!1m2!1d-72.7153798!2d-36.2863286!3s0x966861fc2387079d:0x3972e69683949d3a!1m5!1m1!1s0x96665f4687ed19f5:0x18b1075e8c2e2b21!2m2!1d-72.4167!2d-35.3333!1m5!1m1!1s0x9666a11991135cbb:0xe56f3ceb03dc4edb!2m2!1d-71.9953972!2d-34.8837446!1m5!1m1!1s0x966159df9f3f3af1:0x39b7f415a42b4f30!2m2!1d-72.0047731!2d-34.3867245!1m5!1m1!1s0x966cae36fb756e9f:0xa8fad04edc7d0a73!2m2!1d-71.8876695!2d-38.4401849!1m5!1m1!1s0x96147f42351988d1:0x3c5c238b02dc5935!2m2!1d-71.9776285!2d-39.2722541!1m5!1m1!1s0x961761646bbe2707:0xc6949dbf57d15ab5!2m2!1d-72.4078406!2d-41.1409781!1m5!1m1!1s0x96177a4de813c08f:0xd3a56f4bd2de8c16!2m2!1d-72.9833!2d-41.3167!3e0"}
+     "aqua"]
+    [:br {}]
+    [:br {}]
+    [:b {} "LE PACIFIQUE"]
+    [:br {}]
+    [:br {}]
+    "Un coin peu connu et peu touristique est bien la côte pacifique entre Lota et Pichilemu. Cette frange de mer nous a laissé un sentiment désordonné et différent des zones proches des Andes Sud."
+    [:br {}]
+    [:br {}]
+    "On découvre dans la région que les entreprises du bois ont la main sur des milliers kms de terrain. Une des principales sources économiques de la région est la Sylviculture : plantation, culture et traitement de sapins (cas du Chili)! On découvre les côtes chiliennes vierges mais privées et pleines de sapins, surprenant pour un bord de mer!! Les entreprises ont même parfois les pieds dans l'océan. Pour le bon fonctionnement de leurs production, il semble que l'eau soit un must. Du coup, on se dérange pas trop, on profite du front de mer pour produire du papier."
+    [:br {}]
+    [:br {}]
+    "La population travaille principalement dans le ce secteur. Les villes de Concepcion et Constitucion ressemblent par endroits à des villes dortoirs."
+    [:br {}]
+    [:br {}]
+    [:i
+     {}
+     [:b {} "EL PACIFICO"]
+     [:br {}]
+     "Un lugar menos conocido quizas y poco turistico... la costa pacifica entre Lota y Pichelemu. Esta franja del oceano nos ha dejado un gusto un poco desordenado y otra vision de las zonas del sur mas turisticas."
+     [:br {}]
+     [:br {}]
+     "Descubrimos que en esta region, las empresas cultivadoras de madera tiene la mano en milles de kms de terrenos. Una de las mayores fuentes economica es la sylvicultura : plantacion, cultura y tratamiento de arboles. Descubrimos unas costas virgenes pero privadas y llenas de pinos, sorprendente por un borde de oceano!! Las empresas tienen hasta los pies en el agua ya que para funcionar, precisan mucha agua. Por eso, no se molestan tanto. Se aprovechan el frente del oceano para producir papel."
+     [:br {}]
+     [:br {}]
+     "La poblacion parece vivir mucho de este sector. las ciudades de Concepcion y Constitucion parecen en ciertos lugares en ciudades dormitorios."])}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "8e581c686b",
+    :original-secret nil,
+    :id "19900223586",
+    :farm-id 1,
+    :server-id "277"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("Nous avons du sapin plein la vue pendant environ 5 jours jusqu'à ce que nous atteignons la region De O'Higgins. Les santiaguinos ont découvert de belles terres et se sont installés petit à petit pour former des hameaux au bord des lacs ou au bord de l'océan."
+    [:br {}]
+    [:br {}]
+    [:i
+     {}
+     "Hemos tenido millones de pinos durante por lo menos 5 d��as hasta alcanzar la regi��n de O&#39;Higgins. Los Santiaguinos han descubiertos tierras bellas en el interior y se han instalados poco a poco hasta formar pueblitos perdidos en los bordes de lagos o del oceano."])}
+  {:type :photoset,
+   :caption "Village Cobquecura",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "90cbaf807f",
+       :original-secret nil,
+       :id "20021873760",
+       :farm-id 4,
+       :server-id "3737"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "0515a8a2a0",
+       :original-secret nil,
+       :id "20209877745",
+       :farm-id 4,
+       :server-id "3680"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "b96337edfb",
+       :original-secret nil,
+       :id "20199119902",
+       :farm-id 1,
+       :server-id "361"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photoset,
+   :caption "AlgoWild",
+   :photos
+   [[{:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "de0844dac5",
+       :original-secret nil,
+       :id "19588997013",
+       :farm-id 1,
+       :server-id "298"},
+      :provider :flickr,
+      :height 240}
+     {:width 159,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "1ca8d85bcc",
+       :original-secret nil,
+       :id "20201754492",
+       :farm-id 1,
+       :server-id "327"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :photoset,
+   :caption "Hameau Vichuqu��n",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "65b69c0324",
+       :original-secret nil,
+       :id "19587582384",
+       :farm-id 1,
+       :server-id "446"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "b17cdb3c34",
+       :original-secret nil,
+       :id "19587544984",
+       :farm-id 1,
+       :server-id "534"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "3cb571cb50",
+       :original-secret nil,
+       :id "20201991492",
+       :farm-id 1,
+       :server-id "473"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photoset,
+   :caption "Villages c��tiers : Cobquecura et Curanipe",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "35d8d03374",
+       :original-secret nil,
+       :id "19926500635",
+       :farm-id 1,
+       :server-id "562"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "38621bb876",
+       :original-secret nil,
+       :id "20022120908",
+       :farm-id 1,
+       :server-id "442"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :paragraph,
+   :content
+   ("Ils ont aussi cr���� la capitale mondiale du surf : Pichelemu. Enfin, avant d&#39;��tre un site reconnu pour ses vagues, les incas, puis les mapuches, puis les espagnols sont pass�� par l��."
+    [:br {}]
+    [:br {}]
+    [:i
+     {}
+     "Tambi��n, se ha creado la capital��mundial��del Surf : Pichelemu. Pero,��antes��de ser sitio��famoso��por sus olas, los incas, luego los mapuches, luego los espa��oles han pasado por estas tierras."])}
+  {:type :photoset,
+   :caption "Punta de Lobos - Pichelemu",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "ddf780cd21",
+       :original-secret nil,
+       :id "19739854809",
+       :farm-id 1,
+       :server-id "459"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "b00108af5d",
+       :original-secret nil,
+       :id "19926419155",
+       :farm-id 1,
+       :server-id "404"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :photoset,
+   :photos
+   [[{:width 159,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "dec0844e7a",
+       :original-secret nil,
+       :id "19926301625",
+       :farm-id 1,
+       :server-id "520"},
+      :provider :flickr,
+      :height 240}
+     {:width 159,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "81ee1f0e2a",
+       :original-secret nil,
+       :id "19303754094",
+       :farm-id 4,
+       :server-id "3801"},
+      :provider :flickr,
+      :height 240}
+     {:width 159,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "c83cdcd648",
+       :original-secret nil,
+       :id "19739644069",
+       :farm-id 1,
+       :server-id "410"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :paragraph, :content ([:b {} "LES ANDES CHILIENNES"])}
+  {:type :paragraph,
+   :content
+   ("Bien s��r les montagnes nous attirent toujours autant et nous profitons du retour vers les p��turages argentins pour longer les andes et p��n��trer les sentiers plus ��loign��s. Malheureusement c&#39;est l&#39;hiver, la majorit�� des parcs sont ferm��s ou inaccessibles �� notre Van.")}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "4d433cdc86",
+       :original-secret nil,
+       :id "19899330906",
+       :farm-id 1,
+       :server-id "516"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "c393c672dd",
+       :original-secret nil,
+       :id "19917336152",
+       :farm-id 1,
+       :server-id "273"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :paragraph,
+   :content
+   ("On aper��oit quand m��me au loin le magnifique volcan "
+    [:a
+     {:href
+      "https://fr.wikipedia.org/wiki/Parc_national_Conguill%C3%ADo"}
+     "Conguillio"]
+    ".��")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "577bdbd180",
+    :original-secret nil,
+    :id "19737796488",
+    :farm-id 1,
+    :server-id "382"},
+   :provider :flickr,
+   :height 135}
+  {:type :paragraph,
+   :content
+   ("Les routes sont gel��es, ��a patine, les touristes finissent dans les foss��s: on prend nos pr��cautions en roulant tranquillement. Le temps de profiter d&#39;un mat��.")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "61e4a6c35a",
+    :original-secret nil,
+    :id "19931092721",
+    :farm-id 1,
+    :server-id "334"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("Plus au sud on rejoint le fameux volcan Calbuco, celui-l�� m��me qui a recouvert "
+    [:a
+     {:href "http://avesdepaso.refug.io/cendres/"}
+     "San Martin de cendres"]
+    " quelques mois auparavant et o�� l&#39;on s&#39;est enfonc�� dans les "
+    [:a
+     {:href
+      "http://avesdepaso.refug.io/dans-les-entrailles-du-volcan-calbuco/"}
+     "cendres mouvantes"]
+    ". Ici les stigmates sont omnipr��sents et nous permettent d&#39;appr��cier les forces de la nature.")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "564e622b8a",
+    :original-secret nil,
+    :id "20208260321",
+    :farm-id 1,
+    :server-id "489"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ("Au pied du volcan, un magnifique lac qui sert de fronti��re avec l&#39;Argentine. On peut passer les douanes par bateau mais uniquement sans v��hicules. Une prochaine fois!")}
+  {:type :photo,
+   :caption "Vous avez vu 50 fois cette photo? Moi aussi!",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "071f654ac5",
+    :original-secret nil,
+    :id "19581134493",
+    :farm-id 4,
+    :server-id "3767"},
+   :provider :flickr,
+   :height 159}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "3e01005320",
+    :original-secret nil,
+    :id "20014296860",
+    :farm-id 1,
+    :server-id "543"},
+   :provider :flickr,
+   :height 158}
+  {:type :photo,
+   :caption "Hasta luego, Chile!",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "a578ce1b73",
+    :original-secret nil,
+    :id "19737482248",
+    :farm-id 4,
+    :server-id "3797"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ("Finalement retour chez nous, le temps de finaliser las bagages, rendre l&#39;appartement et partir pour notre prochaine destination!")}],
+ :title "3800 KMS - Chile",
+ :locations
+ ({:latitude -23.222940299999998,
+   :longitude -44.7228371,
+   :accuracy 67}),
+ :id "3800-kms-chile",
+ :blog "avesdepaso",
+ :visibility :public}

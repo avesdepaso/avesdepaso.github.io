@@ -1,0 +1,237 @@
+{:updated-at #inst "2014-09-27T18:10:18.755-00:00",
+ :tags #{:amerique-du-sud :chili},
+ :cover
+ {:width 1024,
+  :user-id "96129378@N07",
+  :category-id "72157647675239457",
+  :id
+  {:photoset-id nil,
+   :original-format nil,
+   :secret "3790b3fbe9",
+   :original-secret nil,
+   :id "15177228878",
+   :farm-id 4,
+   :server-id "3892"},
+  :provider :flickr,
+  :height 678},
+ :published-at #inst "2013-06-20T13:46:02.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "1 an 1/2 en Argentine et on avait toujours pas mis les pieds chez son voisin le Chili���"}
+  {:type :paragraph,
+   :content
+   "Sans vouloir dire que l���argentin se fait copain avec le chilien, les deux pays sont par endroit tr��s en couple. Depuis plusieurs si��cles, la main d���oeuvre des 2 pays se bouscule aux fronti��res pour aller travailler dans le pays voisin."}
+  {:type :paragraph,
+   :content
+   ("Les vols sont pas chers et Santiago n���est qu����� 2h30 de vol depuis Buenos Aires.")}
+  {:type :paragraph,
+   :content
+   "Certaines plages du Chili sont plus chaudes que toute la c��te argentine r��unie���alors ��a attire les argentins en manque de balneo."}
+  {:type :paragraph,
+   :content ("Bref, nous voil�� parti 10 jours au Chili !")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647675239457",
+   :id
+   {:id "15177074329",
+    :farm-id 3,
+    :server-id "2943",
+    :photoset-id nil,
+    :secret "21d1a056b2",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Cordillere des Andes"}
+  {:type :paragraph,
+   :content
+   ("Le vol est magique! Nous rentrons en saison hivernale et les premi��res neiges sont tomb��es sur la cordill��re!! Les cha��nes de montagnes sont rev��tues de leur robe blanche et fra��che "
+    [:span
+     {:title ":-)", :class "wp-smiley emoji emoji-smile"}
+     ":-)"])}
+  {:type :paragraph,
+   :content
+   ("Tout juste apr��s, c���est le Chili. Santiago se trouve tr��s proche des montagnes (ce qui en fait un ville id��al pour 2 randonneurs comme nous!)")}
+  {:type :photo,
+   :caption "Santiago - Providencia��",
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647675239457",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "6d67418a57",
+    :original-secret nil,
+    :id "15176982789",
+    :farm-id 4,
+    :server-id "3841"},
+   :provider :flickr,
+   :height 678}
+  {:type :photo,
+   :width 678,
+   :user-id "96129378@N07",
+   :category-id "72157647675239457",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "3357f3342e",
+    :original-secret nil,
+    :id "15177158108",
+    :farm-id 3,
+    :server-id "2946"},
+   :provider :flickr,
+   :height 1024}
+  {:type :paragraph,
+   :content
+   "Santiago : une ville beaucoup plus calme que Buenos Aires. Les chiliens ne crient pas en parlant et le c��t�� canchero (���je me la raconte���) a tout d���un coup disparu���"}
+  {:type :paragraph,
+   :content
+   ("Santiago c���est un peu comme vivre au Canada parfois : c���est propre, on y trouve des espaces de recyclages, le v��lo est un must, il y a des grands trottoirs �� la nord am��ricaine dans certains quartiers et les parcs sont relativement bien entretenus. On est ��poustoufl�� "
+    [:span {:title ":-)", :class "wp-smiley emoji emoji-smile"} ":-)"]
+    " ��� ce style est peu commun en Am��rique Latine.")}
+  {:type :paragraph,
+   :content
+   ("Bien que proche des montagnes, Santiago de Chile est en faite entour��e de montagnes���. la cuvette provoque une concentration de pollution et quand ��a se voit, c���est beurk!!")}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647675239457",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "f4aa864611",
+    :original-secret nil,
+    :id "15177047050",
+    :farm-id 4,
+    :server-id "3928"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   ("Mais bon, rien �� c��t�� de l���achalandage de poisson��et crustac��s du march��!!!")}
+  {:type :photoset,
+   :caption "March�� et Chupe de mariscos",
+   :photos
+   [[{:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647675239457",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "b516cdd33f",
+       :original-secret nil,
+       :id "15363801635",
+       :farm-id 3,
+       :server-id "2946"},
+      :provider :flickr,
+      :height 678}
+     {:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647675239457",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "bafab9466d",
+       :original-secret nil,
+       :id "15340783966",
+       :farm-id 4,
+       :server-id "3894"},
+      :provider :flickr,
+      :height 678}]]}
+  {:type :paragraph,
+   :content
+   ("Santiago de Chile est notre point d���entr��e au Chili depuis Buenos Aires. Nous aurons l���occasion de recroiser le ph��nom��ne lors de nos prochaines aventures chiliennes. Tout un tas de truc �� faire dans ce coin du monde���")}
+  {:type :photoset,
+   :caption "mapa",
+   :photos
+   [[{:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647675239457",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "3790b3fbe9",
+       :original-secret nil,
+       :id "15177228878",
+       :farm-id 4,
+       :server-id "3892"},
+      :provider :flickr,
+      :height 678}]
+    []]}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647675239457",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "cdb11fcdbe",
+    :original-secret nil,
+    :id "15363816995",
+    :farm-id 4,
+    :server-id "3917"},
+   :provider :flickr,
+   :height 1024}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647675239457",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "29bed2a576",
+    :original-secret nil,
+    :id "15177270697",
+    :farm-id 4,
+    :server-id "3855"},
+   :provider :flickr,
+   :height 522}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647675239457",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "e9f7669605",
+       :original-secret nil,
+       :id "15177065350",
+       :farm-id 3,
+       :server-id "2942"},
+      :provider :flickr,
+      :height 678}
+     {:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647675239457",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "cd429a0706",
+       :original-secret nil,
+       :id "15177007309",
+       :farm-id 3,
+       :server-id "2947"},
+      :provider :flickr,
+      :height 678}
+     {:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647675239457",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "493a77967c",
+       :original-secret nil,
+       :id "15360597761",
+       :farm-id 3,
+       :server-id "2946"},
+      :provider :flickr,
+      :height 678}]]}],
+ :title "Un p���ti tour chez notre voisin���",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "un-pti-tour-chez-notre-voisin",
+ :source-id "2579",
+ :blog "avesdepaso",
+ :visibility :public}

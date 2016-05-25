@@ -1,0 +1,77 @@
+{:updated-at #inst "2013-04-02T00:16:46.000-00:00",
+ :tags #{:buenos-aires},
+ :published-at #inst "2013-04-02T00:16:46.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Ah un petit d��m��nagement! Le troisi��me ici quand m��me. Quel bonheur que de transbahuter tout son bordel accumul�� au cours de l���ann��e! Hein quoi? Ah on me dit que non finalement."}
+  {:type :paragraph,
+   :content
+   "Juste le temps de faire 32 passages au distributeur pour accumuler les 2 kilos de papiers n��cessaires aux quelques mois de loyer et on arrive."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/04/p1080172.jpg?w=450&h=337"},
+   :width 450,
+   :height 337,
+   :alt "P1080172",
+   :caption "Monopoly argentin"}
+  {:type :paragraph,
+   :content
+   "Pour tous les malheureux qui n���auront pas le plaisir de nous rendre visite (quoi y en a??) quelques photos accompagn��es de commentaires �� teneur humoristique (jajaja, si ca vous fait pas rire normal, c���est de l���humour argentin)."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/03/dsc_0352.jpg?w=450&h=298"},
+   :width 450,
+   :height 298,
+   :alt "DSC_0352",
+   :caption
+   ("Coin bureau: pas de place pour le hamac "
+    [:span {:class "wp-smiley emoji emoji-sad", :title ":("} ":("])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/03/dsc_0357.jpg?w=450&h=679"},
+   :width 450,
+   :height 679,
+   :alt "DSC_0357",
+   :caption "Superbe cuisine agr��ment��e de trucs"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/03/dsc_0367.jpg?w=450&h=679"},
+   :width 450,
+   :height 679,
+   :alt "DSC_0367",
+   :caption "Jardin tropical"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/03/dsc_0364.jpg?w=450&h=298"},
+   :width 450,
+   :height 298,
+   :alt "Jungle",
+   :caption "Jungle"}
+  {:type :paragraph,
+   :content
+   "On l���a jou�� petit bras, notre nouvel appart est �� quelques centaines de m��tres de l���ancien. Plus facile pour d��m��nager. Bon y a une voie ferr��e entre quand m��me! Quelques allez-retours en brouette (et barbecue) plus tard on retrouve enfin notre cher bordel."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/04/p1080175.jpg?w=450&h=337"},
+   :width 450,
+   :height 337,
+   :alt "P1080175"}],
+ :title "Mudanza",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "mudanza",
+ :source-id "2491",
+ :blog "avesdepaso",
+ :visibility :public}

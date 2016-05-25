@@ -1,0 +1,97 @@
+{:updated-at #inst "2015-09-26T14:23:07.408-00:00",
+ :cover
+ {:width 240,
+  :height 180,
+  :id
+  {:id "19646287094",
+   :farm-id 4,
+   :server-id "3825",
+   :photoset-id nil,
+   :secret "6c9ce2ba0e",
+   :original-secret nil,
+   :original-format nil},
+  :provider :flickr,
+  :type :photo},
+ :published-at #inst "2015-08-08T14:39:31.825-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Contrairement à l'Argentine le Chili dispose d'autoroutes très similaires à celles que l'on trouve en France: double-voies minimum, péages, barrières de protection, ..."
+    [:br {}]
+    "Bien sûr on reste en Amérique du sud et il faut s'attendre à quelques surprises."
+    [:br {}]
+    [:br {}]
+    "Durant nos nombreuses heures passées sur le bitume on a pu observer:"
+    [:br {}]
+    "* des joggeurs"
+    [:br {}]
+    "* des cochons entre les deux voies"
+    [:br {}]
+    "* des cyclistes en tenue"
+    [:br {}]
+    "* un cycliste roulant à gauche le long de la barrière de protection, un sac de linge énorme sur le guidon (lui c'est mon champion)"
+    [:br {}]
+    "* des arrêts de bus"
+    [:br {}]
+    "* des panneaux avertissants de la possibilité de la traversée de piétons"
+    [:br {}]
+    "* des piétons"
+    [:br {}]
+    "* des auto-stoppeurs"
+    [:br {}]
+    "* des baraques à frites"
+    [:br {}]
+    "* des charrettes"
+    [:br {}]
+    "* des voitures en marche arrière sur la bande d'arrêt d'urgence"
+    [:br {}]
+    "* des tracteurs"
+    [:br {}]
+    "* et bien sûr de la pluie"
+    [:br {}]
+    [:br {}]
+    "Un pays dans le pays! Avec les omni présentes stations service COPEC on pourrait très bien y passer ses vacances.")}
+  {:type :photo,
+   :caption "Arrêt de bus",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "04d53ef149",
+    :original-secret nil,
+    :id "19302834244",
+    :farm-id 1,
+    :server-id "446"},
+   :provider :flickr,
+   :height 240}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "8fe94fc862",
+    :original-secret nil,
+    :id "20260517392",
+    :farm-id 1,
+    :server-id "560"},
+   :provider :flickr,
+   :height 240}
+  {:type :photo,
+   :caption "Attention aux piétons",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "dc824f4252",
+    :original-secret nil,
+    :id "20274684551",
+    :farm-id 1,
+    :server-id "519"},
+   :provider :flickr,
+   :height 240}],
+ :title "Highway to Chile",
+ :locations
+ ({:latitude -40.1603084, :longitude -71.3580128, :accuracy 40}),
+ :id "highway-to-chile",
+ :blog "avesdepaso",
+ :visibility :public}

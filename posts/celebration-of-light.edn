@@ -1,0 +1,34 @@
+{:updated-at #inst "2011-11-14T05:47:57.000-00:00",
+ :tags #{:vancouver},
+ :published-at #inst "2011-08-07T04:46:35.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("A l'occasion du BC Day (1er Août), la ville ne rate aucune opportunité de faire la fête "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"]
+    " Et l'été la tendance, c'est le feu d'artifice !! Nous fêtons pendant une semaine le Celebration of Light !")}
+  {:type :paragraph,
+   :content
+   ("Sauf qu'ici, les 3 majors de la ville cette année sont les canadiens, les chinois et les espagnols ! Donc, la ville prévoit carrément un concours de feu d'artifice pour représenter les 3 populations les plus importantes à Vancouver "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :paragraph,
+   :content
+   "Dès 6h, tout le monde se dirige vers les espaces verts qui entourent le False Creek pour avoir la meilleure place ! Les canadiens ramènent le pic-nic/BBQ et les chaises longues. on s'installe en famille ! Quand au chinois, j'en ai croisé une ribambelle sur le Burrard Bridge (méga place pour faire des photos !!!) avec leur camera dernier modèle dans une main et le sandwich dans l'autre !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0023.jpg?w=400&h=604"},
+   :width 400,
+   :height 604,
+   :alt "DSC_0023",
+   :caption "Lumières et bateau dans le False creek"}
+  {:type :paragraph,
+   :content
+   "Retour sur le feu d'Artifice : le plus beau que j'ai jamais vu ! Pas tant surprise par les pétards et leurs lumières mais par l'environnement ! La ville a mis les pétards sur un cargo en plein False Creek pour que tout Vancouver puisse participer au show. Les bateaux des différents ports de plaisance sont de sortie, leur loupiotes sur l'eau rend l'affaire assez sympa! Et ca donne ça..."}],
+ :title "Celebration of Light !",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "celebration-of-light",
+ :source-id "1787",
+ :blog "avesdepaso",
+ :visibility :public}

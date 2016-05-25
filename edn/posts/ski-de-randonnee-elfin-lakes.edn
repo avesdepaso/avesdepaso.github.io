@@ -1,0 +1,170 @@
+{:updated-at #inst "2014-09-27T18:43:26.140-00:00",
+ :tags #{:vancouver :canada},
+ :cover
+ {:width 678,
+  :user-id "96129378@N07",
+  :category-id "72157647675232717",
+  :id
+  {:photoset-id nil,
+   :original-format nil,
+   :secret "d0ae2b245f",
+   :original-secret nil,
+   :id "15362263191",
+   :farm-id 4,
+   :server-id "3922"},
+  :provider :flickr,
+  :height 1024},
+ :published-at #inst "2011-12-31T02:00:36.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Le mois de d��cembre nous a bien occup�����. quittant bient��t le pays, on a ��t�� doublement motiv�� pour occuper nos WE dehors !"}
+  {:type :paragraph,
+   :content
+   ("Alors voil��, nos copains Ida et Fix sont bien motiv��s par le Ski de randonn��e et nous ont propos�� un bapt��me "
+    [:span {:title ";-)", :class "wp-smiley emoji emoji-wink"} ";-)"]
+    " On adore les bapt��mes et d��couvrir des nouveaux sports, alors Go, go, go���.")}
+  {:type :paragraph,
+   :content
+   "Tout commence �� 18h quand on prend la route pour Elfin Lakes���passage de 0 �� 1200 m��tres sous la pluie ���puis sous la neige��� On enfile les tenues de skis, on d��couvre notre nouveau mat��riel : skis de randonn��e, peaux et package de s��curit�� : bipeur, pelle, sonde !"}
+  {:type :photo,
+   :caption "Initiation au Ski de Randonn��e",
+   :alt "DSC_0032",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/12/dsc_0032.jpg?w=450&h=679"},
+   :provider :wordpress,
+   :height 679}
+  {:type :paragraph,
+   :content
+   ("20h : il fait bien nuit et on d��marre notre marche de 2h sous la neige avant d���atteindre le refuge qui fera office de maison pour la nuit ! Ah comme on aime ��a���. Marcher dans la nuit avec tes skis, c���est vraiment top, tout seul, c���est silencieux ���")}
+  {:type :photo,
+   :caption "Arriving at the shelter",
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647675232717",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "415cd5a8a8",
+    :original-secret nil,
+    :id "15178688179",
+    :farm-id 4,
+    :server-id "3891"},
+   :provider :flickr,
+   :height 818}
+  {:type :paragraph,
+   :content
+   "22h, arriv��e au refuge ! Quelle chance, un type qui voyage lui aussi de nuit a chauff�� le refuge pour nous���. une aubaine pour les 4 mouill��s ! Ce refuge n�����tant pas pr��vu pour dormir, nous sommes bons pour coucher au sol avec un jour de 1 cm entre chaque planche de bois��� heureusement le vent ne s���y glisse pas tant il y a de la neige���"}
+  {:type :photo,
+   :caption "Un po��le d'enfer pour avoir peu pr��s chaud !",
+   :alt "DSC_0033",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/12/dsc_0033.jpg?w=450&h=679"},
+   :provider :wordpress,
+   :height 679}
+  {:type :photoset,
+   :caption "Peau de Phoque a s��cher",
+   :photos
+   [[{:width 678,
+      :user-id "96129378@N07",
+      :category-id "72157647675232717",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "c56cb395ae",
+       :original-secret nil,
+       :id "15178915697",
+       :farm-id 3,
+       :server-id "2947"},
+      :provider :flickr,
+      :height 1024}
+     {:width 678,
+      :user-id "96129378@N07",
+      :category-id "72157647675232717",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "d0ae2b245f",
+       :original-secret nil,
+       :id "15362263191",
+       :farm-id 4,
+       :server-id "3922"},
+      :provider :flickr,
+      :height 1024}]
+    []
+    []]}
+  {:type :paragraph,
+   :content
+   "Cette nuit l��, il a bien neig����� et le lendemain le soleil est arriv�� ! Nous avons poursuivi notre ascension en haut d���une colline��� par ce que c���est pas tout mais on aimerait bien faire un peu de glisse apr��s cette longue marche ! Durant notre ascension on apprend des nouvelles techniques : la marche avec des skis de rando, les bons mouvements dans les virages (zig-zag), la lecture des montagnes���"}
+  {:type :photo,
+   :alt "Aille Aille Aille, ce soleil !",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/12/dsc_0058.jpg?w=450&h=679"},
+   :provider :wordpress,
+   :height 679}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647675232717",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "7d91145677",
+    :original-secret nil,
+    :id "15365104972",
+    :farm-id 3,
+    :server-id "2950"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   ("Petite pause au sommet et d��jeuner pain-charcuterie-fromage ! Avant de se lancer la descente "
+    [:span {:title ";-)", :class "wp-smiley emoji emoji-wink"} ";-)"]
+    " Rien de bien difficile �� part que l���on ne sait pas bien skier dans la poudreuse��� l�� encore, il nous faut d��velopper des nouveaux mouvements ��� les chutes feront partie de notre apprentissage���")}
+  {:type :photo,
+   :width 678,
+   :user-id "96129378@N07",
+   :category-id "72157647675232717",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "4f0c39ac81",
+    :original-secret nil,
+    :id "15178652389",
+    :farm-id 3,
+    :server-id "2950"},
+   :provider :flickr,
+   :height 1024}
+  {:type :paragraph,
+   :content
+   ("Je crois bien qu���on a eu le coup de foudre pour ce sport���. ultime pour les ���montagnards��� : se hisser soi m��me au sommet des montagnes et faire sa trace dans une neige vierge, c���est le pied "
+    [:span {:title ";-)", :class "wp-smiley emoji emoji-wink"} ";-)"])}
+  {:type :paragraph,
+   :content ("Merci Ida &amp; Fix pour cette initiation !")}
+  {:type :photo,
+   :width 24,
+   :height 24,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647675232717",
+   :id
+   {:id "15365316705",
+    :farm-id 3,
+    :server-id "2946",
+    :photoset-id nil,
+    :secret "bdd06706a0",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :video, :id "34360293", :provider :vimeo}],
+ :title "Ski de randonn��e ��� Elfin Lakes",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "ski-de-randonnee-elfin-lakes",
+ :source-id "1999",
+ :blog "avesdepaso",
+ :visibility :public}

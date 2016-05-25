@@ -1,0 +1,105 @@
+{:updated-at #inst "2012-04-21T22:53:24.000-00:00",
+ :tags #{:argentine :amerique-du-sud :buenos-aires},
+ :published-at #inst "2012-04-21T22:53:24.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Le calendrier nous annon��ait un petit weekend de 4 jours ��� et comme on avait envie d���un peu de calme, de nature, de camping���nous avons regard�� la carte d���Argentine et nous avons mis le doigt sur Sierra de Cordoba."}
+  {:type :paragraph,
+   :content
+   "Sans montagne, on s���ennui un peu maintenant ��� alors quoi de mieux que d���aller se d��gourdir un peu les jambes et vivre la sierra sans klaxon ni pollution, hein?"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/04/dsc_1090gimp.jpg?w=360&h=543"},
+   :width 360,
+   :height 543,
+   :alt "DSC_1090Gimp",
+   :caption "La Sierra juste pour nous"}
+  {:type :paragraph,
+   :content
+   ("Nous somme jeudi soir, il est 22h et nous prenons le bus pour la ville Cordoba : 9h de bus pour arriver �� notre destination finale au centre de l���Argentine. Les 9h de route nous font pas trop peur��� on est m��me super excit�� ! Ca nous rappelle notre vadrouille en Am��rique du Sud "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"]
+    " Enfin rapidement, l���excitation redescend, les n��ons du bus s�����teignent et on tombe rapidement dans le sommeil jusqu����� 7h du matin���")}
+  {:type :paragraph,
+   :content
+   ("Et hop, nous voil�� dans les rues de Cordoba ! Sauf que depuis Cordoba, on est pas encore arriv�� �� notre destination favorite : la nature et les grands espaces ! Pour ��a, nous prenons un autre "
+    [:em {} "colectivo"]
+    " (bus) qui nous d��pose 2h plus tard sur le bord de la route �� c��t�� du panneau : ���"
+    [:a
+     {:href
+      "http://www.condoritoapn.com.ar/fotogaleria/galeria-de-fotos/"}
+     "Parque national Quebrada del condorito"]
+    "���")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/04/dsc_1128gimp.jpg?w=450&h=297"},
+   :width 450,
+   :height 297,
+   :alt "DSC_1128gimp",
+   :caption "Sierra de Cordoba"}
+  {:type :paragraph,
+   :content
+   "Eh ah ce moment l��, on s���est vraiment senti en vacances ! Autour de nous, de la caillasse , un bon 30��C bien sec, des chevaux qui broutent, et un sentier de rando ! Ah comme on est heureux���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/04/dsc_1136gimp.jpg?w=450&h=297"},
+   :width 450,
+   :height 297,
+   :alt "DSC_1136gimp",
+   :caption "Aaaahh le beau chardon !"}
+  {:type :paragraph,
+   :content
+   "Alors voil��, nous avons ensuite pass�� 2 jours dans ce joli parc qui r��uni un paquet de condors. C���est leur lieu pr��f��r�� pour apprendre aux b��b��s condors les techniques du vol, du flan��ge dans les courants d���air chaud de la Sierra. Nous suivons les cr��tes jusqu����� croiser l���Oiseau : Le Condor. ��Sachez que le condor papa, fait 3 m��tres d���envergures en vol ! C���est le plus grand oiseau du monde oui !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/04/dsc_1076_2gimp.jpg?w=360&h=543"},
+   :width 360,
+   :height 543,
+   :alt "DSC_1076_2gimp",
+   :caption "Canyon del Condorito"}
+  {:type :paragraph,
+   :content
+   "On pouvait pas voyager sans passer du temps sous la tente, si bien qu���apr��s 10kms de marche, on a pos�� la tente �� c��t�� d���un vieux refuge de pierre sous les oliviers. Un vrai ciel avec des vraies ��toiles et un bon dodo !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/04/dsc_1121.jpg?w=450&h=297"},
+   :width 450,
+   :height 297,
+   :alt "DSC_1121",
+   :caption "Notre petite casa de voyage"}
+  {:type :paragraph,
+   :content
+   ("Nous avons termin�� le WE �� Cordoba, ville bien��sympathique��pour fl��ner et se r��galer du traditionnel "
+    [:em {} "submarino/medialunas"]
+    " (chocolat chaud/croissants). S��rement une destination que nous allons renouveler���.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/04/dsc_1173gimp.jpg?w=450&h=297"},
+   :width 450,
+   :height 297,
+   :alt "DSC_1173gimp",
+   :caption "Cabildo / Marie de Cordoba"}
+  {:type :paragraph,
+   :content
+   ("Tout pleins de choses �� voir, �� faire dans ce coin du monde��� �� seulement 9 heures de Buenos Aires apr��s tout "
+    [:span
+     {:class "wp-smiley emoji emoji-smile", :title ":-)"}
+     ":-)"])}],
+ :title "On avait comme des ailes ���..",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "on-avait-comme-des-ailes",
+ :source-id "2149",
+ :blog "avesdepaso",
+ :visibility :public}

@@ -1,0 +1,65 @@
+{:updated-at #inst "2010-09-16T15:30:44.000-00:00",
+ :tags #{:italie},
+ :published-at #inst "2010-09-16T15:30:44.000-00:00",
+ :elements
+ [{:type :paragraph, :content "Arrivée à Florence à 7h30"}
+  {:type :paragraph,
+   :content
+   "Là j'ai quelques heures à patienter avant l'arrivée de ma super copine Maggy (rencontrée en Suède, française mais faisant sa vie sur Madrid). J'vais déposer mes bagages à l'hôtel et je file me promener dans la ville pour prendre la température en solo."}
+  {:type :paragraph,
+   :content
+   "Etre seule dans une ville et un pays qu'on ne connait pas vous donne vraiment une sensation inhabituelle. J'aime beaucoup savoir que je vais où je veux quand je veux (avec mes cheuveux) et surtout, on parle plus facilement aux autochtones !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/08/15.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "15",
+   :caption "City"}
+  {:type :paragraph,
+   :content
+   "Je passe une première fois au ponte Vecchio, je grimpe jusqu'au fort de Florence. Autant dire qu'à 8h du mat, Florence est une autre ville, je veux dire par là que les touristes sont encore assez peu présents à part aux ouvertures des musées. J'en ai d'ailleurs profité pour visiter le Musée National de Bargello où on trouve de tout : sculptures, peintures, porcelaine, ivoire, costumes de l'armée, ... bon moi ce que je préfère en général, c'est ces sculptures dingues ! Tous musclés, nus et immenses : ces mecs en pierre m'impressionnent, j'aimerai les grimper ou les serrer dans mes bras au choix !"}
+  {:type :paragraph,
+   :content
+   "Je suis fatiguée, rentre à l'hôtel et m'endors paisiblement dans l'attente de voir arriver Maggy (en voiture la nana he !). Hola Que tal ? La voilà ma copine, qui s'est pris une amende dans le bus pour Florence.rrrhhhh"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/06/4.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "4",
+   :caption "Ma coupine Maggy"}
+  {:type :paragraph,
+   :content
+   "On file grignoter et c'est reparti pour une longue marche dans Florence : centre historique, quartier de Santa Croce (jeune et branché le soir). On finit la journée au Duomo qui a bien failli être plus impressionnant que celui de Rome mais a demandé à l'architecte de l'époque de bien vouloir créer un intérieur modeste pour pas rivaliser avec Rome! Enfin, il est quand même énorme et beau ce Duomo avec ses marbres rose, vert et blancs, typique de la Toscane."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/06/5.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "5",
+   :caption "Duomo"}
+  {:type :paragraph,
+   :content
+   "On a tout de même pleins de choses à se raconter en vivant si loin l'une de l'autre : rien de mieux que la tratorria italienne !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/08/7.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "7",
+   :caption "Coucher  de soleil du Ponte Vecchio"}],
+ :title "Ballade dans Florence",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "ballade-dans-florence",
+ :source-id "1168",
+ :blog "avesdepaso",
+ :visibility :public}

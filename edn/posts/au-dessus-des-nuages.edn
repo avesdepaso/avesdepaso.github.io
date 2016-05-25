@@ -1,0 +1,157 @@
+{:updated-at #inst "2009-04-19T19:22:42.000-00:00",
+ :tags #{:bolivie},
+ :published-at #inst "2009-04-15T01:43:42.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Depuis la Paz, on peut apercevoir les montagnes enneigées de la Cordillera Real. Alors on pouvait pas manquer ça!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2854-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Au dessus de la Paz",
+   :caption "Au dessus de la Paz"}
+  {:type :paragraph,
+   :content
+   "Un gentil et super guide nous a été recommandé par des voyageurs (Merci Barbara et Dries) rencontrés au Brésil. Et voilà le tour est joué, nous partons avec Don Jorge Albarès. 55 ans, 28 ans de métier dans la profession de guide. Il connaît par coeur la Cordillère. Ya plus qu'à."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_3079-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Jorge et J��j��",
+   :caption "Jorge et J��j��"}
+  {:type :paragraph,
+   :content
+   "Oui parce que c'est pas de tout repos. Nous partons 5 jours pour marcher à une altitude moyenne de 4000m. Nous longeons ainsi pendant notre périple divers sommets haut de 6000m tels que Condoriri, Alpamayo, Tareja, Huayna Potosi et bien d'autres!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2967-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Cordillera Real et Lagunas",
+   :caption "Cordillera Real et Lagunas"}
+  {:type :paragraph,
+   :content
+   "Notre voyage commence durement avec 2h30 de 4*4 sur piste. Ca ne nous était encore pas arrivé, mais voilà que l'une des roues arrières crève. On peut imaginer que la roue de secours va pouvoir jouer son rôle, mais malheureusement notre chauffeur est un malin. Il n'a pas changé sa roue de secours qui est en fait la précédente roue crevée. Quelle chance avons nous d'être en pleine montagne seuls, au milieu de la route avant même d'avoir débuté notre marche."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2862-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Crevaison",
+   :caption "Crevaison"}
+  {:type :paragraph,
+   :content
+   "Un tour de magie est joué à base de moteur et de compresseur, et nous voilà reparti en direction du village d'où nous devons débuter le trek."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2865-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Avant d��part",
+   :caption "Avant d��part"}
+  {:type :paragraph,
+   :content
+   "Face à nous, 3 mules, une femme et sa fille ! Nos muletières. Rose Marie est muletière depuis plus de 15 ans. Elle nous accompagnera avec sa fille Marista, 8 ans, timide mais plus souriante que toutes les jeunes boliviennes de son âge."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2905-501.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Au milieu de rien",
+   :caption "Au milieu de rien"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2881-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Salle à manger",
+   :caption "Salle à manger"}
+  {:type :paragraph,
+   :content
+   "Lors de notre trek, beaucoup de surprises : des traversés de rivières pieds nus à 2 degrés, des tempêtes de neiges de nuit comme de jour (la saison hivernale commence tout juste). Ainsi, on se couche et on se lève devant un paysage différent! Au réveil, la tente est gelée. Et nous aussi pas la même occasion ! Le vieux campeur nous a tout de même bien équipé !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2975-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Avant de se coucher",
+   :caption "Avant de se coucher"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_3006-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Au réveil",
+   :caption "Au réveil"}
+  {:type :paragraph,
+   :content
+   "Parmi les surprises, nous passons (enfin je passe) un col à 5000 m d'altitude sans le savoir. Les larmes de joies me trahissent, je suis toute gaie!!!! Au dessus des nuages ! On surplombe les vallées des alentours. Mais le bonheur ne dure pas, enfin c'est quand même du bonheur mais on finit la marche sous la grèle avant d'atteindre notre dernier camp. Une maison et des champs avec vue sur le Huayna Potosi (que nous monterons dans 2 jours)."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_3076-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Passage du col Condoriri à 5000m",
+   :caption "Passage du col Condoriri à 5000m"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_3082-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "5000 m - je pleures",
+   :caption "5000 m - je pleure"}
+  {:type :paragraph,
+   :content
+   "Nous avons de la chance car Marista et sa mère marchent très vite en compagnie de leurs mules. Elles ont élues domicile pour la nuit dans la petite maison (4 murs de terre, un toit de taule, 2 fenêtres et une porte). Du coup, nous passerons la nuit dans la casita à l'abri de la neige et de l'humidité que n'importe quel randonneur a en horreur (nombreux sont les randonneurs qui ont du dormir tente dans la neige)."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_3096-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Dernier camp dans la casita",
+   :caption "Dernier camp dans la casita"}
+  {:type :paragraph,
+   :content
+   "Dernier jour ensoleillé avec vue sur le Sommet tant voulu par nos petits petons ! Nous serons sur toi dans quelques jours avec crampons et piolets."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_3100-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Au pied du Huayna Potosi",
+   :caption "Au pied du Huayna Potosi"}],
+ :title "Au dessus des nuages",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "au-dessus-des-nuages",
+ :source-id "689",
+ :blog "avesdepaso",
+ :visibility :public}

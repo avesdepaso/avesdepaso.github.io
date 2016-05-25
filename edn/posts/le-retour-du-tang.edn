@@ -1,0 +1,35 @@
+{:updated-at #inst "2009-03-19T16:49:08.000-00:00",
+ :tags #{:bresil},
+ :published-at #inst "2009-03-19T16:49:08.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Ah le bon vieux Tang de ma jeunesse! Cette magnifique poudre orange au go��t de soupe savoneuse! Dur��e de vie tellement courte dans nos contr��es que je suis presque le seul �� m���en souvenir, j���ai du ��tre traumatis��."}
+  {:type :paragraph,
+   :content
+   "Que ne fut pas ma joie de le retrouver dans les rayonnages des superettes br��siliennes! Et, Br��sil oblige, il est d��clin�� en un nombre incroyable de vari��t��s locales. Et c���est m��me bon!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/dscn2104-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "dscn2104-50"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/dscn2106-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "dscn2106-50"}
+  {:type :paragraph,
+   :content
+   "Tr��s utile pour faire passer le go��t de l���eau des rivi��res douteuses que nous croisons r��guil��rement lors de nos marches."}],
+ :title "Le retour du Tang",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "le-retour-du-tang",
+ :source-id "595",
+ :blog "avesdepaso",
+ :visibility :public}

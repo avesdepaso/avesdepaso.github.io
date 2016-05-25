@@ -1,0 +1,35 @@
+{:updated-at #inst "2009-07-08T11:43:47.000-00:00",
+ :tags #{:equateur},
+ :published-at #inst "2009-07-08T11:43:47.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content "mmmmh, on a bien r��fl��chi : on rentre �� la maison���."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/07/dscn2504-50.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "on rentre ?",
+   :caption "On rentre ?"}
+  {:type :paragraph,
+   :content
+   "Suite �� plusieurs vols et autres tentatives de la part de quelques ��quatoriens malveillants, nous avons pr��f��r�� mettre fin au voyage. Mieux vaut partir maintenant et garder des bons souvenirs plut��t que rester, observer, scruter, avoir peur et n���en retenir que ��a."}
+  {:type :paragraph,
+   :content "Alors �� bient��t sur le sol fran��ais."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/07/dscn2521-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Douce France",
+   :caption "Douce France - 06 juillet 2009"}],
+ :title "Fin del Viage",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "fin-del-viage",
+ :source-id "1054",
+ :blog "avesdepaso",
+ :visibility :public}

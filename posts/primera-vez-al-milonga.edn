@@ -1,0 +1,85 @@
+{:updated-at #inst "2014-09-25T21:48:00.679-00:00",
+ :tags #{:argentine :amerique-du-sud :buenos-aires},
+ :cover
+ {:width 1024,
+  :user-id "96129378@N07",
+  :category-id "72157647615674129",
+  :id
+  {:photoset-id nil,
+   :original-format nil,
+   :secret "4028005692",
+   :original-secret nil,
+   :id "15160590299",
+   :farm-id 4,
+   :server-id "3917"},
+  :provider :flickr,
+  :height 678},
+ :published-at #inst "2012-02-25T17:39:34.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Premi��re fois au "
+    [:a
+     {:title "Milonga",
+      :href "http://fr.wikipedia.org/wiki/Milonga_%28lieu%29"}
+     "Milonga"]
+    ", ca donne ��a :")}
+  {:type :photoset,
+   :photos
+   [[{:width 678,
+      :height 1024,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647615674129",
+      :id
+      {:id "15160759468",
+       :farm-id 4,
+       :server-id "3891",
+       :photoset-id nil,
+       :secret "c37de56ef3",
+       :original-secret nil,
+       :original-format nil}}
+     {:width 678,
+      :height 1024,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647615674129",
+      :id
+      {:id "15160623520",
+       :farm-id 3,
+       :server-id "2943",
+       :photoset-id nil,
+       :secret "2b3c96d497",
+       :original-secret nil,
+       :original-format nil}}]]}
+  {:type :paragraph,
+   :content
+   ("Cours pour les d��butants et interm��diaires jusqu����� 22h. Ensuite place aux amateurs qui s���entrem��lent sur le rythme saccad�� du Tango ! C���est que ��a nous a donn�� envie de prendre des cours maintenant "
+    [:span {:title ";-)", :class "wp-smiley emoji emoji-wink"} ";-)"])}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647615674129",
+   :id
+   {:id "15160640370",
+    :farm-id 4,
+    :server-id "3930",
+    :photoset-id nil,
+    :secret "a1abe0410a",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Milonga - La Catedral"}
+  {:type :paragraph,
+   :content
+   "Bon c���est une danse assez difficile ��� surtout pour l���homme qui m��ne le pas���.autant dire que nous n���avons pas encore mis les pieds sur la piste ���"}
+  {:type :paragraph,
+   :content
+   "De 2 �� 5h du matin, les professionnels monopolisent la sc��ne ! Show assur����� nous on est all�� se coucher���"}],
+ :title "Primera vez al Milonga ���",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "primera-vez-al-milonga",
+ :source-id "2122",
+ :blog "avesdepaso",
+ :visibility :public}

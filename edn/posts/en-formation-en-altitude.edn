@@ -1,0 +1,166 @@
+{:updated-at #inst "2009-04-15T00:38:45.000-00:00",
+ :tags #{:bolivie},
+ :published-at #inst "2009-04-15T00:35:17.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Eh oui faut bien remettre en forme notre nouvel arriv��! R��gime Coca et coquillette y a mieux pour les randonn��es.\n3 jours dans les montagnes du crat��re de Maragua et il gambadera sur les anciens chemins incas."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2698-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "D��part",
+   :caption "D��part"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2706-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Sur la route des incas",
+   :caption "Sur la route des incas"}
+  {:type :paragraph,
+   :content
+   ("Notre guide Jos�� nous met tout de suite �� l��aise, en Bolivie "
+    [:em
+     {}
+     "Y��a pas de probl��mes, on se d��brouille. Et ya de la place pour tout le monde en plus."
+     [:br {}]
+     "\n"]
+    "Faut dire que le gaillard a un sacr�� p��digr��: jeune communiste il y a une vingtaine d��ann��e, arriv�� en France dans une valise diplomatique suite �� un shampouinage �� la matraque, en "
+    [:em {} "d��brouille"]
+    " depuis aux quatre coins du monde et finalement de retour en m��re patrie pour faire d��couvrir aux touristes les merveilles de la Bolivie. Et comme il parle fran��ais ��a facilite la discussion. Enfin disons qu��on comprend quand il parle. Et Jos�� il parle beaucoup���")}
+  {:type :paragraph,
+   :content
+   "Entre deux respirations on peut quand m��me observer les paysages magnifiques des montagnes d��chir��es qui semblent assez jeunes. Enfin on saura jamais, Jos�� il ma��trise plut��t le r��le des Etats-Unis dans les gouvernements sud-am��ricains."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2699-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Los Frailes",
+   :caption "Los Frailes"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2731-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Rencontre de locaux",
+   :caption "Rencontre de locaux"}
+  {:type :paragraph,
+   :content
+   "Arriv��e en pleine nuit chez une petite mamie de 96 ans, Agostina,��qui nous offre g��te et couvert (on pr��f��rera quand m��me la tente, y a moins de rats dans le champ..). Et oui, 96 ans! Et vous vous plaignez? Au passage on fait connaissance avec un habitu�� qui semble ��tonnamment lucide malgr�� sa bouteille d��alcool �� 96 degr�� bien entam��e. On le recroisera le lendemain matin��dans un ravin, nous certifiant que non-non, il n��avait toujours rien bu."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2775-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Agostina",
+   :caption "Agostina"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2718-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Chez Agostina",
+   :caption "Chez Agostina"}
+  {:type :paragraph,
+   :content
+   "24 km le lendemain selon le GPS (50 selon Jos��) sur une route parce que la rivi��re locale est trop haute pour ��tre travers��e."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2724-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Tentative de travers��e de rivi��re",
+   :caption "Tentative de travers��e de rivi��re"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2765-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Avec un pont c��est plus simple",
+   :caption "Avec un pont c��est plus simple"}
+  {:type :paragraph,
+   :content
+   "Arriv��e dans un village qui semble d��sert au premier abord mais se peuple d��enfants d��s que l��on d��gaine sucettes et autres cahiers d����colier.�� Mentions sp��ciales �� No��mie qui a r��ussi �� nous soutirer 3 sucettes!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2747-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Roberto et No��mie",
+   :caption "Roberto et No��mie"}
+  {:type :paragraph,
+   :content
+   "Annec en profite pour apprendre les rudiments du tissage Jalq��ra. ��a pourra toujours servir quand elle cherchera du boulot!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2748-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Formation acc��l��r��e",
+   :caption "Formation acc��l��r��e"}
+  {:type :paragraph, :content "Retour chez Agostina pour la nuit."}
+  {:type :paragraph,
+   :content
+   "Longue marche en l��ger faux plat le dernier jour pour rejoindre le village de Potolo o�� nous pourrons subventionner le travail des femmes tisserands. Selon les versions il leurs faut entre 1 jour et deux semaines pour un petit porte monnaie."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2752-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "L��aventure, c��est l��aventure",
+   :caption "L��aventure, c��est l��aventure"}
+  {:type :paragraph,
+   :content
+   "Derni��re blague du chauffeur avant de partir qui laisse partir un autre 4*4 avec les cl��s de contact. Bonne poilade lorsqu��on le voit courir empoigner un v��lo pour le rattraper sur un chemin en pente que nous connaissons bien."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2792-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "La troupe",
+   :caption "La troupe"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2799-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Presque arriv��s...",
+   :caption "Presque arriv��s..."}
+  {:type :paragraph,
+   :content
+   "Retour �� Sucre o�� nous aurons l��occasion d��admirer la maison de Jos�� et de partager un repas avec lui."}],
+ :title "En formation en altitude",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "en-formation-en-altitude",
+ :source-id "690",
+ :blog "avesdepaso",
+ :visibility :public}

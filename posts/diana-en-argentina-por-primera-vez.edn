@@ -1,0 +1,65 @@
+{:updated-at #inst "2013-07-07T22:19:39.000-00:00",
+ :tags #{:argentine :amerique-du-sud :buenos-aires},
+ :published-at #inst "2013-07-07T22:19:39.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Pour la première fois, Diana Ross a mis les pieds en Argentine. Faut dire que les années 70s n'étaient pas propice à la visite d'une star internationale et puis à cette époque, peut-être même qu'on se disait 'l'Argentine? pays sous développé''???"}
+  {:type :paragraph,
+   :content
+   "Enfin, les stars américaines adorent venir poursuivre leur carrière en Argentine arrivé a la soixantaine hehe. Le public du troisième âge (except us!!) est ravi de réentendre en live tous les tubes de la Diva et nous aussiiiiii!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/07/p1080222.jpg?w=450&h=337"},
+   :width 450,
+   :height 337,
+   :alt "P1080222"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/07/p1080213.jpg?w=450&h=337"},
+   :width 450,
+   :height 337,
+   :alt "P1080213"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/07/p1080240.jpg?w=450&h=337"},
+   :width 450,
+   :height 337,
+   :alt "P1080240"}
+  {:type :paragraph,
+   :content
+   ("Du temps où je rêvais de pouvoir chanter jour et nuit"
+    [:span
+     {:style "font-size:13px;line-height:19px;"}
+     "(a quinze ans quoi!!)"]
+    [:span
+     {:style "font-size:13px;line-height:19px;"}
+     ", Diana Ross me faisait vibrer dans ma chambre enfermée"]
+    [:span {:style "font-size:13px;line-height:19px;"} "où"]
+    [:span
+     {:style "font-size:13px;line-height:19px;"}
+     "sous ma douche à"]
+    [:span
+     {:style "font-size:13px;line-height:19px;"}
+     "vouloir l'imiter, mon Walkman des temps modernes l'a écouté en boucle avec mes deux oreilles lors des longs voyages pour aller chez les mémés!!"])}
+  {:type :paragraph, :content "Diana Ross au Luna Park."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/07/p1080250.jpg?w=450&h=337"},
+   :width 450,
+   :height 337,
+   :alt "P1080250"}],
+ :title "Diana en Argentina por primera vez!",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "diana-en-argentina-por-primera-vez",
+ :source-id "2626",
+ :blog "avesdepaso",
+ :visibility :public}

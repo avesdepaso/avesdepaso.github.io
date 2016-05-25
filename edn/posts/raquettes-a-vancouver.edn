@@ -1,0 +1,14 @@
+{:updated-at #inst "2011-12-27T17:27:29.000-00:00",
+ :tags #{:vancouver :canada},
+ :published-at #inst "2011-12-27T17:27:29.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Voici un petit aper��u de nos activit��s durant le weekend : un petit tour en raquettes �� Vancouver."}
+  {:type :video, :provider :vimeo, :id "34242050"}],
+ :title "Raquettes �� Vancouver���",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "raquettes-a-vancouver",
+ :source-id "1997",
+ :blog "avesdepaso",
+ :visibility :public}

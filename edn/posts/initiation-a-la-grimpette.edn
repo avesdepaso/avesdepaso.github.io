@@ -1,0 +1,101 @@
+{:updated-at #inst "2009-05-07T22:16:58.000-00:00",
+ :tags #{:perou},
+ :published-at #inst "2009-05-07T22:16:58.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Difficile de r��sister �� la tentation d���escalader les Canyons de la r��gion d���Arequipa apr��s notre initiation sur les glaciers du Huyana Potosi."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3427-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Le Chachani en fond",
+   :caption
+   "Le Chachani en fond Rendez-vous donc dans une ancienne carri��re pour une journ��e pour d��butant.Les lieux du crime"}
+  {:type :paragraph,
+   :content
+   "J��j�� part le premier, courageusement, et atteint p��niblement 4 m��tres de hauteur puis renonce en lachant une bord��e de jurons pour que notre guide francophone puisse partager ses ��motions."}
+  {:type :paragraph,
+   :content
+   "A mon tour, je franchis victorieusement 2 m��tres, puis Annec 1 m��tre 50. (J��j��, en plus de ses nombreux talents naturels, poss��de une formation avanc��e en escalade qui lui permet de dompter bien des voies)."}
+  {:type :paragraph,
+   :content
+   "Cette voie (niveau 5b pour les amateurs) est pourtant tr��s simple d���apr��s notre guide, d���ailleurs une de ses amies, grosse de surcro��t, l���a gravie r��cemment. Trop fort pour nous ces p��ruviens.��"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3380-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "J��j�� �� l'assaut",
+   :caption "J��j�� �� l&#39;assaut"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3387-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Moi �� 2m du sol",
+   :caption "Moi �� 2m du sol"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3393-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Annec �� 1m50",
+   :caption "Annec �� 1m50"}
+  {:type :paragraph,
+   :content
+   "Sur ce semi ��chec nous insistons pour trouver une voie plus �� notre niveau. Notre guide, tr��s aimable, nous signifie qu���il en existe bien une, mais pour enfants��� Pas grave on veux monter nous!!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3425-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "La voie pour ninos",
+   :caption "La voie pour ninos"}
+  {:type :paragraph,
+   :content
+   "��Finalement cette voie s���averera parfaite, et pas si pour ninos que ca (niveau 5) puisqu���on sera rejoint par un amateur du coin."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3402-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Vengeance!",
+   :caption "Vengeance!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3399-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "J��j�� se ballade",
+   :caption "J��j�� se ballade"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3418-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Annec au sommet",
+   :caption "Annec au sommet"}],
+ :title "Initiation �� la grimpette",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "initiation-a-la-grimpette",
+ :source-id "756",
+ :blog "avesdepaso",
+ :visibility :public}

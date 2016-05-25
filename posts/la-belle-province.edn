@@ -1,0 +1,142 @@
+{:updated-at #inst "2014-09-27T19:02:37.295-00:00",
+ :tags #{:vancouver},
+ :cover
+ {:width 678,
+  :height 1024,
+  :provider :flickr,
+  :user-id "96129378@N07",
+  :category-id "72157647555844088",
+  :id
+  {:id "15313719266",
+   :farm-id 3,
+   :server-id "2942",
+   :photoset-id nil,
+   :secret "b386cc7cd9",
+   :original-secret nil,
+   :original-format nil}},
+ :published-at #inst "2011-09-07T15:06:05.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Encore un petit weekend de trois jours o�� nous avons choisi de partir dans l���Est : Montr��al, nous voil�� !!")}
+  {:type :paragraph,
+   :content
+   "6h de vol �� l���aller���. arriv��e de bon matin, nous avons ��t�� d��couvrir �� quoi ressemblait les qu��b��cois dans ce monde americano qu���est le Canada ! Sorti de l���avion on s���est pas tromp��, tout le monde parle le fran��ais, ou devrais-je dire le qu��b��cois���."}
+  {:type :paragraph,
+   :content
+   ("On d��couvre un autre truc important : la CHALEUR de 30��C ! Pour nous la canicule !!")}
+  {:type :photo,
+   :width 678,
+   :user-id "96129378@N07",
+   :category-id "72157647555844088",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "4b2eed7109",
+    :original-secret nil,
+    :id "15150153158",
+    :farm-id 3,
+    :server-id "2942"},
+   :provider :flickr,
+   :height 1024}
+  {:type :paragraph,
+   :content
+   "Nous filons chez Matthieu, notre premier AirBnB. Une fois de plus le concept me tente et j���ai tout pleins d���id��es pour la r��alisation de mon r��ve��� On pose nos 20L et on file �� l���assaut de cette ville elle aussi cosmopolite ! Ce m��lange anglais-fran��ais, on a du mal �� s���y faire ���.On cherche �� tout prix la ���vieille ville��� par ici tellement la ville de Vancouver est ���neuve���. ��a y est on atteint le vieux port et ces b��timents vieux de 400 ans ( A mais c���est tout ???)���."}
+  {:type :paragraph,
+   :content
+   ("Dis Julien on peut filer �� MANGO ??? Et oui, on a pass�� quelques heures dans les boutiques et j���ai mis les pieds chez Mango pour la premi��re depuis fois depuis 6 mois. Un exploit obligatoire puisque Mango n���existe pas �� Vancouver��� r��sultat, une bonne partie du budget du WE a servi �� assouvir mes besoins dingues de fringues europ��ennes "
+    [:span {:title ";-)", :class "wp-smiley emoji emoji-wink"} ";-)"])}
+  {:type :paragraph,
+   :content
+   ("C��t�� nourriture, on avait d��j�� test�� la "
+    [:a
+     {:title "Poutine",
+      :href "http://fr.wikipedia.org/wiki/Poutine_%28plat%29"}
+     "poutine "]
+    "(frite + sauce fromage) ! Mais les qu��b��cois ont une autre sp��cialit�� : "
+    [:a
+     {:href
+      "http://fr.wikipedia.org/wiki/Sandwich_%C3%A0_la_viande_fum%C3%A9e"}
+     "Smoked meat"]
+    " !")}
+  {:type :paragraph,
+   :content
+   ("Enfin, �� part manger et faire les magasins ��a serait bien faire un peu de visites���.Chinatown, la petite Italie et son march�� Jean-Talon, le quartier Mont Royal, ���. on fait quand m��me un mus��e, celui de l���histoire de Montr��al qui nous apprend que les Am��ricains auraient bien voulu avoir les terres du Qu��bec pour eux apr��s les Anglais���mais finalement les francophones se seront battus jusqu���au bout pour garder leur terres.")}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647555844088",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "75bb520577",
+    :original-secret nil,
+    :id "15150030180",
+    :farm-id 4,
+    :server-id "3879"},
+   :provider :flickr,
+   :height 678}
+  {:type :photo,
+   :width 678,
+   :user-id "96129378@N07",
+   :category-id "72157647555844088",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "6899ed353a",
+    :original-secret nil,
+    :id "15313693176",
+    :farm-id 3,
+    :server-id "2943"},
+   :provider :flickr,
+   :height 1024}
+  {:type :paragraph,
+   :content
+   ("Apr��s la marche sous une chaleur caniculaire, on retrouve des copains ! Ana��d que je n���avais pas vue depuis 7 ans, qu��b��coise tiens !!! Et Benjamin en phase d���immigration certaine puisqu���il s���est trouv�� une qu��b��coise bien sympa Ariane ! Bi��re et steakhouse au programme ! miammmm���..merci les copains "
+    [:span
+     {:title ":-)", :class "wp-smiley emoji emoji-smile"}
+     ":-)"])}
+  {:type :photo,
+   :caption "��Amiga Anaid",
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647555844088",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "b4f9f3ccd8",
+    :original-secret nil,
+    :id "15336421932",
+    :farm-id 3,
+    :server-id "2942"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   ("Le v��lo nous d��mangeait���Depuis 2 jours on avait pas mis les pieds sur les p��dales��� Alors on s���est laiss�� tent�� par le tandem !! Et c���est le pied "
+    [:span {:title ";-)", :class "wp-smiley emoji emoji-wink"} ";-)"]
+    " Un petit tour sur le Canal de Lachine puis vir��e sur le circuit de Formule 1 Gilles-Villeneuve "
+    [:span {:title ";-)", :class "wp-smiley emoji emoji-wink"} ";-)"])}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647555844088",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "6afedae674",
+    :original-secret nil,
+    :id "15333545741",
+    :farm-id 3,
+    :server-id "2944"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   "Vers 16h, un orage s���abat sur nous ! On est tremp�� et on file �� l���a��roport pour le retour qui va s���av��rer tr��s tr��s tr��s long ������ suite au prochaine article !"}],
+ :title "La belle province ���",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "la-belle-province",
+ :source-id "1773",
+ :blog "avesdepaso",
+ :visibility :public}

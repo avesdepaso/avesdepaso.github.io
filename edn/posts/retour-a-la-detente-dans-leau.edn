@@ -1,0 +1,151 @@
+{:updated-at #inst "2009-06-20T15:05:03.000-00:00",
+ :tags #{:equateur},
+ :published-at #inst "2009-06-20T15:01:52.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Apr��s l�����pisode de Quito, nous avons choisi de red��couvrir l���Amazonie ! Quelques heures de bus �� nouveau pour atteindre Tena, ville situ��e en pleine "
+    [:em {} "Selva"]
+    " (jungle), beaucoup plus tranquille que Quito, m��me si on est devenu un peu parano��aque ces derniers jours. On s���est organis�� 2 tours en kayak et en raft. Il para��t que l���eau d��tent !")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4593-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "la ville �� Tena",
+   :caption "la ville �� Tena"}
+  {:type :paragraph, :content "initiation au kayak"}
+  {:type :paragraph,
+   :content
+   "Bien encadr��s par 2 guides, nous avons pass�� une journ��e sur le Rio Napo (class�� niveau��2). On est un peu d��sorient�� au d��but car contrairement au rafting, nous sommes ma��tre de la b��te."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4669-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Au bord du Rio napo",
+   :caption "Au bord du Rio napo"}
+  {:type :paragraph,
+   :content
+   "On nous apprend quelques mouvements et positions �� avoir sans oublier�� l���"}
+  {:type :paragraph, :content ([:em {} "esquimeau"])}
+  {:type :paragraph,
+   :content
+   " (lorsque le kayak se retourne) et c���est parti pour une journ��e de ballade autour de la jungle."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4681-501.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Alors comment ca marche ?",
+   :caption "Alors comment ca marche ?"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4699-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Los dos en el Rio",
+   :caption "Los dos en el Rio"}
+  {:type :paragraph,
+   :content
+   "Entre les rapides on s���arr��te pour l���almuerzo (repas du midi) qui est un pur bonheur : on nous a pr��par�� des tortillas, ca change du riz."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4673-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "On casse la cro��te",
+   :caption "On casse la cro��te"}
+  {:type :paragraph,
+   :content
+   "Le kayak nous aura permis d���appr��hender plus encore la rivi��re et ses courants ! Cette journ��e a ��t�� tr��s instructive pour nous. A quand notre prochain entra��nement !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4706-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "C'est d��j�� fini...",
+   :caption "C&#39;est d��j�� fini..."}
+  {:type :paragraph, :content "Les sensations du rafting"}
+  {:type :paragraph, :content "On s���ennuie pas dans l���eau !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/dscn2353-501.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "Yeah!",
+   :caption "Yeah!"}
+  {:type :paragraph,
+   :content
+   "Apr��s le kayak, c���est au tour du raft de nous emmener dans l���eau. Nous sommes suivis par un groupe de 15 francais et un canadien. Apr��s 30 minutes de marche dans la boue amazonienne o�� Julien a presque failli perdre sa tongue, nous arrivons au bord d���un d��cor de r��ve. Pour vous donner une id��e, on se croirait dans la pub pour ushua��a, c���est �� dire au milieu des cascades et de la flore amazonienne."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/dscn2359-501.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Au milieu de la jungle",
+   :caption "Au milieu de la jungle"}
+  {:type :paragraph,
+   :content
+   "Apr��s quelques instructions, nous partons pour 38 km dans la bou��e g��ante. Mais parfois, les choses ne sont pas comme on voudrait qu���elles soient���"}
+  {:type :paragraph,
+   :content
+   ("���Oups, on est coinc��s dans l���eau, on s���enfonce, mais qu���est ce qu���il attend le guide ???��� chose qui arrive, mais c���est pas dr��le. Le raft entier ��tait attir�� dans le fond d���un "
+    [:em {} "Hueco"]
+    " (tourbillon form�� par le courant et les roches). J���ai commenc�� �� me sentir s��rieusement mouill��e quand je me suis apercu que le raft coulait !!!")}
+  {:type :paragraph,
+   :content
+   "��� tout le monde �� l���eau���, nous dit le guide. En fait c���est une technique de sauvetage ��� de raft pour le sortir de l��. Nous devons attraper une corde elle m��me accroch��e au raft. Notre poids, une fois dans l���eau, doit tirer le raft hors du lieu dangereux."}
+  {:type :paragraph,
+   :content
+   ("���euh, oui c���est �� dire que l�� je me sens pas super en s��curit����� ���.mmmh quand faut y aller, faut y aller��� Julien et moi sautons dans l���eau avec le guide pour tirer le raft de ce p��trin "
+    [:em {} "embull��."])}
+  {:type :paragraph,
+   :content
+   ([:em
+     {}
+     [:em
+      {}
+      [:img
+       {:class "size-medium wp-image-1027",
+        :title "DSCN2358 [50%]",
+        :src
+        "https://vadrouilles.files.wordpress.com/2009/06/dscn2358-50.jpg?w=300&h=225",
+        :alt "Ouffffff",
+        :width "300",
+        :height "225"}]]
+     [:p {:class "wp-caption-text"} "Ouffffff"]])}
+  {:type :paragraph,
+   :content
+   "Nous sommes sauv��s. Tout ca vaut bien une petite bi��re apr��s cette journ��e de folie !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/dscn2364-50.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "Encore du rafraichissant ",
+   :caption "Encore du rafraichissant "}],
+ :title "Retour �� la d��tente : dans l���eau",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "retour-a-la-detente-dans-leau",
+ :source-id "1006",
+ :blog "avesdepaso",
+ :visibility :public}

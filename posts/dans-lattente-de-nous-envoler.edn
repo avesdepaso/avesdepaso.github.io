@@ -1,0 +1,18 @@
+{:updated-at #inst "2009-02-02T13:23:38.000-00:00",
+ :published-at #inst "2009-01-15T19:30:49.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "bon quand est ce qu'on part?? Même si y a pleins de choses à faire ici, je pense trop au voyage. Enfin, je reviens vite à la réalité."}
+  {:type :paragraph,
+   :content
+   "Inscription Assedic : pas drôle, on a du écorcher mon nom une bonne dizaine de fois et j'y ai gentiment passé 2 heures!! Merci Pôle Emploi"}
+  {:type :paragraph,
+   :content
+   "Prescriptions médicales : prescription d'un certains nombre de médicaments qui ne rentrent plus dans notre trousse de secours !"}],
+ :title "Dans l'attente de nous envoler",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "dans-lattente-de-nous-envoler",
+ :source-id "383",
+ :blog "avesdepaso",
+ :visibility :public}

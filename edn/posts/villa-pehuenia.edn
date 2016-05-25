@@ -1,0 +1,186 @@
+{:updated-at #inst "2014-11-19T12:41:20.728-00:00",
+ :cover
+ {:width 240,
+  :id
+  {:photoset-id nil,
+   :original-format "jpg",
+   :secret "866026622e",
+   :original-secret "42992ca9c9",
+   :id "15089925926",
+   :farm-id 6,
+   :server-id "5573"},
+  :provider :flickr,
+  :height 159},
+ :published-at #inst "2014-11-19T12:41:23.774-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Salomon organise chaque ann��e une s��rie impressionnante de course de trail, les "
+    [:a {:href "http://k21series.com/"} "K21 Series"]
+    ", notamment en Am��rique du sud et plus particuli��rement en Argentine. L&#39;occasion pour nous de d��couvrir des coins encore plus recul��s que San Martin de los Andes (si si ca existe). Cette fois-ci c&#39;est le tour de "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Villa_Pehuenia"}
+     "Villa Pehuenia"]
+    "!")}
+  {:type :video,
+   :class ["stretched"],
+   :id
+   {:url "https://docs.google.com/uc?id=0B6oYFAIq-5PnUWkzQmFidVU1b2M"},
+   :provider :url}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "10aea25814",
+    :original-secret "c47d4c42d8",
+    :id "14926197780",
+    :farm-id 6,
+    :server-id "5562"},
+   :provider :flickr,
+   :height 159}
+  {:type :heading, :content "Pehuen", :level 2}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "5a28c5d594",
+    :original-secret "738fbf2f25",
+    :id "14926175270",
+    :farm-id 6,
+    :server-id "5575"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ("Villa Pehuenia porte bien son nom: du "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Araucaria_du_Chili"}
+     "Pehuen"]
+    " en veux-tu en voil��! Magnifique arbre symbole de la Patagonie et embl��me national du Chili, il a travers�� des millions d&#39;annes et r��sist�� aux dinosaures, il ne survivra malheureusement pas aux hommes: il vient d&#39;��tre "
+    [:a {:href "http://www.iucnredlist.org/details/31355/0"} "inscrit"]
+    " sur la liste rouge des esp��ces en danger d&#39;extinction de l&#39;UICN. Adoptez un Pehuen sur votre balcon!")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "400d6ecce9",
+    :original-secret "36cb8fec1d",
+    :id "14926085239",
+    :farm-id 6,
+    :server-id "5594"},
+   :provider :flickr,
+   :height 159}
+  {:type :photoset,
+   :class ["stretched"],
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format "jpg",
+       :secret "68dac7264b",
+       :original-secret "d78f11d33d",
+       :id "14926099740",
+       :farm-id 6,
+       :server-id "5577"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format "jpg",
+       :secret "b1c4c30d2e",
+       :original-secret "3584a0325e",
+       :id "14926068669",
+       :farm-id 4,
+       :server-id "3856"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format "jpg",
+       :secret "f43f95c08c",
+       :original-secret "1b00fd4e13",
+       :id "15112833255",
+       :farm-id 6,
+       :server-id "5571"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :paragraph,
+   :content
+   ("On profite de la station de ski du coin (deux pistes jaunes, un des deux tir-fesses en panne) dirig��e par une communaut����"
+    [:a {:href "http://fr.wikipedia.org/wiki/Mapuches"} "Mapuche"]
+    " pour se d��gourdir les jambes et observer le Pehuen dans son habitat naturel.")}
+  {:type :photo,
+   :caption "Le fameux surf argentin",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "894d86616d",
+    :original-secret "60422b991d",
+    :id "15112701195",
+    :farm-id 6,
+    :server-id "5553"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ("Qui dit Patagonie dit lacs: forc��ment on ne se prive pas et un petit tour du lac en kayak s&#39;impose.")}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format "jpg",
+       :secret "b52a7d9f68",
+       :original-secret "88ce54c7aa",
+       :id "15109597641",
+       :farm-id 4,
+       :server-id "3846"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format "jpg",
+       :secret "62f9926cfa",
+       :original-secret "fd80326be0",
+       :id "14926028787",
+       :farm-id 6,
+       :server-id "5551"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format "jpg",
+       :secret "80dbf4db22",
+       :original-secret "75b4c9a234",
+       :id "15109547731",
+       :farm-id 6,
+       :server-id "5558"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :paragraph, :content ("Bon on a couru aussi hein ;)")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "8db9191fed",
+    :original-secret "ecb7d74a01",
+    :id "14926087558",
+    :farm-id 4,
+    :server-id "3922"},
+   :provider :flickr,
+   :height 159}],
+ :title "Villa Pehuenia",
+ :locations
+ ({:latitude -40.1550903, :longitude -71.3541946, :accuracy 3658}),
+ :id "villa-pehuenia",
+ :blog "avesdepaso",
+ :visibility :public}

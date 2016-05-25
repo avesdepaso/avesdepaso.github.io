@@ -1,0 +1,513 @@
+{:updated-at #inst "2015-09-25T23:49:01.271-00:00",
+ :cover
+ {:width 240,
+  :height 135,
+  :id
+  {:id "16492584983",
+   :farm-id 8,
+   :server-id "7675",
+   :photoset-id nil,
+   :secret "a57899d3f1",
+   :original-secret nil,
+   :original-format nil},
+  :provider :flickr,
+  :type :photo},
+ :published-at #inst "2015-08-24T17:06:32.817-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ([:br {}]
+    "3 années ont passées .... déjà..."
+    [:br {}]
+    "Me voilà 3 ans plus tard complétement argentinisée.... au point que de partir me coupe en deux."
+    [:br {}]
+    [:span
+     {:style "line-height: 1.8em;"}
+     "Cerro Negro, tu m'as donné des ailes!!!!"]
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    "Che, 3 anos han pasado..... ya...."
+    [:br {}]
+    "y eso, 3 anos despuès, completamente argentinizada... al punto que salir del pais me va a cortar las piernas."
+    [:br {}]
+    "Cerro Negro, me has dado alas!!!")}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "4e932c7b9c",
+       :original-secret nil,
+       :id "14342815041",
+       :farm-id 4,
+       :server-id "3843"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :paragraph,
+   :content
+   ([:b {} "Mon amour pour la Formation,"]
+    [:br {}]
+    "Un monde que je connaissais que par bribes a fini par me passionner. La cerise sur le gâteau, le meilleur des Ressources Humaines. Développer les compétences, les connaissances en passant par toutes les couches sociales d'Argentine.\n\nC'est comme continuer l'école dans l'entreprise. Utile, enrichissante et sentiment de reconnaissance pour les empolyés en général. Contribuer à la formation profesionnelle a été un chouette projet."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    "Mi amor por la Capacitacion,"
+    [:br {}]
+    "Un mundo que conocia en parte ha terminado de convencerme y apasionarme. La cereza en el pastel, lo mejor de lo que llamamos Recursos Humanos. Desarrollar competencias, conocimientos pasando por todas las clases sociales. \n\nAca, la capacitacion, es como seguir la escuela en la empresa. Util, enriquecedora, pensamiento de reconocimiento en general. Contribuir a la formacion profesional fue un lindo proyecto.")}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "ba1b43c485",
+       :original-secret nil,
+       :id "20711340415",
+       :farm-id 1,
+       :server-id "640"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photo,
+   :caption "Eureka y sus mineros",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "0d4f643b42",
+    :original-secret nil,
+    :id "20711379105",
+    :farm-id 1,
+    :server-id "690"},
+   :provider :flickr,
+   :height 158}
+  {:type :photoset,
+   :photos
+   [[{:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "024d7d4a37",
+       :original-secret nil,
+       :id "20711032755",
+       :farm-id 1,
+       :server-id "596"},
+      :provider :flickr,
+      :height 240}
+     {:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "4c443c7b24",
+       :original-secret nil,
+       :id "20522993820",
+       :farm-id 1,
+       :server-id "584"},
+      :provider :flickr,
+      :height 240}
+     {:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "de445e8dcc",
+       :original-secret nil,
+       :id "20523091168",
+       :farm-id 1,
+       :server-id "759"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :photo,
+   :caption "Equipo de Rescate Minero",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "65cd4be21d",
+    :original-secret nil,
+    :id "20088380744",
+    :farm-id 6,
+    :server-id "5618"},
+   :provider :flickr,
+   :height 159}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "0d479fe4bf",
+       :original-secret nil,
+       :id "20524483479",
+       :farm-id 1,
+       :server-id "654"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "466ab4642a",
+       :original-secret nil,
+       :id "20090748503",
+       :farm-id 1,
+       :server-id "773"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "4f1eb33173",
+       :original-secret nil,
+       :id "20702395102",
+       :farm-id 1,
+       :server-id "612"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photo,
+   :caption "Maintenance",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "4f0a755f0a",
+    :original-secret nil,
+    :id "20089196324",
+    :farm-id 1,
+    :server-id "710"},
+   :provider :flickr,
+   :height 158}
+  {:type :paragraph,
+   :content
+   ([:b {} "Une équipe de choc!"]
+    [:br {}]
+    "Des hommes, des femmes dévoués et motivés. Grâce aux instructeurs et moniteurs, je me suis chaque fois plus incorporée dans le monde technique jusqu'à en capter les métiers et surtout, surtout la réalité de chaque corps de métiers existants dans l'industrie. Quel cadeau immense!!!!!"
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    "Un equipo de la P... Madre!"
+    [:br {}]
+    "Hombres y mujeres devotados y motivados. Gracias a instructores, monitores, me he sentido siempre mas parte del mundo de la operacion hasta entender los puestos de trabajos : sus complejidades, su entorno de vida... en fin, la realidad de los trabajos en la industria. Un regalo immenso!!!!")}
+  {:type :photoset,
+   :caption "THE Partners",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "08af85f89a",
+       :original-secret nil,
+       :id "20685113626",
+       :farm-id 1,
+       :server-id "588"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "5e46e3bde0",
+       :original-secret nil,
+       :id "20685074356",
+       :farm-id 6,
+       :server-id "5792"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :photoset,
+   :caption "Banda de Cuchis",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "467063693d",
+       :original-secret nil,
+       :id "20711280895",
+       :farm-id 6,
+       :server-id "5772"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "135d0c7591",
+       :original-secret nil,
+       :id "20523260038",
+       :farm-id 1,
+       :server-id "639"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :paragraph,
+   :content
+   ([:b {} "Les sorties nocturnes pour comprendre..."]
+    [:br {}]
+    "La nuit, je rentrais régulièrement avec les équipes de travail pour découvrir l'opération, la production, et les personnes pour lequel je travaille. Comprendre les métiers et la réalité des mineurs, techniciens, ingénieurs... encore un cadeau énorme pour me plonger dans ce monde si particulier. Evidemment, chaque sortie est accompagné d'un reportage photo. Moment privilégié pour moi puisque je peux enfin prendre des visages, des mouvements. Je profite d'être sous terre pour ressortir mes souvenirs d'apprentissage (Fix, je pense à toi!). Chacun repart avec les photos en poche et j'imagine toujours le visionnage en famille une fois rentrés à la maison. Femme, enfants, parents, grands parents peuvent être fiers de leurs hommes."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    "Las salidas nocturnas para entender..."
+    [:br {}]
+    "En la noche, es un buen momento para mi y los equipos de trabajos porque mas tranquilo :-) Pasaba regularemente tiempo con algunosequipos de trabajo para aprender mas de la operacion, la produccion y las personas por la cuales trabajo yo. Entender el trabajo y la realidad del personal de mina (mineros, tecnicos, supervisores, ingenieros...). Un regalo una vez mas enorme para ver este mundo tan particular que la vida de una mina. Obviamente, cada salida estaba acompanada de un reportaje fotografico mio jaja. Fueron momentos privilegiados para mi ya que pude practicar mi gusto para la foto (Fix, si me lees, esto es para vos!), pudiendo sacar fotos mas verdaderas!! Caras y movimientos!! Asi que al final de cada momento compartido, cada uno podia tranquilamente llevarse las fotos en bolsillo. Mucho pense en ese momento que las comparten con sus familias. Las mujeres, los nenes, los padres, los abuelos pueden ser muy orgullosos de sus hombres.")}
+  {:type :photoset,
+   :caption "visitas",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "1f3eec3457",
+       :original-secret nil,
+       :id "20711477105",
+       :farm-id 6,
+       :server-id "5633"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "cf96483301",
+       :original-secret nil,
+       :id "20711498015",
+       :farm-id 6,
+       :server-id "5779"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "ff31b5949c",
+       :original-secret nil,
+       :id "20524784769",
+       :farm-id 6,
+       :server-id "5725"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photoset,
+   :caption "Omar - Exploration",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "24a67c2194",
+       :original-secret nil,
+       :id "20090711253",
+       :farm-id 6,
+       :server-id "5832"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "38658d6e35",
+       :original-secret nil,
+       :id "20523560300",
+       :farm-id 1,
+       :server-id "592"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "31224ce3df",
+       :original-secret nil,
+       :id "20718223811",
+       :farm-id 6,
+       :server-id "5679"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "e547a04d44",
+       :original-secret nil,
+       :id "20222624243",
+       :farm-id 6,
+       :server-id "5810"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "485a910fe5",
+    :original-secret nil,
+    :id "20834053492",
+    :farm-id 6,
+    :server-id "5670"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ([:b {} "Les extras...."]
+    [:br {}]
+    "Vivre sur un gisement fut une expérience unique mais ça n'aurait pas été pareil sans les extras.... sorties de WE, les petits plaisirs qui font que en plus de cette expérience professionnelle de malade, j'ai appris à connaître l'argentin et l'argentine. J'ai découvert que les relations humaines s'expriment mille fois plus ici que dans mon pays d'origine, que les ''"
+    [:i {} "chistes"]
+    "'' (blagues) fusent dans chaque phrase, tout comme les doubles sens hehe. Les "
+    [:i {} "party"]
+    " de guitares et les pauses maté forment un noyau dur pour renforcer les relations et le sentiment de solidarité. Anne, Annie, Ana, Bombom, ojos claros : tant de surnoms pour une seule personne....Chacun avec son degré d'amitié!"
+    [:br {}]
+    [:br {}]
+    "Los extras...."
+    [:br {}]
+    "Vivir en un yacimiento fue una experiencia unica pero no hubiera sido lo mismo sin los 'Extras'.... salidas de fin de semana, los pequenos placeres que hacen de esta experiencia una locura, una experiencia profesional tan especial. Aprendi tanto de la Argentina y sus argentinos. He descubierto que las relaciones humanas se expresan 1000 veces mas que en mi pais de origen, que los chistes se encuentran en cada palabras (deberian ser campeones!). Cada cosa puede tener doble sentido jaja. Las guitarreadas y los momentos materos forman parte del nudo para reforzar las relaciones y el sentimiento de solidaridad. Anne, Annie, Ana, Bombom, ojos claros : tantos sobrenombres para una sola personas... jaja, cada uno para cada grado de amistad!")}
+  {:type :photoset,
+   :caption "Estancia Marianas",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "c3c4a5117b",
+       :original-secret nil,
+       :id "20523616790",
+       :farm-id 1,
+       :server-id "687"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photo,
+   :caption "New Year 2014 en Rio Pinturas",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "d1c7352d1e",
+    :original-secret nil,
+    :id "20525035129",
+    :farm-id 6,
+    :server-id "5618"},
+   :provider :flickr,
+   :height 159}
+  {:type :photoset,
+   :caption "Escalade de fin de semaine",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "589eb11d34",
+       :original-secret nil,
+       :id "19365457945",
+       :farm-id 1,
+       :server-id "291"},
+      :provider :flickr,
+      :height 240}]
+    [{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "f8c190eef9",
+       :original-secret nil,
+       :id "19177664950",
+       :farm-id 1,
+       :server-id "304"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "6ba04e9d18",
+       :original-secret nil,
+       :id "18742836644",
+       :farm-id 4,
+       :server-id "3854"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :paragraph,
+   :content
+   ([:b {} "Les fêtes!"]
+    [:br {}]
+    "Tant d'anniversaires et fêtes académiques passées à la mine en seulement 3 ans.... Julien et moi avons passé peu d'anniversaires ensemble depuis 3 ans.... hahaha et les anniversaires de mes amis, collègues pour lesquels nous organisons toujours un truc spécial pour fêter et passer un bon moment, même si on se trouve loin de la famille et des amis..."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    "Las fiestas ! Tantos cumpleanos y fiestas 'academicas' pasados en la mina en solamente 3 anos. Julien y yo casi no hemos pasados cumples juntos durante 3 anos.... Siempre se toma en serio el cumpleanos en la mina. Siempre tratamos de armar algo especial para festejar y pasarla mas que bien, aunque estamos lejo de la familia y amigos!")}
+  {:type :photo,
+   :caption "New Year 2013 dans l'atelier de Maintenance!!!",
+   :width 158,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "06795b3903",
+    :original-secret nil,
+    :id "18744637323",
+    :farm-id 1,
+    :server-id "349"},
+   :provider :flickr,
+   :height 240}
+  {:type :photoset,
+   :caption
+   "New Year 2015...... eh oui, j'ai appris à danser le Folklore!!!",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "f33b6ec6ed",
+       :original-secret nil,
+       :id "20711206235",
+       :farm-id 1,
+       :server-id "587"},
+      :provider :flickr,
+      :height 134}]]}
+  {:type :photoset,
+   :caption "Comer & tomar Mate : Clasico argentino",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "6497aeb9ab",
+       :original-secret nil,
+       :id "20088721444",
+       :farm-id 1,
+       :server-id "566"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "f63de59e58",
+       :original-secret nil,
+       :id "20702237452",
+       :farm-id 1,
+       :server-id "771"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photoset,
+   :caption "Los Diamantes - mi fiesta de despedida",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "ab8d8209ac",
+       :original-secret nil,
+       :id "20711753985",
+       :farm-id 6,
+       :server-id "5802"},
+      :provider :flickr,
+      :height 159}]]}],
+ :title "Hasta luego Cerro Negro",
+ :locations
+ ({:latitude -40.1603389, :longitude -71.3582585, :accuracy 43}),
+ :id "hasta-luego-cerro-negro",
+ :blog "avesdepaso",
+ :visibility :public}

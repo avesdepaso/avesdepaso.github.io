@@ -1,0 +1,125 @@
+{:updated-at #inst "2014-09-26T22:42:31.781-00:00",
+ :tags #{:buenos-aires},
+ :published-at #inst "2013-02-22T13:14:22.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ([:a
+     {:href
+      "http://vadrouilles.files.wordpress.com/2013/02/dsc_0986_2.jpg"}
+     [:br {}]
+     "\n"]
+    "2 stations de métro, un changement, 15 minutes de bus et arrivée à destination: la terre sainte.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647653883539",
+   :id
+   {:id "15174109410",
+    :farm-id 4,
+    :server-id "3854",
+    :photoset-id nil,
+    :secret "2d89fb906f",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Première vision: 3 crucifiés surveillés par des légionnaires. Tout de suite on est dans l'ambiance! On n'est pas venu pour faire la bise à Pluto ici!")}
+  {:type :photo,
+   :width 678,
+   :height 1024,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647653883539",
+   :id
+   {:id "15174215018",
+    :farm-id 3,
+    :server-id "2950",
+    :photoset-id nil,
+    :secret "f1cefa315c",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Après enfourchage de nos montures respectives, nous voilà partis à la découverte du monde merveilleux de Jésus et ses amis!")}
+  {:type :photo,
+   :width 678,
+   :height 1024,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647653883539",
+   :id
+   {:id "15174098020",
+    :farm-id 4,
+    :server-id "3839",
+    :photoset-id nil,
+    :secret "970d0d03c6",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647653883539",
+   :id
+   {:id "15174027409",
+    :farm-id 4,
+    :server-id "3908",
+    :photoset-id nil,
+    :secret "2a8bbdc0ba",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   "Bon là tout s'emballe, pas sûr de tout avoir compris mais en gros dans l'ordre (de visite du parc): des anges, 3 bédouins dans le désert à la poursuite d'une loupiotte, une bonne bouffe (enfin du pain quoi) entre potes, des animaux sur des palettes à roulettes, des gens tout nu (et tout vert). Quelques restaux avec des shawarmas aussi."}
+  {:type :paragraph,
+   :content
+   ("Et de l'eau. Beaucoup d'eau. Enfin c'est en bonus, pas au programme quoi. Tellement pas que ça fuit de partout et le parc ferme en catastrophe. C'est ça le déluge??")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647653883539",
+   :id
+   {:id "15357604271",
+    :farm-id 4,
+    :server-id "3896",
+    :photoset-id nil,
+    :secret "5d57ee21a7",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647653883539",
+   :id
+   {:id "15174016629",
+    :farm-id 4,
+    :server-id "3854",
+    :photoset-id nil,
+    :secret "8d815c8901",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Le lendemain le pape "
+    [:a
+     {:href
+      "http://www.lemonde.fr/europe/article/2013/02/11/le-pape-annonce-sa-demission-a-partir-du-28-fevrier_1830116_3214.html"}
+     "résigne"]
+    ". Bon je voulais énerver personne moi ok!? Je peux toujours compter sur mes 7 vierges au Valhalla? J'ai presque jamais mangé de fruits de mer (le poulpe ça compte pas?) ! Mouais je le sens moyen tout ça..")}
+  {:type :paragraph,
+   :content
+   "Bon on a 2 entrées gratos quand même.. Ca intéresse quelqu'un?"}],
+ :title "Bienvenidos a Tierra Santa",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "bienvenidos-a-tierra-santa",
+ :source-id "2436",
+ :blog "avesdepaso",
+ :visibility :public}

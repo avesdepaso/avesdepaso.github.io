@@ -1,0 +1,117 @@
+{:updated-at #inst "2009-03-18T12:50:16.000-00:00",
+ :tags #{:bresil},
+ :published-at #inst "2009-03-11T23:10:50.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Il ��tait une fois une ville cr����e il y a 163 ans, Lencois ("
+    [:em {} "���Len��oys"]
+    "���). La d��couverte de diamants fit venir �� toute vitesse des hommes de Sao Paulo avec leurs troupeaux dans ce coin perdu des contr��es recul��es du Br��sil. Leurs habitations ��taient sommaires �� cette ��poque et se r��sumaient �� des tentes de toiles blanches qui du haut des collines ("
+    [:em {} "Morro"]
+    ") avoisinantes ressemblaient �� un linceul g��ant. Ainsi  f��t baptis��e la ville.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1786-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Capoeira de Len��ois",
+   :caption "Capoeira de Len��ois"}
+  {:type :paragraph,
+   :content
+   "Une fois tous les diamants d��couverts, le tourisme de nature pris sa place et aujourd���hui, ce petit tr��sor est conserv�� dans le Parc National Chapada Diamantina."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1698-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Une des nombreuses cascades",
+   :caption "Une des nombreuses cascades"}
+  {:type :paragraph,
+   :content
+   ("Avant de s�����lancer au loin, hors de la civilisation, nous avons pr��t�� une journ��e pour la visite de diff��rents sites o�� nous avons test�� le Snorkeling (plong��e avec tuba et gilet de sauvetage pour les peureuses comme moi) dans les eaux"
+    [:em {} " azul"]
+    " des grottes regorgeant de petits poissons.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1731-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Les deux plus gros poissons de la grotte",
+   :caption "Les deux plus gros poissons de la grotte"}
+  {:type :paragraph,
+   :content
+   "Nous partons le lendemain �� la recherche du meilleur guide au meilleur prix pour nous immerger dans ce paradis naturel."}
+  {:type :paragraph,
+   :content
+   "Flor, guide natif de Lencois, nous accompagne pour 3 jours de rando parmis les montagnes, les grottes, bassins naturels et autres formations g��ologiques. Une autre baroudeuse se joint �� nous : Kelly, que les moustiques adorent boutonner le visage."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1914-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "l'��quipe",
+   :caption "l&#39;��quipe"}
+  {:type :paragraph,
+   :content
+   "Sur notre chemin, la nature se d��masque et nous aper��evons ses habitants : sauterelles g��antes (pour moi, elles sont gigantesques���), p��ruches, colibris, serpents mais aussi des fruits exotiques dont nous n���aurions pas imagin��s l���existence, sans oublier les plantes dont les esp��ces se comptent par centaines (orchid��es, bromalia���)"}
+  {:type :paragraph,
+   :content
+   "Notre guide est tellement aux petits soins que nous avons pass�� de meilleurs moments en pleine nature avec nos couverts en plastique et notre tente que dans les Pousadas habituelles (petit h��tel familial). Je salive encore devant les  bons petits plats qu���il nous a pr��par�� pendant ces 3 jours���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1834-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Petit d��jeuner (cafe de la manha)",
+   :caption "Petit d��jeuner (cafe de la manha)"}
+  {:type :paragraph,
+   :content
+   "En plus, il est super fort notre Guide Flor, il met des sauterelles g��antes sur son nez et il porte des b��ches (celles de la faune tropicale) de ses deux mains, accompagn�� de sa paire de tongue."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1804-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Flor et une sauterelle g��ante",
+   :caption "Flor et une sauterelle g��ante"}
+  {:type :paragraph,
+   :content
+   ("Le fil rouge de notre marche s���ach��ve lorsque nous penchons la t��te vers la cahoeira de Fuma��a, "
+    [:em {} "Cascade de la fum��e"]
+    ", haute de 380m. En saison s��che (c���est notre cas), un simple filet d���eau s�����vapore dans la chute���")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1912-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "En haut de la cascade - 380 m",
+   :caption "En haut de la cascade - 380 m"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1902-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Le vide ",
+   :caption "Le vide "}],
+ :title "Un endroit bien mal nomm��",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "un-endroit-bien-mal-nomme",
+ :source-id "573",
+ :blog "avesdepaso",
+ :visibility :public}

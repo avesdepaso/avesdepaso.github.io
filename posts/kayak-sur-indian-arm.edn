@@ -1,0 +1,78 @@
+{:updated-at #inst "2011-08-31T03:49:01.000-00:00",
+ :tags #{:vancouver},
+ :published-at #inst "2011-08-26T03:33:08.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Le bonheur de Vancouver : Faire du kayak �� une heure de chez toi en pleine nature "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0275.jpg?w=300&h=198"},
+   :width 300,
+   :height 198,
+   :alt "DSC_0275",
+   :caption "C&#39;est parti pour 2 jours !"}
+  {:type :paragraph,
+   :content
+   "Ca fait un moment qu���on avait planifi�� notre ��t�� et chaque WE est une nouvelle d��couverte ! Cette fois-ci c���est le kayak de mer !"}
+  {:type :paragraph,
+   :content
+   "On trouve pas mal de fjords autour de Vancouver et ces endroits sont parfaits pour faire un tour de Kayak. L���eau y est plus calme et on a peu de risques de voir un cargo asiatique nous couper la route ! Nous avons profit�� de la pr��sence (m��ga g��niale) de mon fr��re Antoine et son pote Guillaume pour faire ce petit kayak trip en nature !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0283.jpg?w=300&h=198"},
+   :width 300,
+   :height 198,
+   :alt "DSC_0283",
+   :caption "Lunettes &quot;Pilot&quot; sur bateau"}
+  {:type :paragraph,
+   :content
+   ("Nous voil�� sur nos engins pr��ts pour 2 jours de kayaking ! Le soleil est l�� ! Lunettes de soleil et cr��me solaire���. ��a sent comme un air de vacances "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :paragraph,
+   :content
+   "Julien et moi sur un bateau, ��a a toujours fait deux ! Alors on a travaill�� nos techniques de navigation tout le weekend pour enfin pouvoir enfin s���entendre sur l���eau et ��a a march�� !!! Yeahhh on est super pro d��sormais ! Enfin le kayak individuel c���est pas mal non plus���."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0305.jpg?w=300&h=198"},
+   :width 300,
+   :height 198,
+   :alt "DSC_0305",
+   :caption "Kayak 60&#39;s pour nous !"}
+  {:type :paragraph,
+   :content
+   "On d��couvre une fois de plus la Colombie-Britannique par l���eau : 50 kms �� naviguer sur 2 jours ��� nuit sous tente au bord des Granite Falls : MAGIC"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0329.jpg?w=197&h=300"},
+   :alt "DSC_0329",
+   :caption "Granite Falls"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0345.jpg?w=197&h=300"},
+   :alt "DSC_0345",
+   :caption "Nuit tomb��e"}
+  {:type :paragraph,
+   :content
+   "Navigation avec nos ennemis les canadiens qui profitent de leur bateau �� moteur et leur blonde cheveux dans le vent mais navigation avec nos copains les phoques !"}
+  {:type :paragraph,
+   :content
+   "On en a plein les bras et le retour est costaud avec les vagues et le vent, ���.."}
+  {:type :video, :provider :vimeo, :id "27964007"}],
+ :title "Kayak sur Indian Arm",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "kayak-sur-indian-arm",
+ :source-id "1781",
+ :blog "avesdepaso",
+ :visibility :public}

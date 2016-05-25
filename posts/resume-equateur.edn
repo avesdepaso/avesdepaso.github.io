@@ -1,0 +1,35 @@
+{:updated-at #inst "2009-07-31T14:34:32.000-00:00",
+ :tags #{:equateur},
+ :published-at #inst "2009-07-31T14:24:04.000-00:00",
+ :elements
+ [{:type :paragraph, :content "6 heures"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/07/dscn2402-50.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "derniers trajets de bus...",
+   :caption "Derniers trajets de bus..."}
+  {:type :paragraph, :content ([:strong {} "Ce qu���on a aim�� :"])}
+  {:type :paragraph, :content "La grotte de Jumandi"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/07/p1000689-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Sur un air de....",
+   :caption "Sur un air de...."}
+  {:type :paragraph, :content ([:em {} "Ce qu���on a moins aim�� :"])}
+  {:type :paragraph,
+   :content
+   "Payer des taxes d���a��roports non incluses dans les billets d���avion"}],
+ :title "R��sum�� Equateur",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "resume-equateur",
+ :source-id "1036",
+ :blog "avesdepaso",
+ :visibility :public}

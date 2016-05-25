@@ -1,0 +1,356 @@
+{:updated-at #inst "2014-09-26T22:28:59.732-00:00",
+ :tags #{:argentine},
+ :cover
+ {:width 1024,
+  :user-id "96129378@N07",
+  :category-id "72157633586664260",
+  :id
+  {:photoset-id nil,
+   :original-format "jpg",
+   :secret "39bab0a31d",
+   :original-secret "f3723b6186",
+   :id "8785738679",
+   :farm-id 3,
+   :server-id "2833"},
+  :provider :flickr,
+  :height 678},
+ :published-at #inst "2013-04-23T11:51:39.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Un jour mon p��re m���a dit: tiens en passant par Bariloche en avion, on est pass�� �� cot�� d���un c��ne blanc. Mmhhh de quel c��ne parle t-il!? Hop un petit tour sur Google earth. Celui-la te dit toujours la v��rit�����."}
+  {:type :paragraph,
+   :content
+   ([:a
+     {:style "text-align:left",
+      :href
+      "https://maps.google.com.ar/maps?f=d&source=s_d&saddr=San martin de los andes&daddr=San Carlos de Bariloche, R��o Negro to:Esquel, Chubut&hl=es-419&geocode=FS5Im_0drTi_-ynH0AU2dA4RljE6vGYc-z_EcQ;FWBajP0dOuS_-ynlYMggFXsaljFlmnvLl64Qgg;Fe0icf0dF7e_-ymZEEDnOawdljEgbBQ5bnF4dw&aq=0&oq=Esquel&sll=-40.734434,-66.617645&sspn=8.722699,21.643066&gl=ar&mra=ls&ie=UTF8&ll=-41.431429,-71.08931&spn=3.036228,0.913269&t=m&source=embed"}
+     "View Larger Map"])}
+  {:type :paragraph,
+   :content
+   ("Wahooouu, dis donc, c���est pas mal ce petit coin. Ya du blanc (nieve/neige), ya du vert (bosque/foret), ya m��me du bleu (lagunas/lacs)���. Et un c��ne au milieu!! Son gentil petit nom, c���est le volcan "
+    [:a {:href "http://fr.wikipedia.org/wiki/Lan%C3%ADn"} "Lanin "]
+    "! (Pierre morte en mapuche, dialecte indig��ne). Il culmine ����3776m.")}
+  {:type :paragraph,
+   :content
+   "C���est quand les prochaines vacances? Ca te branche d�����changer le gris de Buenos Aires pour le blanc-vert-bleu de Neuqu��n (nom de la province)?? ��book avion checked ����� book volcan Lanin checked!"}
+  {:type :paragraph,
+   :content
+   "Il nous reste un peu de libert�� autour pour d��couvrir la r��gion que nous consid��rons comme potentiel futur nid d���habitation���"}
+  {:type :paragraph, :content "Notre p��riple :"}
+  {:type :paragraph,
+   :content "A= San Martin de los Andes et Volcan Lanin"}
+  {:type :paragraph, :content "B = San Carlos de Bariloche"}
+  {:type :paragraph, :content "C = Esquel"}
+  {:type :paragraph,
+   :content "Le sommet est pr��vu le 17 avril 2013 �� 9hs du mat���."}
+  {:type :paragraph, :content "Nous sommes le 16 avril."}
+  {:type :paragraph,
+   :content
+   "Lever 6h ��� d��part en pick up �� 7h avec notre guide Christian (guide de montagne argentin) et 2 br��siliens de 50 et 60 ans."}
+  {:type :paragraph,
+   :content
+   "Un br��silien a toujours la p��che, du coup, ��a parle espa-portugues pendant 2h. Lanin reste planqu�� une bonne partie de la route et puis il surgit (enfin) de nulle part: le c��ne!"}
+  {:type :paragraph,
+   :content
+   ("Quand on le voit, on veut tout de suite savoir quelle route nous allons emprunter pour le grimper! Pleins de surprises au programme.")}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157633586664260",
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "389199f666",
+    :original-secret "80eb0d1e98",
+    :id "8771946153",
+    :farm-id 8,
+    :server-id "7372"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   ("On boucle nos sacs : du chaud, mat��riel de grimpe, de la nourriture���")}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157633586664260",
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "0a3b4dcfa7",
+    :original-secret "b4a53379a0",
+    :id "8785634547",
+    :farm-id 9,
+    :server-id "8116"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   ("On d��marre le trek �� 1050m pour une marche de 5hs jusqu���au refuge! On se familiarise avec le sentier de roches volcanique et sa poussi��re et la saison nous offre une flore jaune-orange-rouge pourpre dont nous nous avons rarement profit�� dans notre histoire de rando. Et c���est tr��s beau!!")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157633586664260",
+   :id
+   {:id "8796179620",
+    :farm-id 9,
+    :server-id "8256",
+    :photoset-id nil,
+    :secret "19c7939f18",
+    :original-secret "4c4a3ffba7",
+    :original-format "jpg"},
+   :caption "Lago Tromen"}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157633586664260",
+   :id
+   {:id "8785619293",
+    :farm-id 9,
+    :server-id "8550",
+    :photoset-id nil,
+    :secret "d6a373818a",
+    :original-secret "b3c2158df3",
+    :original-format "jpg"}}
+  {:type :paragraph,
+   :content
+   ("Le sentier est tout trac�� jusqu���au refuge �� 2335m. Nous sommes perch��s sur la pointe d���une manche de Lanin.\nLe temps de se reposer, faire une mini session de yoga, de diner et �� 20h, direction le sac de couchage.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157633586664260",
+   :id
+   {:id "8785573445",
+    :farm-id 6,
+    :server-id "5346",
+    :photoset-id nil,
+    :secret "60e5371e64",
+    :original-secret "c0a0890f7d",
+    :original-format "jpg"}}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157633586664260",
+      :id
+      {:id "8785588319",
+       :farm-id 4,
+       :server-id "3787",
+       :photoset-id nil,
+       :secret "feb3d76b45",
+       :original-secret "bbb685b44e",
+       :original-format "jpg"}}
+     {:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157633586664260",
+      :id
+      {:id "8796129544",
+       :farm-id 9,
+       :server-id "8280",
+       :photoset-id nil,
+       :secret "48b7a9db87",
+       :original-secret "d928cfbe04",
+       :original-format "jpg"}}]]}
+  {:type :photo, :caption "Yoga"}
+  {:type :paragraph,
+   :content
+   ("Mercredi 17 avril: il est 2h du matin, c���est l���heure du petit d��jeuner avec Ric��� Euh non avec du th����� du th�� et encore du th�����pour ��viter la d��shydratation. Le plan de la journ��e?\n6h de grimpe (+ 1400m) et��3h de descente (-2600m)")}
+  {:type :photo,
+   :width 678,
+   :height 1024,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157633586664260",
+   :id
+   {:id "8785900765",
+    :farm-id 4,
+    :server-id "3805",
+    :photoset-id nil,
+    :secret "35dfa9f010",
+    :original-secret "0f34610c50",
+    :original-format "jpg"}}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157633586664260",
+      :id
+      {:id "8796464272",
+       :farm-id 9,
+       :server-id "8125",
+       :photoset-id nil,
+       :secret "112d78c349",
+       :original-secret "fe46419d91",
+       :original-format "jpg"}}
+     {:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157633586664260",
+      :id
+      {:id "8796447344",
+       :farm-id 9,
+       :server-id "8263",
+       :photoset-id nil,
+       :secret "36be584fe5",
+       :original-secret "aacd1b9ee0",
+       :original-format "jpg"}}]]}
+  {:type :paragraph,
+   :content
+   "Nous d��marrons le trek avec 2h de caillasses avant d���enfiler nos petits crampons. Il fait nuit, mais pas trop froid. On passera ensuite pr��s de 3h sur les n��v��s et cailloux du Monsieur. On d��couvre alors:"}
+  {:type :paragraph,
+   :content
+   "la technicit�� et le pouvoir des crampons dans les rochers : ��a accroche!"}
+  {:type :paragraph,
+   :content
+   ("Il est 8h, nous entamons le scrambling.\nCe terme je crois n���existe pas dans notre langue, mais on pourrait d��finir le scrambling comme de l���escalade sans l���utilisation de pitons de s��curit��. Aussi, la corde n���est pas��"
+    [:span {:style "font-size:13px;line-height:19px;"} "toujours"]
+    [:span {:style "font-size:13px;line-height:19px;"} "��"]
+    [:span
+     {:style "font-size:13px;line-height:19px;"}
+     "obligatoire."])}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157633586664260",
+   :id
+   {:id "8796432006",
+    :farm-id 3,
+    :server-id "2873",
+    :photoset-id nil,
+    :secret "2cb7962562",
+    :original-secret "de0c0de19a",
+    :original-format "jpg"}}
+  {:type :paragraph,
+   :content
+   ("Dans le cas du Lanin, nous sommes seuls face a la montagne avec le vide derri��re nous.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157633586664260",
+   :id
+   {:id "8785836411",
+    :farm-id 4,
+    :server-id "3816",
+    :photoset-id nil,
+    :secret "d33fd5ea58",
+    :original-secret "af08098774",
+    :original-format "jpg"},
+   :caption "Grimpe"}
+  {:type :paragraph,
+   :content
+   "Sensations ?\nJ���ai voulu arr��ter mon ascension �� 2 reprises me demandant comment je pourrais bien rentrer chez moi une fois en haut mais le guide de montagne, avec ses supers pouvoirs, me rep��chait �� chaque h��sitation. Quand �� Julien, il r��vait que je d��cide d���arr��ter sans souffler un mot haha..Enfin, nous prenons notre courage et notre ��nergie �� 10 mains et on file au sommet!��Les br��siliens vont quand m��me pas ��tre l��-haut et nous en bas n���est ce pas?"}
+  {:type :paragraph,
+   :content
+   ("Il est 10h. Le sommet ressemble �� 2 petits d��mes.�� La petite larme de jouissance est l"
+    [:span {:style "font-size:13px;line-height:19px;"} "��"]
+    " sur ma joue.��")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157633586664260",
+   :id
+   {:id "8785819509",
+    :farm-id 8,
+    :server-id "7305",
+    :photoset-id nil,
+    :secret "18f7628719",
+    :original-secret "274abf10fc",
+    :original-format "jpg"},
+   :caption "Cumbre"}
+  {:type :photo,
+   :width 1024,
+   :height 605,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157633586664260",
+   :id
+   {:id "8785787735",
+    :farm-id 8,
+    :server-id "7374",
+    :photoset-id nil,
+    :secret "695c735740",
+    :original-secret "81c2fab74d",
+    :original-format "jpg"}}
+  {:type :paragraph,
+   :content
+   ("La vue est comme toujours, incroyable. J���ai oubli�� de pr��ciser que la montagne ��tait juste pour nous ces 2 jours: Un volcan ��� Cinq hommes ��� Une femme.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157633586664260",
+   :id
+   {:id "8796382720",
+    :farm-id 6,
+    :server-id "5441",
+    :photoset-id nil,
+    :secret "0af12df736",
+    :original-secret "2734449df1",
+    :original-format "jpg"}}
+  {:type :paragraph,
+   :content
+   "20 minutes au sommet et faut d��j�� entamer la descente. En journ��e, la neige se r��chauffe et la chute de pierre y est plus favorable. Pas perdre de temps donc!"}
+  {:type :paragraph,
+   :content
+   ("Le soixantenaire Arlindo est tr��s fatigu��. Je veux m��me pas imaginer sa douleur int��rieur quand on sait qu���on a d��j�� grimp�� 7h et qu���il nous faudra 6h de marche pour rejoindre la base du trek.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157633586664260",
+   :id
+   {:id "8796347076",
+    :farm-id 8,
+    :server-id "7353",
+    :photoset-id nil,
+    :secret "74f19f087d",
+    :original-secret "66b113ffe9",
+    :original-format "jpg"},
+   :caption "Fatigu��eeee"}
+  {:type :paragraph,
+   :content
+   ("Ce jour la nous cumulons plus de 15h de marche. Nous sommes explos�� du doigt de pied aux cuisses!!\nMais nous sommes heureux!!")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157633586664260",
+   :id
+   {:id "8796332608",
+    :farm-id 4,
+    :server-id "3761",
+    :photoset-id nil,
+    :secret "8a98b8127d",
+    :original-secret "9f543edcce",
+    :original-format "jpg"}}
+  {:type :paragraph, :content "Quel sera notre prochain sommet?"}
+  {:type :video, :id "64610256", :provider :vimeo}],
+ :title "En route pour le C��ne blanc!",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "en-route-pour-le-cone-blanc",
+ :source-id "2531",
+ :blog "avesdepaso",
+ :visibility :public}

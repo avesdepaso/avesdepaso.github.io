@@ -1,0 +1,170 @@
+{:updated-at #inst "2011-02-27T03:41:33.000-00:00",
+ :tags #{:vancouver},
+ :published-at #inst "2011-02-26T05:08:25.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Aille, on en r��vait���.. d���aller sur une de ces montagnes qui surplombent Vancouver ! De notre appartement, on voit scintiller leur spots�� jusque tard dans la�� nuit. A vancouver, tu peux skier toute la journ��e et une bonne partie de la nuit si t���as de l�����nergie "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :paragraph,
+   :content
+   ([:a
+     {:href
+      "https://maps.google.ca/maps?f=d&source=s_d&saddr=1450 Chestnut St, Vancouver, BC V6J 4V1&daddr=6400 Nancy Greene Way, North Vancouver, BC V7R 4K9 (Grouse Mountain-The Peak Of Vancouver)&hl=fr&geocode=FbDY7wIdye-o-Cmr4LYWy3OGVDE-NSlTWmRcMQ;FYVc8QIdF7Cp-CHfU4EDvklugQ&gl=ca&mra=ltm&sll=49.323332,-123.094597&sspn=0.121062,0.363579&ie=UTF8&t=h&ll=49.325122,-123.10524&spn=0.156636,0.291824&z=11&source=embed",
+      :style "text-align:left"}
+     "View Larger Map"])}
+  {:type :paragraph,
+   :content
+   "Bon nous, on s���est juste tranquillement r��veill�� dimanche matin. On a petit d��jeun�� devant les montagnes, puis on a enfil�� notre tenue des neige, puis on a pris un bus, un seabus, puis on a repris un bus���."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060704.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060704",
+   :caption "Tournage de Fringe dans le Down Town"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060707.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060707",
+   :caption "Petite travers��e en bateau"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060709.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1060709",
+   :caption "Bus pour Grouse Mountain"}
+  {:type :paragraph,
+   :content
+   ("Enfin pr��s d���une heure apr��s, on arrivait au pied des pistes de "
+    [:a
+     {:title "Groose Mountain",
+      :href "http://www.grousemountain.com/Winter/",
+      :target "_blank"}
+     "Grouse mountain."]
+    "..1128 m��tres d���altitude juste au dessus du niveau de la mer, une vingtaine de pistes qui passent du vert, au bleu et au noir direct plus commun��ment nomm��es Black Diamond (comme une cool brand de grimpe) !! Pas de rouge pour les canadiens���")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/ski_map_groose_moutain.jpg?w=450&h=306"},
+   :width 450,
+   :height 306,
+   :alt "ski_map_groose_moutain",
+   :caption "Station de Grouse Mountain"}
+  {:type :paragraph,
+   :content
+   "Une fois le pass pinc�� au blouson et les skis aux pieds, on est partis pour une ballade bien sympa au milieu des pin��des enneig��es et des ours hibernateux."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060725.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1060725",
+   :caption "Le prix tue un peu"}
+  {:type :paragraph,
+   :content
+   "Je peux vous assurer qu���on a une vue de dingue l��-haut jusqu����� l�����le de Vancouver qui elle aussi laisse appara��tre ses sommets enneig��s."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060721.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060721",
+   :caption "En haut de la station"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060733.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060733",
+   :caption "No comment"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p10607361.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060736",
+   :caption "Vancouver en bas !!"}
+  {:type :paragraph,
+   :content
+   ("Et puis, on voit la fronti��re avec les Etats-Unis et le Fameux "
+    [:a
+     {:title "Mont Rainier",
+      :href "http://fr.wikipedia.org/wiki/Mont_Baker",
+      :target "_blank"}
+     "Mont Baker"]
+    " (3��285 m) qu���il�� va bien falloir grimper lui aussi "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p10607161.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060716",
+   :caption "Aper��u du Mont Baker aux US"}
+  {:type :paragraph,
+   :content "Les trucs qu���on a aim��s �� Groose Mountain :"}
+  {:type :paragraph, :content "la vue de la terrasse du restaurant"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p10607261.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060726",
+   :caption "Quel contraste..."}
+  {:type :paragraph,
+   :content "le bateau bus qui nous ram��ne au centre de Vancouver"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060737.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1060737",
+   :caption "C&#39;��tait bien hein ???"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060738.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1060738",
+   :caption
+   ("Trop bien !! "
+    [:span
+     {:class "wp-smiley emoji emoji-smile", :title ":-)"}
+     ":-)"])}
+  {:type :paragraph,
+   :content
+   "Un petit cadeau pour vous tous : vid��o �� Grouse Mountain !!"}
+  {:type :video, :provider :vimeo, :id "20420960"}],
+ :title "Sur des skis dans le ciel:  Grouse Mountain",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "sur-des-skis-dans-le-ciel-grouse-mountain",
+ :source-id "1486",
+ :blog "avesdepaso",
+ :visibility :public}

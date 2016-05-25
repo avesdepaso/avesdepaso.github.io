@@ -1,0 +1,28 @@
+{:updated-at #inst "2013-07-04T16:23:24.000-00:00",
+ :tags #{:argentine :amerique-du-sud :cerro-negro},
+ :published-at #inst "2013-07-04T16:23:24.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content "Un petit coup d���oeil sur l���arbre dor��!!"}
+  {:type :paragraph,
+   :content
+   "D���ou vient l���or? Combien on extrait chaque ann��e? Quelles r��serves avons nous d��tect�� jusqu���a aujourd���hui?"}
+  {:type :paragraph, :content "="}
+  {:type :paragraph,
+   :content
+   "Ou va le lingot?? Technologies, Bijouterie, Banques, Investissements, Recyclage���"}
+  {:type :paragraph, :content "L���or ne dispara��t donc jamais���."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/07/gold-industry-infographic_arbol-de-oro.png?w=450&h=706"},
+   :width 450,
+   :height 706,
+   :alt "gold-industry-infographic_ARBOL-DE-ORO"}],
+ :title "Source & Use of gold",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "source-use-of-gold",
+ :source-id "2622",
+ :blog "avesdepaso",
+ :visibility :public}

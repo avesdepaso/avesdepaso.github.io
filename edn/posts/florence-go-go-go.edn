@@ -1,0 +1,37 @@
+{:updated-at #inst "2010-09-16T15:29:55.000-00:00",
+ :tags #{:italie},
+ :published-at #inst "2010-09-16T15:29:55.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("La toscane, je pourrais dire que j���y retournerai. Il y a tant �� voir et tant de mani��re de voyager dans ce coin : baroudeurs, sex &amp; the city attitude, plages, rando, avec ou sans enfants��� tout est possible "
+    [:span
+     {:class "wp-smiley emoji emoji-smile", :title ":-)"}
+     ":-)"])}
+  {:type :paragraph,
+   :content
+   "J���ai choisi le train de nuit pour rejoindre la ville de la Renaissance : Florence. Pour avoir d��j�� tent�� le train pour l���Italie, j�����tais pas vachement rassur��e de me retrouver avec 5 hommes bizarres qui ronflent et sentent fort dans ma cabine (comme ��a m���est forc��ment d��j�� arriv��). Par chance, j���ai voyag�� avec 3 jeunes singapouriens faisant leur voyage de fins d�����tude �� sac �� dos �� travers les grandes villes d���Europe. Quelle libert�� quand on sait qu���ils n���ont que 12 jours de cong��s par an et travaillent pr��s de 70h par semaine. Ils sont vraiment heureux de leur voyage mais pr��t �� travailler dur d��s leur retour !"}
+  {:type :paragraph,
+   :content
+   "Vers 22h, c���est une italienne de 20 ans qui prend le train �� partir de Dijon (c���est pas commun, je vous assure) : elle parle trop bien anglais,�� parle 5 langues (m�����nerve) et pr��pare un parcours intensif �� Science Po dans le but de faire une th��se sur l���histoire et la culture des pays de l���Est et plus particuli��rement la R��publique Tch��que ! J�����coute, c���est int��ressant mais je fatigue et m���endors sur la 3��me couchette en haut de la cabine (la meilleure parce que vous avez de l���espace en haut pour respirer) vers 23h��� il reste 8h de route���"}
+  {:type :paragraph,
+   :content
+   ("Au retour je choisi de rentrer en avion avec ??? Ryanair bien s��r. Pas cher lorsqu���on veut acheter uniquement l���aller "
+    [:span
+     {:class "wp-smiley emoji emoji-smile", :title ":-)"}
+     ":-)"])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/08/11.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "1",
+   :caption "Firenze"}],
+ :title "Florence : Go Go Go",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "florence-go-go-go",
+ :source-id "1166",
+ :blog "avesdepaso",
+ :visibility :public}

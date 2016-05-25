@@ -1,0 +1,129 @@
+{:updated-at #inst "2011-11-18T07:21:52.000-00:00",
+ :tags #{:etats-unis},
+ :published-at #inst "2011-06-01T05:45:12.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("A Portland les gens ressemblent un peu �� "
+    [:a {:href "http://www.youtube.com/watch?v=YlGqN3AKOsA"} "��a"]
+    ". Avec plus de poils. M��fiez vous des s��ries am��ricaines: en g��n��ral elles sont en dessous de la r��alit��. Pas de second degr�� chez les Yankees, m��me du nord.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/05/p1070025.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "Ca commence par un coucou",
+   :caption "Ca commence par un coucou"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/05/p1070029.png?w=400&h=533"},
+   :width 400,
+   :height 533,
+   :alt "P1070029",
+   :caption "Groovy baby"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/05/p1070051.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "P1070051",
+   :caption "Hmm ?"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/05/p1070053.png?w=400&h=533"},
+   :width 400,
+   :height 533,
+   :alt "P1070053",
+   :caption "Ahaha comme je me marre"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/05/p1070054.png?w=400&h=533"},
+   :width 400,
+   :height 533,
+   :alt "P1070054",
+   :caption "Caf��"}
+  {:type :paragraph,
+   :content
+   "��a a l���air de rien comme ��a mais ici on fait un excellent caf��. Plein de trucs dedans, mais caf�� quand m��me."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/05/p1070079.png?w=400&h=533"},
+   :width 400,
+   :height 533,
+   :alt "P1070079",
+   :caption "Lecture"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/05/p1070080.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "P1070080",
+   :caption "Musique"}
+  {:type :paragraph,
+   :content
+   ("Caf��, livres, musique��� Que demande le "
+    [:a {:href "http://www.myspace.com/lepeuple"} "peuple"]
+    "?")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/05/p1070083.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "P1070083",
+   :caption "V��lo"}
+  {:type :paragraph,
+   :content
+   "Attention c���est s��rieux ici le v��lo alors on prot��ge."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/05/p1070084.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "P1070084",
+   :caption "Pont bizarre qui sert �� rien"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/05/p1070113.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "P1070113"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/05/p1070115.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "P1070115",
+   :caption "Hommage aux barbus"}
+  {:type :paragraph,
+   :content
+   ("Pas mal tout ����! En plus pas de taxes en "
+    [:a {:href "http://en.wikipedia.org/wiki/Oregon"} "Oregon"]
+    ". Destination officielle du Vancouverite en weekend.")}],
+ :title "Portlandia",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "portlandia",
+ :source-id "1591",
+ :blog "avesdepaso",
+ :visibility :public}

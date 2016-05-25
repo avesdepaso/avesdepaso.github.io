@@ -1,0 +1,105 @@
+{:updated-at #inst "2009-03-21T23:06:35.000-00:00",
+ :tags #{:bresil},
+ :cover
+ {:provider :wordpress,
+  :id
+  {:url
+   "https://vadrouilles.files.wordpress.com/2009/03/dsc02839-50.jpg?w=300&h=224"},
+  :type :photo,
+  :width 300,
+  :height 224,
+  :alt "Les nageurs de compet'",
+  :caption "Les nageurs de compet"},
+ :published-at #inst "2009-03-21T23:06:35.000-00:00",
+ :elements
+ [{:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/dsc02857-50.jpg?w=223&h=300"},
+   :alt "El Rio Prata",
+   :caption "El Rio Prata"}
+  {:type :paragraph,
+   :content
+   "Après le Pantanal, on a décidé sur un coup de tête de traverser le Rio Prata, eau couleur azul, chaude (24 degrés) et pleine de poissons : des petits mais surtout des grands!!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/dsc02849-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "Les poissons du Rio Prata",
+   :caption "Les poissons du Rio Prata"}
+  {:type :paragraph,
+   :content
+   "Bon, c'est pas tout à fait les mers caraïbes, on nage dans l'eau douce. Mais on en profite pour tester nos capacités de poisson avant de passer à l'attaque avec la plongée plus tard!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/dsc02856-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "En action",
+   :caption "En action"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/dsc02846-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "dsc02846-50"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/dsc02859-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "dsc02859-50"}
+  {:type :paragraph,
+   :content
+   ("Pour le moment on se laisse entrainer par l'eau. Ah oui, il est interdit de bouger les pieds, de plonger sous l'eau (à certains endroits) ou encore de poser ses pieds sur le sol. "
+    [:em {} "Vous savez pourquoi ?"]
+    " Parce que les brasileiros ont choisi de protéger ce parc naturel !")}
+  {:type :paragraph,
+   :content
+   "Parfois, il y a un peu de profondeur, alors on peut enfin se dégourdir les membres ! Comme des poissons dans l'eau!!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/dsc02899-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "En mode étoile, on fait comme on peut!",
+   :caption "En mode étoile, on fait comme on peut!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/dsc02890-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "Sous l'eau",
+   :caption "Sous l'eau"}
+  {:type :paragraph,
+   :content
+   "PS : On a pas de preuves, mais on est passé à deux doigts d'un anaconda."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/dsc02914-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "Adios le Rio Prata",
+   :caption "Adios le Rio Prata"}],
+ :title "Comme des poissons dans l'eau",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "comme-des-poissons-dans-leau",
+ :source-id "620",
+ :blog "avesdepaso",
+ :visibility :public}

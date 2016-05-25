@@ -1,0 +1,246 @@
+{:updated-at #inst "2015-09-26T14:27:08.100-00:00",
+ :cover
+ {:width 240,
+  :height 158,
+  :id
+  {:id "19917336152",
+   :farm-id 1,
+   :server-id "273",
+   :photoset-id nil,
+   :secret "c393c672dd",
+   :original-secret nil,
+   :original-format nil},
+  :provider :flickr,
+  :type :photo},
+ :published-at #inst "2015-08-06T02:02:24.669-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Depuis quelques années déjà, on parle de faire un tour en Van, avant tout pour essayer..."
+    [:br {}]
+    [:br {}]
+    "Le Van représente pour nous un mode de voyage autonome (ou presque). Lorsque nous voyageons, à sac-à-dos, on est souvent dépendants des horaires de bus/train, de la disponibilité des hostels/hosterias/posadas/hotel... On a pas toujours non plus notre frigo dans le sac pour pouvoir conserver les aliments.... Du coup, le van supplante un peu ses petits trucs qui parfois deviennent des inconvénients au voyage."
+    [:br {}]
+    [:br {}]
+    "On croise régulièrement des Van sur nos passages en ayant les pieds installés dans les Amériques. Nombreux sont les voyageurs qui font des longues distances entre l'Alaska et la Patagonie en Van. On suit notamment très étroitement le blog d'Emily & Adam : "
+    [:a {:href "http://ouropenroad.com/"} "ouropenroad.com"]
+    "."
+    [:br {}]
+    "Ils voyagent depuis plus de 3 ans avec leurs deux petites filles. Ils nous font rêver tout simplement. Alors pourquoi ne pas tenter l'aventure.... à deux pour l'instant!"
+    [:br {}]
+    [:br {}]
+    "Le fait de voyager en Van en Hiver va déjà bien changer notre perception hehe!!"
+    [:br {}]
+    "En effet, le froid, la pluie, la neige ne font en général pas partie du tableau. Mais nous avons tout de même bien profité de la maison roulante.")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "e5fb48485c",
+    :original-secret nil,
+    :id "19587256004",
+    :farm-id 1,
+    :server-id "399"},
+   :provider :flickr,
+   :height 135}
+  {:type :paragraph,
+   :content
+   ([:b {} "Le modèle"]
+    [:br {}]
+    "Nous avons eu peu de choix sur le modele au moment de louer mais Le L300 de Mitsubishi est un des 2 modèles qui nous intéresse à l'achat du coup, Jackpot, nous expérimenterons le Mitsubishi. Il nous manquera le WW T3 Westfalia ;-)."
+    [:br {}]
+    [:br {}]
+    "Le L300 est un chouette camion. Il est suffisament grand dans la partie commune. Dôté de 3 sièges à l'avant. On peut aussi le rencontrer en mode 4X4. Il est solide et le moteur se trouve sous les sièges avant et est plutôt basique en cas de coup dur."
+    [:br {}]
+    "Le modele L300 privilégie la mécanique à l'électronique.")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "c8865d109a",
+    :original-secret nil,
+    :id "19900049776",
+    :farm-id 1,
+    :server-id "283"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ([:b {} "La conduite"]
+    [:br {}]
+    "En conductrice unique, j'ai rapidement pris la main malgré la taille du véhicule!!"
+    [:br {}]
+    "L'avant est confortable. Il y a tout plein de lumière pour admirer le paysage et de l'espace à nos pieds pour y ajouter du matos.")}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "3fa94262c9",
+       :original-secret nil,
+       :id "19302249034",
+       :farm-id 1,
+       :server-id "286"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "e0ee5923ee",
+       :original-secret nil,
+       :id "19303182874",
+       :farm-id 1,
+       :server-id "386"},
+      :provider :flickr,
+      :height 159}]
+    [{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "c741a4ff9f",
+       :original-secret nil,
+       :id "19304905543",
+       :farm-id 1,
+       :server-id "420"},
+      :provider :flickr,
+      :height 135}]]}
+  {:type :photoset,
+   :caption "Copilote",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "80c394050e",
+       :original-secret nil,
+       :id "20201626022",
+       :farm-id 1,
+       :server-id "429"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "1af6436bd3",
+       :original-secret nil,
+       :id "20180973376",
+       :farm-id 1,
+       :server-id "301"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :paragraph,
+   :content
+   ([:br {}]
+    [:br {}]
+    [:b {} "Le living vs Chambre"]
+    [:br {}]
+    [:br {}]
+    "L'espace de vie est large dû à la construction du van. Les meubles de rangement sont uniquement placés au sol, ce qui donne beaucoup d'espace au moment de se coucher! Mais quand tu es au lit et que tu veux aller chercher la petite culotte qui est dans l'ultime casier.... t'es mal barré ;-)")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "6e53a7cdf4",
+    :original-secret nil,
+    :id "20201818982",
+    :farm-id 4,
+    :server-id "3700"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ([:b {} "La Cuisine"]
+    [:br {}]
+    "La cuisine a été aménagée à l'arrière du van. On a un évier, gaz, glacière et matos pour si on veut roucouler dehors.... Nous n'aurons utilisé le kit Jardin que deux fois durant notre séjour.... Quel dommage!!!!"
+    [:br {}]
+    [:br {}]
+    "Je suis encore entrain de me demander où je voudrais la cuisine de notre van, dans le van ou à l'arrière....A réfléchir.....")}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "9478e247a4",
+       :original-secret nil,
+       :id "19919062762",
+       :farm-id 1,
+       :server-id "363"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "fdb985fb43",
+       :original-secret nil,
+       :id "20184019126",
+       :farm-id 1,
+       :server-id "415"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "8c690e167b",
+       :original-secret nil,
+       :id "19586232033",
+       :farm-id 1,
+       :server-id "557"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "551bee1bd3",
+    :original-secret nil,
+    :id "19737898510",
+    :farm-id 1,
+    :server-id "351"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("Le Bano"
+    [:br {}]
+    "Plus compliqué puisque nous sommes en hiver une fois de plus.... J'aurai bien sûr bien essayé la douche solaire :-) Mais durant notre périple, nous avons bénéficié de quelques heures de grand soleil pour être optimiste hehe.... et puis le froid nous aurait réduit en minus avant même d'allumer la douche!!!")}
+  {:type :photo,
+   :caption "Notre douche!!",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "2efa6d6e04",
+    :original-secret nil,
+    :id "20274809031",
+    :farm-id 1,
+    :server-id "465"},
+   :provider :flickr,
+   :height 180}
+  {:type :photo,
+   :width 180,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "61f15b8568",
+    :original-secret nil,
+    :id "20080907710",
+    :farm-id 1,
+    :server-id "403"},
+   :provider :flickr,
+   :height 240}],
+ :title "Vivre le van",
+ :locations
+ ({:latitude -40.1603858, :longitude -71.3581225, :accuracy 48}),
+ :id "vivre-le-van",
+ :blog "avesdepaso",
+ :visibility :public}

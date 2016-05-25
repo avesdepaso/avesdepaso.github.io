@@ -1,0 +1,25 @@
+{:updated-at #inst "2009-02-10T18:50:31.000-00:00",
+ :tags #{:venezuela},
+ :published-at #inst "2009-02-10T18:40:13.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Et oui même à l'autre bout du monde on ne peut pas y echapper."
+    "Surtout que le Venezuela nous a réservé une petite surprise: un taux de change officiel cramoisi de 1 dollar pour 2.1 bolivar et un officieux ("
+    [:em {} "black-market"]
+    " comme ils appellent ca ici) de 1 dollar pour jusqu'à 5 bolivar! Oui oui ca fait bien 2.5 fois plus!! arrg")}
+  {:type :paragraph,
+   :content
+   "Alors bien sûr pour beneficier de ce change avantageux il faut avoir des dollars, que nous n'avons pas.."}
+  {:type :paragraph,
+   :content
+   "Heureusement les bus roulent vite (facon de parler ;)), et on arrive bientôt au Bresil qui est plus sympathique avec ses touristes étourdis."}
+  {:type :paragraph,
+   :content
+   "Ironie de l'histoire (pour Chavez surtout) il vaut mieux être un touriste avec les poches pleines de dollars américains ici."}],
+ :title "Arrrgent",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "arrrgent",
+ :source-id "495",
+ :blog "avesdepaso",
+ :visibility :public}

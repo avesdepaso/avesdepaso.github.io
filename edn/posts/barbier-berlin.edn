@@ -1,0 +1,74 @@
+{:updated-at #inst "2014-02-03T01:50:17.000-00:00",
+ :tags #{:buenos-aires},
+ :published-at #inst "2014-01-01T23:37:59.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Rien de tel que les fêtes pour se faire toiletter la barbe. Un bon vieux rasoir à lame c'est tout de suite plus classe qu'une tondeuse électrique. Et bien sûr qui dit barbier, dit Berlin! (?!)"}
+  {:type :photo,
+   :provider :flickr,
+   :id
+   {:id "11570014183",
+    :farm-id "8",
+    :server-id "7344",
+    :secret "8377a6e358",
+    :original-format "jpg"},
+   :width 500,
+   :height 331}
+  {:type :paragraph,
+   :content
+   "Avant de passer aux choses sérieuses, un coup de brosse pour avoir la barbe soyeuse. Un truc de chauve, on prend soin de nos poils."}
+  {:type :photo,
+   :provider :flickr,
+   :id
+   {:id "11569861194",
+    :farm-id "3",
+    :server-id "2873",
+    :secret "dd16a62a08",
+    :original-format "jpg"},
+   :width 500,
+   :height 331}
+  {:type :paragraph,
+   :content
+   "Ensuite je rigole moins, d'ailleurs j'ai arrêté de respirer jusqu'à la fin. Au cas où."}
+  {:type :photo,
+   :provider :flickr,
+   :id
+   {:id "11569970406",
+    :farm-id "8",
+    :server-id "7408",
+    :secret "d9120b9efc",
+    :original-format "jpg"},
+   :width 500,
+   :height 331}
+  {:type :paragraph,
+   :content
+   "En cas de problème, toujours avoir une bière à proximité. On sait jamais, ça peut sauver une vie! C'est pour ça que tout bon salon de barbier doit avoir un coin bar."}
+  {:type :photo,
+   :provider :flickr,
+   :id
+   {:id "11569878254",
+    :farm-id "8",
+    :server-id "7375",
+    :secret "9567c7e044",
+    :original-format "jpg"},
+   :width 500,
+   :height 331}
+  {:type :photo,
+   :provider :flickr,
+   :id
+   {:id "11570006073",
+    :farm-id "4",
+    :server-id "3672",
+    :secret "0ca31c8365",
+    :original-format "jpg"},
+   :width 331,
+   :height 500}
+  {:type :paragraph,
+   :content "La prochaine fois, au tour du crâne façon Agassi?"}],
+ :title "Le barbier de Berlin",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "barbier-berlin",
+ :source-id "2712",
+ :blog "avesdepaso",
+ :visibility :public}

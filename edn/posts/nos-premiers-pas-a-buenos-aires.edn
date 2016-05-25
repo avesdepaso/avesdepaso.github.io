@@ -1,0 +1,124 @@
+{:updated-at #inst "2012-02-20T03:08:23.000-00:00",
+ :tags #{:buenos-aires},
+ :published-at #inst "2012-02-20T02:53:43.000-00:00",
+ :elements
+ [{:type :paragraph, :content "Derni��re destination Buenos Aires !"}
+  {:type :paragraph,
+   :content
+   "Arriv��e le 27 janvier 2012��� sous un soleil de plomb! C���est l�����t�� avec les guirlandes de no��l/nouvelle ann��e en plus !"}
+  {:type :paragraph,
+   :content
+   "M��me apr��s avoir visit�� un bout d���Am��rique Centrale, le soleil de Buenos Aires nous a litt��ralement ��cras��! Hop l��, on saute dans le bus climatis��. Direction le centre ! La route semble longue tellement nous sommes press��s de voir La ville��� Mais en tout juste 45 minutes, on arrive �� Retiro,�� place centrale �� Buenos Aires. De l��, nous d��couvrons le m��tro ���subte��� pour rejoindre notre appartement temporaire."}
+  {:type :paragraph,
+   :content
+   ("Il est 13h, nous avons un chez nous pour 3 semaines. A nous la d��couverte, les "
+    [:em {} "parillas"]
+    " (restaurant �� viande), ������ mais aussi le processus d���immigration, l���inscription au consulat, l���ouverture d���un compte en banque, la recherche de notre futur appart��� ou encore la r��cup��ration de nos caisses en provenance de Vancouver (ce qu���il en reste)���. arrghhhh tout ��a ? bah oui on recommence tout���.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/02/arg_form.jpg?w=149&h=339"},
+   :width 149,
+   :height 339,
+   :alt "arg_form"}
+  {:type :paragraph,
+   :content "L���immigration : presque pas de probl��me."}
+  {:type :paragraph,
+   :content
+   "Nous sommes accompagn��s par un avocat diff��rent �� chaque RDV ��� c���est rassurant et c���est cens�� aller plus vite.. Pour Julien tout �� fonctionn�� : les services de l���immigration viennent de lui remettre le CUIL (sorte de num��ro d���immatriculation sociale) ce qui lui permet d���ouvrir un compte et de travailler. Et moi ??? bah moi c���est diff��rent��� chaque document doit ��tre sign��, apostill��, certifi�� et traduit dans la langue du pays��� mais mon certificat de mariage canadien �� priori ne l���est pas ���. ARGGGGHHHHH quoi ?"}
+  {:type :paragraph,
+   :content
+   "Ah oui, bon �� savoir, le Canada n���a pas d���apostille (tout seul avec Cuba), ce qui fait que mon certificat de mariage canadien ne peut ��tre pris en compte par les services de l���immigration argentine ���. pour l���instant ! Mr l���avocat au travail !!! Je veux travailler moi ;-("}
+  {:type :paragraph,
+   :content
+   "Alors ��a bosse dans un bureau pour me sortir de cette gal��re : rien de m��chant, tout va s���arranger���."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/02/pesos.jpg?w=302&h=167"},
+   :width 302,
+   :height 167,
+   :alt "pesos",
+   :caption "Compte bancaire..."}
+  {:type :paragraph,
+   :content
+   "Il semblerait que pour ouvrir un compte en banque ��a soit aussi un peu compliqu�����. ��a prend 2 semaines pour avoir une carte ���. (Un jour au Canada���). ��a nous tarabuste un peu parce que l���argent, quand tu t���installes t���en as besoin ! Sinon on d��couvre la vie du pesos : ses crises, son copain le dollar qui lui fait du pied, son inflation sur le prix du logement, ses billets en coupure de 100��� bref, le pesos c���est toute une histoire au point que tu ach��tes ton appart en dollars US ! Bref, ��a fera certainement l���objet d���un futur article, une fois qu���on aura compris ���qui��� est le pesos r��ellement et quels sont ses avantages/faiblesses���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/02/cabane.jpg?w=133&h=146"},
+   :width 133,
+   :height 146,
+   :alt "cabane",
+   :caption "Logement..."}
+  {:type :paragraph,
+   :content
+   ("Le logement : d���abord, il nous a fallu savoir comment ��a marche ���.les types de contrats, du meubl�� ou du pas meubl��, dans quel quartier, le jeu des commissions des agences, les histoires de garanties��� et enfin visiter���. des trucs moches, des maisons avec "
+    [:em {} "cucaracha"]
+    " (blatte), des appart tout piti��� mais �� gros prix���. �� Buenos Aires, y en a pour tout le monde !")}
+  {:type :paragraph,
+   :content "Ouf, enfin on a trouv�� ! On signe ? alors il faut :"}
+  {:type :paragraph,
+   :content
+   "��et une garantie bien s��r : ���vous connaissez quelqu���un qui a une propri��t�� en Argentine et qui peut se porter garant ?��� euhhh nan��� bon bah alors ca sera 4 mois de loyer en plus ! Ah ouai ? ;-((((( bient��t checked !"}
+  {:type :paragraph,
+   :content
+   ("R��sultat, on a pas un rond ce mois-ci. Au menu �� la maison : p��tes et "
+    [:em {} "naranjas"]
+    " (ou l���orange, le fruit le moins cher en Argentine)")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/02/cartons.jpg?w=213&h=200"},
+   :width 213,
+   :height 200,
+   :alt "cartons",
+   :caption "Notre maison en bo��te..."}
+  {:type :paragraph, :content "Nos caisses soit 130 kilos de maison :"}
+  {:type :paragraph,
+   :content
+   ("Jos��-Luis (service client argentin chez Copa Airlines) que je harc��le depuis notre arriv��e pour savoir o�� sont nos caisses n���arr��te pas de me dire qu���elles sont coinc��es �� Cancun, Mexique et en attente d���un avion pour Panama City puis Buenos Aires. Apr��s avoir pass�� du temps sur les plages de sables blancs de la destination ���resort��� pr��f��r��e des americanos, voil�� qu���elles sont finalement arriv��es �� destination !!! Lundi 13 f��vrier, nous filons �� l���a��roport en prenant cette fois-ci le bus local (n��8 ou ex-86 pour les futurs voyageurs aventuriers �� BA ;-)). Celui-l�� n���est pas climatis�� et met 2h pour rejoindre sa destination finale. Il n���en finit pas de traverser la capitale, les villes de banlieues en mode ���"
+    [:a
+     {:title "Cor��e du Nord",
+      :href
+      "http://www.lexpress.fr/diaporama/diapo-photo/actualite/monde/asie/la-coree-du-nord-a-l-honneur-au-world-press-2011_1081282.html?p=3"}
+     "Cor��e du nord"]
+    "���, et de s���amuser �� faire des pirouettes sur les ��changeurs de l���autoroute���.")}
+  {:type :paragraph,
+   :content
+   ("Une fois l��-bas, c���est la qu��te du graal : passer chez Copa Airlines et payer 150$ US pour le fun de la proc��dure���, se rendre au ���"
+    [:em {} "Terminal de cargas"]
+    "��� (Terminal Fret) et attendre que les douaniers daignent d��marrer leur journ��e ���. �� 10h45��� et une fois entre les mains des douaniers, c���est pas termin��, il faut n��gocier !")}
+  {:type :paragraph,
+   :content
+   "���Les chicos (nous), y a un probl��me���. vous ��tes toujours touristes et vous venez r��cup��rer 130 kilos de mat��riel ? ��� ��� ���oui, Mr le douanier������."}
+  {:type :paragraph,
+   :content
+   "���Vous pouvez pas retirer vos caisses tant que vous n�����tes pas r��sidents ������ ��� ���Mr, on a pas de fringues, notre maison, c���est ces 6 cartons, si-vous-plait Msieur������"}
+  {:type :paragraph,
+   :content
+   "���ok, mais vous ��tes touristes, vous allez devoir ���. payer !��� Ah comme on l���attendait celle-l�����.. il croit quand m��me pas qu���il va nos avoir celui-l�����. Bon, il veut contr��ler nos caisses et en fonction, il avisera."}
+  {:type :paragraph,
+   :content
+   "En voyant la t��te de nos caisses pour la premi��res fois depuis 2 mois, je me suis dit qu���il ne devait pas y rester grand chose : des poubelles �� c��t�� des palettes prot��g��es des entreprises exportatrices��� En ouvrant nos caisses, le douanier a bien compris que c�����tait notre maison : du bain moussant (je sais, pas tr��s utile���), des casques de grimpe, des fringues, un moulin �� caf��������Bon allez, r��cup��rer vos poubelles, ca va������ hop l��, on a m��me pas donn�� un rond�� au Douanier !"}
+  {:type :paragraph,
+   :content
+   "Enfin, le terminal nous a encore pris quelques 150 dollars US pour stockage et frais de personnel���. arrfff je conseille �� personne de faire transporter des malles par avion : trop cher, trop de stress, trop d���emmerdes avec les douaniers��� �� moins d�����tre un vrai expat��� (entreprise qui prend en charge, tu sais que ��a va arriver, tu croises pas le douanier���)."}
+  {:type :paragraph,
+   :content
+   "Une fois dehors avec nos 6 caisses, restait plus qu����� trouver un taxi pour nous rapatrier �� BA��� encore toute une histoire mais on y est parvenu !"}
+  {:type :paragraph,
+   :content "Bah voil��, on y est presque ��� install�� !"}
+  {:type :paragraph,
+   :content
+   "On attend le 1er mars pour emm��nager dans nos 4 murs pour de vrai!"}],
+ :title "Nos premiers pas �� Buenos Aires���.",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "nos-premiers-pas-a-buenos-aires",
+ :source-id "2099",
+ :blog "avesdepaso",
+ :visibility :public}

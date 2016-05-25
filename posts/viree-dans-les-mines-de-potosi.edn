@@ -1,0 +1,100 @@
+{:updated-at #inst "2009-04-08T00:26:20.000-00:00",
+ :tags #{:bolivie},
+ :published-at #inst "2009-04-08T00:26:20.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Rah, nous connaissions les mines de Kiruna (Su��de) mais les mines de Potosi sont aussi impressionnantes !"}
+  {:type :paragraph,
+   :content
+   "Pour nous jeunes fran��ais, les mines c���est du pass�� ! Mais dans certains coins du monde, on extrait encore du sol des minerais tels que l���argent, le zinc et bien d���autres encore, notamment �� Potosi !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2617.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "La montagne d'argent de Potosi",
+   :caption "La montagne d&#39;argent de Potosi"}
+  {:type :paragraph,
+   :content
+   "Les mines de Potosi comptent encore aujourd���hui plus de 14000 mineurs. Des riches qui se procurent des supers machines ��lectriques pour extraire de les richesses de la montagne et des pauvres qui utilisent de la dynamite et des barres �� mine pour extraire des sous-sols du minerais pour garantir leur survie!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2630.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Les mineurs juniors",
+   :caption "Les mineurs juniors"}
+  {:type :paragraph,
+   :content
+   "Alors on a d��cid�� pour quelques heures d���endosser le costume de mineur et d���aller �� leur rencontre pour conna��tre un petit bout de leur calvaire. Ces hommes restent plus de 8 heures sous terre, parfois plus ! Ils consomment la feuille de coca pour tenir le coup en mastiquant jusqu����� 500 feuilles �� la fois, formant une boule au creux de leur joue. L���alcool �� 96% fait aussi partie de leur quotidien car pas ch��re (10 bol soit 1 euros), autant dire que la consommation b��t son plein."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/p1020804.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Au travail",
+   :caption "Au travail"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/p1020800.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Rencontre avec des mineurs",
+   :caption "Rencontre avec des mineurs"}
+  {:type :paragraph,
+   :content
+   "On a ainsi parcouru quelques centaines de m��tres �� leur rencontre, en leur offrant au passage des kits de dynamites, de la coca et des boissons soft pour soulager leur dur travail."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/p1020821.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Sortie du minerai",
+   :caption "Sortie du minerai"}
+  {:type :paragraph,
+   :content
+   "Apr��s avoir pass�� 1h30 dans une atmosph��re suffocante, on parcourt la ville et on d��couvre une ambiance d��tendu chez les jeunes. On assiste aussi au d��fil�� annuel pour l���anniversaire de la ville de potosi."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2628.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Partie de baby-foot",
+   :caption "Partie de baby-foot"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2687.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "D��fil�� ",
+   :caption "D��fil�� "}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2691.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Pipo et Mario au d��fil��",
+   :caption "Pipo et Mario au d��fil��"}],
+ :title "Vir��e dans les mines de Potosi",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "viree-dans-les-mines-de-potosi",
+ :source-id "664",
+ :blog "avesdepaso",
+ :visibility :public}

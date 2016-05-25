@@ -1,0 +1,107 @@
+{:updated-at #inst "2011-02-05T06:28:29.000-00:00",
+ :tags #{:laos},
+ :published-at #inst "2011-02-05T06:28:29.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Nous poursuivons notre route vers le Nord pour atteindre Luang  Prabang.Ancienne ville coloniale fran��aise, Luang Prabang est la  vitrine du Laos. La ville apparait sur une presqu�����le au bord du M��kong  comme un n��nuphar en fleur au beau milieu de cette r��gion verte de  jungle."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p10603261.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060326",
+   :caption "Maison coloniale"}
+  {:type :paragraph, :content "Nous d��couvrons ici :"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/00610-06-janvier-2011-450d.jpg?w=300&h=200"},
+   :width 300,
+   :height 200,
+   :alt "00610-06 janvier 2011-450D",
+   :caption "Au march�� de nuit �� Luang Prabang"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060328.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060328",
+   :caption "Bobby, l&#39;antiquaire des bo��tes �� riz"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060401.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1060401",
+   :caption "La cuisson du sticky rice"}
+  {:type :paragraph,
+   :content
+   "les buffets �� 10000 kip ( 1euro) o�� nous rencontrons Anoung. Ce jeune de 20 ans, issue d���une famille des champs se voit venir �� la ville pour ��tudier et tenter sa chance dans le tourisme. Il vient alors s���assoir ici tous les soirs pour am��liorer son niveau d���anglais. Effectivement, nombreux sont les toursites qui viennent manger pour pas cher �� cet endroit. Pendant que nous dinons pour 10000 kip, Anoung doit se nourrir pour le m��me prix �� la journ��e. Il s���autorise ainsi 2000 kip par repas seulement (20 centimes d������), travaille le matin t��t dans un h��tel en tant que r��ceptionniste et l���apr��s midi part ��tudier jusque 20h.�� On dirait que ces jeunes abandonnent petit �� petit le bon pegnian Attitude pour faire ��voluer leur niveau de vie."}
+  {:type :paragraph,
+   :content
+   "Cet endroit reste un lieu touristique et pourtant on y a pass�� quelques jours tr��s agr��ables��� �� visiter �� v��lo ou �� pieds :"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060366.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1060366",
+   :caption "Tisserand"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060420.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060420",
+   :caption "Pagode antique !!!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/00737-07-janvier-2011-450d.jpg?w=300&h=200"},
+   :width 300,
+   :height 200,
+   :alt "00737-07 janvier 2011-450D",
+   :caption "Kuang Si"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050685.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1050685",
+   :caption "Acc��s �� Tad Sae en pirogue"}
+  {:type :paragraph,
+   :content
+   "une librairie o�� le propri��taire lao a v��cu plus de 20 ans en France lorsqu���il a du fuir le Laos au moment de la prise de contr��le du pays par les communistes."}
+  {:type :paragraph,
+   :content
+   "On peut ��galement assister �� la marche de bonzes qui viennent  faire l���aum��ne dans la rue aupr��s des habitants tous les matins �� 5h���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050830.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1050830",
+   :caption "Rituel passage des bonzes "}],
+ :title "Flanerie sur Luang Prabang",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "flaneri-sur-luang-prabang",
+ :source-id "1322",
+ :blog "avesdepaso",
+ :visibility :public}

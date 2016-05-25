@@ -1,0 +1,172 @@
+{:updated-at #inst "2009-05-20T16:44:39.000-00:00",
+ :tags #{:bolivie},
+ :cover
+ {:provider :wordpress,
+  :id
+  {:url
+   "https://vadrouilles.files.wordpress.com/2009/04/img_3271-50.jpg?w=300&h=199"},
+  :type :photo,
+  :width 300,
+  :height 199,
+  :alt "L'��quipe de winners",
+  :caption "L&#39;��quipe de winners"},
+ :published-at #inst "2009-04-22T21:57:21.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "La cordill��re Real nous a tellement plus qu���on s���est motiv�� pour monter encore plus haut���."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_3234-501.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Cordillera Real",
+   :caption "Cordillera Real"}
+  {:type :paragraph,
+   :content
+   ("Du haut de notre niveau de d��butant baroudeur des glaciers, le Huayna Potosi semblait ��tre �� notre port��e (6088m). Nous partons avec deux guides aspirants (futurs guides internationaux), Jorelio et Rolando, 24 et 28 ans. On apprend en derni��re minute que Pati, notre "
+    [:em {} "super GO (agence Explorama, La Paz) "]
+    "nous rejoint juste parce qu���elle nous trouve forts sympathiques. Alors c���est parti !")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_3196-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "En avant sur le glacier",
+   :caption "En avant sur le glacier"}
+  {:type :paragraph,
+   :content
+   "Notre premier camp se trouve �� 4800m. Nous profitons de la premi��re journ��e pour nous acclimater et d��couvrir les joies de la grimpette sur glacier."}
+  {:type :paragraph,
+   :content
+   "Je fais mon premier caprice : mal de ventre. Pour sortir de ce petit calv��re, il est pr��vu une sieste de 1/2 h et un th�� �� la feuille de coca pr��par�� par Yolanda, doyenne du refuge."}
+  {:type :paragraph,
+   :content
+   "Toujours sous le soleil, le glacier nous attend avec ses crevasses et ses murs. On enfile tout le mat��riel : Baudrier, crampons et piolets ! C���est vraiment l���aventure !"}
+  {:type :paragraph,
+   :content
+   "Premiers pas de danse pour prendre la confiance et on finit perch��s en cord��e sur les fronts de glaces avec descente en rappel. Apr��s 2 heures d���entrainement, il semble qu���on soit fin pr��ts pour l���ascension du Huayna Potosi."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_3200-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "J��j��, c'est l'aventure qu'il recherche !",
+   :caption "J��j��, c&#39;est l&#39;aventure qu&#39;il recherche !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_3209-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Plant�� de piolet pour Julien",
+   :caption "Plant�� de piolet pour Julien"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_3215-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Flexion pour moi",
+   :caption "Flexion pour moi"}
+  {:type :paragraph,
+   :content
+   ("Le deuxi��me jour est consacr�� de nouveau �� l���acclimatation avec une marche de 3h pour atteindre le camp "
+    [:em {} "Alto "]
+    "�� 5130m d���altitude. On commence �� marcher dans la neige���")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/p1030738-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Glacier du Huayna potosi",
+   :caption "Glacier du Huayna potosi"}
+  {:type :paragraph,
+   :content
+   "On arrive vers 12h au camp. D���ici, on voit revenir les randonneurs qui ont r��alis��s l���ascension��le matin. Certains sont d��pit��s d���avoir succomb��s au mal de montagne (mal de ventre, t��te, vomissements), d���autres sont ravis du voyage."}
+  {:type :paragraph,
+   :content
+   "Le programme est rude. Nous nous couchons �� 19h pour un r��veil 6 heures plus tard, c���est-��-dire 1h du matin. On prend un petit d��jeuner pour les forces ! Comme aux enfants, on nous remet notre kit d�����nergie (barres chocolat��es et pomme) et notre litre d���eau."}
+  {:type :paragraph,
+   :content
+   ("Il est 2h20, nous d��collons du camp en tenue de "
+    [:em {} "cosmonaute de la montagne"]
+    ". Nuit noire, ciel ��toil��, lune avec croissant horizontal (pas commun je crois !), lampes frontales en position et c���est parti pour plusieurs heures d���efforts selon les niveaux !")}
+  {:type :paragraph,
+   :content
+   "Apr��s 2h de marche, on aper��oit d��j�� les lumi��res de La Paz, au fond de la vall��e. Les ��toiles s���effacent pour laisser place �� un ciel bleu azul comme on l���a tant esp��r��. Ca motive la troupe sacr��ment!"}
+  {:type :paragraph,
+   :content
+   "J��j�� nous a fait l���ascension en 3h30 pour arriver le premier��au lever du soleil. Avec Julien, nous avons mis 4h30. D���autres auront mis plus de 6h voire abandonn��. Bon du coup, si on fait le calcul, on est pas trop mal situ��s dans le classement !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/p1030731-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "J��j�� au sommet",
+   :caption "J��j�� au sommet"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_3244-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Trop heureux!",
+   :caption "Trop heureux!"}
+  {:type :paragraph,
+   :content
+   "Avant d���atteindre le fameux 6088m, il faut passer par une arr��te d���une quarantaine de m��tres, large de 50cm���avec de chaque c��t�� un bon vide de plusieurs centaines de m��tres. Le vent peut parfois faire son entr��e��� du coup, on se sent vraiment tout petit��� pas de faux pas."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_3240-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Le sommet ",
+   :caption "Le sommet "}
+  {:type :paragraph,
+   :content
+   "De l��-haut, c���est tout simplement magique, grandiose. On voit �� nouveau El Alto et La Paz, domin��s par l���Illimani (plus haut encore que le Huayna Potosi). On surplombe la Cordillera Real que nous avions parcouru quelques jours auparavant ainsi que la jungle bolivienne. Dernier sourire en direction du Sajama ,���� plus de 300 kms de distance (montagne de plus de 6300m que nous souhaitions monter initialement)."}
+  {:type :paragraph,
+   :content
+   "La descente est toute aussi g��niale. On sait qu���on a fait le plus dur et on refait le chemin inverse��� de jour. Du coup, on d��couvre le chemin qu���on a parcouru et des paysages qu���on n���avait pas vu en pleine nuit lorsqu���on marchait en somnolant���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_3262-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Descente en cord��e",
+   :caption "Descente en cord��e"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_3268-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Bronzette sur la banquise",
+   :caption "Bronzette sur la banquise"}
+  {:type :paragraph,
+   :content "La montagne dans le dos��� Ciao Huyana Potosi !"}],
+ :title "L�� haut��� sur une arr��te���",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "la-haut-sur-une-arrete",
+ :source-id "731",
+ :blog "avesdepaso",
+ :visibility :public}

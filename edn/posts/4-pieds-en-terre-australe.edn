@@ -1,0 +1,208 @@
+{:updated-at #inst "2014-09-26T04:18:40.035-00:00",
+ :tags #{:argentine},
+ :cover
+ {:width 1024,
+  :height 678,
+  :provider :flickr,
+  :user-id "96129378@N07",
+  :category-id "72157647625145549",
+  :id
+  {:id "15333513126",
+   :farm-id 4,
+   :server-id "3844",
+   :photoset-id nil,
+   :secret "524ec221ab",
+   :original-secret nil,
+   :original-format nil}},
+ :published-at #inst "2013-09-10T20:17:36.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Ca fait rêver ou pas : Ushuaia, cette terre la plus australe au monde!"}
+  {:type :photo,
+   :alt "DSC_0201",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/09/dsc_0201.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :paragraph,
+   :content
+   "Sur ce bout du monde, les indigènes les plus primitifs (selon notre investigateur Charles Darwin) vivaient bien tranquilles jusqu'à la fin du 19eme siècle, lorsque les premières missions sont arrivées pour changer les moeurs. Bien avant eux, la baie d'Ushuaia et sa province avait déjà été visitées par les explorateurs, navigateurs, biologistes et autres aventuriers de l'époque."}
+  {:type :paragraph,
+   :content
+   "Quatre tribus menaient alors une vie des plus simples : huttes de bois et fourrures, vivaient tout nu avec une moyenne de 5 degrés à l'année, ce qui évitait d'attraper des maladies, et quand t'es tout nu, tu sèches plus vite hein? Y avait à manger en abondance. Les habitants côtiers vivaient de la faune aquatique (moules, lions de mer). Pour l'anecdote, le tri des poubelles n'existait pas alors on laissait les coquilles au pied de la hutte pour faire tapis piquant aux odeurs de moules! Encore aujourd'hui, on peut apercevoir l'emplacement de ces anciennes huttes avec ces monticules de coquilles. Quant à l'intérieur des terres, la chasse au guanaco était alors permise!"}
+  {:type :photo,
+   :alt "DSC_0441",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/09/dsc_0441.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :paragraph,
+   :content
+   "Lorsque l'homme 'moderne' est arrivé et a voulu changer leurs us et coutumes, il leur a fallu se battre contre les parasites de ces humains de la ville qui portent des fringues, la nourriture, les vêtements qu'on leur imposaient en ont fait des êtres plus vulnérables. Les vêtements mouillés et sales pouvaient transmettre des maladies. L'histoire raconte également qu'un indien mort valait alors une livre sterling!"}
+  {:type :paragraph,
+   :content
+   "Bref, aujourd'hui, peu de descendants mais oui des mélanges européens-indiens."}
+  {:type :paragraph,
+   :content
+   "Après la construction d'un pénitencier et la venue des pionniers et autres rêveurs, Ushuaia a poussé. Il y a encore 30 ans, 3000 habitants seulement faisaient le guet au bout du monde! Aujourd'hui, ils sont 60000 a avoir choisi la version australe du monde pour vivre."}
+  {:type :paragraph,
+   :content
+   "De notre côté, nous avons choisi de visiter ce joli coin en hiver!"}
+  {:type :paragraph,
+   :content
+   "Le Parc National Tierra del fuego nous a promis de beaux paysages tout blanc."}
+  {:type :photo,
+   :alt "DSC_0511",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/09/dsc_0511.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :paragraph,
+   :content
+   "On s'est croisé plusieurs fois avec les Zorros Colorados (Renard) affamés, en quête d'un petit quelque chose a grignoter. Comme l'humain de base s'imagine que donner à manger aux animaux sauvages, c'est être sympa, on se retrouve avec des animaux domestiques version renard des bois. z'ont froid alors ils sont pas trop agressif mais l'été, il semblerait que leur comportement se dégrade (trop de touristes!!!!)."}
+  {:type :photo,
+   :alt "DSC_0471",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/09/dsc_0471.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :photo,
+   :alt "DSC_0547",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/09/dsc_0547.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :paragraph,
+   :content
+   "Ca fait 2 ans qu'on avait pas profiter des sports d'hiver, on avait un peu laisser Vancouver, Cypress et Grouse Mountain de côté depuis qu'on habite l'hémisphere sud!! Bah voila, on est remonté sur les skis et on a testé la station Cerro Castor, la station de ski la plus australe du monde (bah oui c'est que de la version australe à Ushuaia!)."}
+  {:type :photo,
+   :alt "DSC_0692",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/09/dsc_0692.jpg?w=450&h=679"},
+   :provider :wordpress,
+   :height 679}
+  {:type :paragraph,
+   :content
+   "Julien a patiné sur les deux premieres pistes bleues et ensuite on l'arrêtait plus! Bon fallait quand même rester sur la même piste pour bien reprendre ses marques mais ca va, l'a plus peur de rien mon castor sur les pistes!! Bon fallait un peu assurer parce qu'on était 'accompagné' par l'équipe de France de ski en entraînement (depuis 2004, il organisent leurs entraînements d'été à Ushuaia)."}
+  {:type :photo,
+   :alt "DSC_0557",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/09/dsc_0557.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :photo,
+   :alt "DSC_0559",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/09/dsc_0559.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :paragraph,
+   :content
+   ("La Vallée Tierra Mayor rescelle d'autres surprises pour les bonhommes de neige comme nous : on profite d'une ballade en ski de fond, la technique est trop différente du ski, j'y arrive pas et je me suis mangé les bras, les jambes enfin tout mon corps en 1h! Si bien qu'on a rendu le matos et ca tombe bien, c'est l'heure du déjeuner!! Et mon ventre de minière a une faim d'ogre cet hiver (pas bon du tout). Bref, on termine au restau avec un cordero fueguino (agneau grillé de la province cuit a l'"
+    [:a
+     {:href "http://www.visittangobuenosaires.com/Asado-sp.htm"}
+     "asado en croix"]
+    "). 30 minutes plus tard : plus faim!")}
+  {:type :photo,
+   :alt "DSC_0588",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/09/dsc_0588.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :paragraph,
+   :content
+   "Ah j'oubliais, comme on a vécu une semaine dans l'hostel des saisonniers, on a croisé nos voisins de chambre en serveur et chargé du barbecue (el asador!) ce jour là."}
+  {:type :paragraph,
+   :content
+   "Sorti du restau, on se retrouve face à 70 chiens (alaskian, huskies et autres mélanges!!)."}
+  {:type :photo,
+   :alt "DSC_0596",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/09/dsc_0596.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :paragraph,
+   :content
+   "Evidemment, je veux donner des besos au plus grand nombre! Un huskie musclé a même eu le temps de me plaquer contre sa hutte héhhhé."}
+  {:type :paragraph,
+   :content
+   "Et ah tiens, une québecoise ! Tabernacle!! ouh pis tiens une chti jeune fille de Clermont Ferrand. Bah tiens, les deux avec leurs chiens sur le terrain, elles se convertissent en guide de chien de traîneaux et c'est trop la classe! Je résiste pas bien longtemps et termine sur le traîneau avec mon harem de chiens des grands espaces!"}
+  {:type :photo,
+   :alt "DSC_0601",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/09/dsc_0601.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :paragraph,
+   :content
+   "yahhhhhaaaaa, sont trop contents de se faire les pieds !!!"}
+  {:type :photo,
+   :alt "DSC_0631",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/09/dsc_0631.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :paragraph,
+   :content
+   "Bon pis on pouvait pas louper le Canal de Beagle, cet axe marin que les gros bateaux utilisaient avant que ne voit le jour le canal de Panama. Un max de bateaux ont coulé dans le coin. Ya moyen que la plongée en face rêver plus d'un! Nous en mer, on est pas trop aventuriers. On s'est contenté d'une ballade en bateau pour voir la faune du coin. C'est beauuuuu!"}
+  {:type :photo,
+   :alt "DSC_0234 (2)",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/09/dsc_0234-2.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :photo,
+   :alt "DSC_0285",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/09/dsc_0285.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :paragraph,
+   :content
+   "Bref, ushuaia, c'est le royaume des pionniers, ca caille, ya de chouettes montagnes et chouettes sentiers de rando (en été!) et la culture encore une fois différente du reste du pays! Des petites histoires d'argentins : forte immigration bolivienne et p'ruvienne, des maisons construites sans permis mais sur roues au cas où on doit déménager d'un jour à l'autre, à la débrouille!"}
+  {:type :paragraph,
+   :content
+   "Encore un de ces endroits où on a envi de remettre les pieds..."}
+  {:type :photo,
+   :alt "DSC_0197",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/09/dsc_0197.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}],
+ :title "4 pieds en terre australe",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "4-pieds-en-terre-australe",
+ :source-id "2668",
+ :blog "avesdepaso",
+ :visibility :public}

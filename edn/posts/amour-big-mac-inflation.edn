@@ -1,0 +1,64 @@
+{:updated-at #inst "2012-09-18T01:42:31.000-00:00",
+ :tags #{:buenos-aires},
+ :published-at #inst "2012-09-18T01:37:01.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Il y a des jours où il faut savoir faire des sacrifices pour son couple. Les jours où l'on passe devant un McDonald par exemple. Même dans le pays de la viande de boeuf, un steak riquiqui, tout cramé et au goût de carton ça excite certaines papilles. Avec une bonne odeur d'huile rance en prime, il faut dire qu'on ne lésine pas avec la qualité."}
+  {:type :paragraph,
+   :content
+   ("J'avoue, je suis faible et une fois à l'intérieur moi aussi je veux mon burger.. Ca doit venir de la décoration."
+    "Bon où il est le BigMac? Pas en photo sur le panneau d'affichage, ok les "
+    [:em {} "promotions "]
+    "sont mises en avant. Pas listé non plus? On n'est pas entré dans un Quick par erreur quand même !? Nan je le vois bien, sur le menu que personne ne lit jamais, en dernière position et 2 fois moins cher que tous les autres! Hmm? Encore un miracle de l'économie argentine?"
+    "L'"
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Indice_Big_Mac"}
+     "indice BigMac"]
+    ", crée par "
+    [:em
+     {}
+     [:a
+      {:href "http://www.economist.com/node/21542808"}
+      "The Economist"]]
+    ", pourrait y être pour quelque chose. Symbole de la globalisation, ce burger sert de baromêtre à l'échelle planétaire de l'évolution du pouvoir d'achat. Hop un petit tour de passe-passe et on remonte dans les classements! L'inflation, elle fait pschitt! En Argentine, on se débrouille."
+    "\nElle est comme ça "
+    [:a
+     {:href
+      "http://fr.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner"}
+     "Christina"]
+    ", elle aime bien leur "
+    [:a
+     {:href "http://fr.wiktionary.org/wiki/faire_la_nique"}
+     "faire la nique"]
+    " aux américains.")}
+  {:type :paragraph,
+   :content
+   ("Une question reste en suspend: pourquoi McDonald, qu'on peut difficilement soupçonner de sympathie "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Front_pour_la_victoire"}
+     "Kichneriste"]
+    ", accepte de sacrifier ses bénéfices? Ca doit être ça le real-capitalisme.")}
+  {:type :paragraph,
+   :content
+   ("PS: n'oubliez pas de venir manger sans vos "
+    [:a
+     {:href
+      "http://korben.info/ca-se-passe-comme-ca-chez-mc-donalds.html"}
+     "google glass"]
+    ".")}
+  {:type :photo,
+   :provider :url,
+   :id
+   {:url
+    "https://i0.wp.com/3.bp.blogspot.com/-izRTKmVfI5g/TdPsBWUNPQI/AAAAAAAABrc/h-mM5RRXHFg/s320/Ronald-McDonald+fired.jpg"},
+   :width 320,
+   :height 270,
+   :alt "Ca se passe comme ça",
+   :caption "Ca se passe comme ça"}],
+ :title "Amour, Big Mac et inflation",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "amour-big-mac-inflation",
+ :source-id "2268",
+ :blog "avesdepaso",
+ :visibility :public}

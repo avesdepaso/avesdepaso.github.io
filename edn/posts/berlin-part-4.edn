@@ -1,0 +1,91 @@
+{:updated-at #inst "2010-06-03T16:49:47.000-00:00",
+ :tags #{:allemagne},
+ :published-at #inst "2010-06-03T16:49:47.000-00:00",
+ :elements
+ [{:type :paragraph, :content "MITTE"}
+  {:type :paragraph,
+   :content
+   "Dernier jour à Berlin mais toujours excitées par nos découvertes"}
+  {:type :paragraph,
+   :content
+   "On démarre par la TV Tower. Similaire à la Tour Eiffel, on y grimpe pour mesurer le taille de la City, immense, où certains vestiges se glissent parmi les nouvelles constructions. On a entendu parler d'une place Gendarmenmarkt où se trouvent 2 églises, une française et l'autre allemande. Ca nous a tenté !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/05/p1000915.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1000915",
+   :caption "Theater &amp; deutch church from french church"}
+  {:type :paragraph,
+   :content
+   ("Ce qui nous a aussi attiré dans ce coin, c'est la boutique Ritter Sports : The chocolate place to be in Berlin. Le chocolat coule à flot, tu peux créer ton propre carré de chocolat. Pour nous, c'était Muesli, nounours haribo. un délice "
+    [:span
+     {:class "wp-smiley emoji emoji-smile", :title ":-)"}
+     ":-)"])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/05/p1000920.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1000920",
+   :caption "Ritter Sport"}
+  {:type :paragraph, :content "REICHTAG & GOUVERNMENT QUARTER"}
+  {:type :paragraph,
+   :content
+   "On a ensuite filé au Reichtag (1894), l'assemblée nationale de Berlin fut l'objet d'un incendie au lendemain de la montée au pouvoir d'Hitler en 1933 et fut rénovée dans les années 90."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/05/p1000951.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1000951",
+   :caption "Reichtag"}
+  {:type :paragraph,
+   :content
+   "La coupole centrale a donc été totalement recréée pour former un dome de verre écolo. En captant les rayons du soleil, cet outil permet de chauffer ou de climatiser le parlement. Aussi, il récupère l'eau de pluie pour alimenter le bâtiment. Cette visite gratos avec audioguide vaut vraiment le coup et là-haut la vue est magnifique."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/05/p10009631.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1000963",
+   :caption "Coupole du Reichtag"}
+  {:type :paragraph,
+   :content
+   "On passe bien sûr sous la porte de Brandebourg: lieu culte comme notre Arc de Triomphe, la porte a notamment été empruntée par Napoléon 1er lorsqu'il s'est emparé de la ville de Berlin en 1806. Localisation culte aussi puisqu'elle était à la limite du mur de Berlin (Côté Est)."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/05/p1000946.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1000946",
+   :caption "Porte de Brandebourg"}
+  {:type :paragraph,
+   :content
+   "On termine notre visite à Berlin, par un passage au mémorial de l'Holocaust (pas drôle) et au Lego Land (drôle) !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/05/p1000990.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1000990",
+   :caption "Holocaust Memorial"}
+  {:type :paragraph, :content "On y retournera je crois!!"}],
+ :title "BERLIN (Part 4)",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "berlin-part-4",
+ :source-id "1119",
+ :blog "avesdepaso",
+ :visibility :public}

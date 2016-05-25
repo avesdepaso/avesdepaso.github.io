@@ -1,0 +1,21 @@
+{:updated-at #inst "2009-05-20T15:09:35.000-00:00",
+ :tags #{:perou},
+ :published-at #inst "2009-05-20T15:09:35.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Notre J��j�� nous���� quitt�� !! Vois comme on est triste de t���avoir laisser���� l���a��roport l���autre jour. Saches que ta bonne humeur et tes blagounettes vont nous manquer ! Bisou Mega"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3908-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "IMG_3908 [50%]"}],
+ :title "Un d��part",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "un-depart",
+ :source-id "848",
+ :blog "avesdepaso",
+ :visibility :public}

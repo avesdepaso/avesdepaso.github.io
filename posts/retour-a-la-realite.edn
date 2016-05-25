@@ -1,0 +1,57 @@
+{:updated-at #inst "2009-08-28T07:48:09.000-00:00",
+ :published-at #inst "2009-08-02T14:34:23.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Dernier lien avec notre voyage, le moment est finalement venu de me raser la barbe. Et de faire quelques exp��rimentations au passage.."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/08/img_0117.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "A mi-chemin",
+   :caption "A mi-chemin"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/08/img_0121.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "Branson",
+   :caption "Bronson"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/08/img_0128.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "Presque ��a",
+   :caption "Presque ��a"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/08/img_0129.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "Mitler",
+   :caption "Mitler"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/08/img_0132.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "Au travail maintenant!",
+   :caption "Au travail maintenant!"}],
+ :title "Retour �� la r��alit��",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "retour-a-la-realite",
+ :source-id "1078",
+ :blog "avesdepaso",
+ :visibility :public}

@@ -1,0 +1,28 @@
+{:updated-at #inst "2009-05-20T15:17:07.000-00:00",
+ :tags #{:perou},
+ :published-at #inst "2009-05-20T15:17:07.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Mmmmh, eh bien voila, après une bonne indigestion (suite à l'ingestion d'aliments naturels non cuits), il y a un peu plus d'un mois, nous formons à nouveau un couple malade, en stand by. Nous avons tous les deux attrapés une belle otite à notre retour du Machu Pichu, ce qui fait de nous de touristes immobiles dans la ville de Huaraz depuis près de 4 jours, ville ou il n'y a rien d'autre à faire que de marcher dans les montagnes qui vous regardent depuis leur sommet tout autour de la ville moche."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3913-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Qu'est ce qui dit ?",
+   :caption "Qu'est ce qui dit ?"}
+  {:type :paragraph,
+   :content
+   "Nous avons tenté de faire un pas en avant auprès des services médicaux, mais après avoir rencontré un médecin non pas en tenue professionnelle mais en doudoune venir me piquer les fesses avec une aiguille géante et nous proposer un antibiotique que l'on donne normalenent aux enfants, nous avons préféré mettre le pied dehors."}
+  {:type :paragraph,
+   :content
+   "On meurt d'envie de se remettre pour repartir sur les routes d'Amérique du Sud mais des bouchons dans les oreilles nous empêchent de continuer notre voyage tranquillement. A quand le retour de nos oreilles !!"}],
+ :title "Bouchons d'oreilles",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "bouchons-doreilles",
+ :source-id "851",
+ :blog "avesdepaso",
+ :visibility :public}

@@ -1,0 +1,143 @@
+{:updated-at #inst "2014-09-27T03:35:57.549-00:00",
+ :tags #{:amerique-centrale :panama},
+ :cover
+ {:width 1024,
+  :height 678,
+  :provider :flickr,
+  :user-id "96129378@N07",
+  :category-id "72157647991021472",
+  :id
+  {:id "15159350689",
+   :farm-id 3,
+   :server-id "2943",
+   :photoset-id nil,
+   :secret "01cd02f517",
+   :original-secret nil,
+   :original-format nil}},
+ :published-at #inst "2012-02-12T02:31:23.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("On ne pouvait pas choisir le Panama sans imaginer passer par son centre : Panama City.")}
+  {:type :paragraph,
+   :content
+   ("L���Am��rique centrale est coup��e en deux dans toute sa longueur���. comme une rivi��re qui rejoindrait la mer, l���Interam��ricaine va essayer de rejoindre l���Am��rique du Sud��� sans y parvenir toutefois puisque le Darien (immense jungle) c��t�� Panama fait face �� la nature colombienne tout aussi dense��� et personne n���a encore eu le projet (l���id��e a bien du effleurer la pens��e de quelques uns) de prolonger l���Interam��ricaine jusqu���en Am��rique du Sud.\nEn attendant, on parcourt cette route depuis notre arriv��e �� San Jos�� (Costa Rica) jusqu����� Panama City avant de revenir au Costa Rica par la c��t�� Carib��enne.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647991021472",
+   :id
+   {:id "15158908078",
+    :farm-id 4,
+    :server-id "3923",
+    :photoset-id nil,
+    :secret "deb6432e1d",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Frontiere du Costa Rica au Panama"}
+  {:type :photo,
+   :caption "Bus local au Costa Rica sur l'Interam��ricaine",
+   :alt "DSC_0413",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/01/dsc_0413.jpg?w=450&h=297"},
+   :provider :wordpress,
+   :height 297}
+  {:type :paragraph,
+   :content
+   ("Panama City : on arrive par le puente de las Americas (qui traverse le Canal de Panama) et au loin on distingue la richesse. A l���inverse de toute autre capitale latine, Panama est jonch��e de colonnes de verre sur son bord de mer.")}
+  {:type :photo,
+   :width 1024,
+   :height 680,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647991021472",
+   :id
+   {:id "15345105732",
+    :farm-id 4,
+    :server-id "3869",
+    :photoset-id nil,
+    :secret "8d2ebab4e7",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   "On y trouve m��me un Sea Walk �� la mani��re Vancouverite o�� les panam��ens et expat��� font leur footing habill��s en N��� de haut en bas : une vrai ambiance am��ricaine en r��alit��. Selon Lonely��� (notre guide), Panama City serait le Miami de l���Am��rique Centrale : un endroit r��v�� pour les retrait��s am��ricains���"}
+  {:type :photo,
+   :caption "Sea wall sous un soleil de plomb !",
+   :alt "DSC_0898",
+   :width 360,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/01/dsc_0898.jpg?w=360&h=543"},
+   :provider :wordpress,
+   :height 543}
+  {:type :paragraph,
+   :content
+   "C���est vrai qu���il y a de quoi faire dans le coin, m��me avec la turista qui me tarabuste :"}
+  {:type :paragraph,
+   :content
+   "visiter Casco Viejo, l���ancien bastion des colons espagnols du 19��me si��cle."}
+  {:type :photo,
+   :caption "Casco Viejo",
+   :alt "DSC_0916",
+   :width 360,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/01/dsc_0916.jpg?w=360&h=543"},
+   :provider :wordpress,
+   :height 543}
+  {:type :paragraph,
+   :content
+   ("assiter �� l���entr��e des cargos au Canal de Panama depuis l�����cluse Miraflores, premi��re des trois ��cluses �� franchir avant de parcourir 70kms pour rejoindre l���oc��an Atlantique���.")}
+  {:type :photo,
+   :width 1024,
+   :height 677,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647991021472",
+   :id
+   {:id "15159533337",
+    :farm-id 3,
+    :server-id "2944",
+    :photoset-id nil,
+    :secret "c347febe91",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Enfin, Panama City, c���est ��galement, une diversit�� de culture. Les descendants d���espagnols, les descendants d���esclaves ainsi que les indig��nes se m��langent ici. Une belle mixit�� !")}
+  {:type :photo,
+   :width 867,
+   :height 1024,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647991021472",
+   :id
+   {:id "15342901251",
+    :farm-id 3,
+    :server-id "2943",
+    :photoset-id nil,
+    :secret "dc81e5d072",
+    :original-secret nil,
+    :original-format nil},
+   :caption "C��r��monie"}
+  {:type :photo,
+   :caption "Indig��ne Kuna - Panama City",
+   :alt "DSC_0943",
+   :width 360,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/01/dsc_0943.jpg?w=360&h=543"},
+   :provider :wordpress,
+   :height 543}
+  {:type :video, :id "36623481", :provider :vimeo}],
+ :title "Panama City : LE contraste !!!",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "panama-city-le-contraste",
+ :source-id "2048",
+ :blog "avesdepaso",
+ :visibility :public}

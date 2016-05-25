@@ -1,0 +1,62 @@
+{:updated-at #inst "2009-06-16T22:04:35.000-00:00",
+ :tags #{:equateur},
+ :cover
+ {:provider :wordpress,
+  :id
+  {:url
+   "https://vadrouilles.files.wordpress.com/2009/06/dscn2315-501.jpg?w=300&h=225"},
+  :type :photo,
+  :width 300,
+  :height 225,
+  :alt "Quito vue d'en haut",
+  :caption "Quito vu d&#39;en haut"},
+ :published-at #inst "2009-06-16T15:57:39.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Nous arrivons��un matin dans la capitale de Quito, ville de caract��re ou la vie culturelle nous ��clabousse. Nous profitons des premiers jours pour visiter un certain nombre de mus��es, tous d��t��s des meilleurs c��ramiques incas et peintures de l�����re coloniale sans oublier la vierge Marie et le petit J��sus qui y prennent ��galement une place consid��rable (li�� �� la colonisation des espagnols et �� la conversion des indig��nes au christianisme)."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4583-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Quito vu d'en bas",
+   :caption "Quito vu d&#39;en bas"}
+  {:type :paragraph,
+   :content
+   "La vie quotidienne se rapproche des pays plus d��velopp��s. Nous d��gustons �� nouveau des croissants, du vrai "}
+  {:type :paragraph, :content "chocolate con leche"}
+  {:type :paragraph,
+   :content
+   " avec du lait frais (et non le lait en poudre ou liquide concentr��), fa��on ��quatorienne mais bon quand m��me! Apr��s un cin��, nous mettons les pieds dans des centres commerciaux ou je tombe n�� �� n�� avec la boutique fran��aise "}
+  {:type :paragraph, :content "Nafnaf."}
+  {:type :paragraph,
+   :content
+   " J���en profite pour me faire du mal en choisissant ma garde robe pour mon retour en France (n���ayant que 3 choix de pantalon, je commence �� raffoler du l��che vitrine, sans pour autant pouvoir acheter quoique ce soit���)."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4585-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Quito vu de l'int��rieur",
+   :caption "Vieux Quito vu de l&#39;int��rieur"}
+  {:type :paragraph,
+   :content
+   "Enfin, un des trucs qui nous fait penser �� Paris notamment, c���est le "}
+  {:type :paragraph, :content "Trole"}
+  {:type :paragraph,
+   :content
+   " (Tramway de Quito). Avec ces 3 lignes, nous red��couvrons les joies du transport en commun, au corps �� corps bien entendu !"}
+  {:type :paragraph,
+   :content
+   "Toutefois, Quito ressemble �� une de ces villes sud-am��ricaines o�� le vol est quotidien et la mendicit�� importante, enfants compris���"}],
+ :title "Quito : sa vie et ses nuages���",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "quito-sa-vie-et-ses-nuages",
+ :source-id "947",
+ :blog "avesdepaso",
+ :visibility :public}

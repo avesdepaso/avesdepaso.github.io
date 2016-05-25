@@ -1,0 +1,40 @@
+{:updated-at #inst "2009-02-18T18:46:49.000-00:00",
+ :tags #{:venezuela},
+ :published-at #inst "2009-02-18T18:46:49.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "En ce moment l���actualit�� au Venezuela c���est le r��ferendum pour permettre au pr��sident de la r��publique d���avoir un nombre illimit�� de mandats."}
+  {:type :paragraph,
+   :content
+   "Partout dans les villes on peut voir des panneaux incitant���� voter oui, beaucoup plus que l���ensemble des pubs. Plusieurs variations Si, triple Si, quadruple Si, autocollant sur voiture, peinture sur voiture, t-shirt divers, meeting de plusieurs centaines de personnes. Le constraste avec la pauvret�� ambiante est assez saisissant."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/02/dscn1864-50.jpg?w=220&h=398"},
+   :width 220,
+   :height 398,
+   :alt "dscn1864-50"}
+  {:type :paragraph,
+   :content
+   "Pour l���instant nous n���avons rencontr�� qu���une manifestation pour le No,���� Caracas, assez impressionnante, mais bien sur pas de panneaux dans les rues."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/02/dscn1858-50.jpg?w=450&h=337"},
+   :width 450,
+   :height 337,
+   :alt "Manifestation pour le non �� Caracas",
+   :caption "Manifestation pour le non �� Caracas"}
+  {:type :paragraph,
+   :content
+   ([:strong {} "MAJ:"]
+    " Depuis le Oui l���a emport�� avec 54% des suffrages")}],
+ :title "Uh Ah Chavez con el pueblo",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "uh-ah-chavez-con-el-pueblo",
+ :source-id "501",
+ :blog "avesdepaso",
+ :visibility :public}

@@ -1,0 +1,223 @@
+{:updated-at #inst "2009-05-12T18:41:03.000-00:00",
+ :tags #{:perou},
+ :published-at #inst "2009-05-12T16:10:05.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Arriv��s �� Cusco l���attraction touristique principale est bien s��r le Machu Picchu. Difficile de passer �� c��t�� notamment gr��ce �� nos centaines d���amis rabatteurs qui ne se lassent pas jours apr��s jours de nous proposer des informations touristiques "
+    [:em {} "gratuites"]
+    " sur les diff��rents moyens d���y parvenir.")}
+  {:type :paragraph,
+   :content
+   "Apr��s avoir sillon�� diff��rentes agences nous avons d��cid�� que le plus simple et ��conomique serait de partir seuls. Arm��s de notre guide et d���une carte du coin nous voil�� partis, sacs �� dos charg��s de la nourriture et du materiel de camping."}
+  {:type :paragraph,
+   :content
+   ("Notre initin��raire reprend pour les 2 premiers jours l���itin��raire "
+    [:em {} "Salkantay"]
+    " propos�� par les agences puis biffurque pour nous laisser profiter, �� notre plus grand bonheur, de sites vides de touristes. Au total plus de 100 kms, 3000m de d��nivel�� positif et 3500m de denivel�� n��gatif en 5 jours.")}
+  {:type :paragraph,
+   :content
+   ([:strong {} "1er jour" [:br {}] "\n"]
+    "R��veil tr��s matinal pour prendre un bus en direction de Mollepata (8 soles par personne) �� 4h30 du matin. 2h de route en compagnie de locaux et de quelques hamsters. Quelques autres touristes acompagn��s de leur guide nous rejoignent. Nous en profitons pour r��cup��rer quelques informations sur le d��but du chemin."
+    "\nCette premi��re journ��e se r��sume �� suivre une route sableuse jusqu����� arriver �� un petit village, Soraypampa, principalement constitu�� d���un camping pour randonneurs. Le "
+    [:em {} "Salkantay"]
+    ", plus haute montagne des environs, se laisse entrevoir.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3544-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Le Salkantay",
+   :caption "Le Salkantay"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3557-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Premi��re nuit de camping",
+   :caption "Premi��re nuit de camping"}
+  {:type :paragraph, :content "2��me jour"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3560-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Pr��ts pour l'ascension",
+   :caption "Pr��ts pour l&#39;ascension"}
+  {:type :paragraph,
+   :content
+   "\nBonne petite journ��e o�� nous atteignons le point le plus haut de ce parcours: entre 4500m et 4850m selon les sources d���informations."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3570-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "L'altitude ca fait plaisir!",
+   :caption "L&#39;altitude ca fait plaisir!"}
+  {:type :paragraph,
+   :content
+   "Juste apr��s une longue descente de plus de 2000m de d��nivel�� use nos genoux et nos semelles."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3585-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Sur la route",
+   :caption "Sur la route"}
+  {:type :paragraph,
+   :content
+   ("Une petite r��compense nous attend le soir dans le village de Colpapampa: nous dormons seuls dans les eaux chaudes am��nag��es (10 soles pour 2 tentes) avec le bruit des torrents du "
+    [:em {} "Rio blanco"]
+    " en fond alors que les autres touristes s���entassent au camping 500m plus loin.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3592-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Seuls au monde",
+   :caption "Seuls au monde"}
+  {:type :paragraph, :content " 3��me jour"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3617-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "R��veil en douceur",
+   :caption "R��veil en douceur"}
+  {:type :paragraph,
+   :content
+   "Apr��s une longue descente qui nous am��ne dans des paysages tropicaux nous arrivons au village de La Playa. Nous rencontrons deux fran��ais �� la recherche de leurs mules."}
+  {:type :paragraph,
+   :content
+   "\nLa plupart des randonneurs s���arr��te ici et continue en voiture jusqu����� la ville de Santa Teresa."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3625-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Arriv��e �� La Playa",
+   :caption "Arriv��e �� La Playa"}
+  {:type :paragraph,
+   :content
+   "Nous biffurquons vers Llactapata, nom d���une ruine inca. Longue mont��e pour y arriver mais quel bonheur de d��couvrir au loin le Machu Picchu et de camper au pied d���une ruine compl��tement isol��e. A noter qu���il n���y a pas de point d���eau ici contrairement �� ce que l���on nous avait indiqu��."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3646-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Llactapata",
+   :caption "Llactapata"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3658-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Notre campement et le Machu Picchu en fond",
+   :caption "Notre campement et le Machu Picchu en fond"}
+  {:type :paragraph, :content "4��me jour"}
+  {:type :paragraph,
+   :content
+   "Cette journ��e, la plus tranquille sur le papier, s���averera la plus fatiguante. Le d��but de journ��e commence par une descente glissante qui nous am��ne �� une station hydro-��lectrique utilisant une cascade descendant le long du Machu Picchu."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3668-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "La cascade",
+   :caption "La cascade"}
+  {:type :paragraph,
+   :content
+   ("Sortie de nulle part une voie ferr��e nous s��pare maintenant "
+    [:em {} "d���Aguas Calientes"]
+    ", la ville aux  pieds du Machu Picchu. Aucun autre chemin n���existe, nous devons donc marcher durant deux heures sur le ballaste pour rejoindre cette ville en ��vitant les trains qui circulent en klaxonnant parfois et en courant sous les tunnels qui ne laissent pas place �� l���erreur.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3679-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "D��but des rails",
+   :caption "D��but des rails"}
+  {:type :paragraph,
+   :content
+   "\nAssez dur physiquement et moralement nous nous ��croulons dans le premier restaurant "}
+  {:type :paragraph, :content "d���Aguas Calientes"}
+  {:type :paragraph,
+   :content
+   ". Cette ville est de loin la plus laide et commerciale que nous ayons vue, m��me si le chemin de fer traversant la rue principale en plein milieu a un certain charme."}
+  {:type :paragraph,
+   :content
+   ([:strong {} "5��me jour" [:br {}] "\n"]
+    "D��part �� 4h pour arriver parmi les premiers au Machu Picchu et avoir une chance de le photographier sans une horde de touristes en short. Apr��s une heure �� contempler les marches incas nous arrivons aux portes du site, presque ��tonn��s d���avoir d��j�� fini."
+    "\nNous pouvons alors entrer parmi les premiers et contempler le site presque vide.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3687-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Le Machu Picchu dans toute sa splendeur",
+   :caption "Le Machu Picchu dans toute sa splendeur"}
+  {:type :paragraph,
+   :content
+   "Direction le Huayna Picchu qui surplombe les ruines et nous permet de monter encore des marches. Un long d��tour par les caves en premier nous permet d�����viter la foule (ca devient une obsession!) qui fait le parcours dans l���autre sens."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3704-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Les cavernes, en bas du Huyana Picchu",
+   :caption "Les cavernes, en bas du Huayna Picchu"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3711-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Au sommet du Huyana Picchu",
+   :caption "Au sommet du Huayna Picchu"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3715-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Le Machu Picchu vu depuis le Huyana Picchu",
+   :caption "Le Machu Picchu vu depuis le Huayna Picchu"}
+  {:type :paragraph,
+   :content
+   "Quelques heures de visite plus tard nous redescendons, remarchons le long des rails pour prendre un collectivo pour Santa Teresa (3 soles par personne, 30 min), un taxi pour Santa Maria (10 soles par personne, 1 heure) puis plus tard dans la soir��e un bus pour Cusco en cama (si��ge un peu plus inclinable que la normale, 25 soles, 6 heures). Ouf!"}],
+ :title "Machu Picchu �� notre sauce",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "machu-picchu-a-notre-sauce",
+ :source-id "790",
+ :blog "avesdepaso",
+ :visibility :public}

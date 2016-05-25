@@ -1,0 +1,17 @@
+{:updated-at #inst "2009-08-02T14:33:56.000-00:00",
+ :published-at #inst "2009-08-02T14:33:56.000-00:00",
+ :elements
+ [{:type :paragraph, :content "(2 semaines et 16 heures et demi)"}
+  {:type :paragraph, :content "6 jours"}
+  {:type :paragraph,
+   :content
+   "En plus nous avons dormi 24 nuits en tente, 8 nuits en hamac et 3 nuits en refuge."}
+  {:type :paragraph,
+   :content
+   "Bien s��r nous conseillons, �� tous ceux en capacit�� de le faire, ce genre d���exp��riences. Que de bons souvenirs et un regard diff��rent sur nos vies maintenant."}],
+ :title "R��sum�� global",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "resume-global",
+ :source-id "1075",
+ :blog "avesdepaso",
+ :visibility :public}

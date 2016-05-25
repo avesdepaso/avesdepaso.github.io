@@ -1,0 +1,132 @@
+{:updated-at #inst "2011-02-14T02:24:11.000-00:00",
+ :tags #{:vancouver},
+ :published-at #inst "2011-02-14T02:24:11.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "C'était un chinois avec une fourchette. Et dire que c'est l'année du chat au Vietnam.. Vous regarderez autrement votre nem la prochaine fois! Surtout s'il a des poils."}
+  {:type :paragraph,
+   :content
+   "Dans une ville où un tiers de la population est d'origine asiatique, le nouvel an chinois ça se fête. Impressions:"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060552.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :caption "En position"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060554.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "p1060554",
+   :caption "Ptrrttpppttttt pah (bruits de pétards)"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060557.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060557",
+   :caption "Poncherello et ses potes"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060566.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1060566",
+   :caption "Papy fait encore de la résistance"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060568.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060568",
+   :caption "Mmmh j'ai comme un doute"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060570.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060570",
+   :caption "Armée rouge"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060577.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060577",
+   :caption "Ohh un dragon!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060575.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060575",
+   :caption "L'objet du délit"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060581.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060581",
+   :caption "Euhh"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060586.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060586",
+   :caption "Un narcisse"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060587.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1060587",
+   :caption "Grand monsieur avec des poils"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060588.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060588",
+   :caption "Poudres en vrac"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060589.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060589",
+   :caption "Petits cadeaux! "}],
+ :title "Cette année un chinois va tuer un lapin (pinhinnhh)",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "annee-lapin",
+ :source-id "1443",
+ :blog "avesdepaso",
+ :visibility :public}

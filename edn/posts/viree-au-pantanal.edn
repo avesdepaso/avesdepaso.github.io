@@ -1,0 +1,94 @@
+{:updated-at #inst "2009-03-19T17:57:05.000-00:00",
+ :tags #{:bresil},
+ :cover
+ {:provider :wordpress,
+  :id
+  {:url
+   "https://vadrouilles.files.wordpress.com/2009/03/img_2023-50.jpg?w=300&h=199"},
+  :type :photo,
+  :width 300,
+  :height 199,
+  :alt "img_2023-50"},
+ :published-at #inst "2009-03-19T17:41:55.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Nous l���attendions depuis longtemps: le parc national du Pantanal ! Parmi tous les parc nationaux du Br��sil, celui-ci offre une diversit�� animale des plus riches du pays avec plus de 650 esp��ces d���oiseaux et plus de 60 mammif��res. Nous voil�� parti pour le safari���."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1935-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "img_1935-50"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2012-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "plus de 25 millions de caimans se balladent dans le parc",
+   :caption
+   "Plus de 25 millions de ca��mans se balladent dans le parc"}
+  {:type :paragraph,
+   :content
+   ("Nous avons choisi une exp��dition de 3 jours avec plusieurs "
+    [:em {} "activit��s"]
+    "��� et c���est l�� notre petit souci��� Bienvenue au Club Med. Bien que nous ayons opt��s pour le dodo en Hammac, nous ��tions en groupe toute la journ��e. Les activit��s semblaient int��ressantes au d��part mais finalement se sont av��r��es �� mon go��t quelque peu d��senchant��es��� :�� ballade dans le parc, tour en bateau, p��che aux pirahnas, promenade �� cheval���")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1971-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "De l'eau fra��che dans un bois sec",
+   :caption "De l&#39;eau fra��che dans une liane"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2002-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Julien et un nouvel ami : le Pirahna",
+   :caption "Julien et un nouvel ami : le Pirahna"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2050-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "On commence �� se familiariser avec les migales",
+   :caption "Familiarisation avec les migales"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/dscn2100-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Satan et moi : le cheval qui mort les fesses de ses copains",
+   :caption
+   "Satan et moi : le cheval qui mort les fesses de ses copains"}
+  {:type :paragraph,
+   :content
+   "Toutefois, parmi tous les visiteurs, nous avons rencontr�� quelques fran��ais, qui revenant de la c��te ouest de l���Am��rique du Sud, nous ont fait baver avec leurs aventures. Nous avons h��te de nous retrouver dans les hauteurs de la Cordill��re des Andes pour remplacer le ca��man par le lama et le toucan par le condor des montagnes���."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2025-501.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Coucher de soleil",
+   :caption "Coucher de soleil"}],
+ :title "Vir��e au Pantanal",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "viree-au-pantanal",
+ :source-id "600",
+ :blog "avesdepaso",
+ :visibility :public}

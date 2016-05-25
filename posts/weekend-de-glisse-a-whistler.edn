@@ -1,0 +1,144 @@
+{:updated-at #inst "2014-09-27T18:47:47.526-00:00",
+ :tags #{:vancouver :canada},
+ :cover
+ {:width 1024,
+  :height 678,
+  :provider :flickr,
+  :user-id "96129378@N07",
+  :category-id "72157648027083902",
+  :id
+  {:id "15169310968",
+   :farm-id 4,
+   :server-id "3857",
+   :photoset-id nil,
+   :secret "7cd156d2bc",
+   :original-secret nil,
+   :original-format nil}},
+ :published-at #inst "2011-12-20T06:06:42.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Habiter �� Vancouver, c���est ��tre au pieds des montagnes, donc de la neige, donc des stations de skis !!!")}
+  {:type :photo,
+   :caption "Whistler landscapes",
+   :alt "DSC_0081",
+   :width 300,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/12/dsc_0081.jpg?w=300&h=198"},
+   :provider :wordpress,
+   :height 198}
+  {:type :paragraph,
+   :content
+   ("Alors voil��, nous sommes le 3 d��cembre 2011 et il neige dans ce coin du monde : la station de "
+    [:a
+     {:href "http://en.wikipedia.org/wiki/Whistler,_British_Columbia"}
+     "Whistler"]
+    " a ouvert ses pistes fin novembre !! Ce weekend nous le passons avec nos chers amis Vanessa &amp; Marc.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157648027083902",
+   :id
+   {:id "15355909795",
+    :farm-id 4,
+    :server-id "3874",
+    :photoset-id nil,
+    :secret "9c17268f06",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Nous sommes pr��t! Il est 6h30 du matin, on vient nous chercher en "
+    [:a
+     {:title "Zipcar", :href "http://en.wikipedia.org/wiki/Zipcar"}
+     "Zipcar"]
+    " la voiture que tu partages partout et dont le prix inclut le co��t de l���essence et l���assurance (une aubaine �� Vancouver) ! On est content on part skier pour le weekend !!!")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157648027083902",
+   :id
+   {:id "15169352297",
+    :farm-id 4,
+    :server-id "3864",
+    :photoset-id nil,
+    :secret "e7d4b936d6",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("1H30 de voiture sur le Sea to Sky highway (l���autoroute de la mer vers le ciel pour les fran��ais, fran��ais, fran��ais !!! ) et nous voil�� au milieu de cha��nes de montagnes enneig��e : of course ! Bienvenue �� Whistler (615m ��� 2182m)")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157648027083902",
+   :id
+   {:id "15332876016",
+    :farm-id 4,
+    :server-id "3897",
+    :photoset-id nil,
+    :secret "8d404ecf4b",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Alors comme on est bien organis��, on d��pose nos petites affaires �� l���h��tel, on fait 50 m��tres, on prend nos skis. On rajoute 50 m��tres pour r��cup��rer les pass de remont��es m��caniques et puis 30 m��tres plus loin, on s���installe dans un ��uf qui nous monte au "
+    [:a
+     {:href "http://ww1.whistlerblackcomb.com/p2pg/experience/"}
+     "Peak to Peak"]
+    " : 3km de fil sans support, �� 416 m du sol, un de ces appareils record !")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157648027083902",
+   :id
+   {:id "15169140639",
+    :farm-id 3,
+    :server-id "2944",
+    :photoset-id nil,
+    :secret "f324fb1675",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Skier �� 1h30 de chez toi, c���est tout de m��me le pied et quel d��paysement ces montagnes : �� nous la neige, le soleil et les pistes ! On en prend plein la vue, comme d���habitude "
+    [:span {:title ";-)", :class "wp-smiley emoji emoji-wink"} ";-)"]
+    " Vite il faut en profiter, les pistes ferment vers 3h les remontes pentes ! Eh oui �� cette p��riode de l���ann��e, le soleil se couche �� 4h! aille aille aille mais la journ��e n���est pas termin�� !!! Mais comment on va s���occuper ensuite ?")}
+  {:type :paragraph,
+   :content "Alors pour les fins de journ��es, tu as le choix entre:"}
+  {:type :paragraph,
+   :content
+   "Profiter de la piscine chauff��e, du jacuzzi et du Sauna (ce dernier dans notre appart !) !"}
+  {:type :photo,
+   :caption "Eau chaude !",
+   :alt "DSC_0156",
+   :width 300,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/12/dsc_0156.jpg?w=300&h=198"},
+   :provider :wordpress,
+   :height 198}
+  {:type :paragraph,
+   :content
+   ("La 3��me option nous tente bien "
+    [:span {:title ";-)", :class "wp-smiley emoji emoji-wink"} ";-)"])}
+  {:type :paragraph,
+   :content
+   "Dimanche c���est reparti sous un soleil d���hiver magique !"}
+  {:type :paragraph, :content "Retour �� Vancouver �� 7pm ! Dodo"}
+  {:type :video, :id "33951373", :provider :vimeo}],
+ :title "Weekend de glisse �� Whistler",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "weekend-de-glisse-a-whistler",
+ :source-id "1980",
+ :blog "avesdepaso",
+ :visibility :public}

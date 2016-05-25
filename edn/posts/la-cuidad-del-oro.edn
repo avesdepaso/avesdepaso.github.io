@@ -1,0 +1,330 @@
+{:updated-at #inst "2015-10-03T19:00:43.064-00:00",
+ :cover
+ {:width 240,
+  :height 158,
+  :id
+  {:id "20954211783",
+   :farm-id 6,
+   :server-id "5778",
+   :photoset-id nil,
+   :secret "a46cd28c0c",
+   :original-secret nil,
+   :original-format nil},
+  :provider :flickr,
+  :type :photo},
+ :published-at #inst "2015-10-03T14:23:43.818-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ([:a
+     {:href "https://fr.wikipedia.org/wiki/Ouro_Preto"}
+     "Ouro Preto"]
+    " est bel est bien un des joyaux brésiliens."
+    [:br {}]
+    [:br {}]
+    "Son histoire n'en est pas moins sensible....\n\nlors de l'exploration des terres brésiliennes par les portuguais, on parlait déjà de trouver de l'or pour enrichir l'empire du vieux continent."
+    [:br {}]
+    [:br {}]
+    "--"
+    [:br {}]
+    [:br {}]
+    "Ouro Preto es unas de la pepitas de Oro en Brasil."
+    [:br {}]
+    "Su historia es mas bien sensible igual. Cuando los portugueses exploran las tierras brasileras, estaban buscando el precio mineral para enriquecer el emperio del viejo continente.")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "29c55c26e1",
+    :original-secret nil,
+    :id "21583123281",
+    :farm-id 6,
+    :server-id "5721"},
+   :provider :flickr,
+   :height 158}
+  {:type :paragraph,
+   :content
+   ("C'est ce qui va se produire quand les "
+    [:a
+     {:href "https://fr.wikipedia.org/wiki/Bandeirante"}
+     [:i {} "Bandeirantes"]]
+    " découvrent de l'or dans un ruisseau en pleine province du Minais Gerais. Après analyse des minéraux à Sao Paulo, on découvre qu'il s'agit bien du précieux minerai. Commence alors la grande installation portugaise dans la nouvelle ville qui s'appellera pendant longtemps Villa Rica. Les esclaves qui arrivent à Paraty à partir du début du 18ème siècle et iront pour la plupart rejoindre les mines d'or de Villa Rica qui se trouvent à plus de 1500 kms des côtes brésiliennes."
+    [:br {}]
+    [:br {}]
+    "Villa Rica est en effet bien riche! L'or sera d'abord extrait des rivières, de la boue et par la suite extraites des sous-terrains. Un travail de fourmi à l'époque où les machines n'existaient pas. Juste le pouvoir des mains noires a su exploiter plus de 135 tonnes d'or. Un record pour cette époque et un sacrifice humain immense. Villa Rica devient Ouro Preto para la suite."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    "Es lo que va a ocurrir cuando los Bandeirantes descubren oro en un rio en el medio de la provincia hoy en dia llamada Minas Gerais. Despues de anilisis de los minerales encontrados, se confirma la presencia del precioso mineral. Comienza la gran instalacion portuguesa en la nueva cuidad que tomara el nombre de Villa Rica en una primera distancia. Los esclavos quienes llegan a Paraty (donde vivimos durante estos 2 meses) a partir del siglo 18 tomaron el camino de Ouro para alcanzar Villa Rica, aquella cuidad quedando a mas de 1500 kms de la costa."
+    [:br {}]
+    [:br {}]
+    "Villa Rica es bien Rica si! El oro sera en primer lugar extracto de rios, barro y luego se construiron galerias bajo tierra. Un trabajo de hormigas cuando sabemos que las maquinas no existian en aquella epoca. Solo el poder de las manos negras ha explotado esas 135 tonelas de oro! Un record en la epoca y un sacrificio humano inmenso seguro."
+    [:br {}]
+    "Cilla Rica tomara luego el nombre de Ouro Preto.")}
+  {:type :photoset,
+   :caption "Des Churches partout!!!",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "d100cb89c7",
+       :original-secret nil,
+       :id "21564454042",
+       :farm-id 1,
+       :server-id "721"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photoset,
+   :class ["stretched"],
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "0ae4173b98",
+       :original-secret nil,
+       :id "20952843544",
+       :farm-id 1,
+       :server-id "704"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "a3b8b9c22a",
+       :original-secret nil,
+       :id "21387362859",
+       :farm-id 6,
+       :server-id "5644"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "2a5d87be8b",
+       :original-secret nil,
+       :id "21584471281",
+       :farm-id 1,
+       :server-id "612"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :paragraph,
+   :content
+   ("Les édifices conservent leur architecture coloniale du 18ème. Quant aux musées et églises, ils ont réussi à conserver mobilier et accessoires d'une richesse plutôt incroyable. Vous l'aurez bien compris....la visite d'Ouro Preto ne pouvait se faire sans mettre les pieds dans des mines!! Les plus anciennes que nous ayons visitées jusqu'à maintenant : Passagem et Chico Rei."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    "Los edificios conservan su arquitectura original de la colonizacion del siglo 18. En cuanto a los museos e iglesias, han logrado conservar muebles y otros accesorios de una riqueza increible. La visita de Ouro Preto ne se podia realizar sin meternos en algunas minas!! Las mas antiguas que hemos visitado hasta ahora : Passagem y Chico Rei.")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "4cf108392f",
+    :original-secret nil,
+    :id "21387112800",
+    :farm-id 6,
+    :server-id "5766"},
+   :provider :flickr,
+   :height 158}
+  {:type :photo,
+   :caption "Passagem",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "b7a69a68eb",
+    :original-secret nil,
+    :id "21563316502",
+    :farm-id 6,
+    :server-id "5732"},
+   :provider :flickr,
+   :height 158}
+  {:type :paragraph,
+   :content
+   ("Découverte en 1719, La mina de Passagem est exploitée à partir de 1819 jusqu'en 1960, d'abord par les portuguais et rachetée par les anglais. 35 tonnes d'or seront extraites de ces 30 kms de tunnels et 7200 km2 de superficie. Elle aurait envoyé plus de 5000 esclaves travailler dans ses entrailles. Aujourd'hui reconvertie pour le tourisme, on y découvre quelques galeries, des chambres, les perforeuses manuelles importées par les anglais. En dessous de 150 mètres de profondeur, les tunnels ont été petit à petit inondés par les nappes phréatiques, ce qui en fait un labyrinthe de compet' pour les nageurs à bouteille."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    "Descubierta en 1719, la mina Passagem esta explotada a partir de 1819 y hasta 1960, por los portugueses y luego sera comprada por los ingleses. 35 toneladas de Oro sera extraidas de los 30 kms de tuneles y 7200 kms2 de superficie. Mas de 5000 esclavos trabajaron en su entraias. Hoy en dia, esta abierta al turismo. Podemos caminar entre las galerias, camaras y se ven algunas herramientas como las perforadoras manuales importadas por los ingleses. Bajo los 150 metros de profundidad, los tuneles han estado poco a poco inundado por las aguas subterraneas, lo que forma hoy un laberinto de loco para los aficionados de buceo.")}
+  {:type :photoset,
+   :caption "Galeries",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "9684a95823",
+       :original-secret nil,
+       :id "21386734470",
+       :farm-id 6,
+       :server-id "5688"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photoset,
+   :caption "Santa Barbara!",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "1940c42963",
+       :original-secret nil,
+       :id "21386889988",
+       :farm-id 1,
+       :server-id "606"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "864ba75f92",
+       :original-secret nil,
+       :id "21387152238",
+       :farm-id 1,
+       :server-id "608"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "3c449ff927",
+       :original-secret nil,
+       :id "21548745036",
+       :farm-id 1,
+       :server-id "683"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photo,
+   :caption "Para los fanaticos de lamparas mineras!!",
+   :width 158,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "e79c99815f",
+    :original-secret nil,
+    :id "21563905272",
+    :farm-id 1,
+    :server-id "680"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("Chico Rei a subi une autre histoire. La mine date de 1700!!! Elle a pris dans les années 50 le nom de Chico Rei pour son principal esclave qui est part la suite en est devenu le propriétaire. En effet, tu pouvais racheter ta liberté grâce à tes économies! Il a donc acheté la mine en 1740 et ses esclaves avec (Ca fait tout de même beaucoup, il devait vivre dans la "
+    [:i {} "débrouille"]
+    " le monsieur)."
+    [:br {}]
+    [:br {}]
+    "On accède à ses tunnels depuis une propriété privée de Ouro Preto où l'on peut découvrir les premiers mètres de galeries beaucoup plus étroits que Passagem. Le travail d'extraction était entièrement manuel et ses tunnels occuperaient la moitié de la ville de Ouro Preto sous terre. On peut trouver d'autres entrées/sorties un peu partout dans la ville selon les locaux."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    "Chico Rei tiene otra historia. La mina ha nacida de 1700!!! Tomo el nombre de Chico Rei en los anos 1950, cual fue un esclavo clave ya que ha comprado su libertad (si, podias comprar tu libertad contra dinero!) y luego consiguii comprar la mina con sus mineros a quienes les ofrecio libertad tambien."
+    [:br {}]
+    [:br {}]
+    "Accedemos a sus tuneles desde una propiedad privada de Ouro Preto donde podemos caminar los primeros metros de galerias, mucho mas estrechas que Passagem. El trabajo de extraccion era completamente manual y sus tuneles estan localizados bajo la mitad de la cuidad de Ouro Preto. Se pueden encontrar otras entradas/salidas en diferentes lugares de la cuidad segun los locales.")}
+  {:type :photoset,
+   :class ["stretched"],
+   :caption "Mini Boca Mina y galerias",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "92fc43cbe4",
+       :original-secret nil,
+       :id "20954134523",
+       :farm-id 6,
+       :server-id "5635"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "b24f97c59b",
+       :original-secret nil,
+       :id "21387559528",
+       :farm-id 6,
+       :server-id "5733"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :paragraph,
+   :content
+   ("On profite de la région pour rejoindre le petit village de Mariana, un peu moins touristique. Un petit centre historique colonial y est super bien conservé."
+    [:br {}]
+    "C'est ici que j'aurai mangé mon meilleur restau au kilo. Mmmmhhhh...."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    "Disfrutamos de estar ahi para dar la vuelta a Mariana, cuidad un poco menos turistica. Un pequeno centro historico colonial esta super bien conservado. Es ahi que comi el mejor Retaurante al Kilo!! Mmmhhhhhh")}
+  {:type :photoset,
+   :class ["stretched"],
+   :caption "Mariana et encore des Churchessss",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "6406eb75d5",
+       :original-secret nil,
+       :id "21387446439",
+       :farm-id 6,
+       :server-id "5645"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "cf92a8eb5d",
+       :original-secret nil,
+       :id "21574526555",
+       :farm-id 1,
+       :server-id "704"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "6fe36c5c78",
+       :original-secret nil,
+       :id "21548272216",
+       :farm-id 6,
+       :server-id "5701"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photo,
+   :width 158,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "9c616d1c4c",
+    :original-secret nil,
+    :id "21574432825",
+    :farm-id 6,
+    :server-id "5671"},
+   :provider :flickr,
+   :height 240}],
+ :title "La Cuidad del Oro",
+ :locations
+ ({:latitude -23.2230473, :longitude -44.7227144, :accuracy 79}),
+ :id "la-cuidad-del-oro",
+ :blog "avesdepaso",
+ :visibility :public}

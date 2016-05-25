@@ -1,0 +1,138 @@
+{:updated-at #inst "2009-05-10T17:22:11.000-00:00",
+ :tags #{:perou},
+ :published-at #inst "2009-05-09T23:02:04.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("A notre arrivée au Pérou, nous avons déposé nos"
+    [:em {} " backpacks"]
+    " dans une petite auberge d'Arequipa (Sud pérou). Nous profitons de la ville du soleil (plus de 300 jours ensoleillés par an) pour tester l'atmosphère péruvienne. Il faut dire que nos premiers pas au Pérou auront été folkloriques (une agence de bus essaie de nous voler de l'argent en augmentant son tarif juste avant de rentrer dans le bus).")}
+  {:type :paragraph,
+   :content
+   "Nous avions tendance à mettre le Pérou dans le même panier que la bolivie à savoir pays pas cher et costumes traditionnels. Mais nous nous sommes vite rendus compte que les voisins péruviens se sont développés plus vite économiquement. Pour nous, venant de Bolivie, le coût des choses est devenu assez élevé."}
+  {:type :paragraph,
+   :content
+   "Tâche non favorite mais devenue indispensable : faire le tour des agences de tourisme pour choisir nos activités au meilleur prix ! Julien et moi nous formons aux techniques de négociation grâce au Maître Jéjé !"}
+  {:type :paragraph,
+   :content
+   "Après réflexion, l'idéal est de partir seuls au fond du Canyon de Colca (plus de 3000m par endroit, ce qui en fait le second canyon du monde en profondeur) avec notre propre matériel de camping et nos pieds musclés (on est entrain de se transformer en gladiator avec toutes ces marches)."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3434-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Le Canyon de Colca",
+   :caption "Le Canyon de Colca"}
+  {:type :paragraph,
+   :content "Nous prenons un bus pour 5h de route qui nous mène à canabaconde, petit village au pied du Gouffre."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3458-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Entre les ruelles et casitas",
+   :caption "Entre les ruelles et casitas"}
+  {:type :paragraph,
+   :content
+   "Cette marche nous occupera 3 jours durant. Nous descendons au fond du Canyon au travers d'un chemin caillouteux et pentu! Plus de 1000 m de dénivelé en descente puis 500m de positif pour atteindre le petit village de Tapay ou nous passons la nuit."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3449-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Dodo chez l'habitant à Tapay",
+   :caption "Dodo chez l'habitant à Tapay"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3451-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Jéjé, au réveil en compagnie des chèvres",
+   :caption "Jéjé, au réveil en compagnie des chèvres"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3456-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Petit déjeuner ",
+   :caption "Petit déjeuner "}
+  {:type :paragraph,
+   :content
+   "\nNous poursuivons notre route le lendemain au travers de petits villages encaissés dans le canyon, vidés du monde moderne. Nous découvrons une flore plutôt sèche par endroits : palmiers, fleurs exotiques, cactus"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3459-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Fleurs du coin",
+   :caption "Fleurs du coin"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3460-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Parmi les villages du Canyon",
+   :caption "Parmi les villages du Canyon"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3483-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Le mosque, fruit d'un cactus",
+   :caption "Le mosque, fruit d'un cactus"}
+  {:type :paragraph,
+   :content
+   "Notre dernière nuit toujours au fond du Canyon a lieu au beau milieu d'une Oasis parmis les palmiers et une jolie piscine aménagée par Pablito, local du coin. Au réveil, nous décollons "}
+  {:type :paragraph,
+   :content
+   "à 6h du matin pour 2 heures de grimpette afin de sortir du puit géant et de retourner vers la vie citadine,"}
+  {:type :paragraph, :content " à Arequipa."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3477-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Apprentisage du montage de tente",
+   :caption "Apprentisage du montage de tente"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3478-502.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Petite piscine naturelle",
+   :caption "Petite piscine naturelle"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3490-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Fin du Trek, vue sur la montagne Ampato",
+   :caption "Fin du Trek, vue sur la montagne Ampato"}],
+ :title "Chute libre dans le Canyon de Colca",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "chute-libre-dans-le-canyon-de-colca",
+ :source-id "749",
+ :blog "avesdepaso",
+ :visibility :public}

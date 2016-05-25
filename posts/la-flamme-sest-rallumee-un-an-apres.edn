@@ -1,0 +1,98 @@
+{:updated-at #inst "2011-02-21T06:54:28.000-00:00",
+ :tags #{:canada},
+ :published-at #inst "2011-02-21T06:54:28.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Ah ces canadiens !! Ils aiment �� revivre ce qui s���est d��j�� pass�����.Alors voil�� le Week End du 12 janvier, la flamme des Jeux Olympiques de Vancouver s���est rallum��e. C���est l���euphorie tout le WE m��me par temps humide���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/fmsteal0210lorraine_lg.png?w=250&h=300"},
+   :width 250,
+   :height 300,
+   :alt "FMsteal0210lorraine_lg",
+   :caption
+   "C&#39;est pas les plus belle mais pour l&#39;occas, pas mal en portaient!"}
+  {:type :paragraph,
+   :content
+   "C���est pas grave, on enfile les rain boots, les gants et un parapluie sur la t��te sans oublier un gadget qui rappellerait le Canada ou les JO. Ici tout le monde fait du b��n��volat toute l���ann��e��� je crois bien que la moiti�� de la ville de Vancouver s���est port��e b��n��vole lors des JO. R��sultat : un an apr��s, chacun portait le signe particulier des JO sur un manteau (gore-tex!!), une ��charpe ou en porte cl�� tour du cou���. D��j�� qu���ils sont fiers de leur drapeau, l�� c�����tait double pub pour la country !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/img25421.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "img25421",
+   :caption "Olympic flame de Vancouver !"}
+  {:type :paragraph,
+   :content
+   "Bon on a pas trouv�� la flamme tout de suite��� enfin de tout le WE��� Bah oui, on est pas encore des grands connaisseurs alors bon voil�� une photo made internet !"}
+  {:type :paragraph,
+   :content
+   "L���ambiance y ��tait ! Il y avait des animations dans les rues. La ville a install�� un terrain de jeu pour le Hockey. Beaucoup se prennent au jeu et tapent sur le b��ton pour d��marrer la partie. On rencontre des cracheurs de feu tatou��s et dreadlock��s sur des sons Bale de Rua."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060608.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060608",
+   :caption "Ambiance Zoulou !"}
+  {:type :paragraph,
+   :content
+   "On assiste �� la rediffusion de matchs de hockey d���il y a un an sur les fa��ades de buildings o�� on retrouve les canadiens scotch��s au mur : ils sont vraiment tr��s fan ! Il va falloir qu���on se renseigne un minimum si on veut se faire des amis."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060611.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060611",
+   :caption "Hockey sur le wall"}
+  {:type :paragraph,
+   :content
+   ("On se ballade dans le centre et on rejoint les jeux de lumi��res dans le quartier branchouille de Yaletown ! Les enfants sont tous sourires ! Et ils ont m��me organis�� une exposition sur les crustac��s eh !!! Oui ici c���est l���ann��e de la Science donc l ���aquarium de Van��� est �� l���honneur. On est bien content, parce qu���on aime bien les trucs scientifiques avec Julien /enfin, chacun �� son niveau "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060638.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060638",
+   :caption "Les illuminations de Yaletown"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060634.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060634",
+   :caption
+   ("Petite pens��e pour Clem&#39; ils ont m��me le 4x4 Red Bull ici "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :paragraph,
+   :content
+   "La nuit, il fait plut��t froid���On finit dans un restaurant mexicain avec des tortillas g��antes et una quesadilla encore g��ante���.On a plus faim !!!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1060618.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060618",
+   :caption "Fin de soir��e"}],
+ :title "La flamme s���est rallum��e un an apr��s !",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "la-flamme-sest-rallumee-un-an-apres",
+ :source-id "1468",
+ :blog "avesdepaso",
+ :visibility :public}

@@ -1,0 +1,117 @@
+{:updated-at #inst "2009-03-06T14:57:06.000-00:00",
+ :tags #{:bresil},
+ :published-at #inst "2009-03-06T14:57:06.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "La ville sera diff��rente que l���on soit au Nord, au sud ou �� l���int��rieur des terres���\nNous��croisons sur notre chemin des villes avec des routes de terre et nid de poule au centre et au nord du Pays o�� la vie semble plus pauvre. Le cheval est d���ailleurs parfois le second moyen de locomotion et le v��lo est aussi pas mal utilis�� !!"}
+  {:type :paragraph,
+   :content
+   "Arriv��es sur la c��te atlantique, les populations s���entassent et s���activent beaucoup plus. Les villes sont pleines de couleurs : les architectures de l�����poque colonisatrice portuguaise, les tentatives d���incursion fran��aises et hollandaises, mais aussi l���impact de l���importation des africains sur les terres br��siliennes��� tout ��a vous donne un r��sultat explosif !"}
+  {:type :paragraph,
+   :content "Nous avons choisi de visiter plusieurs lieux :"}
+  {:type :paragraph,
+   :content
+   ([:strong {} "Olinda,"]
+    " ville de caract��re o�� les artistes ont ��lu domicile et o�� le carnaval est para��t t-il un show ! Nous en avons vu quelques d��cors dont la ville a du mal���� se s��parer��� tant cet ��v��nement procure la joie du peuple.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1668-50.jpg?w=360&h=239"},
+   :width 360,
+   :height 239,
+   :alt "Ruelle d'Olinda",
+   :caption "Ruelle d&#39;Olinda"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1659-50.jpg?w=360&h=239"},
+   :width 360,
+   :height 239,
+   :alt "D��cors du Carnaval ",
+   :caption "D��cors du Carnaval"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1636-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Vue des hauteurs",
+   :caption "Vue des hauteurs"}
+  {:type :paragraph,
+   :content
+   ([:strong {} "Recife"]
+    ", City moderne avec ses buildings des ann��es 30 puis 50 puis 70���nous assistons���� nouveau �� un de ces m��langes ��troit entre les diff��rentes ��poques de d��veloppement du grand pays.��")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1641-501.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Recife au loin",
+   :caption "Recife au loin"}
+  {:type :paragraph,
+   :content
+   ("Nous��nous balladons dans les rues commer��antes pour d��couvrir la vie ici���. les boutiques de chaussures se comptent par centaines, les sommiers et lits ont la c��te comme si����a venait de sortir! Depuis le d��but du voyage��nous tentons de trouver une "
+    [:em {} "librairie"]
+    " (genre Fnac) mais pour l���instant chou blanc, par contre nous trouvons une librairie (et pas une petite) sp��cialis��e��en Bible et autres histoires��religieuses���Ici, on y croit plus que nulle part ailleurs !")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/dscn2047-50.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "Touriste",
+   :caption "Touriste"}
+  {:type :paragraph,
+   :content
+   ("Enfin "
+    [:strong {} "Salvador"]
+    ",��Une ville d��bordante�����. nous sortons de la station de bus et en face de nous se dresse��le paysage��d���une ville business : de grandes tours, des hommes portant pantalon �� pinces avec T-shirt en guise de tenue de travail, un p��riph��rique, des ponts pour��pi��tons, des��shopping center "
+    [:em {} "neufs"]
+    " �� chaque coin de rue, tout ��a au��milieu de quelques zones de verdure et de canaux re��evant les d��chets de��la ville que celle-ci rejette���� toute berzingue�����")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/dscn2069-50.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "Les tours envahissantes",
+   :caption
+   "Les tours envahissantesJungle avalant les maisons abandonn��es"}
+  {:type :paragraph,
+   :content
+   ("Perdu au mileu dans les hauteurs de la ville, nous d��couvrons aux aurores (le bus nous a d��pos������ 4h du matin) un petit havre de paix : Pelourinho, centre historique o�� tout est clean et en bon ��tat et o�� des hordes de "
+    [:em {} "gendarmes"]
+    " se balladent pour prot��ger les int��r��ts touristiques.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/dscn2058-50.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "Pelourinho",
+   :caption "Pelourinho"}
+  {:type :paragraph,
+   :content "��PS : par endroit, attention aux visiteurs inopin��s���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1650-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "img_1650-50"}],
+ :title "La ville au Br��sil",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "la-ville-au-bresil",
+ :source-id "559",
+ :blog "avesdepaso",
+ :visibility :public}

@@ -1,0 +1,161 @@
+{:updated-at #inst "2015-10-02T17:23:13.644-00:00",
+ :cover
+ {:width 240,
+  :height 158,
+  :id
+  {:id "20952692363",
+   :farm-id 6,
+   :server-id "5632",
+   :photoset-id nil,
+   :secret "c50cf6a800",
+   :original-secret nil,
+   :original-format nil},
+  :provider :flickr,
+  :type :photo},
+ :published-at #inst "2015-10-02T17:23:17.777-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("En avant vers le Minas Gerais!!\nEn 2009, je voulais déjà y aller jeter un oeil pour son histoire minière.\n\n2015, \nNous y voilà!"
+    [:br {}]
+    [:br {}]
+    "En partant de Rio de Janeiro, la route serpente durant un peu plus de 7 hs et nous connecte à Belo Horizonte, Belo ou encore BH pour les locaux."
+    [:br {}]
+    [:br {}]
+    "Belo est aujourd'hui une ville énorme de plus de 2 millions d'habitants. Quelques monuments de villes du 19ème subsistent au milieu des tours de bétons et d'un paysage valloné. Tout ceci au milieu de la selva chaude et humide."
+    [:br {}]
+    [:br {}]
+    "Belo reste un centre d'affaires important pour le monde minier.\nOn y trouve ses habitants 'mineiros', la 'comida mineira', et plusieurs institutions (certaines fonctionnent encore) liées au secteur. Aujourd'hui, il est produit du fer, il y a plus de 200 ans, le Minas Gerais était le berceau de l'or.")}
+  {:type :photo,
+   :width 944,
+   :id
+   {:url
+    "https://0a7518c6f25e1f0391ef1d9e5215f7027ea08fea.googledrive.com/host/0B2xlM9sWoSAKLWtSZmZURVhWVFk/belo-horizonte-20140903133334.jpg"},
+   :provider :google-drive,
+   :height 0}
+  {:type :paragraph,
+   :content
+   ("Enfin, nous avons très peu visité le centre de Belo Horizonte du à un rejet de pois chiche brésiliens dans l'estomac de Julien. Nous avons tenté de nous imprégner de la ville et de ses habitants. Pari tenu après 5 blocs de marche, le corps de Julien n'est pas très réactif et nous impose d'aller nous asseoir le plus vite possible. Pas de café bohème dans le quartier. Nous resterons près de deux heures sur une petite terrasse 'plastique' avec des petites odeurs, du bruit, du passage.... Mais la vraie vie en soit! Je me voyais déjà faire un reportage sur les gens qui passent, vendeurs ambulants, mamacitas, livreur de bières, ..... Un joyau du quotidien brésilien! ")}
+  {:type :photoset,
+   :photos
+   [[{:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "a352de23ea",
+       :original-secret nil,
+       :id "21386607289",
+       :farm-id 1,
+       :server-id "676"},
+      :provider :flickr,
+      :height 240}
+     {:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "1dbc553c8e",
+       :original-secret nil,
+       :id "20952981573",
+       :farm-id 1,
+       :server-id "697"},
+      :provider :flickr,
+      :height 240}
+     {:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "dc78550e2c",
+       :original-secret nil,
+       :id "21385887138",
+       :farm-id 6,
+       :server-id "5780"},
+      :provider :flickr,
+      :height 240}
+     {:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "b2b036ceb2",
+       :original-secret nil,
+       :id "21386219388",
+       :farm-id 1,
+       :server-id "753"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :video, :provider :vimeo, :id {:id "141119666"}}
+  {:type :paragraph,
+   :content
+   ("Un autre joyau se trouve à un peu moins de 2 hs dans la ville de Brumadinho : le parque "
+    [:a
+     {:href "https://fr.wikipedia.org/wiki/Institut_Inhotim"}
+     "Inhotim "]
+    "fondé par Bernardo Paz. Un endroit unique au monde qui combine en pleine selva tropicale Art Jardin botanique. Inhotim regroupe plus de 20 galeries destinées à des artistes du monde entier plutôt latino (Brésil, argentine,...) mais aussi français ou américain. Chaque galerie est reliée par des sentiers joliment designés à la manière de l'artiste Roberto Burle Marx. Le parque abriterait plus de 1000 variétés de palmiers."
+    [:br {}]
+    [:br {}]
+    "Plusieurs lacs ont été formés à partir de terrains exploités par les mines ouvertes du 18 et 19ème siècles.")}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "475a6e0476",
+       :original-secret nil,
+       :id "20951380804",
+       :farm-id 1,
+       :server-id "743"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "7cac5e2cc0",
+       :original-secret nil,
+       :id "21573814885",
+       :farm-id 1,
+       :server-id "750"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :paragraph,
+   :content
+   ("Nous avons eu l'occasion de participer à une visite guidée et privée pour nous faciliter la compréhension de ce fameux Art 'contemporain' dont jusque là, nous n'avions que peu de connaissance sur le sujet. L'excellente introduction et le niveau de connaissance et de transmission de deux jeunes nous a agréablement surpris!! Ca nous en a dit un peu plus sur le système d'éducation et la motivation de la jeunesse brésilienne! (Sans vouloir généraliser bien sûr). ")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "38be2040d0",
+    :original-secret nil,
+    :id "21387110609",
+    :farm-id 6,
+    :server-id "5710"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ("Pour finir, nous avons même eu le droit à un petit concert de "
+    [:a
+     {:href "https://pt.wikipedia.org/wiki/Luiz_Melodia"}
+     "Luiz Melodia"]
+    "(samba-bossa) entre les oeuvres, les oiseaux, et la selva.... Un régal unique et carrémment paisible!")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "d9ba6af0ab",
+    :original-secret nil,
+    :id "21562907852",
+    :farm-id 6,
+    :server-id "5817"},
+   :provider :flickr,
+   :height 158}],
+ :title "Expérience à Belo Horizonte",
+ :locations
+ ({:latitude -23.2231155,
+   :longitude -44.722718199999996,
+   :accuracy 40}),
+ :id "experience-a-belo-horizonte",
+ :blog "avesdepaso",
+ :visibility :public}

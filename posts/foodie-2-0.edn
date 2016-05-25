@@ -1,0 +1,117 @@
+{:updated-at #inst "2011-07-16T01:24:30.000-00:00",
+ :tags #{:vancouver},
+ :published-at #inst "2011-07-16T01:24:30.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Doucement Vancouver s���installe sur le devant de la sc��ne culinaire internationale. West coast "
+    [:a
+     {:href "http://en.wikipedia.org/wiki/Fusion_cuisine"}
+     "fusion food"]
+    " mais surtout tout un m��lange de bizarreries asiatiques.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/03/p1060547.png?w=400&h=533"},
+   :width 400,
+   :height 533,
+   :alt "P1060547"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/03/p1060548.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "P1060548"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/03/p1060656.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "P1060656"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/03/p1060661.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "P1060661",
+   :caption "Un peu �� la traine"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/03/p1060695.png?w=400&h=711"},
+   :width 400,
+   :height 711,
+   :alt "P1060695"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/03/p1060861.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "P1060861"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/03/p1070399.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "P1070399",
+   :caption "Sont pas mignons ?"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/06/dsc_0744.png?w=400&h=266"},
+   :width 400,
+   :height 266,
+   :alt "DSC_0744",
+   :caption "Milkshake d&#39;oursin"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/06/dsc_0187.png?w=400&h=266"},
+   :width 400,
+   :height 266,
+   :alt "DSC_0187"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/06/dsc_0164_2.png?w=400&h=265"},
+   :width 400,
+   :height 265,
+   :alt "DSC_0164_2",
+   :caption "Cheesecake design"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/03/p1070423.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "P1070423",
+   :caption "Ah nan c&#39;est pas Vancouver l�� .."}
+  {:type :paragraph,
+   :content
+   ([:a
+     {:href
+      "http://vadrouilles.files.wordpress.com/2011/03/p1060861.png"}
+     [:br {}]
+     "\n"])}],
+ :title "Foodie 2.0",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "foodie-2-0",
+ :source-id "1527",
+ :blog "avesdepaso",
+ :visibility :public}

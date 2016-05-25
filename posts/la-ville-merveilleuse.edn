@@ -1,0 +1,229 @@
+{:updated-at #inst "2015-10-02T13:48:52.876-00:00",
+ :cover
+ {:width 240,
+  :height 158,
+  :id
+  {:id "21384702639",
+   :farm-id 6,
+   :server-id "5786",
+   :photoset-id nil,
+   :secret "f09640369b",
+   :original-secret nil,
+   :original-format nil},
+  :provider :flickr,
+  :type :photo},
+ :published-at #inst "2015-09-25T23:34:43.501-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Rio,"
+    [:i {} "la ville merveilleuse,"]
+    "a bien évoluée depuis qu'elle n'est plus la capitale de l'empire portugais, période à laquelle elle a gagné ce sobriquet. C'est à peu près aussi pertinent de nos jours que Paris, "
+    [:i {} "la ville lumière."]
+    [:br {}]
+    "C'est aussi une ville qui nous attire depuis longtemps et nous faisait peur en même temps: les guides touristiques ne manquent pas de recommendations plutôt angoissantes. Cette réputation de ville dangereuse nous a paru exagérée, à part sur un point: garantie presque absolue de se faire voler son numéro de carte bleue. L'innovation technologique trouve toujours son chemin!")}
+  {:type :photo,
+   :caption "Rio c'est plutôt la ville selfie",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "710096721e",
+    :original-secret nil,
+    :id "21384657639",
+    :farm-id 1,
+    :server-id "583"},
+   :provider :flickr,
+   :height 158}
+  {:type :paragraph,
+   :content
+   ("Le passé colonial est bien plus présent que l'on ne pourrait l'imaginer. Rio n'est pas juste la ville du carnaval et des plages, son centre regorge de monuments coloniaux datant du début du 20ème siècle, plutôt bien conservés. C'est aussi une ville où chaque quartier à son âme et sa spécificité, pour peu que l'on accepte de s'éloigner des côtes.")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "841be62ba3",
+    :original-secret nil,
+    :id "21383766510",
+    :farm-id 1,
+    :server-id "740"},
+   :provider :flickr,
+   :height 158}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "5786200008",
+    :original-secret nil,
+    :id "20950967203",
+    :farm-id 6,
+    :server-id "5815"},
+   :provider :flickr,
+   :height 158}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "7b9b5bc01c",
+    :original-secret nil,
+    :id "20950039153",
+    :farm-id 6,
+    :server-id "5693"},
+   :provider :flickr,
+   :height 158}
+  {:type :paragraph,
+   :content
+   ("Et si tu vas à Rio, n'oublies pas de monter là-haut! Là-haut, c'est le corcovado, l'un des pains de sucre qui sert de promontoire à la statue du Christ Rédempteur. Très touristique bien sûr mais ca ne se refuse pas! Un petit train, la première voie ferrée de Rio, traverse la jungle pour nous permettre de monter sans user nos tongues.")}
+  {:type :photoset,
+   :photos
+   [[{:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "ff5d54c06a",
+       :original-secret nil,
+       :id "21545267036",
+       :farm-id 6,
+       :server-id "5685"},
+      :provider :flickr,
+      :height 240}
+     {:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "70ecb652aa",
+       :original-secret nil,
+       :id "21383537458",
+       :farm-id 1,
+       :server-id "741"},
+      :provider :flickr,
+      :height 240}
+     {:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "5810ee02f3",
+       :original-secret nil,
+       :id "21580155931",
+       :farm-id 1,
+       :server-id "671"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :photo,
+   :caption "Rio t'accueille à bras ouverts",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "8f45c3cfe8",
+    :original-secret nil,
+    :id "21383632918",
+    :farm-id 1,
+    :server-id "577"},
+   :provider :flickr,
+   :height 158}
+  {:type :photo,
+   :caption "L'autre là-haut: le pain de sucre",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "f1dd82b0de",
+    :original-secret nil,
+    :id "21546624806",
+    :farm-id 6,
+    :server-id "5747"},
+   :provider :flickr,
+   :height 158}
+  {:type :photo,
+   :width 158,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "39f00f0fd9",
+    :original-secret nil,
+    :id "21386053419",
+    :farm-id 6,
+    :server-id "5803"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("Ipanema, Copacabana, Flamengo, autant de quartiers pour autant d'ambiances et de plages. Il fait chaud toute l'année ici, mais c'est bien sûr relativement désert l'hiver. Surtout quand il pleut.")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "c427d226e6",
+    :original-secret nil,
+    :id "21383856119",
+    :farm-id 1,
+    :server-id "628"},
+   :provider :flickr,
+   :height 158}
+  {:type :photoset,
+   :photos
+   [[{:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "dd740fb8fd",
+       :original-secret nil,
+       :id "20949658633",
+       :farm-id 1,
+       :server-id "569"},
+      :provider :flickr,
+      :height 240}
+     {:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "a539fafa93",
+       :original-secret nil,
+       :id "21580107401",
+       :farm-id 1,
+       :server-id "718"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "fb65cff20f",
+    :original-secret nil,
+    :id "21545023976",
+    :farm-id 1,
+    :server-id "567"},
+   :provider :flickr,
+   :height 158}
+  {:type :paragraph,
+   :content
+   ("Une de mes villes préférées d'Amérique du Sud c'est certain! Un bon emplacement aussi pour servir de base pour quelques semaines d&#39;explorations du centre brésilien. A refaire!")}
+  {:type :photoset,
+   :photos
+   [[{:width 1944,
+      :id
+      {:url
+       "https://b347a26e4f9075ca5a2d2515a378965aba252aec.googledrive.com/host/0B2xlM9sWoSAKdnNxWUJxazBrOG8/IMG_20150914_134726.JPG"},
+      :provider :google-drive,
+      :height 1944}
+     {:width 1944,
+      :id
+      {:url
+       "https://b347a26e4f9075ca5a2d2515a378965aba252aec.googledrive.com/host/0B2xlM9sWoSAKdnNxWUJxazBrOG8/IMG_20150914_134843.JPG"},
+      :provider :google-drive,
+      :height 1944}]
+    []]}],
+ :title "La ville merveilleuse",
+ :locations
+ ({:latitude -23.223004,
+   :longitude -44.722829399999995,
+   :accuracy 60}),
+ :id "la-ville-merveilleuse",
+ :blog "avesdepaso",
+ :visibility :public}

@@ -1,0 +1,61 @@
+{:updated-at #inst "2009-05-20T15:13:54.000-00:00",
+ :tags #{:perou},
+ :published-at #inst "2009-05-20T15:13:54.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Vous les connaissez surement d��ja, de r��putation au moins. Ces lignes qui semblent sortir de nulle part et forment des symboles uniquement visibles du ciel ont tour���� tour����t�� interpr��t��es comme des preuves de l���influence extra-terrestres sur cette civilisation, un gigantesque calendrier astronomique ou la repr��sentation au sol de sources d���eau souterraines.\nBref on est pas bien avanc��, mais on commence���� etre habitu�� en Am��rique du sud!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3790-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Un bonhomme sur la colline",
+   :caption "Un bonhomme sur la colline"}
+  {:type :paragraph,
+   :content
+   "Devenu une attraction touristique, un petit a��roport a ��t�� construit pour permettre���� une foultitude de micro compagnies a��riennes d���envoyer des tonnes de touristes voir les symboles du haut d���un Cesna."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3814-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Notre pilote garfield",
+   :caption "Notre pilote garfield"}
+  {:type :paragraph,
+   :content
+   "30 minutes ca peut sembler court, mais dans un avion de 5 places ca l���est moins et on se rappelle rapidement qu���on est peut de chose dans ce monde. Surtout que pour que l���on puisse admirer les figures au mieux les pilotes nous d��voilent leurs talents d���acrobate leur plus grand plaisir."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3804-501.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "D��sert de Nazca vu du ciel",
+   :caption "D��sert de Nazca vu du ciel"}
+  {:type :paragraph,
+   :content
+   "12 figures, 1 tour par la gauche puis par la droite pour chacune, on fait rapidement des virages���� plus de 45 degr��s. Tr��s impressionnant au d��but, on sent les G, apr��s 20 minutes ca devient plus compliqu�� a g��rer. Mon voisin de devant ne le sait pas, mais il a bien failli avoir un shampoing naturel gratuit."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3807-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Oiseau ",
+   :caption "Le condor grav�� dans le sol"}
+  {:type :paragraph,
+   :content
+   "Tres ��trange, mais tr��s sympa���� faire, au moins pour l���avion!"}],
+ :title "Myst��rieuses lignes de Nazca",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "mysterieuses-lignes-de-nazca",
+ :source-id "854",
+ :blog "avesdepaso",
+ :visibility :public}

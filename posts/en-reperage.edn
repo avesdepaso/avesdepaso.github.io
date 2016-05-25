@@ -1,0 +1,154 @@
+{:updated-at #inst "2010-11-08T22:36:53.000-00:00",
+ :tags #{:canada},
+ :published-at #inst "2010-11-08T22:36:53.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Avant de partir vivre �� Vancouver un petit tour pour visiter s���impose! Trois semaines dont 2 au Canada, ca devrait ��tre pas mal."}
+  {:type :paragraph,
+   :content
+   "On commence par une semaine �� San Francisco dans l���appartement de fonction de mon futur employeur pour gouter au r��ve am��ricain. Tout est d��mesur�� ici.. Pour remplir le frigo g��ant il faut faire des courses �� l���am��ricaine."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/10/p1020606.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "Cuisine am��ricaine",
+   :caption "Cuisine am��ricaine"}
+  {:type :paragraph,
+   :content
+   "Pendant que je travaille dur la semaine Mademoiselle se prom��ne et d��couvre quelques coins tr��s charmant perdus dans les collines. Et oui pas mal de verdure ici. Bon pas forc��ment abordable non plus, faut pas r��ver."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/10/p1020912.png?w=400&h=533"},
+   :width 400,
+   :height 533,
+   :alt "Verdure dans la ville",
+   :caption "Verdure dans la ville"}
+  {:type :paragraph,
+   :content
+   "Les fameux cable-cars ne servent pas �� grand chose �� part jouer �� la touriste."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/10/p1020995.png?w=400&h=533"},
+   :width 400,
+   :height 533,
+   :alt "Yeahh",
+   :caption "Yeahh"}
+  {:type :paragraph,
+   :content
+   "Changement total de d��cor: �� peine arriv�� �� Vancouver direction le loueur de voiture pour partir �� l���assaut des rocheuses canadiennes. Moins de soleil forc��ment mais quels paysages grandioses! Le r��ve pour tout apprenti montagnard."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/10/p1030389.png?w=400&h=225"},
+   :width 400,
+   :height 225,
+   :alt "La montagne ca vous gagne",
+   :caption "La montagne ca vous gagne"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/10/p1030425.png?w=400&h=225"},
+   :width 400,
+   :height 225,
+   :alt "Lac Louise",
+   :caption "Lac Louise"}
+  {:type :paragraph,
+   :content
+   "En prime petit d��tente devant le lac qui a servi longtemps de d��cor pour les billets canadiens."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/10/p1030440.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "Lac Moraine",
+   :caption "Lac Moraine"}
+  {:type :paragraph,
+   :content
+   "Pas mal de voiture cette semaine mais on s���arr��te r��guli��rement pour faire des treks �� la journ��e. Enfin quand il n���y a pas d���ours dans les parages.."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/10/p1030500.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "Eh ouai",
+   :caption "Eh ouai"}
+  {:type :paragraph,
+   :content
+   "Ou de ch��vres. Des ch��vres des montagnes, hein, ca rigole moins l��! On voit pas sur les photos mais elles font presque 2 m��tres de haut!! Hmm ou pas.."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/10/p1030579.png?w=400&h=299"},
+   :width 400,
+   :height 299,
+   :alt "Ch��vres des montagnes",
+   :caption "Ch��vres des montagnes"}
+  {:type :paragraph,
+   :content
+   "Pareil on dirait pas mais ya facile 50 m��tres de vide sous ce rocher! Et tout ca avec le petit doigt."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/10/p1030654.png?w=400&h=533"},
+   :width 400,
+   :height 533,
+   :alt "Grimpette sous les arbres",
+   :caption "Grimpette sous les arbres"}
+  {:type :paragraph,
+   :content
+   "Comme on g��re pas mal on a surv��cu �� toutes ses aventures tr��pidantes. Fin de voyage �� Vancouver, pour de vrai, o�� on peut admirer �� quoi ressemble une ville parfaite. Paris et sa Seine peuvent se rhabiller.. Et ouai la classe!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/10/p1030694.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "Vancouver",
+   :caption "Vancouver"}
+  {:type :paragraph,
+   :content
+   "Avec des fruits plein de couleurs garantis sans cancer ni pesticides!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/10/p1030793.png?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "Couleurs de Granville Island",
+   :caption "Couleurs de Granville Island"}
+  {:type :paragraph,
+   :content "Et des jardins plein de poissons rouges g��ants."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/10/p1030903.png?w=400&h=320"},
+   :width 400,
+   :height 320,
+   :alt "Influences asiatiques",
+   :caption "Influences asiatiques"}
+  {:type :paragraph, :content "Bon bah 3 mois �� attendre."}],
+ :title "En rep��rage",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "en-reperage",
+ :source-id "1254",
+ :blog "avesdepaso",
+ :visibility :public}

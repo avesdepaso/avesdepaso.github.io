@@ -1,0 +1,310 @@
+{:updated-at #inst "2015-09-25T23:37:08.659-00:00",
+ :cover
+ {:width 240,
+  :height 158,
+  :id
+  {:id "20944886924",
+   :farm-id 1,
+   :server-id "627",
+   :photoset-id nil,
+   :secret "cfb3660eb2",
+   :original-secret nil,
+   :original-format nil},
+  :provider :flickr,
+  :type :photo},
+ :published-at #inst "2015-09-24T19:45:59.368-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Juste avant de rentrer en France nous passons 2 mois au Brésil. Et oui il faut se préparer au retour au rythme français et une telle occasion ne se reproduira pas tout de suite! C'est aussi l'occasion de dépenser nos derniers pesos Argentins qu'il est difficile de rapatrier en France. Ils sont sentimentaux, ils veulent les garder leurs pesos! Alors mieux vaut une bonne caipirinha qu'une brouette de pesos ("
+    [:i {} "proverbe brésilien"]
+    ")."
+    [:br {}]
+    [:br {}]
+    "--"
+    [:br {}]
+    "Justo antes de volver a Francia, pasamos 2 meses en Brasil. Y si, nos tenemos que preparar a la vuelta y al ritmo francès. Otra oportunidad no se presentara nosotros ahora ya. Tambièn, es un buen momento para gastar nuestros pesos argentinos. Aquellos son muy dificil de llevar a Francia. Los argentinos son sentimentales. Quieren guardar sus pesos! Entonces, mejor una buena Caipirinha que una carretilla de pesos (dicho brasileiro).")}
+  {:type :photo,
+   :width 158,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "0ba01cdf28",
+    :original-secret nil,
+    :id "21543403586",
+    :farm-id 6,
+    :server-id "5666"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("Après moultes tergiversations nous avons choisi Paraty, petite ville coloniale paisible entre Rio et Sao Paulo."
+    [:br {}]
+    "A l'époque de la découverte des premières mines d'or au Brésil (oui ca nous poursuit) Paraty servait de port d'accès à la région du Minas Gerais. Après la découverte d'une route plus courte, moins d'un siècle plus tard, Rio la supplante. La ville coloniale est restée largement inchangée et sa situation tranquille au milieu d'une large baie en fait une destination de choix pour les touristes Cariocas et Paulistas."
+    [:br {}]
+    [:br {}]
+    "--"
+    [:br {}]
+    "Despuès de varias ideas, hemos elegido Paraty, pequena cuidad colonial agradable entre Rio y Sao Paulo."
+    [:br {}]
+    "En la epoca del descubrimiento de las primeras minas de Oro en Brasil (y si, nos esta persiguiendo el tema), Paraty servia de puerto de acceso al estado del Minas Gerais. Despuès de haber descubierto una ruta mas corta, menos de un siglo mas tarde, Rio la suplanta. La cuidad colonial ha conservado su arquitectura y su situacion tranquila en el medio de una baya lo que le permite seguir estando un destino famoso para los turistas Cariocas y Paulistas.")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "4ef783eae1",
+    :original-secret nil,
+    :id "21379707440",
+    :farm-id 6,
+    :server-id "5752"},
+   :provider :flickr,
+   :height 158}
+  {:type :photoset,
+   :caption "Centro",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "cfb3660eb2",
+       :original-secret nil,
+       :id "20944886924",
+       :farm-id 1,
+       :server-id "627"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "8c80447dbb",
+       :original-secret nil,
+       :id "21379877138",
+       :farm-id 6,
+       :server-id "5744"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "4935ec3dc8",
+       :original-secret nil,
+       :id "21381343639",
+       :farm-id 6,
+       :server-id "5728"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photoset,
+   :caption "Festival da Cachaça",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "d7697112dc",
+       :original-secret nil,
+       :id "21578512221",
+       :farm-id 1,
+       :server-id "691"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "5f976744e8",
+       :original-secret nil,
+       :id "21558873702",
+       :farm-id 6,
+       :server-id "5637"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "206e93fc56",
+       :original-secret nil,
+       :id "21579156531",
+       :farm-id 6,
+       :server-id "5824"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :paragraph,
+   :content
+   ("2 mois c'est l'idéal pour commencer à s'imprégner de la culture et aller au delà des points touristiques. Alors on commence par des cours réguliers de portugais, dès le matin pour se mettre en forme. Reiko, notre professeure, est issue de l'immigration japonaise, principalement concentrée à Sao Paulo. Pas exactement la brésilienne d&#39;image d'épinal!"
+    [:br {}]
+    "--"
+    [:br {}]
+    "2 meses, es ideal para comenzar a descubrir la cultura y ir mas alla de los puntos turisticos. Comenzamos por las aulas de portugues, durante las mananas para estar en forma. Reiko, nuestra profesora, viene de la migracion japonesa, la cual se concentra mayormente en Sao Paulo. No es la brasilera que nos imaginamos!")}
+  {:type :photo,
+   :caption "Révisions?",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "b9ae47250e",
+    :original-secret nil,
+    :id "21559235602",
+    :farm-id 6,
+    :server-id "5732"},
+   :provider :flickr,
+   :height 158}
+  {:type :paragraph,
+   :content
+   ("C'est aussi l'occasion de découvrir de nouvelles activités comme la capoeira (ok on abandonnera assez vite ;)) ou la céramique. Rapidement, grâce à l'aide de Zizir le fameux, Annec crée ses premières oeuvres dont un pingouin inspiré par la faune locale."
+    [:br {}]
+    [:br {}]
+    "--"
+    [:br {}]
+    "Es tambien una buena oportunidad para descubrir nuevas actividades como la Capoeira (Ok, abandonamos rapido ;) ) o bien la ceramica. Rapidamente, y gracias a la ensenanza de Zizir, el Famoso, Anne cree sus primeras obras cuyo un pinguino inspirado de la Fauna local.")}
+  {:type :photo,
+   :caption "Poterie avec Zizir",
+   :width 158,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "0f5eab6db1",
+    :original-secret nil,
+    :id "21557020512",
+    :farm-id 6,
+    :server-id "5696"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("Paraty jouit aussi d'une offre culturelle assez importante malgré sa modeste taille, un des atouts du Brésil qui pousse ce domaine. Expositions, concerts et films sont disponibles gratuitement quasiment en permanence. Malheureusement cela profite principalement à ceux qui ont déjà une éducation dans le domaine, notamment la ribambelle de retraité européens qui ont émigrés vers des cieux plus cléments."
+    [:br {}]
+    [:br {}]
+    "--"
+    [:br {}]
+    "Paraty ofrece tambien una vida cultural bastante importante, por ser pequena cuidad. Es una de las ventajas de Brasil que empuja en este sector. Exposiciones, recitales y peliculas estan disponibles y gratuitos casi todos los dias. Lamentablemente, lo disfruten mayormente aquellos que ya tienen una educacion en la materia, como por ejemplo los jubilados europeos quienes han emigrados hacia a cielos mas tranquilos.")}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "616fe31406",
+       :original-secret nil,
+       :id "21381517719",
+       :farm-id 1,
+       :server-id "782"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "a6464967e5",
+       :original-secret nil,
+       :id "21577122481",
+       :farm-id 1,
+       :server-id "699"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photo,
+   :caption "Concert et Baile Cirandas",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "f459ac3bc2",
+    :original-secret nil,
+    :id "21380511898",
+    :farm-id 1,
+    :server-id "601"},
+   :provider :flickr,
+   :height 158}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "eea8692602",
+       :original-secret nil,
+       :id "21577674341",
+       :farm-id 6,
+       :server-id "5703"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "4268db26e7",
+       :original-secret nil,
+       :id "20945973054",
+       :farm-id 1,
+       :server-id "666"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photoset,
+   :photos
+   [[{:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "17f290817b",
+       :original-secret nil,
+       :id "21380130700",
+       :farm-id 6,
+       :server-id "5832"},
+      :provider :flickr,
+      :height 240}
+     {:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "860ff73951",
+       :original-secret nil,
+       :id "21556612552",
+       :farm-id 1,
+       :server-id "667"},
+      :provider :flickr,
+      :height 240}
+     {:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "bc57f3f166",
+       :original-secret nil,
+       :id "21556709952",
+       :farm-id 1,
+       :server-id "742"},
+      :provider :flickr,
+      :height 240}
+     {:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "220ea61a62",
+       :original-secret nil,
+       :id "21380751158",
+       :farm-id 1,
+       :server-id "649"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :paragraph,
+   :content
+   ("Bon c'est pas tout faut se préparer au retour au bercail, histoire de vérifier si vous avez pris soin de la France pendant notre absence."
+    [:br {}]
+    "J&#39;ai comme un doute.."
+    [:br {}]
+    [:br {}]
+    "--"
+    [:br {}]
+    "Bueno.... no es todo pero nos tenemos que preparar a la vuelta a Francia, no mas que para chequear que ustedes han cuidado el pais durante nuestra ausencia..."
+    [:br {}]
+    "Tengo dudas...")}],
+ :title "Vie brésilienne",
+ :locations
+ ({:latitude -23.223009299999998,
+   :longitude -44.7228256,
+   :accuracy 67}),
+ :id "vie-bresilienne",
+ :blog "avesdepaso",
+ :visibility :public}

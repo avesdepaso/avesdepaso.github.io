@@ -1,0 +1,62 @@
+{:updated-at #inst "2014-09-25T04:26:31.769-00:00",
+ :tags #{:buenos-aires},
+ :cover
+ {:width 1024,
+  :height 768,
+  :provider :flickr,
+  :user-id "96129378@N07",
+  :category-id "72157647946460591",
+  :id
+  {:id "15149811828",
+   :farm-id 3,
+   :server-id "2942",
+   :photoset-id nil,
+   :secret "4375d6fc21",
+   :original-secret nil,
+   :original-format nil}},
+ :published-at #inst "2012-07-25T01:43:40.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Une des joies du français expatrié à l'étranger: participer à la réception du 14 juillet à l'ambassade!\nImaginez la frustration de devoir patienter un an pour déguster du fromage (un peu) correct. Ou devoir payer son champagne!"}
+  {:type :paragraph,
+   :content
+   ("Merci à vous tous de contribuer, en ces temps de crise, à notre bien-être.")}
+  {:type :photo,
+   :width 1024,
+   :height 768,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647946460591",
+   :id
+   {:id "15333242351",
+    :farm-id 3,
+    :server-id "2944",
+    :photoset-id nil,
+    :secret "bde5ecb645",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Au moins maintenant vous savez à quoi servent vos imp��ts "
+    [:span {:title ";)", :class "wp-smiley emoji emoji-wink"} ";)"])}
+  {:type :photo,
+   :width 1024,
+   :height 768,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647946460591",
+   :id
+   {:id "15149854837",
+    :farm-id 3,
+    :server-id "2944",
+    :photoset-id nil,
+    :secret "eed07fec10",
+    :original-secret nil,
+    :original-format nil}}],
+ :title "Douce France",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "douce-france",
+ :source-id "2240",
+ :blog "avesdepaso",
+ :visibility :public}

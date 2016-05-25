@@ -1,0 +1,80 @@
+{:updated-at #inst "2009-05-20T17:09:02.000-00:00",
+ :tags #{:perou},
+ :published-at #inst "2009-05-20T17:07:01.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Notre premi��re tentative���� Arequipa nous avait un peu frustr��e mais surtout laiss��e sur notre faim. Huaraz offre certainement le plus bel environnement d���escalade du P��rou avec des vues sur la cordilli��re blanche, notamment le site de "
+    [:a
+     {:href "http://www.andeankingdom.com/hatunmachay/index.php"}
+     "Hatun Machay"]
+    ".")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3833-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Le site d'Hatun-Machay",
+   :caption "Le site d&#39;Hatun-Machay"}
+  {:type :paragraph,
+   :content
+   "Nous partons donc pour une journ��e d���escalade avec Joe qui en plus d�����tre notre guide pour la journ��e est l���un des patrons de l���h��tel o�� nous resterons presque une semaine. Joe est am��ricain, originaire du Colorado, et voyage/travaille en Am��rique du sud depuis plus de 6 mois avec tout son mat��riel d���escalade."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3838-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Avant la grimpette",
+   :caption "Avant la grimpette"}
+  {:type :paragraph,
+   :content
+   "Nous tenterons d���escalader 3 pistes au total dans la journ��e, toutes diff��rentes, de 25m de longueur: d��but avec une 5+, puis une 6a et finalement une 5+ en l��ger d��vers."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3842-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "En hauteur",
+   :caption "En hauteur"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3843-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Pendant que Joe s��curise",
+   :caption "Pendant que Joe s��curise"}
+  {:type :paragraph,
+   :content
+   "\nCa peut para��tre peu, mais avec notre faible niveau technique ca fait beaucoup pour les bras. A la fin de la journ��e impossible d���escalader ou m��me d���ouvrir normalement une porte tellement nos avant-bras et mains sont crisp��s!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3893-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Coucou",
+   :caption "Coucou"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3854-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Allez au sommet me prendra 30 min",
+   :caption "Aller au sommet me prendra 30 minutes..."}],
+ :title "Le retour de la grimpette",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "le-retour-de-la-grimpette",
+ :source-id "872",
+ :blog "avesdepaso",
+ :visibility :public}

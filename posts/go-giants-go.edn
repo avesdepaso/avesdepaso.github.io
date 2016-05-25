@@ -1,0 +1,80 @@
+{:updated-at #inst "2011-08-31T03:45:45.000-00:00",
+ :published-at #inst "2011-04-22T04:05:51.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Oui c���est ce qui est inscrit sur le top du bus les jours de matchs !! Alors A vancouver, y a les CANUCKS (les hommes, les vrais !) et les GIANTS (les juniors pas mal non plus!)��� Pour aller voir les Canucks faut vraiment ��tre fan parce que les places sont m��ga ch��res mais si on veut juste d��couvrir le Hockey et son SHOW alors aller voir les Giants, c���est d��j�� super classe "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1060863.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060863",
+   :caption "Stadium �� Vancouver"}
+  {:type :paragraph,
+   :content
+   "On s���installe �� nos places c���est �� dire juste derri��re les vitres �� c��t�� des box pour les joueurs qui font des coups bas �� leur adversaires ��� C���est bien rempli, y a de l���ambiance ! On se sent trop puissant et Canadian �� ce moment l��."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1060866.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1060866",
+   :caption "Canadian Style"}
+  {:type :paragraph,
+   :content
+   "7.00 pm, le show peut commencer !!! Branchez les lumi��res et Joueeeezzzzz !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1060867.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060867",
+   :caption "Un vrai show"}
+  {:type :paragraph,
+   :content
+   "Les joueurs font leur entr��e sur la glace dans la nuit, les pom-pom girls les entourent en justaucorps de GRS (eh les filles vous vous rappeler?) dandinant leurs popotins et leurs froufrous !! Whaou, c���est trop American !! les spectateurs sont supers excit��s, so we are ! On aper��oit les joueurs au but qui s�����chauffent, certains misent encore sur la strat��gie du jeu, d���autres prennent la temp��rature en patinant���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1060878.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060878",
+   :caption "Les Giants..."}
+  {:type :paragraph,
+   :content
+   "Le jeu peut alors commencer���. une patinoire am��nag��e avec deux buts, des vitres et des filets pour emp��cher les rencontres fortuites avec un palet ou une crosse. Avec leur tenue de compet���, on a l���impression que les joueurs sont tous supers muscl��s sur le ring glac�� mais c���est pas ��a du tout��� en r��alit��, ils portent de la mousse partout et une carapace aux niveaux des ��paules���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1060888.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060888",
+   :caption "Ca va trop trop vite ..."}
+  {:type :paragraph,
+   :content
+   "Quel impressionnant tourbillon���. tous �� la qu��te du palet qui virevolte et ses mouvements compl��tement contr��l��s de la part des joueurs. C���est plus impressionnant que le patin artistique (dont j���ai toujours ��t�� fan, j���avoue!) Voil�� un petit extrait pour vous !"}
+  {:type :video, :provider :vimeo, :id "22541858"}
+  {:type :paragraph,
+   :content
+   ("Pour ceux qui voudraient voir un match avec nous, il faudrait venir l���Hiver���. "
+    [:span
+     {:class "wp-smiley emoji emoji-wink", :title ";-)"}
+     ";-)"])}],
+ :title "Go Giants Go !!",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "go-giants-go",
+ :source-id "1548",
+ :blog "avesdepaso",
+ :visibility :public}

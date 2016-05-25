@@ -1,0 +1,12 @@
+{:updated-at #inst "2009-02-02T13:24:44.000-00:00",
+ :published-at #inst "2008-12-28T12:05:11.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Vivi, laissez nous encore quelques jours pour le doter d���informations!"}],
+ :title "Under Construction",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "website-under-construction",
+ :source-id "14",
+ :blog "avesdepaso",
+ :visibility :public}

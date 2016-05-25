@@ -1,0 +1,111 @@
+{:updated-at #inst "2009-10-04T16:51:36.000-00:00",
+ :tags #{:france},
+ :published-at #inst "2009-10-04T16:51:36.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Eh oui, on avait pas eu assez de notre voyage longue dur��e en Am��rique du Sud, alors on s���est organis�� une petite vir��e dans les environs de Lyon���"}
+  {:type :paragraph, :content ([:strong {} "Visite de Lyon "])}
+  {:type :paragraph,
+   :content
+   "Rien d���anormal: Lyon est une tr��s belle ville de Province !!! On adore le Vieux lyon et la Croix Rousse pour ses traboules qui nous emm��ne �� l���int��rieur de son vivant��� On aime la Fourvi��re pour sa vue superbe sur la ville mais pas que��� on arrive �� apercevoir la cha��ne des Alpes de l��-haut ! Et puis on n���oubliera pas notre promenade sur les berges du Rh��ne et au parc de la T��te d���o�� on pourrait se croire �� Central Park NYC."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/10/dscn2625.jpg?w=450&h=600"},
+   :width 450,
+   :height 600,
+   :alt "Une des fameuses traboules",
+   :caption "Une des fameuses traboules"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/10/dscn2688.jpg?w=450&h=337"},
+   :width 450,
+   :height 337,
+   :alt "DSCN2688"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/10/dscn2710.jpg?w=450&h=337"},
+   :width 450,
+   :height 337,
+   :alt "DSCN2710"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/10/dscn2729.jpg?w=450&h=337"},
+   :width 450,
+   :height 337,
+   :alt "DSCN2729"}
+  {:type :paragraph,
+   :content
+   ("Tout ��a avec un temps magnifique et une chaleur estivale : parfait pour mettre Julien en jambe avant son retour au boulot "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :paragraph, :content ([:strong {} "Escalade"])}
+  {:type :paragraph,
+   :content
+   ("A lyon, il existe la plus grande salle int��rieur d���escalade de France ! Apr��s une premi��re initiation sur Paris, nous avons d��cid�� de commencer �� grimper seuls ! Pas facile de prendre la confiance quand on sait que Julien est entrain de grimper assur�� par moi, 25 kilos de moins "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :paragraph,
+   :content "Mais on y est arriv��, on se d��brouille !"}
+  {:type :paragraph, :content ([:strong {} "Parc du Pilat"])}
+  {:type :paragraph,
+   :content
+   "Rien de mieux que de se retrouver en pleine nature. La Parc naturel r��gional du Pilat vous accueille �� 30 km de Lyon pour de magnifiques ballades en campagne, des sports d���aventures, des visites de sites int��ressants pour apprendre plein de trucs sur ces contr��es !"}
+  {:type :paragraph,
+   :content
+   ("Sans oublier la joie du camping "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"]
+    " : pas cher, ��colo et reposant !")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/10/dscn2742.jpg?w=450&h=337"},
+   :width 450,
+   :height 337,
+   :alt "Camping avec piscine!",
+   :caption "Camping avec piscine!"}
+  {:type :paragraph,
+   :content
+   "Nous avons test�� la Via Ferrata �� Planfoy avec 3 heures de ballades sur les rochers �� hauteur de 50m du sol parfois���. rrrh c���est une autre sensation encore que l���escalade. On rencontre sur notre�� sentier des gens de Saint-Etienne. Oui, il est 13h, alors ils font entre 12h et 14h la via ferrata avant de retourner travailler ��� arfff, quel bonheur !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/10/dscn2751.jpg?w=450&h=337"},
+   :width 450,
+   :height 337,
+   :alt "Pr��paration",
+   :caption "Pr��paration"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/10/dscn2781.jpg?w=450&h=600"},
+   :width 450,
+   :height 600,
+   :alt "DSCN2781"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/10/dscn2785.jpg?w=450&h=337"},
+   :width 450,
+   :height 337,
+   :alt "Hop un pont!",
+   :caption "Hop un pont!"}
+  {:type :paragraph,
+   :content
+   "La bi��re aussi c���est int��ressant��� alors on a visit�� une brasserie �� Saint julien-Molin-Molette (petite bourgade du Parc du Pilat). Complexe, la fabrication de la Bi��re !"}],
+ :title "Retour en France, �� Lyon",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "retour-en-france-a-lyon",
+ :source-id "1089",
+ :blog "avesdepaso",
+ :visibility :public}

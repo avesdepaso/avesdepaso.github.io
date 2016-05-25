@@ -1,0 +1,127 @@
+{:updated-at #inst "2011-11-18T07:20:32.000-00:00",
+ :tags #{:vancouver},
+ :published-at #inst "2011-09-21T06:08:41.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Le v��lo �� Vancouver ???? Que dire ? C���est un mode de vie "
+    [:span
+     {:class "wp-smiley emoji emoji-smile", :title ":-)"}
+     ":-)"])}
+  {:type :paragraph,
+   :content
+   "Deux roues, un guidon et une scelle et puis c���est parti, on fait des kms dans la city ��� que se soit pour faire les courses, aller travailler, faire une ballade en amoureux, rendre visite aux copains, ���."}
+  {:type :paragraph,
+   :content
+   "Julien a choisi le Pedal Break et moi le vieux mode Touring���chacun choisit ici un v��lo qui lui correspond ! Et certains jouent m��me au jeu de celui qui aura le mod��le le plus excentrique ! Alors j���ai voulu vous faire partager les photos des ph��nom��nes que nous croisons dans Vancouver ���."}
+  {:type :paragraph,
+   :content
+   "Celui-l�� n���existe qu���en un seul exemplaire���. le propri��taire doit se concentrer �� fond pour monter sur son engin���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0027.jpg?w=197&h=300"},
+   :alt "DSC_0027",
+   :caption "Wahouuu !"}
+  {:type :paragraph,
+   :content
+   ("La mode �� la Valentine "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"]
+    " ! Quand tu veux transporter ton v��lo tranquille dans le m��tro ou dans l���auto !")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0028.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "DSC_0028",
+   :caption "La nouvelle tendance..."}
+  {:type :paragraph,
+   :content
+   "Le v��lo de Hispter, c���est le v��lo que tout le monde voudrait ! C���est le contraire du v��lo Touring : lourd, large, grosse roue qui te ralentit, deux m��tres de long, positionnement des bras super bizarre���.mais super tendance chez les hipster de Vancouver ! Attention !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0030.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "DSC_0030",
+   :caption "Velo de Hipster"}
+  {:type :paragraph,
+   :content
+   "Le V��lo �� cagettes pour quand tu veux faire des courses en roulant !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0037-2.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "DSC_0037 2",
+   :caption "Pour aller faire les courses"}
+  {:type :paragraph,
+   :content "Mode touring mais avec la tenue 60���s en plus !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0419.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "DSC_0419",
+   :caption "Mode 60&#39;s"}
+  {:type :paragraph,
+   :content
+   "Mode touring Homme moderne eheh ! Enfin, le v��lo est encore lourd mais pour un weekend ��a tient la route. Avec les pochettes waterproof attention ! (Merci Fix/Ida)"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/p1070500.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1070500",
+   :caption "Ou Touring !!!!"}
+  {:type :paragraph,
+   :content
+   "V��lo unique une fois de plus trouv�� �� Montr��al ! Un couple assis l���un derri��re l���autre avec la carriole pour le chien !!! Il a fait de la route ce v��lo���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0111.jpg?w=300&h=198"},
+   :width 300,
+   :height 198,
+   :alt "DSC_0111",
+   :caption "Tandem en fauteuil et avec le chien!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0101.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "DSC_0101",
+   :caption "Des milliers de parking pour v��los !"}
+  {:type :paragraph,
+   :content
+   "Notre premier tandem en location ! A quand notre tandem �� nous, rien que pour nous ???"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0112.jpg?w=300&h=198"},
+   :width 300,
+   :height 198,
+   :alt "DSC_0112",
+   :caption "Le tandem : on en veut un vrai pour nous..."}
+  {:type :video, :provider :vimeo, :id "27964106"}],
+ :title "Velocity",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "velocity",
+ :source-id "1856",
+ :blog "avesdepaso",
+ :visibility :public}

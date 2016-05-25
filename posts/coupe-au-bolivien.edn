@@ -1,0 +1,70 @@
+{:updated-at #inst "2009-04-08T00:41:56.000-00:00",
+ :tags #{:bolivie},
+ :cover
+ {:provider :wordpress,
+  :id
+  {:url
+   "https://vadrouilles.files.wordpress.com/2009/04/img_2816.jpg?w=300&h=199"},
+  :type :photo,
+  :width 300,
+  :height 199,
+  :alt "Josépé dans ses oeuvres",
+  :caption "Josépé dans ses oeuvres"},
+ :published-at #inst "2009-04-08T00:41:21.000-00:00",
+ :elements
+ [{:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2820.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Choix de coupes à la mode",
+   :caption "Choix de coupes à la mode"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2826.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Pendant",
+   :caption "Pendant"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2829.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Après",
+   :caption "Après"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2830.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Avant",
+   :caption "Avant"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/04/img_2832.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Pendant",
+   :caption "Pendant"}
+  {:type :paragraph,
+   :content
+   ("Très bonne adresse que nous vous recommandons chaudement! Le "
+    [:em {} "Paris"]
+    " (rien à voir) à Sucre. Sobre, authentique et traditionnel.")}],
+ :title "Coupe au bol(ivien)",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "coupe-au-bolivien",
+ :source-id "676",
+ :blog "avesdepaso",
+ :visibility :public}

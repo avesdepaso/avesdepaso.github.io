@@ -1,0 +1,86 @@
+{:updated-at #inst "2010-08-09T08:37:28.000-00:00",
+ :tags #{:france},
+ :published-at #inst "2010-06-10T08:21:03.000-00:00",
+ :elements
+ [{:type :paragraph, :content "Grenoble : mai 2010���.."}
+  {:type :paragraph,
+   :content
+   "On s���attendait �� un temps magnifique, propice �� la rando���mais je crois que le mois de mai reste un mois difficile pour les randonneurs qui veulent profiter des Alpes���."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/08/1.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Au CAF",
+   :caption "A la maison de la montagne..."}
+  {:type :paragraph, :content "Voil�� le r��sultat :"}
+  {:type :paragraph,
+   :content
+   "Notre marche initialement pr��vue dans le massif de Belledonne (le plus haut autour de Grenoble) s���est finalement d��roul��e dans le massif du Vercors suite aux conseils du CAF grenoblois ! A cette ��poque, Belledonne est juste enneig�� et donc c���est encore l���espace des skieurs��� et non de marcheurs comme nous, l��g��rement inconscients de vouloir attraper du 3000m quand c���est encore l���hiver l��-haut��� Comme vous pourrez l���imaginer, nous n���avons pas de photos de ce que fut le paysage de Belledonne en mai de cette ann��e���"}
+  {:type :paragraph,
+   :content
+   "Du coup, on s���est concentr�� sur le Vercors, massif le plus bas en altitude dans le coin, donc moins de neige pr��vue et temp��ratures moins glaciales��� soit disant !"}
+  {:type :paragraph,
+   :content
+   "Parce qu���une fois sur la route, on a d��couvert la montagne sous un nouveau jour ! Nous avions souvenir des rando d���Am��rique du sud plut��t sous le soleil que dans le froid���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/08/5.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Au bord de la corniche...",
+   :caption "Au bord de la corniche"}
+  {:type :paragraph,
+   :content
+   "Au bout d���une heure de marche, nous nous sommes retrouv��s face aux nevets��� au d��but, c�����tait plut��t sympa de voir la neige (en mai, c���est pas courant �� Paris !) et puis les nevets se sont gliss��s dans notre paysage un peu trop souvent au point que le d��cor fini par ��tre tout blanc !!! Tout ce qui va avec la neige est froid���. donc nous et notre matos !!!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/08/6.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Under snow",
+   :caption "Under snow"}
+  {:type :paragraph,
+   :content "Dodo sous tente parce qu���on a pas le choix !"}
+  {:type :paragraph,
+   :content
+   "Le lendemain fut tout aussi blanc��� mais bon comme on se trouvait �� quelques kilom��tres de Grenoble et des villages alentours (les montagnes ici refoule de passionn��s de montagne !), nous n���avons pas manqu�� de croiser un groupe de marcheurs ainsi que des running man : ces hommes surhumains qui se permettent un footing dans la neige pendant plus de 2h���"}
+  {:type :paragraph,
+   :content
+   "Vers midi, nous nous sommes ressourc��s dans un refuge pour manger, se s��cher et r��fl��chir �� la suite du p��riple��� la marche sous neige nous a relativement ralentie et le trajet est loin d�����tre termin�����sachant que la m��t��o n���avait pas pr��vu de r��pit dans notre coin du monde, on a pr��f��r�� rentr�� sur Grenoble pour faire de l���escalade en int��rieur (tout aussi sportif mais au sec���)."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/08/8.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "8",
+   :caption "Au refuge...au sec"}
+  {:type :paragraph,
+   :content
+   "Avant d�����tre au chaud, il nous a fallu couper les chemins de randonn��es�� pour rejoindre le village le plus proche��� et l�� nous avons crois�� notre champion international : l���homme dans son cycliste bleu portant les lunettes de Polnareff (impossible de rappeler son pr��nom) : jeune, passionn�� de sport extr��mes et fou du volant : c���est lui qui nous a ramen�� �� Villard de Lans pour r��cup��rer le bus direction Grenoble��� Quelle rencontre���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/08/10.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "10",
+   :caption "Crazy man"}
+  {:type :paragraph,
+   :content
+   "Devise avant le d��part : on revient cet ��t�� pour marcher dans Belledonne���."}],
+ :title "Marche �� pied ���",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "marche-a-pied",
+ :source-id "1177",
+ :blog "avesdepaso",
+ :visibility :public}

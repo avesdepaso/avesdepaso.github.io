@@ -1,0 +1,91 @@
+{:updated-at #inst "2009-05-25T00:58:28.000-00:00",
+ :tags #{:perou},
+ :published-at #inst "2009-05-25T00:55:31.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Suite à nos intempéries d'oreilles, nous devions bien remettre les pieds sur les sentiers connus du Pérou : le trek du Santa cruz en fait partie, dans la cordillere blanche."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_4031-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "La vallée Santa Cruz",
+   :caption "La vallée Santa Cruz"}
+  {:type :paragraph,
+   :content
+   "Les débuts sont difficiles : nous marchons dans la boue plusieures heures avant d'atteindre notre premier camp et notre marche est parfois étroitement liée avec les troupeaux de vaches environnants. Nous sommes suivis de près ou de loin par des cornes géantes"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_4111-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "La vache typique du coin",
+   :caption "La vache typique du coin"}
+  {:type :paragraph,
+   :content
+   "Le lendemain est notre plus longue et plus difficile journée avec ses 900 m de dénivelé positif pour atteindre le col de la Punta Union a 4750m. Et la, le paysage devient magique. Nous découvrons une laguna turquoise, un ancien chemin inca et les sommets enneigés toujours plus surprenants les uns que les autres."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_4027-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Du haut de la punta union - 4750m",
+   :caption "Du haut de la punta union - 4750m"}
+  {:type :paragraph,
+   :content
+   "Nous redescendons ensuite dans la Quebrada (vallée) Santa cruz en passant par un trajet alternatif pour mieux admirer l'Alpamayo (5947m), montagne qui fut élue plus belle montagne du monde, il fut un temps."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_4084-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Alpamayo (sud) - 5947m",
+   :caption "Alpamayo (sud) - 5947m"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_4069-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Glacier et laguna",
+   :caption "Glacier et laguna"}
+  {:type :paragraph,
+   :content
+   "Nous entamons ensuite notre descente vers le village de Cachapampa. Les décors s'élargissent pour laisser place à des plaines immenses."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_4086-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Vall��e Santa Cruz",
+   :caption "Vall��e Santa Cruz"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_4101-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Laguna verde",
+   :caption "Laguna verde"}
+  {:type :paragraph,
+   :content
+   "Sur ce, nous quittons les montagnes du Pérou pour rejoindre la côte pacifique et entrer en Equateur."}],
+ :title "Dans la vallée du Santa Cruz",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "dans-la-vallee-du-santa-cruz",
+ :source-id "888",
+ :blog "avesdepaso",
+ :visibility :public}

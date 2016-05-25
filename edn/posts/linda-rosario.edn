@@ -1,0 +1,201 @@
+{:updated-at #inst "2014-09-26T14:06:13.678-00:00",
+ :tags #{:argentine :amerique-du-sud},
+ :cover
+ {:width 1024,
+  :user-id "96129378@N07",
+  :category-id "72157641157454255",
+  :id
+  {:photoset-id nil,
+   :original-format nil,
+   :secret "1a2a9071b4",
+   :original-secret nil,
+   :id "12611251795",
+   :farm-id 4,
+   :server-id "3681"},
+  :provider :flickr,
+  :height 769},
+ :published-at #inst "2014-03-14T12:28:37.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Un an que Julien voulait visiter Rosario���.et moi qui lui disait : ���Encore une ville de plus���, ���un petit Buenos Aires������.")}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157641157454255",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "e13489f23d",
+    :original-secret nil,
+    :id "12611683274",
+    :farm-id 8,
+    :server-id "7314"},
+   :provider :flickr,
+   :height 768}
+  {:type :paragraph,
+   :content
+   "Et bah je reviens sur mes petits mots��� Rosario, 4h de Buenos Aires, au bord du Rio Parana (2eme plus grand Fleuve d���Am��rique Latine) est une de ces villes qui compete avec Buenos Aires���."}
+  {:type :paragraph, :content ("- Un chouilla plus propre,")}
+  {:type :paragraph,
+   :content
+   ("- Un passage ���c��tier��� am��nag�� pour les pi��tons!")}
+  {:type :photo,
+   :caption "Monumento de la Bandera argentina",
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157641157454255",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "41980e9dfb",
+    :original-secret nil,
+    :id "12611328303",
+    :farm-id 6,
+    :server-id "5471"},
+   :provider :flickr,
+   :height 769}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157641157454255",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "5299ef18f7",
+    :original-secret nil,
+    :id "12611270893",
+    :farm-id 3,
+    :server-id "2819"},
+   :provider :flickr,
+   :height 769}
+  {:type :photo,
+   :caption "Costanera peatonal!!",
+   :width 491,
+   :id
+   {:original-format "jpg",
+    :secret "6b966c2073",
+    :id "12611227075",
+    :farm-id "6",
+    :server-id "5504"},
+   :provider :flickr,
+   :height 369}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157641157454255",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "35f81185dd",
+    :original-secret nil,
+    :id "12611289633",
+    :farm-id 8,
+    :server-id "7408"},
+   :provider :flickr,
+   :height 768}
+  {:type :photo,
+   :caption "Ancien dock de chargement de c��r��ales",
+   :width 491,
+   :id
+   {:original-format "jpg",
+    :secret "d2bb9c017a",
+    :id "12611169843",
+    :farm-id "8",
+    :server-id "7432"},
+   :provider :flickr,
+   :height 369}
+  {:type :paragraph,
+   :content
+   ("On a m��me d��couvert des petites ��les dans la selva pour roucouler, naviguer, se baigner dans une eau ����25 degr��s���.dans ce petit coin, pas mal de p��cheurs locaux dont le pescado remplace la monnaie du peso.")}
+  {:type :photo,
+   :caption "Bord du Rio Plata",
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157641157454255",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "f3265dd081",
+    :original-secret nil,
+    :id "12611200303",
+    :farm-id 8,
+    :server-id "7316"},
+   :provider :flickr,
+   :height 768}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157641157454255",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "c23612d08c",
+       :original-secret nil,
+       :id "12611153745",
+       :farm-id 8,
+       :server-id "7422"},
+      :provider :flickr,
+      :height 769}
+     {:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157641157454255",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "c62961e404",
+       :original-secret nil,
+       :id "12611228073",
+       :farm-id 3,
+       :server-id "2840"},
+      :provider :flickr,
+      :height 768}]]}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157641157454255",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "fc8a74c9d7",
+    :original-secret nil,
+    :id "12611147123",
+    :farm-id 8,
+    :server-id "7360"},
+   :provider :flickr,
+   :height 768}
+  {:type :photo,
+   :width 1024,
+   :height 768,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157641157454255",
+   :id
+   {:id "12611081953",
+    :farm-id 4,
+    :server-id "3801",
+    :photoset-id nil,
+    :secret "7dbeae0262",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Merienda de facturas y mat��"}
+  {:type :paragraph,
+   :content
+   ("En Argentine, ils sont tr��s people magazine�� mais ����un niveau International���.on a le droit de lire les aventures de Gad Elmaleh ���de Monaco��� en train de faire ses courses avec une princesse. Ah ouai, alors ca c���est du scoop pour les argentins! yeahhh")}
+  {:type :photo,
+   :width 491,
+   :id
+   {:original-format "jpg",
+    :secret "52e972daa6",
+    :id "12611257443",
+    :farm-id "4",
+    :server-id "3697"},
+   :provider :flickr,
+   :height 369}],
+ :title "Linda Rosario",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "linda-rosario",
+ :source-id "2750",
+ :blog "avesdepaso",
+ :visibility :public}

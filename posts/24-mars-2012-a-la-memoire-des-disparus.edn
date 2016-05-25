@@ -1,0 +1,119 @@
+{:updated-at #inst "2014-09-25T21:39:35.906-00:00",
+ :tags #{:argentine :amerique-du-sud :buenos-aires},
+ :cover
+ {:width 768,
+  :height 1024,
+  :provider :flickr,
+  :user-id "96129378@N07",
+  :category-id "72157647552675678",
+  :id
+  {:id "15149552848",
+   :farm-id 3,
+   :server-id "2944",
+   :photoset-id nil,
+   :secret "0be84867ba",
+   :original-secret nil,
+   :original-format nil}},
+ :published-at #inst "2012-03-28T03:10:15.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Une des périodes les plus terrifiantes en Argentine fut la dictature de 1976 à 1983 qui fit disparaitre plus de 30000 citoyens argentins dont plus de 500 bébés. Un peu d'histoire avec "
+    [:a
+     {:href
+      "http://fr.wikipedia.org/wiki/Dictature_militaire_en_Argentine_%281976-1983%29"}
+     "Wikipédia"])}
+  {:type :photo,
+   :width 768,
+   :height 1024,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647552675678",
+   :id
+   {:id "15149552848",
+    :farm-id 3,
+    :server-id "2944",
+    :photoset-id nil,
+    :secret "0be84867ba",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Lors de cette journée qui est devenue un jour férié en 2007, une marche à lieu sur l'artère symbolique de Buenos Aires, la '9 de Julio' jusqu'à la 'Plaza de Mayo', lieu historique de toutes les manifestations et où est situé le parlement argentin.")}
+  {:type :photo,
+   :width 1024,
+   :height 768,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647552675678",
+   :id
+   {:id "15149349519",
+    :farm-id 4,
+    :server-id "3846",
+    :photoset-id nil,
+    :secret "a382f05956",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Depuis plus de 30 ans, et longtemps ignorées, des mères et grand-mères font la ronde chaque jeudi sur cette place en mémoire de leur enfants ou petit enfant disparus durant la dictature. Nous nous sommes donc rendus à cette journée de commémoration.")}
+  {:type :photo,
+   :width 768,
+   :height 1024,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647552675678",
+   :id
+   {:id "15149556518",
+    :farm-id 3,
+    :server-id "2943",
+    :photoset-id nil,
+    :secret "73c3711e02",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Une foule incroyable était présente. De nombreuses associations et partis de gauche étaient en marche vers la justice !")}
+  {:type :photo,
+   :width 768,
+   :height 1024,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647552675678",
+   :id
+   {:id "15149476798",
+    :farm-id 3,
+    :server-id "2942",
+    :photoset-id nil,
+    :secret "af32f2d406",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Parents et enfants au RDV"}
+  {:type :paragraph,
+   :content
+   ("Un écran géant faisait défiler les portraits des disparus toute la soirée tandis que d'autres sujets de lutte actuels surgissait des drapeaux et des bouches de chacun, notamment, la demande que les responsables de la Tragédie ONCE comme on l'appelle ici payent pour leurs erreurs. Pour rappel, suite à un défaut technique, un train n'a pu freiner dans une gare centrale de Buenos Aires entrainant la mort de plus de 50 personnes et fait plus de 300 blessés.")}
+  {:type :photo,
+   :width 750,
+   :height 1024,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647552675678",
+   :id
+   {:id "15335811972",
+    :farm-id 4,
+    :server-id "3868",
+    :photoset-id nil,
+    :secret "611366aec2",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("30 mils companeros detenidos desaparecidos, presentes !"
+    [:em {} "30 mille compagnons détenus et disparus, présents !"])}
+  {:type :video, :id "39315508", :provider :vimeo}],
+ :title "24 Mars 2012 : A la mémoire des disparus",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "24-mars-2012-a-la-memoire-des-disparus",
+ :source-id "2130",
+ :blog "avesdepaso",
+ :visibility :public}

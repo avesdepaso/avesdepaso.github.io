@@ -1,0 +1,241 @@
+{:updated-at #inst "2016-03-09T11:17:46.912-00:00",
+ :cover {:type :photo},
+ :published-at #inst "2016-03-09T08:04:31.293-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("La poterie....mmmhhhh alors je suis pas spécialement complètement dingue du DIY mais la poterie, ça m'a toujours touché. Je sais pas dire si c'est la ribambelle de poteries indigènes que j'ai croisée dans les musées d'Amérique Latine, l'amour pour la terre (mines = terre) où encore ma copine Valentine qui me fait aimer le DIY!!")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "0e795d888c",
+    :original-secret nil,
+    :id "21814969555",
+    :farm-id 1,
+    :server-id "580"},
+   :provider :flickr,
+   :height 158}
+  {:type :paragraph,
+   :content
+   ("Toujours est-il que je voulais essayer pour de vrai l'atelier Poterie!!"
+    [:br {}]
+    [:br {}]
+    "A peine arrivée à Paraty, j'ai contacté les différents céramistes de la ville et c'est Dalcir qui m'a répondu : 'Mais passes donc à l'atelier!'")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "925ff24f02",
+    :original-secret nil,
+    :id "21627872450",
+    :farm-id 1,
+    :server-id "626"},
+   :provider :flickr,
+   :height 158}
+  {:type :photo,
+   :width 158,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "2bfdcd7e53",
+    :original-secret nil,
+    :id "21628444629",
+    :farm-id 6,
+    :server-id "5755"},
+   :provider :flickr,
+   :height 240}
+  {:type :photoset,
+   :class ["stretched"],
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "6d7b5cffd4",
+       :original-secret nil,
+       :id "21628845969",
+       :farm-id 1,
+       :server-id "623"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "857d60d5ab",
+       :original-secret nil,
+       :id "21789863596",
+       :farm-id 1,
+       :server-id "599"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "9edfe87940",
+       :original-secret nil,
+       :id "21192876564",
+       :farm-id 6,
+       :server-id "5752"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :paragraph,
+   :content
+   ("Et voilà! Premier jour de poterie, j'apprends déjà les techniques et je profite de chaque moment pour pratiquer mon portugais, rencontrer mes nouveaux amis potiers."
+    [:br {}]
+    [:br {}]
+    "Julien m'a même accompagné pour finaliser mes poteries.")}
+  {:type :photoset,
+   :photos
+   [[{:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "05e581befa",
+       :original-secret nil,
+       :id "21200426073",
+       :farm-id 1,
+       :server-id "578"},
+      :provider :flickr,
+      :height 240}
+     {:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "7c51e0a8d5",
+       :original-secret nil,
+       :id "21198840884",
+       :farm-id 6,
+       :server-id "5834"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "2b98cdfa89",
+    :original-secret nil,
+    :id "21202699904",
+    :farm-id 1,
+    :server-id "644"},
+   :provider :flickr,
+   :height 158}
+  {:type :paragraph,
+   :content
+   ("Chaque minute passée dans l'Atelier de Dalcir est d'une telle paisibilité!! J'aurai passé 2 mois à peaufiner 3 pièces dont je suis très très fière!!!! \n\nMerci Dalcir!"
+    [:br {}]
+    "Les photos ci-dessous représente le dernier jour où nous avons pratiqué la méthode japonaise du Raku, qui consiste à passer les pièces du four de cuisson à un lit de sciure qui s'enflamme avec les pièces.")}
+  {:type :photoset,
+   :caption
+   "Deuxième cuisson avec émail - four à plus de 800 degrés",
+   :photos
+   [[{:width 4928,
+      :id
+      {:url
+       "https://cd59ca517d64ebd2b1979542c00e8e92ba956a78.googledrive.com/host/0B2xlM9sWoSAKSGpsalRPWWVxWHc/DSC_0896.JPG"},
+      :provider :google-drive,
+      :height 3264}
+     {:width 4928,
+      :id
+      {:url
+       "https://cd59ca517d64ebd2b1979542c00e8e92ba956a78.googledrive.com/host/0B2xlM9sWoSAKSGpsalRPWWVxWHc/DSC_0898.JPG"},
+      :provider :google-drive,
+      :height 3264}]]}
+  {:type :photoset,
+   :caption "Préparation de la méthode Raku et sortie des pièces",
+   :photos
+   [[{:width 4928,
+      :id
+      {:url
+       "https://cd59ca517d64ebd2b1979542c00e8e92ba956a78.googledrive.com/host/0B2xlM9sWoSAKSGpsalRPWWVxWHc/DSC_0883.JPG"},
+      :provider :google-drive,
+      :height 3264}
+     {:width 4928,
+      :id
+      {:url
+       "https://cd59ca517d64ebd2b1979542c00e8e92ba956a78.googledrive.com/host/0B2xlM9sWoSAKSGpsalRPWWVxWHc/DSC_0903.JPG"},
+      :provider :google-drive,
+      :height 3264}
+     {:width 4928,
+      :id
+      {:url
+       "https://cd59ca517d64ebd2b1979542c00e8e92ba956a78.googledrive.com/host/0B2xlM9sWoSAKSGpsalRPWWVxWHc/DSC_0900.JPG"},
+      :provider :google-drive,
+      :height 3264}]
+    []
+    []]}
+  {:type :paragraph,
+   :content
+   ("La méthode Raku se fait à couvert. Les odeurs sont très très fortes, c'est pour cela que c'est souvent interdit en ville. Le raku apparaît au bout de 5-10 minutes sur les pièces en formant des craquelures au couleur de la fumée donc noires! ")}
+  {:type :photoset,
+   :photos
+   [[{:width 4928,
+      :height 3264,
+      :id
+      {:url
+       "https://cd59ca517d64ebd2b1979542c00e8e92ba956a78.googledrive.com/host/0B2xlM9sWoSAKSGpsalRPWWVxWHc/DSC_0906.JPG"},
+      :provider :google-drive}
+     {:width 4928,
+      :height 3264,
+      :id
+      {:url
+       "https://cd59ca517d64ebd2b1979542c00e8e92ba956a78.googledrive.com/host/0B2xlM9sWoSAKSGpsalRPWWVxWHc/DSC_0908.JPG"},
+      :provider :google-drive}]
+    []
+    []],
+   :caption "Pas mal excitée avec tout ça!!! c'est magique!"}
+  {:type :photoset,
+   :photos
+   [[{:width 4928,
+      :height 3264,
+      :id
+      {:url
+       "https://cd59ca517d64ebd2b1979542c00e8e92ba956a78.googledrive.com/host/0B2xlM9sWoSAKSGpsalRPWWVxWHc/DSC_0919.JPG"},
+      :provider :google-drive}
+     {:width 4928,
+      :height 3264,
+      :id
+      {:url
+       "https://cd59ca517d64ebd2b1979542c00e8e92ba956a78.googledrive.com/host/0B2xlM9sWoSAKSGpsalRPWWVxWHc/DSC_0927.JPG"},
+      :provider :google-drive}]
+    []
+    []],
+   :caption "Résultat sortie de cuisson"}
+  {:type :photoset,
+   :photos
+   [[{:width 4928,
+      :height 3264,
+      :id
+      {:url
+       "https://cd59ca517d64ebd2b1979542c00e8e92ba956a78.googledrive.com/host/0B2xlM9sWoSAKSGpsalRPWWVxWHc/DSC_0938.JPG"},
+      :provider :google-drive}
+     {:width 4928,
+      :height 3264,
+      :id
+      {:url
+       "https://cd59ca517d64ebd2b1979542c00e8e92ba956a78.googledrive.com/host/0B2xlM9sWoSAKSGpsalRPWWVxWHc/DSC_0956.JPG"},
+      :provider :google-drive}]
+    []],
+   :caption "Avant et après le dernier bain !!! C'est fini!!"}
+  {:type :paragraph,
+   :content
+   ("Après Plusieurs cours passés avec Dalcir, mon maestro, j'ai découvert un art puissant et accessible. En rentrant en France, j'ai décidé de continuer cette nouvelle passion. Les méthodes que j'utilise maintenant sont plus traditionnelles car je pratique dans un complexe en ville. Mais je ne cache pas mon envie de retourner faire de la poterie là-bas, loin, où la magie du potier m'emporte!!! Merci Dalcir!")}
+  {:type :photo,
+   :width 4928,
+   :height 3264,
+   :id
+   {:url
+    "https://cd59ca517d64ebd2b1979542c00e8e92ba956a78.googledrive.com/host/0B2xlM9sWoSAKSGpsalRPWWVxWHc/DSC_0957.JPG"},
+   :provider :google-drive,
+   :caption "Dalcir el Maestro"}],
+ :title "CERAMICA 1",
+ :locations
+ ({:latitude 48.858120199999995, :longitude 2.390811, :accuracy 20}),
+ :id "ceramica-1",
+ :blog "avesdepaso",
+ :visibility :public}

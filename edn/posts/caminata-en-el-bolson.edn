@@ -1,0 +1,256 @@
+{:updated-at #inst "2015-02-17T14:46:40.447-00:00",
+ :cover
+ {:width 240,
+  :id
+  {:photoset-id nil,
+   :original-format nil,
+   :secret "985cbe45d1",
+   :original-secret nil,
+   :id "15911167284",
+   :farm-id 8,
+   :server-id "7381"},
+  :provider :flickr,
+  :height 135},
+ :published-at #inst "2015-02-17T14:47:00.856-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Le Bolson! A tout juste 5 hrs de route de San Martin de los Andes, c'est le spot des nouveaux hippies mais sans un sou. On dit qu'ici, on trouve pleins de trucs cools à grignoter naturel/végétarien & Co. '"
+    [:i {} "La nada misma"]
+    "' (rien de tout ca)... Un peu déçu donc.... "
+    [:br {}]
+    "On dormira un peu partout durant 4 jours : Chouette campings, refuge et hostel (Joy Hostel = cacaprout)."
+    [:br {}]
+    [:br {}]
+    "Nous on est venu pour sentir la montagne, ses sentiers, sa terre et sa flore!! La "
+    [:i {} "paz"]
+    " (paix) totale....")}
+  {:type :photoset,
+   :caption "Départ depuis Wharton",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "11a2e72c72",
+       :original-secret nil,
+       :id "16532725412",
+       :farm-id 8,
+       :server-id "7460"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "59533080b4",
+       :original-secret nil,
+       :id "15911214724",
+       :farm-id 8,
+       :server-id "7424"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :photoset,
+   :caption "2 petits ponts pour démarrer",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "d02824286a",
+       :original-secret nil,
+       :id "15911199544",
+       :farm-id 8,
+       :server-id "7343"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "03cc396ce2",
+       :original-secret nil,
+       :id "16532720222",
+       :farm-id 8,
+       :server-id "7434"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :photo,
+   :caption "Ca grimpe!!!!",
+   :width 159,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "45ab41e9a8",
+    :original-secret nil,
+    :id "16347855437",
+    :farm-id 9,
+    :server-id "8647"},
+   :provider :flickr,
+   :height 240}
+  {:type :photoset,
+   :caption "Refugio Natacion",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "5bcbed820d",
+       :original-secret nil,
+       :id "16346289150",
+       :farm-id 9,
+       :server-id "8577"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :photo,
+   :caption "Laguna Natacion",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "bab7a2d9af",
+    :original-secret nil,
+    :id "16346072408",
+    :farm-id 9,
+    :server-id "8613"},
+   :provider :flickr,
+   :height 135}
+  {:type :photoset,
+   :photos
+   [[{:width 159,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "06d3f614d1",
+       :original-secret nil,
+       :id "16346279910",
+       :farm-id 8,
+       :server-id "7403"},
+      :provider :flickr,
+      :height 240}
+     {:width 159,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "0cf1434347",
+       :original-secret nil,
+       :id "15913541473",
+       :farm-id 9,
+       :server-id "8659"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :photo,
+   :caption "Vallée du Bolson et Laguna Natacion",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "020478a094",
+    :original-secret nil,
+    :id "15911160904",
+    :farm-id 8,
+    :server-id "7289"},
+   :provider :flickr,
+   :height 159}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "cc455f12cb",
+       :original-secret nil,
+       :id "16532657832",
+       :farm-id 8,
+       :server-id "7415"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "d164e66c2b",
+       :original-secret nil,
+       :id "16346244780",
+       :farm-id 9,
+       :server-id "8633"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "50ed3a0b16",
+       :original-secret nil,
+       :id "16347428369",
+       :farm-id 9,
+       :server-id "8668"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "e65115c09c",
+       :original-secret nil,
+       :id "16532630432",
+       :farm-id 8,
+       :server-id "7283"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "3ddec82ddc",
+       :original-secret nil,
+       :id "16533703545",
+       :farm-id 8,
+       :server-id "7332"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :photoset,
+   :photos
+   [[{:width 159,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "b9520edf79",
+       :original-secret nil,
+       :id "15911100354",
+       :farm-id 9,
+       :server-id "8624"},
+      :provider :flickr,
+      :height 240}
+     {:width 159,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "eb05678c22",
+       :original-secret nil,
+       :id "16532608642",
+       :farm-id 9,
+       :server-id "8591"},
+      :provider :flickr,
+      :height 240}
+     {:width 159,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "6d2abc3022",
+       :original-secret nil,
+       :id "16345970998",
+       :farm-id 9,
+       :server-id "8576"},
+      :provider :flickr,
+      :height 240}]]}],
+ :title "Caminata en el Bolson",
+ :locations
+ ({:latitude -40.160491199999996,
+   :longitude -71.3580923,
+   :accuracy 57}),
+ :id "caminata-en-el-bolson",
+ :blog "avesdepaso",
+ :visibility :public}

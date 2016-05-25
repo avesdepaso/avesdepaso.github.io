@@ -1,0 +1,48 @@
+{:updated-at #inst "2010-09-16T15:32:02.000-00:00",
+ :tags #{:italie},
+ :published-at #inst "2010-09-16T15:32:02.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Malgré le beau temps, on ne peut pas passer à côté des musées de Florence. On décide de visiter le Ufizzi, où l'on peut retrouver une panoplie de peintures juste magnifiques comme la Naissance de Vénus de Botticelli ou de nombreuses oeuvres de Leonardo Da Vinci. Les saintes vierges marie sont omniprésentes mais qu'est ce qu'elles sont jolies : robes, maquillage, dans des paysages plus fous les uns des autres !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/06/2.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "2",
+   :caption "Palacio  Vecchio"}
+  {:type :paragraph,
+   :content
+   "Sorties du musée, on file se balader et faire quelques boutiques, mes techniques de négociations d'Amérique du Sud n'ont pas perdues leur pouvoirs!!!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/08/61.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "6",
+   :caption "Vue du Campanile"}
+  {:type :paragraph,
+   :content
+   "La soirée est très spéciale : on décide de faire la fête dans le quartier branché de Santa Croce : perdu au milieu d'une place (avec une église bien sûr) qui ne désemplit pas , on choisit le mojito et la caïpirinha pour nous accompagner et grâce à la magie, on rencontre du monde sur notre route (australie, maroc, cuba, italiens), on entend de la musique dans un bar, on se faufile pour atterrir sur le Dance Floor !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/06/3.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "3",
+   :caption "Les  bons petits plats italiens"}
+  {:type :paragraph,
+   :content "Une roue sur la piazza della signoria et on se rentre."}],
+ :title "Culture et grignotage",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "culture-et-grignotage",
+ :source-id "1170",
+ :blog "avesdepaso",
+ :visibility :public}

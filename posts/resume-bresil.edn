@@ -1,0 +1,29 @@
+{:updated-at #inst "2009-03-30T19:59:59.000-00:00",
+ :tags #{:bresil},
+ :published-at #inst "2009-03-30T19:59:59.000-00:00",
+ :elements
+ [{:type :paragraph, :content "4j"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1505-copy.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "img_1505-copy"}
+  {:type :paragraph,
+   :content ([:em {} [:strong {} "Ce qu���on a aim�� :"]])}
+  {:type :paragraph,
+   :content
+   ("manger ��quilibr�� gr��ce au "
+    [:em {} "Per Kilo"]
+    " (buffets pas cher)")}
+  {:type :paragraph,
+   :content ([:strong {} [:em {} "Ce qu���on a moins aim�� :"]])}
+  {:type :paragraph, :content "le manque de camping!"}],
+ :title "R��sum�� Br��sil",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "resume-bresil",
+ :source-id "618",
+ :blog "avesdepaso",
+ :visibility :public}

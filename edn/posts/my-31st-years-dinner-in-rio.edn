@@ -1,0 +1,155 @@
+{:id "my-31st-years-dinner-in-rio",
+ :title "My 31 years dinner in Rio",
+ :locations
+ ({:latitude -23.222978299999998,
+   :longitude -44.72265480000001,
+   :accuracy 61}),
+ :published-at #inst "2015-09-28T14:20:30.376-00:00",
+ :updated-at #inst "2015-09-28T14:20:27.559-00:00",
+ :visibility :public,
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Julien est très fort. On le sait déjà mais il aussi très fort lorsqu'il s'agit de trouver un bon Restaurant, un lieu où vraiment tu manges bien, sain, où il y a du travail dans la création et confection des plats."
+    [:br {}]
+    [:br {}]
+    "Alors voilà, pour mes 31 ans, on se trouvait à Rio de Janeiro. Simple coincidence, puisque notre voyage a été planifié surtout entre deux périodes pluvieuses qui accompagne le passage de l'hiver au printemps. Ma date d'anniversaire pouvait bien tomber dedans ou pas."
+    [:br {}]
+    [:br {}]
+    "Enfin, nous aurons passé la soirée de mes 31 ans au Pré Catlan, Restaurant Une étoile Michelin du Sofitel de Rio de Janeiro."
+    [:br {}]
+    [:br {}]
+    "Comme à notre habitude, nous aimons débarquer dans ce genre d'endroit tip top en mode décontracte. On est en vacances après tout!!!"
+    [:br {}]
+    [:br {}]
+    "Quelques regards étranges de la part des Ricos de Rio et autres Expat? et hop, nous voilà fin prêts à faire vibrer nos papilles!!")}
+  {:type :photo,
+   :width 158,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "c01883a87b",
+    :original-secret nil,
+    :id "21385674559",
+    :farm-id 1,
+    :server-id "571"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("Pour la petite histoire, Roland Villard, actuel Chef de cuisine, a fait ses début au Pré Catlan à Paris, d'où le nom attribué au Restaurant. Roland est un Chef bien cool on the gang. Il prend le temps de papoter avec ses clients ce que l'on adore particulièrement avec Julien. Et à l'étranger, l'effet de rencontre est souvent très pétillant et décontracte (encore??)!!"
+    [:br {}]
+    [:br {}]
+    "'Ahhh un Chef Français??? Mais Alors vous venez d'où c'est quoi votre parcours? Votre histoire???''"
+    [:br {}]
+    [:br {}]
+    [:br {}]
+    "La spécialité endémique, c'est le menu en 11 paso 'Viagem gastronimica e Amazonia'"
+    [:br {}]
+    [:br {}]
+    "- Brandade de poisson"
+    [:i {} "Tucunare"]
+    "au lait de noix de coco\n- Crêpe de"
+    [:i {} "Biju"]
+    "de tapioca farcie aux crustacés, au coeur de palmier frais et gelée de piment")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "78638bfc15",
+    :original-secret nil,
+    :id "21560901822",
+    :farm-id 6,
+    :server-id "5666"},
+   :provider :flickr,
+   :height 158}
+  {:type :paragraph,
+   :content
+   ("- Rouleau de chair de crabe Siri au Chutneay de"
+    [:i {} "Bacuri"]
+    "et perles de tapioca"
+    [:i {} "Saju"]
+    "marinées à la Caipirinha")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "c34d75f1a6",
+    :original-secret nil,
+    :id "21384378990",
+    :farm-id 1,
+    :server-id "585"},
+   :provider :flickr,
+   :height 158}
+  {:type :paragraph,
+   :content
+   ("- Poisson"
+    [:i {} " Pirarucu "]
+    "en croûte de"
+    [:i {} " Cajou "]
+    "et consommé de"
+    [:i {} " Tucupi "]
+    "et"
+    [:i {} " Jambu "]
+    "- Granité de"
+    [:i {} " Murici "]
+    ""
+    [:br {}]
+    [:br {}]
+    "- Blinis de"
+    [:i {} " Moqueca "]
+    "et crevette grillée, crême et semoule torréfiée de"
+    [:i {} " noix du Para "])}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "d74afdfca5",
+    :original-secret nil,
+    :id "21385617939",
+    :farm-id 1,
+    :server-id "663"},
+   :provider :flickr,
+   :height 158}
+  {:type :paragraph,
+   :content
+   ("- Côtelette de"
+    [:i {} " Tambaqui "]
+    "à la Purée de pomme de terre"
+    [:i {} " Baroa "]
+    "fumée, jus aux herbes"
+    [:br {}]
+    [:br {}]
+    "- Granité de fruit de"
+    [:i {} " Cajou "]
+    "- Plat de côte de boeuf confit, pané à la farine de manioc, sauce aux fruit de"
+    [:i {} " Jabuticaba "]
+    ", marmelade de banane légume au Bacon"
+    [:br {}]
+    [:br {}]
+    "- Surprise de chocolat et crême de coco, palette de sorbets des fruits d'Amazonie,"
+    [:i {} " tapereba "]
+    ","
+    [:i {} " Açai "]
+    "et"
+    [:i {} " Cupuacu "]
+    ""
+    [:br {}]
+    [:br {}]
+    "- Petits fours et Chocolats")}
+  {:type :photo,
+   :width 158,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "f52cde652c",
+    :original-secret nil,
+    :id "21546534786",
+    :farm-id 1,
+    :server-id "592"},
+   :provider :flickr,
+   :height 240}],
+ :blog "avesdepaso"}

@@ -1,0 +1,475 @@
+{:id "la-casa-de-madera",
+ :title "Casita de madera",
+ :published-at #inst "2014-12-08T00:12:26.525-00:00",
+ :updated-at #inst "2014-12-08T00:10:35.415-00:00",
+ :visibility :public,
+ :cover
+ {:width 240,
+  :id
+  {:photoset-id nil,
+   :original-format nil,
+   :secret "efb5cd74bd",
+   :original-secret nil,
+   :id "15016341703",
+   :farm-id 4,
+   :server-id "3948"},
+  :provider :flickr,
+  :height 159},
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Apr��s 16 jours de travail sur le gisement, j&#39;entame la premi��re partie de mon voyage vers une destination inconnue. Mon traditionnel retour �� Buenos Aires se ��fait de nuit depuis le centre de la Patagonie. Julien a choisi un bus dont la dur��e atteint les 24hs... 24hs pour en prendre pleins la vue, dormir en &quot;semi-cama&quot; (presque couch��), voir des vieux films doubl��s en espagnol, lire et faire tourner la machine pensante...."
+    [:br {}]
+    [:br {}]
+    "Il est 11hs, je me pose dans un caf�� de l&#39;a��roport en l&#39;attendant et viens de consommer mon premier yaourt en 15 jours. C&#39;est souvent le premier produit que je d��guste ����mon retour �� la civilisation, la vraie."
+    [:br {}]
+    [:br {}]
+    "La seule��chose que je sais est l&#39;heure du d��collage du prochain avion mais j&#39;ignore toujours sa destination..."
+    [:br {}]
+    "Il est arriv��! Des besosssss �� foison!��"
+    [:br {}]
+    [:br {}]
+    "Ah oui comme nous d��collerons �� 17hs, nous nous sommes laiss��s tenter par un restaurant de la capitale! Et pas n&#39;importe lequel.... Aramburu Bis, petit fr��re d&#39;"
+    [:a
+     {:href "http://www.arambururesto.com.ar/intro.html"}
+     "Aramburu."]
+    " Id��al pour luncher !")}
+  {:type :paragraph,
+   :content
+   ("Nous voil�� de retour �� l&#39;a��roport porte��o et je viens de d��couvrir la destination finale de notre voyage. Nous f��terons mes 30 ann��es sur l&#39;��le Santa Catarina (Florianopolis).")}
+  {:type :photo,
+   :caption "Porto Alegre",
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157648578311298",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "84ea20d524",
+    :original-secret nil,
+    :id "15451166810",
+    :farm-id 4,
+    :server-id "3944"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   ("Une fois arriv��s ����Porto Alegre, nous y passons la nuit avant de reprendre un bus Latin pour Florianopolis. La route longe la c��te atlantique en alternant les paysages : grandes villes, villages coup��s par l&#39;autoroute, flore en abondance, .... Le Br��sil ne cessera jamais de nous surprendre. A simple vue, le sud du pays para��t plus enrichi. Nous nous rappelons de notre premier passage au Br��sil et rien n&#39;y ressemble sur notre chemin.")}
+  {:type :photoset,
+   :caption "Centre historique Porto Alegre",
+   :photos
+   [[{:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157648578311298",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "58fbf1ed7e",
+       :original-secret nil,
+       :id "15450365867",
+       :farm-id 6,
+       :server-id "5598"},
+      :provider :flickr,
+      :height 678}
+     {:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157648578311298",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "2652c92dbc",
+       :original-secret nil,
+       :id "15636334155",
+       :farm-id 4,
+       :server-id "3936"},
+      :provider :flickr,
+      :height 678}]]}
+  {:type :paragraph,
+   :content
+   ("Florianopolis est un mastodonte! Bien que la ville ait conserv�� son centre historique et continue de restaurer son patrimoine, son ��tendue est bruyante et la fourmili��re br��silienne en mouvement  constant.")}
+  {:type :photo,
+   :caption "Plage d'Arma��ao��",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "8aa4fd350d",
+    :original-secret nil,
+    :id "15015992634",
+    :farm-id 4,
+    :server-id "3943"},
+   :provider :flickr,
+   :height 159}
+  {:type :photo,
+   :caption "Jardin et oc��an",
+   :width 678,
+   :user-id "96129378@N07",
+   :category-id "72157648578311298",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "a739a15c97",
+    :original-secret nil,
+    :id "15633560701",
+    :farm-id 4,
+    :server-id "3934"},
+   :provider :flickr,
+   :height 1024}
+  {:type :heading, :content "LA CASA", :level 2}
+  {:type :paragraph,
+   :content
+   ("lI est 19hs, le village est au plus calme. Quelques habitants rentrent chez eux avec un sac de courses, d&#39;autres profitent de la fin de journ��e pour se raconter les potins. Le Marchand de glaces a encore ses portes ouvertes...."
+    [:br {}]
+    "Mais quand est ce que nous posons nos sacs???"
+    [:br {}]
+    "On traverse une rivi��re, on emprunte un chemin uniquement pi��tonnier....ca monte, ca descend, ca remonte!! Il fait maintenant nuit et je sais pas ou je mets les pieds....(rappelez-vous, nous sommes au Br��sil et la nuit dans la selva, les insectes (toutes couleurs, toutes tailles...) sortent de leur cachette.... "
+    [:br {}]
+    "Un petit knock,knock chez Acacia la voisine, pour r��cup��rer les cl��s et ca y est, on est enfin chez nous!"
+    [:br {}]
+    "R��sultat: Une charmante petite maison de bois (casa de madera) avec vue sur mer.")}
+  {:type :photoset,
+   :caption "Casita",
+   :photos
+   [[{:width 678,
+      :user-id "96129378@N07",
+      :category-id "72157648578311298",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "141b817c95",
+       :original-secret nil,
+       :id "15633623331",
+       :farm-id 6,
+       :server-id "5598"},
+      :provider :flickr,
+      :height 1024}
+     {:width 678,
+      :user-id "96129378@N07",
+      :category-id "72157648578311298",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "e5715382c5",
+       :original-secret nil,
+       :id "15636223935",
+       :farm-id 6,
+       :server-id "5612"},
+      :provider :flickr,
+      :height 1024}]]}
+  {:type :photo,
+   :caption "Vista��",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "938caa2655",
+    :original-secret nil,
+    :id "15451046200",
+    :farm-id 6,
+    :server-id "5601"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("Nous y resterons 3 jours. Nous profitons de petits bonheurs qu&#39;il nous ait difficile de trouver en Argentine..."
+    [:br {}]
+    "Nous avons effectivement consomm�� en abondance du poisson et des fruits et combl�� notre carence pour quelques mois...Julien a retrouv�� son fruit pr��f��r�� et 8 fois moins ch��re qu&#39;�� San Martin: la mangue!!!")}
+  {:type :photoset,
+   :caption "Produits frais de la mer",
+   :photos
+   [[{:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157648578311298",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "9e3014970d",
+       :original-secret nil,
+       :id "15450697657",
+       :farm-id 4,
+       :server-id "3950"},
+      :provider :flickr,
+      :height 678}
+     {:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157648578311298",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "7c43fbfa1e",
+       :original-secret nil,
+       :id "15450860210",
+       :farm-id 6,
+       :server-id "5600"},
+      :provider :flickr,
+      :height 678}]]}
+  {:type :photo,
+   :caption "5 mangues g��antes en 3 jours��",
+   :width 678,
+   :user-id "96129378@N07",
+   :category-id "72157648578311298",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "5e9c783dc5",
+    :original-secret nil,
+    :id "15637034822",
+    :farm-id 4,
+    :server-id "3948"},
+   :provider :flickr,
+   :height 1024}
+  {:type :heading, :content "CAMINATA", :level 2}
+  {:type :paragraph,
+   :content
+   ("On passe donc trois jours en contr��e recul��e..."
+    [:br {}]
+    "Ya des petites montagnes, un sentier....hop c&#39;est parti pour une apr��m de marche. On passera d��abord dans la selva (jungle)... cet environnement qui d&#39;habitude me d��courage pour la pr��sence de ces milliers d��insectes qui se baladent tranquille. C&#39;est vrai nan? C&#39;est le seul endroit sur terre ou tu peux te retrouver face ����des insectes qui essaient de se trouver un nid dans tes chaussettes ou tes cheveux, de te chatouiller ET/ou te piquer...."
+    [:br {}]
+    "Je vous conseille la basse saison, les insectes aussi bossent et te laissent p��nard faire ta promenade.")}
+  {:type :photoset,
+   :caption "Ultimas casitas de la playa y su sendero",
+   :photos
+   [[{:width 678,
+      :user-id "96129378@N07",
+      :category-id "72157648578311298",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "bd4ce0e150",
+       :original-secret nil,
+       :id "15450285657",
+       :farm-id 6,
+       :server-id "5615"},
+      :provider :flickr,
+      :height 1024}
+     {:width 678,
+      :user-id "96129378@N07",
+      :category-id "72157648578311298",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "acfb26348e",
+       :original-secret nil,
+       :id "15637113912",
+       :farm-id 4,
+       :server-id "3951"},
+      :provider :flickr,
+      :height 1024}]]}
+  {:type :photo,
+   :caption "Arriv��e a Pantano do Sul - Baignade fraiche",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "3a94796847",
+    :original-secret nil,
+    :id "15450526098",
+    :farm-id 6,
+    :server-id "5616"},
+   :provider :flickr,
+   :height 135}
+  {:type :heading, :content "FARNIENTE", :level 2}
+  {:type :paragraph,
+   :content
+   ("C&#39;est habituellement pas notre truc le farniente mais l�� on a pas eu d&#39;autres choix que de s&#39;offrir le hamac... sur sa terrasse... face �� la mer.....")}
+  {:type :photo,
+   :width 678,
+   :user-id "96129378@N07",
+   :category-id "72157648578311298",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "1389d4b44e",
+    :original-secret nil,
+    :id "15636247525",
+    :farm-id 6,
+    :server-id "5597"},
+   :provider :flickr,
+   :height 1024}
+  {:type :photo,
+   :caption "Hamac",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "f60769a869",
+    :original-secret nil,
+    :id "15637398102",
+    :farm-id 6,
+    :server-id "5600"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ("Ya un cocktail que je n&#39;oublie pas. La caipirina. Erasmus refait surface chaque fois que je pose mes l��vres sur un verre qui contient et sent le citron vert, le sucre, la cachaca et sa glace pil��e (sp��ciale pens��e ����Maggie, David, Jonas y Rafa).\nOn profite de la boisson ����chaque occasion de la journ��e h��h��...")}
+  {:type :photo,
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157648578311298",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "53b8119c61",
+    :original-secret nil,
+    :id "15451022970",
+    :farm-id 6,
+    :server-id "5597"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   ("On ne mentira pas sur le climat mais nous avons eu un climat de demi saison! Un temps frais et quelques averses... mais alors d��s que le soleil faisait surface, on en profite doublement !!!��")}
+  {:type :photo,
+   :caption "Double farniente",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "b93e303092",
+    :original-secret nil,
+    :id "15450865880",
+    :farm-id 6,
+    :server-id "5600"},
+   :provider :flickr,
+   :height 159}
+  {:type :heading, :content "LE VILLAGE", :level 2}
+  {:type :paragraph,
+   :content
+   ("Armacao est un village de p��cheurs adoss�� sur le flan de l&#39;��le face �� l&#39;Atlantique, face �� l&#39;Afrique, sous un certain angle face �� la France, �� vous...."
+    [:br {}]
+    "On profite du peu de l&#39;agitation pour se promener dans ses ruelles, fl��ner sur la rambla du bord de mer, prendre de chouettes photos...")}
+  {:type :photo,
+   :caption "Armacao",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "b7f689343b",
+    :original-secret nil,
+    :id "15450901510",
+    :farm-id 4,
+    :server-id "3942"},
+   :provider :flickr,
+   :height 159}
+  {:type :photo,
+   :caption "Fils ��lectriques omnipr��sents",
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157648578311298",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "0a82bec8e3",
+    :original-secret nil,
+    :id "15450484097",
+    :farm-id 4,
+    :server-id "3943"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   ("Personne.... les chiens errants se prom��nent au petit matin, cherchent a grignoter profitant des c��lins des passants...��"
+    [:br {}]
+    [:br {}]
+    "La vendeuse de glace en bonne ��l��ve ouvre sa��boutique t��t le matin. Toile cir��e sur les tables, petites chaises au long v��cu, elle re��oit la visite des faiseurs locaux d&#39;empa��adas et coxinha de batata br��siliennes (croquettes de patates douces) qui viennent remplir ses ��talages...��"
+    [:br {}]
+    [:br {}]
+    "Les p��cheurs se retrouvent encore plus t��t un pied��sur le sol, l��autre dans leur barque pour se raconter les aventures marines de la nuit... on maintient aussi les filets en ��tat. \nLe poisson est &quot;donn��&quot; !!! On repartira avec 3 sortes de poissons, des crevettes....on est super "
+    [:i {} "felices"]
+    " (heureux).")}
+  {:type :photo,
+   :caption "Entr��e du port de p��che",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "fe15880fca",
+    :original-secret nil,
+    :id "15450333138",
+    :farm-id 4,
+    :server-id "3956"},
+   :provider :flickr,
+   :height 166}
+  {:caption "Larilu et sa lampe",
+   :width 1024,
+   :type :photo,
+   :user-id "96129378@N07",
+   :category-id "72157648578311298",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "2c27307612",
+    :original-secret nil,
+    :id "15015746824",
+    :farm-id 4,
+    :server-id "3939"},
+   :class ["stretched"],
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   ("Nous passerons notre derni��re soir��e au traditionnel restaurant de &quot;quartier&quot; Sabores do Mar, kitch mais une chouette attention de la part des "
+    [:i {} "mosos"]
+    " (serveurs).")}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157648578311298",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "05dabef937",
+       :original-secret nil,
+       :id "15016214863",
+       :farm-id 4,
+       :server-id "3948"},
+      :provider :flickr,
+      :height 678}
+     {:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157648578311298",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "2dc067843f",
+       :original-secret nil,
+       :id "15637205482",
+       :farm-id 4,
+       :server-id "3943"},
+      :provider :flickr,
+      :height 678}]]}
+  {:type :heading, :content "Le Patio de San Telmo", :level 2}
+  {:type :paragraph,
+   :content
+   ("A notre retour �� Buenos Aires, nous profitons d&#39;un h��tel branchouille, el Patio de San Telmo. On y retrouve l&#39;ambiance porte��a et son odeur humide et fra��che du printemps. ����")}
+  {:type :photoset,
+   :caption "Patio de San Telmo - Buenos Aires",
+   :photos
+   [[{:width 678,
+      :user-id "96129378@N07",
+      :category-id "72157648578311298",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "722e1c71cc",
+       :original-secret nil,
+       :id "15450201937",
+       :farm-id 4,
+       :server-id "3935"},
+      :provider :flickr,
+      :height 1024}
+     {:width 678,
+      :user-id "96129378@N07",
+      :category-id "72157648578311298",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "4c5626b847",
+       :original-secret nil,
+       :id "15450334337",
+       :farm-id 4,
+       :server-id "3941"},
+      :provider :flickr,
+      :height 1024}]]}],
+ :blog "avesdepaso"}

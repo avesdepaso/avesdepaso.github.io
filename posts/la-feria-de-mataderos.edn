@@ -1,0 +1,206 @@
+{:updated-at #inst "2014-09-27T02:58:12.074-00:00",
+ :tags #{:argentine :amerique-du-sud :buenos-aires},
+ :cover
+ {:width 1024,
+  :user-id "96129378@N07",
+  :category-id "72157647952058252",
+  :id
+  {:photoset-id nil,
+   :original-format nil,
+   :secret "59566ed615",
+   :original-secret nil,
+   :id "15150277057",
+   :farm-id 3,
+   :server-id "2943"},
+  :provider :flickr,
+  :height 678},
+ :published-at #inst "2012-06-04T20:57:27.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Buenos Aires, c���est une capitale compos��e de Barrios comme les arrondissements de chez nous. Chaque Barrio refl��te un bout d���histoire et de culture de la vie Argentine. Nous avions entendu parler du Barrio de Mataderos alors on est all�� jeter un oeil car chaque dimanche, la Feria de Mataderos s�����veille !")}
+  {:type :photo,
+   :caption "Asado",
+   :width 678,
+   :user-id "96129378@N07",
+   :category-id "72157647952058252",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "c748febb26",
+    :original-secret nil,
+    :id "15150076610",
+    :farm-id 3,
+    :server-id "2942"},
+   :provider :flickr,
+   :height 1024}
+  {:type :photo,
+   :caption "Copinoux",
+   :width 1024,
+   :user-id "96129378@N07",
+   :category-id "72157647952058252",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "8fb0299ffc",
+    :original-secret nil,
+    :id "15313793896",
+    :farm-id 3,
+    :server-id "2943"},
+   :provider :flickr,
+   :height 678}
+  {:type :paragraph,
+   :content
+   "Les artisans se r��veillent et d��corent leur stand de leur petite production : objets de cuir, callebasse �� mat��, bijoux, v��tements en poils de lama/alpaca, peintures, objets en bois, instruments de musique folklore��� tout y est !"}
+  {:type :photo,
+   :caption "Sac �� Mat��",
+   :alt "DSC_0147",
+   :width 360,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/05/dsc_0147.jpg?w=360&h=543"},
+   :provider :wordpress,
+   :height 543}
+  {:type :paragraph,
+   :content
+   ("En parall��le, la piste de dance est pr��te �� accueillir des amateurs passionn��s du folklore argentin mais aussi les locaux qui profitent volontiers de l���ambiance pour faire quelques pas. Les spectateurs (nous parmi tant d���autres), se contentent d���admirer en les accompagnant avec les"
+    [:em {} "��palmas"]
+    "��(un son produit par nos mains) ��: un incroyable ��nergie se d��gage !")}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647952058252",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "444bfc8ce6",
+       :original-secret nil,
+       :id "15150303447",
+       :farm-id 3,
+       :server-id "2943"},
+      :provider :flickr,
+      :height 952}
+     {:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647952058252",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "3181b53ed6",
+       :original-secret nil,
+       :id "15150257868",
+       :farm-id 3,
+       :server-id "2943"},
+      :provider :flickr,
+      :height 964}]]}
+  {:type :photo,
+   :caption "Danseuse Folklore",
+   :alt "DSC_0060G",
+   :width 360,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/05/dsc_0060g1.jpg?w=360&h=543"},
+   :provider :wordpress,
+   :height 543}
+  {:type :paragraph,
+   :content ("Un jeu de chevaux occupe ��galement la sc��ne.")}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647952058252",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "36d70cea05",
+       :original-secret nil,
+       :id "15336800945",
+       :farm-id 4,
+       :server-id "3843"},
+      :provider :flickr,
+      :height 678}
+     {:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647952058252",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "59566ed615",
+       :original-secret nil,
+       :id "15150277057",
+       :farm-id 3,
+       :server-id "2943"},
+      :provider :flickr,
+      :height 678}]]}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647952058252",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "c9920f89d2",
+       :original-secret nil,
+       :id "15336493322",
+       :farm-id 3,
+       :server-id "2942"},
+      :provider :flickr,
+      :height 678}
+     {:width 1024,
+      :user-id "96129378@N07",
+      :category-id "72157647952058252",
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "5eaca414ae",
+       :original-secret nil,
+       :id "15336503472",
+       :farm-id 4,
+       :server-id "3882"},
+      :provider :flickr,
+      :height 678}]]}
+  {:type :paragraph,
+   :content
+   "Un cavalier et son cheval se pr��parent �� s�����lancer avec pour but de r��cup��rer��au cours de leur course un anneau suspendu �� l���aide d���une barre en acier."}
+  {:type :photo,
+   :alt "DSC_0126",
+   :width 360,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/05/dsc_0126.jpg?w=360&h=543"},
+   :provider :wordpress,
+   :height 543}
+  {:type :paragraph,
+   :content
+   ("Et ca papote sec avec les papis du coin ! A d��faut d���avoir ma grand m��re �� c��t�� de moi���")}
+  {:type :photo,
+   :width 1024,
+   :height 986,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647952058252",
+   :id
+   {:id "15150133960",
+    :farm-id 4,
+    :server-id "3847",
+    :photoset-id nil,
+    :secret "048321bced",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photo,
+   :caption "Avec les papis de Mataderos",
+   :alt "IMG_9476",
+   :width 360,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/05/img_9476.jpg?w=360&h=540"},
+   :provider :wordpress,
+   :height 540}],
+ :title "La Feria de Mataderos",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "la-feria-de-mataderos",
+ :source-id "2213",
+ :blog "avesdepaso",
+ :visibility :public}

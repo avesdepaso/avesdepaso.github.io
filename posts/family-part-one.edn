@@ -1,0 +1,469 @@
+{:updated-at #inst "2014-12-25T22:29:19.713-00:00",
+ :cover
+ {:width 240,
+  :id
+  {:photoset-id nil,
+   :original-format nil,
+   :secret "01cf29e505",
+   :original-secret nil,
+   :id "15737602937",
+   :farm-id 8,
+   :server-id "7472"},
+  :provider :flickr,
+  :height 159},
+ :published-at #inst "2014-12-25T22:53:03.907-00:00",
+ :elements
+ [{:type :heading,
+   :content "Salta, ses vall��es enchant��es et ses vignobles",
+   :level 2}
+  {:type :paragraph,
+   :content
+   ("Pour une grande premi��re fois, nous nous sommes r��unis en famille pour voyager. Le nord de l&#39;Argentine a ��t�� hardement s��lectionn��. Une nouvelle d��couverte pour nous aussi : un climat, une culture, des paysages bien distints de notre tendre Patagonie."
+    [:br {}]
+    [:br {}]
+    "Les retrouvailles ont eu lieu �� Salta, ville de 500.000 habitants situ��e au bord de la pr��cordill��re. R��sultat, la ville est entour��e d&#39;anciennes montagnes color��es. Le vert est omnipr��sent. C&#39;est surprenant lorsqu&#39;on sait que l&#39;autre versant des "
+    [:i {} "Cerros "]
+    "est sec. La chaleur est bien pr��sente! Mais il y a comme une sorte de micro climat juste l��, �� Salta."
+    [:br {}]
+    [:br {}]
+    [:br {}]
+    "La vie semble plus paisible ici qu&#39;�� Buenos Aires mais la pollution sonore du centre nous suffit �� nous sentir oppress��s.... Depuis que nous vivons �� San Martin de los Andes nous avons pris go��t �� la"
+    [:i {} " vida de pueblo"]
+    " (vie de village). Enfin, Salta reste un lieu de passage pour nous. Nous filons pour notre premi��re ��tape vers la r��gion des vins, fort patrimoine de province de Salta qui d��tient la troisi��me position de la production de vin en Argentine.")}
+  {:type :photo,
+   :caption "Paysage de la Ruta 40 - Nevado de Cachi��",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "283d4625b4",
+    :original-secret nil,
+    :id "15303654923",
+    :farm-id 8,
+    :server-id "7533"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ("Pour rejoindre les vignobles, nous passerons par les villages chaleureux de Cachi, S��clantas, Molino, San Carlos, Cafayate o�� nous d��couvrons une vie douce de campagne �� l&#39;��cart des grandes villes.")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "9392c67b68",
+    :original-secret nil,
+    :id "15737244479",
+    :farm-id 8,
+    :server-id "7503"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("Ici, les n��cessit��s sont diff��rentes. Les locaux, jeunes ou plus ��g��s, ont pour habitude de se retrouver sur les places de villages pour papoter, l&#39;��glise occupe encore une place importante en Argentine et d&#39;autant plus dans les provinces. Elles sont toutes tr��s bien d��cor��es !!! Ca donne un coup de punch �� Dios et ses adeptes! Une petite particularit�� sur les ��glises de la r��gion : le cactus est le h��ros de ces petites structures puisqu&#39;il est utilis�� pour tout type de structure : charpentes, portes, bancs, escaliers, confessional, pupitres et tables, .... ")}
+  {:type :photo,
+   :caption "Rue de Cachi",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "de3513f793",
+    :original-secret nil,
+    :id "15923274275",
+    :farm-id 9,
+    :server-id "8632"},
+   :provider :flickr,
+   :height 159}
+  {:type :photo,
+   :caption "C��r��monie en habit du dimanche pour les Gauchos ",
+   Gauchos "",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "f48755d402",
+    :original-secret nil,
+    :id "15303719753",
+    :farm-id 8,
+    :server-id "7534"},
+   :provider :flickr,
+   :height 159}
+  {:type :photoset,
+   :caption
+   "Ce tisserand ��tait cach�� dans son jardin! Nous l'avons surpris.�� On profite de notre rencontre pour en connaitre plus sur le Poncho Salte��o (de Salta)",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "eae25ef8df",
+       :original-secret nil,
+       :id "15737228259",
+       :farm-id 8,
+       :server-id "7553"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "d228f6bffd",
+       :original-secret nil,
+       :id "15897443756",
+       :farm-id 8,
+       :server-id "7534"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "7fcb572b57",
+    :original-secret nil,
+    :id "16069451946",
+    :farm-id 8,
+    :server-id "7568"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("C��t�� paysages, nous avons eu l&#39;occasion de parcourir la route 40, connue pour traverser le pays du Nord au Sud. Cette fameuse route est souvent faite de ripio (gravier) et b��n��ficie peu des avantages des grands axes (plus rapides, b��tonn��s). Mais naviguer dans sa poussi��re prend ma foi tout son charme. Les d��cors naturels qui accompagnent la route 40 sont spectaculaires. Et ils se transforment �� mesure de votre avanc��e! Magique.")}
+  {:type :photoset,
+   :caption "Ancinen passage moutons",
+   :photos
+   [[{:width 159,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "3dd2840562",
+       :original-secret nil,
+       :id "15737596367",
+       :farm-id 8,
+       :server-id "7476"},
+      :provider :flickr,
+      :height 240}
+     {:width 159,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "8f9a8f5af5",
+       :original-secret nil,
+       :id "15301098534",
+       :farm-id 9,
+       :server-id "8578"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :photo,
+   :caption "Quebrada de las Flechas - Ruta 40",
+   :width 159,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "20173335ca",
+    :original-secret nil,
+    :id "15921272701",
+    :farm-id 8,
+    :server-id "7572"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("Pour ce qui est du vin, nous d��couvrons que cette r��gion produit du vin depuis la fin du 18��me si��cle mais est rest��e moins cot��e par rapport aux comp��titrices que sont Mendoza et San Juan jusqu&#39;�� il y a une quinzaine d&#39;ann��es. Aujourd&#39;hui, Cafayate se d��marque notamment par : "
+    [:br {}]
+    "- son vin dit &quot;de altura&quot; ou d&#39;altitude. Et oui, les vignes travaillent ici entre 1600 et 2500m au dessus du niveau de la mer, "
+    [:br {}]
+    "- et sa chouette production en Torront��s, une petite merveille, ce Torront��s. fruit��, frais, parfait pour les apr��m&#39; ensoleill��es. ")}
+  {:type :photo,
+   :caption "Bodega (cave) et vignobles dans la Valle Calchaquies",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "3c2a613f25",
+    :original-secret nil,
+    :id "15922587532",
+    :farm-id 9,
+    :server-id "8676"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ("On citera en prime le producteur Mounier qui est de loin notre pr��f��r�� au moment des d��gustations! Cet amoureux du vin ��tait d&#39;abord O��nologue pour les grandes marques. Il a choisi un petit terrain sympa au bord des montagnes. Recommand�� pour les futurs visiteurs!!! Nous aurons consomm�� les 4 bouteilles achet��es dans des endroits incroyables!! ")}
+  {:type :photo,
+   :width 159,
+   :height 240,
+   :caption "Vin et Foie gras au bord de la Laguna de Flamencos",
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "0b4c3941f5",
+    :original-secret nil,
+    :id "15736088188",
+    :farm-id 8,
+    :server-id "7461"},
+   :provider :flickr}
+  {:type :paragraph,
+   :content
+   ("Le Valle Calchaquies, c&#39;est aussi les ruines de Quilmes. D&#39;anciennes civilisations habitaient (les quilmes) et d��fendaient leur royaume.�� Les ruines sont adoss��es �� la montagne et comportaient des fortifications de fa��on �� surveiller les d��placements de la Vall��e.")}
+  {:type :photo,
+   :caption "Site arch��ologique Quilmes",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "cf05e16255",
+    :original-secret nil,
+    :id "15737194239",
+    :farm-id 8,
+    :server-id "7558"},
+   :provider :flickr,
+   :height 159}
+  {:type :photo,
+   :caption "Equipo",
+   :width 159,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "6947c0f44b",
+    :original-secret nil,
+    :id "15922564112",
+    :farm-id 8,
+    :server-id "7486"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("Avant de retourner vers Salta, on roule entre les montagnes, les dunes, les plaines....C&#39;est tout simplement "
+    [:i {} "Magic"]
+    ". On continue d&#39;��tre ��merveill��s �� chaque instant! ")}
+  {:type :photoset,
+   :caption "Medanos�� (dunes)",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "e14f394cec",
+       :original-secret nil,
+       :id "15897974076",
+       :farm-id 8,
+       :server-id "7465"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "f56a6c71fc",
+       :original-secret nil,
+       :id "15735755388",
+       :farm-id 8,
+       :server-id "7483"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :photoset,
+   :caption "Quebrada de las conchas - Cactus hors terre",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "d5178bc4d1",
+       :original-secret nil,
+       :id "15301516954",
+       :farm-id 8,
+       :server-id "7521"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "a9b9afa445",
+       :original-secret nil,
+       :id "15736468130",
+       :farm-id 8,
+       :server-id "7476"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :paragraph,
+   :content
+   ("Notre deuxi��me ��tape se concentre dans la province de Jujuy, la terre sainte! Nous y avions d��j�� mis les pieds en 2013. La terre de la pacha mama m��ritait un second d��tour ;-) Novembre est parfait pour visiter la r��gion. Nous avons re��u un climat doux et les couleurs des champs ��tait d&#39;un vert claquant. Ici,�� la culture du tabac est quasi omnipr��sente. Nous pousserons notre p��riple jusqu&#39;�� Iruya, dernier village accessible par la route. Son ��glise jaune attrape l&#39;oeil!")}
+  {:type :photoset,
+   :photos
+   [[{:width 159,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "439e340b34",
+       :original-secret nil,
+       :id "15736232458",
+       :farm-id 8,
+       :server-id "7555"},
+      :provider :flickr,
+      :height 240}
+     {:width 159,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "c74af8cc97",
+       :original-secret nil,
+       :id "15923057792",
+       :farm-id 8,
+       :server-id "7471"},
+      :provider :flickr,
+      :height 240}
+     {:width 159,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "5de3721e15",
+       :original-secret nil,
+       :id "15923082572",
+       :farm-id 8,
+       :server-id "7476"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :photo,
+   :caption "Iruya",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "f5cafa21e3",
+    :original-secret nil,
+    :id "15923047642",
+    :farm-id 8,
+    :server-id "7471"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ("Bien que les couleurs soient pr��sentes tous les jours sur les montagnes, Pumamarca a remport��e le troph��e de la montagne aux sept couleurs. Un de mes villages pr��fer��s pour les achats de sac de r��coltes reconverti en tapis!!! ")}
+  {:type :photo,
+   :caption "Pumamarca",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "39303f9e03",
+    :original-secret nil,
+    :id "15736182598",
+    :farm-id 8,
+    :server-id "7544"},
+   :provider :flickr,
+   :height 159}
+  {:type :photo,
+   :caption "Estilo Argentino",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "d718815a68",
+    :original-secret nil,
+    :id "16093666372",
+    :farm-id 9,
+    :server-id "8637"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("Nous continuons notre p��riple vers la Puna (altiplano Argentin) en passant par les Salinas Grandes et le village de Susques (1100 hbts), dernier point de vue avant le passage de fronti��re du Chili. Nous d��couvrons une petite merveille sur la rue principale : l&#39;��glise la plus ancienne d&#39;Argentine et datant de 1698! papotage oblige avec la balayeuse de terre battue, laquelle doit ��tre intacte toute la journ��e. Un bijou! ")}
+  {:type :photo,
+   :caption "Salinas Grandes II",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "da649df6c7",
+    :original-secret nil,
+    :id "15921664731",
+    :farm-id 8,
+    :server-id "7539"},
+   :provider :flickr,
+   :height 135}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "8438e8366f",
+    :original-secret nil,
+    :id "15921610531",
+    :farm-id 8,
+    :server-id "7504"},
+   :provider :flickr,
+   :height 135}
+  {:type :photoset,
+   :caption "Int��rieur en Terre battue et Structure en cactus",
+   :photos
+   [[{:width 159,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "f35134923d",
+       :original-secret nil,
+       :id "15301343724",
+       :farm-id 8,
+       :server-id "7573"},
+      :provider :flickr,
+      :height 240}
+     {:width 159,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "284b48f2ef",
+       :original-secret nil,
+       :id "15736128438",
+       :farm-id 9,
+       :server-id "8594"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "40a98802de",
+    :original-secret nil,
+    :id "15921643691",
+    :farm-id 8,
+    :server-id "7518"},
+   :provider :flickr,
+   :height 240}
+  {:type :photo,
+   :caption "Susques",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "971b5d0cd8",
+    :original-secret nil,
+    :id "15737583819",
+    :farm-id 8,
+    :server-id "7533"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ("La prochaine destination est le Chili �� quelques 150kms....Nous sommes dans le d��sert.... et je laisse Julien nous conter la suite!")}
+  {:type :photo,
+   :caption "Lama domestique - Il remplace la vache de chez nous ;-)",
+   :width 159,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "8ff82a400b",
+    :original-secret nil,
+    :id "15923557415",
+    :farm-id 9,
+    :server-id "8682"},
+   :provider :flickr,
+   :height 240}],
+ :title "Family Part One",
+ :locations
+ ({:latitude -40.1605267, :longitude -71.3587153, :accuracy 58}),
+ :id "family-part-one",
+ :blog "avesdepaso",
+ :visibility :public}

@@ -1,0 +1,163 @@
+{:updated-at #inst "2013-02-19T14:14:57.000-00:00",
+ :tags #{:argentine :amerique-du-sud :cerro-negro},
+ :published-at #inst "2013-02-19T13:53:59.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("En tant que jeune d��butante dans la photo, Cerro Negro est devenu mon terrain de jeu pr��f��r�� !! D��s qu���une sortie se pr��sente �� moi, je file heureuse de pouvoir apprendre toujours plus de mes "
+    [:em {} "compa��eros"]
+    " et je n���oublie jamais mon appareil photo qui me suit partout sur le gisement���")}
+  {:type :paragraph,
+   :content
+   "Du coup, je voudrais en profiter pour vous faire partager le gisement, ses alentours, ses sous-sols, ses travailleurs!"}
+  {:type :paragraph,
+   :content
+   "Ma premi��re sortie s���est d��roul��e en Ao��t 2012. Je venais de faire connaissance avec Omar, un membre de la brigade d���urgence. Omar fait partie de l�����quipe Cerro Negro depuis 2009 et travaille au sein de l�����quipe de G��ologie Exploration. C���est un ancien d��j��!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/02/exploracion-agosto-2012-592.jpg?w=450&h=679"},
+   :width 450,
+   :height 679,
+   :alt "Exploracion Agosto 2012 592",
+   :caption "Omar"}
+  {:type :paragraph,
+   :content
+   "Mais alors ��a consiste en quoi l���exploration sur un gisement minier?"}
+  {:type :paragraph,
+   :content
+   "En r��alit��, c���est une des ��tapes indispensables pour ��valuer la pr��sence du minerai et garantir l���investissement de l���entreprise dans le projet. Les ��quipes sont compos��es de g��ologues et perforateurs. En fonction des images satellites extraites du lieu, les g��ologues d��terminent les endroits propices �� la pr��sence du minerai."}
+  {:type :paragraph,
+   :content
+   "Sa mission principale consiste �� d��terminer les lieux de perforation puis d���extraire des ��chantillons de roches allant jusqu����� 700 m��tres de profondeurs. Ses ��chantillons sont rapatri��s au campement o�� les g��ologues passent au peigne fin chaque roche. Un tas d���information est alors inject�� dans une base de donn��es qui r��f��rence chaque ��chantillon."}
+  {:type :paragraph,
+   :content
+   ("La moiti�� des ��chantillons restera sur le projet, l���autre moiti�� sera envoy��e au laboratoire d���analyse qui d��finit le volume d���or pr��sent. Se calcule alors la "
+    [:em {} "ley"]
+    "! (grammes d���or pr��sents pour une tonne de minerai). Plus la "
+    [:em {} "ley"]
+    " est ��lev��e, plus nous nous rapprochons du tr��sor cach�����On d��termine alors o�� construire la mine, ses tunnels et �� quelle profondeur!!")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/02/exploracion-agosto-2012-587.jpg?w=450&h=298"},
+   :width 450,
+   :height 298,
+   :alt "Exploracion Agosto 2012 587",
+   :caption "La Diamentina ��� Perforation d���exploration"}
+  {:type :paragraph,
+   :content
+   "A l���aide de son pick-up, Omar parcourt des kilom��tres de chemins et surveille de pr��s les op��rateurs de perforation et leur machine de perforation (son petit nom : la Diamentina). Un soir apr��s le travail, il m���emm��ne avec lui et je d��couvre son monde et celui du perforateur!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/02/exploracion-agosto-2012-462.jpg?w=450&h=679"},
+   :width 450,
+   :height 679,
+   :alt "Exploracion Agosto 2012 462",
+   :caption "Diamentina d���en bas"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/02/exploracion-agosto-2012-475.jpg?w=450&h=298"},
+   :width 450,
+   :height 298,
+   :alt "Exploracion Agosto 2012 475",
+   :caption "Barres de perforation"}
+  {:type :paragraph,
+   :content
+   "En ao��t, ici c���est l���hiver! On s���emmitoufle. Nous parcourons une dizaine de kms en pick-up en plein d��sert et de nuit pour aller contr��ler l���avanc��e des perforations. Omar tient un petit carnet �� jour et note pour chaque ��quipement de perforation, les m��tres de roches extraits du sol."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/02/exploracion-agosto-2012-593.jpg?w=450&h=298"},
+   :width 450,
+   :height 298,
+   :alt "Exploracion Agosto 2012 593",
+   :caption "Carnet de route"}
+  {:type :paragraph,
+   :content
+   "J���ai l���occasion de rencontrer les perforateurs qui m���expliquent un peu plus leur m��tier!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/02/exploracion-agosto-2012-444.jpg?w=450&h=679"},
+   :width 450,
+   :height 679,
+   :alt "Exploracion Agosto 2012 444",
+   :caption "Perforateurs"}
+  {:type :paragraph,
+   :content
+   "L���un est op��rateur, il manipule le joystick de l�����quipement et g��re la vitesse de perforation dont d��coule la qualit�� de l���extraction."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/02/exploracion-agosto-2012-454.jpg?w=450&h=679"},
+   :width 450,
+   :height 679,
+   :alt "Exploracion Agosto 2012 454",
+   :caption "Aux commandes"}
+  {:type :paragraph,
+   :content
+   ("Son coll��gue est "
+    [:em {} "ayudante"]
+    " ou commis. Lui est charg�� d���assembler et d��sassembler les barres de perforation qui peuvent perforer le sol jusqu����� 700 m��tres de profondeur pour chercher des ��chantillons! Un travail physique !!!")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/02/exploracion-agosto-2012-476.jpg?w=450&h=298"},
+   :width 450,
+   :height 298,
+   :alt "Exploracion Agosto 2012 476",
+   :caption
+   "Leur quotidien ��� enquiller des barres de perforation pour extraire des ��chantillons de roches jusqu����� 700m de profondeur"}
+  {:type :paragraph,
+   :content
+   "Un petit feu leur permet de rester plus ou moins au chaud. Mais le temps est compt��. Ils sont tous les 2 pay��s au m��tre perfor��."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/02/exploracion-agosto-2012-452.jpg?w=450&h=298"},
+   :width 450,
+   :height 298,
+   :alt "Exploracion Agosto 2012 452",
+   :caption "Feu de bois au bord de la perfo���"}
+  {:type :paragraph,
+   :content
+   "On m���offre ce soir l��, le meilleur des mat��s dulce (sucr��)!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/02/exploracion-agosto-2012-541.jpg?w=450&h=298"},
+   :width 450,
+   :height 298,
+   :alt "Exploracion Agosto 2012 541",
+   :caption "Mateeeee"}
+  {:type :paragraph,
+   :content
+   "Il est 1h du matin, Omar me ram��ne au campement Eureka et lui poursuit sa nuit de travail."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/02/exploracion-agosto-2012-623.jpg?w=450&h=298"},
+   :width 450,
+   :height 298,
+   :alt "Exploracion Agosto 2012 623",
+   :caption "Campement Eureka"}],
+ :title "Exploration �� Cerro Negro",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "exploration-a-cerro-negro",
+ :source-id "2434",
+ :blog "avesdepaso",
+ :visibility :public}

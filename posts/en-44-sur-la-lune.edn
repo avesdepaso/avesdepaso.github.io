@@ -1,0 +1,184 @@
+{:updated-at #inst "2009-04-01T20:55:02.000-00:00",
+ :tags #{:bolivie},
+ :published-at #inst "2009-04-01T20:55:02.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content "[if gte mso 9]&amp;gt;  Normal 0 21   &amp;lt;![endif]"}
+  {:type :paragraph,
+   :content
+   "Nous voil�� dans les montagnes, c��t�� Cordilli��re des Andes��� alors�� ��a rigole plus !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2305-copy.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Julien et J��j��",
+   :caption "Julien et J��j��"}
+  {:type :paragraph,
+   :content
+   "Nous avons pris sur notre chemin un bambino qui nous ressemble : son nom c���est Mr. J��j��."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2253-copy.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Expresso des Sur",
+   :caption "Expresso del Sur"}
+  {:type :paragraph,
+   :content
+   "Nous atterissons en train, en terre inconnue, la Bolivie, o�� le sud du pays fait penser �� la lune."}
+  {:type :paragraph,
+   :content
+   ([:span
+     {:lang "EN-GB"}
+     "Des petits hommes bronz��s et des femmes au chapeau melon nous regardent bien ��trangement. "]
+    "Toutefois, sur cette lune, le tourisme est bien d��velopp��. Plus de 80 agences y ont"
+    [:span {} " "]
+    "��lues domicile. La guerre est en marche.�� "
+    [:span
+     {:lang "EN-GB"}
+     "���Attention, ceux d����� c��t�� sont mauvais��� ou ���Avec cette agence, vous ne mangerez pas correctement, nous, on vous offre du coca et des pizzas !��� ou encore ���700 Bol, c���est notre meilleur prix��������� Alors nous ��coutons attentivement ces bonnes femmes bien motiv��es �� nous vendre leur tour. Finalement, nous partons avec l���agence Mont Blanc. "])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2321-copy.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Notre machine sur roue",
+   :caption "Notre machine sur roue"}
+  {:type :paragraph,
+   :content
+   ([:span
+     {:lang "EN-GB"}
+     "D��collage tardif avec une machine puissante �� 4 roues de couleur Bordeaux: notre Guide Gustavo est un bon extraterrestre puisque il ne boit pas ! "]
+    "Il faut dire qu���ici sur cette lune, l���alcool et la coca sont"
+    [:span {} " "]
+    "les seuls moyens de survie. Lui a trouv�� un autre proc��d�� : ��tre notre chauffeur pour 3 jours dans le Salar de Uyuni et le d��sert du Lipez ."
+    "\nCes endroits sont magiques: au sud, un peu �� droite,�� nous d��couvrons un lac de 12 000km2 rempli de sel���. "
+    [:span
+     {:lang "EN-GB"}
+     "Autrefois, les courants d���eau passaient par l��."])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2353-copy.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Le Salar de uyuni",
+   :caption "Le Salar de Uyuni"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2361-copy.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Ch��teau de sel sur le Salar",
+   :caption "Ch��teau de sel sur le Salar"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2371-copy.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Les trois loulous",
+   :caption "Les trois loulous"}
+  {:type :paragraph,
+   :content
+   "Nous rencontrons alors sur notre route une dame au chapeau melon qui vit de l���extraction du sel et nous explique le processus de transformation. Mais celle-ci s�����croule devant nos yeux en criant��� probl��me de coeur. Pour�� quelques bols (la monnaie bolivienne) de plus ?"}
+  {:type :paragraph,
+   :content
+   "Nous traversons une partie du Salar pour rejoindre l�����le de los pescadores��� cette ��le est habit��e de milliers de cactus dont le plus ancien survivant aurait plus de 1000 ans."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2410-copy.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Ile de los Pescadores",
+   :caption "Ile de los Pescadores"}
+  {:type :paragraph,
+   :content
+   "Les volcans nous scrutent du haut de leur 6000 m��tres et nous font savoir qu���un pas de travers de notre part et ils se r��veillent en fum��e."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2530-copy.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Le volcan licancabur - 5900 m",
+   :caption "Le volcan licancabur - 5900 m"}
+  {:type :paragraph,
+   :content
+   ([:span
+     {:style "font-size:12pt;font-family:\""}
+     "Nombreuses sont les lagunes perdues entre les crat��res: elles nous apparaissent par surprise de toutes les couleurs. "]
+    [:span
+     {:style "font-size:12pt;font-family:\"", :lang "EN-GB"}
+     "Certaines cr��atures y font leur business comme les flamants roses. "])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2461-copy.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Lagune et Flamant rose",
+   :caption "Lagune et Flamant rose"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2451-copy.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Lagune",
+   :caption "Lagune"}
+  {:type :paragraph,
+   :content
+   "Bien que la temp��rature soit basse, les�� bains chauds sont bien l����� et qui s���est baign��, c���est Anne C��."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2511-copy.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Anne C�� dans les eaux chaudes",
+   :caption "Anne C�� dans les eaux chaudes"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2509-copy.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Lever de soleil",
+   :caption "Poule mouill��e devant le lever de soleil"}
+  {:type :paragraph,
+   :content
+   "Derni��re image, celle de l���animal domestique commun aux extraterrestres du coin : le Lama. S���ach��ve ainsi notre petit p��riple dans le Salar de uyuni."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2551-copy.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Les lamas de notre lune",
+   :caption "Les lamas de notre lune"}],
+ :title "En 4*4 sur la lune",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "en-44-sur-la-lune",
+ :source-id "643",
+ :blog "avesdepaso",
+ :visibility :public}

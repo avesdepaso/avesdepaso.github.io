@@ -1,0 +1,46 @@
+{:updated-at #inst "2009-06-04T15:25:00.000-00:00",
+ :tags #{:equateur},
+ :published-at #inst "2009-06-04T15:25:00.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content "Enfin en tout cas l�� o�� il y avait des cheveux avant!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4454-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "IMG_4454 [50%]"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4457-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "IMG_4457 [50%]"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4458-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "IMG_4458 [50%]"}
+  {:type :paragraph,
+   :content "Coupe tr��s adapt��e pour les chaleurs tropicales."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/img_4490-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "IMG_4490 [50%]"}],
+ :title "Mais si ca repousse���",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "mais-si-ca-repousse",
+ :source-id "910",
+ :blog "avesdepaso",
+ :visibility :public}

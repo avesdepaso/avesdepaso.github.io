@@ -1,0 +1,477 @@
+{:updated-at #inst "2015-04-21T23:15:54.464-00:00",
+ :cover
+ {:width 240,
+  :height 159,
+  :id
+  {:id "16692253289",
+   :farm-id 9,
+   :server-id "8731",
+   :photoset-id nil,
+   :secret "4f43d58e97",
+   :original-secret nil,
+   :original-format nil},
+  :provider :flickr,
+  :type :photo},
+ :published-at #inst "2015-04-02T20:02:13.033-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Une fois l'an mes parents nous font l'honneur de nous rendre visite. Cette fois-ci direction le sud du Chili et ses volcans."
+    [:br {}]
+    [:br {}]
+    "Avant de se retrouver nous devons d'abord nous rendre au Chili. Une heure de "
+    [:i {} "ripio "]
+    "avant de prendre une barque et passer la nuit dans une auberge. Entre les deux: la frontière Argentine - Chili."
+    [:br {}]
+    "Le passage de la frontière Argentine se fait comme toujours rapidement. Bien s'assurer que tout est tamponné, le douanier Argentin étant un tantinet tête en l'air."
+    [:br {}]
+    "L'efficacit chilienne, héritage culturel allemand, se retrouve dans toute sa splendeur lors du passage des douanes. Si vous avez perdu une pièce de 10 centimes entre deux sièges il y a 15 ans, le douanier Chilien la retrouve, l'inspecte, remplit le formulaire F22, la met sous scellé et vous faire remplir une déclaration sur l'honneur en 3 exemplaires. Après avoir vérifier que vous n'en profitez pas pour passer en douce une banane illégale entre le pneu et la jante de la roue de secours, il passe un coup d'aspirateur. Forcément cet amour du travail bien fait allonge le temps d'attente."
+    [:br {}]
+    "Comme nous étions pressés par le temps, les bateaux chiliens partant à l'heure, la tension monte. Et Anne-cécile, quand sa tension monte, elle a des envies de trucidage. Après avoir secoué quelques douaniers notre magnifique Ka-quatre nous prouve une fois de plus que les routes en terre ne lui font pas peur.")}
+  {:type :photoset,
+   :caption "Puerto Pirihueico",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "e1bfdfe862",
+       :original-secret nil,
+       :id "16671197947",
+       :farm-id 8,
+       :server-id "7646"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "b0f5674220",
+       :original-secret nil,
+       :id "16877353022",
+       :farm-id 9,
+       :server-id "8699"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :paragraph,
+   :content
+   ("Finalement on se retrouve à l'heure dite et pour fêter ça direction un restaurant typique du coin pour aller manger de la saucisse allemande.")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "2f3b8317b2",
+    :original-secret nil,
+    :id "16878513965",
+    :farm-id 8,
+    :server-id "7282"},
+   :provider :flickr,
+   :height 159}
+  {:type :photo,
+   :width 159,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "a6100be909",
+    :original-secret nil,
+    :id "16258516543",
+    :farm-id 8,
+    :server-id "7625"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("Si l'on fait abstraction de ses habitants, le Chili est une destination plutôt sympathique. Le sud notamment avec sa myriade de lacs et volcans.")}
+  {:type :photoset,
+   :class ["stretched"],
+   :caption "Frutillar y Volcan Osorno",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "ec1f0bb15d",
+       :original-secret nil,
+       :id "16852588196",
+       :farm-id 9,
+       :server-id "8706"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "8fa0f0ce27",
+       :original-secret nil,
+       :id "16877455281",
+       :farm-id 9,
+       :server-id "8711"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "20a057f456",
+       :original-secret nil,
+       :id "16878495295",
+       :farm-id 8,
+       :server-id "7613"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "dbd732aa3d",
+       :original-secret nil,
+       :id "16852597556",
+       :farm-id 8,
+       :server-id "7639"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :paragraph,
+   :content
+   ("On avance rapidement pour arriver à notre destination: l'île de "
+    [:a
+     {:href "https://fr.wikipedia.org/wiki/%C3%8Ele_de_Chilo%C3%A9"}
+     "Chiloé"]
+    ". Arrêt obligatoire au nord pour aller voir une colonie de manchots dont des specimens de "
+    [:a
+     {:href "https://fr.wikipedia.org/wiki/Manchot_de_Humboldt"}
+     "Humboldt"]
+    ", en danger d'extinction.")}
+  {:type :photo,
+   :caption "On achemine les bestiaux",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "9fcbb98eb8",
+    :original-secret nil,
+    :id "16692327069",
+    :farm-id 8,
+    :server-id "7617"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ("L'occasion d'assister à une scène insolite: le combat d'une loutre pour ramener sur la terre ferme le fruit de sa chasse, un poulpe.")}
+  {:type :photoset,
+   :class ["stretched"],
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "032eeb895f",
+       :original-secret nil,
+       :id "16877270292",
+       :farm-id 8,
+       :server-id "7611"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "1d8393bb1b",
+       :original-secret nil,
+       :id "16692307819",
+       :farm-id 8,
+       :server-id "7585"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :paragraph,
+   :content
+   ("Direction notre magnifique cabane typique de l'île, avec tout le confort moderne!")}
+  {:type :photo,
+   :width 159,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "068808e333",
+    :original-secret nil,
+    :id "16692298849",
+    :farm-id 8,
+    :server-id "7621"},
+   :provider :flickr,
+   :height 240}
+  {:type :photoset,
+   :class ["stretched"],
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "24ea5c0468",
+       :original-secret nil,
+       :id "17000030052",
+       :farm-id 9,
+       :server-id "8728"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "64d66a61e7",
+       :original-secret nil,
+       :id "16690801118",
+       :farm-id 8,
+       :server-id "7654"},
+      :provider :flickr,
+      :height 159}]
+    [{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "d0bf00cc22",
+       :original-secret nil,
+       :id "16670961297",
+       :farm-id 9,
+       :server-id "8703"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "e9dac245fc",
+       :original-secret nil,
+       :id "16690650068",
+       :farm-id 8,
+       :server-id "7602"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :paragraph,
+   :content
+   ("La vue est splendide, juste en face de nous s'étale une exploitation de saumons. Les employés s'alignent le long de la plage le matin avant de prendre une barque pour entamer leur tour. Certains y restent même la nuit. Un rythme de vie qui rappelle celui de la mine où Anne-cécile travaille: il me faudra déployer toute une série de stratagème - dont certains inavouables - pour la dissuader de s'y rendre à la nage.")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "f0e2417d40",
+    :original-secret nil,
+    :id "16852528056",
+    :farm-id 8,
+    :server-id "7630"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ("Les habitants de Chiloé revendiquent leur différence. Les mythes délirants, maisons sur pilotis et églises designs nous le rappellent continuellement.")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "175124456e",
+    :original-secret nil,
+    :id "16877386961",
+    :farm-id 9,
+    :server-id "8754"},
+   :provider :flickr,
+   :height 159}
+  {:type :photoset,
+   :photos
+   [[{:width 159,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "da2fa65834",
+       :original-secret nil,
+       :id "16877394491",
+       :farm-id 8,
+       :server-id "7615"},
+      :provider :flickr,
+      :height 240}
+     {:width 159,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "1ea4e5daba",
+       :original-secret nil,
+       :id "16692179389",
+       :farm-id 8,
+       :server-id "7286"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :paragraph,
+   :content
+   ("Une autre spécialité du coin, la "
+    [:i {} "tina"]
+    ": une baignoire rustique chauffée au feu de bois! Magnifique! 3 heures pour chauffer quand même, le plaisir se mérite.")}
+  {:type :photoset,
+   :class ["stretched"],
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "60f304035a",
+       :original-secret nil,
+       :id "16878328055",
+       :farm-id 8,
+       :server-id "7619"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "8c92bb94af",
+       :original-secret nil,
+       :id "16816154198",
+       :farm-id 9,
+       :server-id "8747"},
+      :provider :flickr,
+      :height 160}]]}
+  {:type :photo,
+   :width 159,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "34b20f287e",
+    :original-secret nil,
+    :id "16796876248",
+    :farm-id 8,
+    :server-id "7627"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("L'occasion aussi de perfectionner nos techniques de cuisine sud-américaines. Le "
+    [:i {} "disco"]
+    " notamment, chauffé au feu, est l'instrument préféré du Gaucho. Il ne reste plus qu'à en trouver un en France!")}
+  {:type :photoset,
+   :class ["stretched"],
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "cb7e1d1940",
+       :original-secret nil,
+       :id "16976262316",
+       :farm-id 8,
+       :server-id "7591"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "7f0e5e4f56",
+       :original-secret nil,
+       :id "16794841867",
+       :farm-id 8,
+       :server-id "7644"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "560b070777",
+       :original-secret nil,
+       :id "16814721380",
+       :farm-id 9,
+       :server-id "8694"},
+      :provider :flickr,
+      :height 159}]
+    [{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "616b6548b6",
+       :original-secret nil,
+       :id "16258370083",
+       :farm-id 9,
+       :server-id "8731"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "a006dbd2b0",
+       :original-secret nil,
+       :id "17001302951",
+       :farm-id 8,
+       :server-id "7618"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :paragraph,
+   :content
+   ("Le retour se fait à vive allure, à peine le temps d'admirer le magnifique volcan "
+    [:a
+     {:href "https://fr.wikipedia.org/wiki/Osorno_(volcan)"}
+     "Osorno"]
+    " qui fait office de station de ski l'hiver. Notez au passage ce magnifique chasse-neige / combi qui nous a bien fait rêver.")}
+  {:type :photoset,
+   :class ["stretched"],
+   :caption "Volcan Osorno",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "4dd395e8ca",
+       :original-secret nil,
+       :id "16258265353",
+       :farm-id 8,
+       :server-id "7654"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "f77295826e",
+       :original-secret nil,
+       :id "16670925387",
+       :farm-id 8,
+       :server-id "7594"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "59d90ae3cb",
+       :original-secret nil,
+       :id "16814678160",
+       :farm-id 9,
+       :server-id "8693"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :paragraph,
+   :content
+   ("Direction San Martin de los andes où nous profitons des derniers rayons de soleil. Le temps des séparations s'approche.")}
+  {:type :photo,
+   :caption "Il pagaie dans les sillons de son père",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "d9bdabc148",
+    :original-secret nil,
+    :id "16877222911",
+    :farm-id 9,
+    :server-id "8736"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ("Ouf! Un peu de repos sera nécessaire pour se remettre de toutes ses émotions.")}],
+ :title "Chiloé en famille",
+ :locations
+ ({:latitude -40.160387, :longitude -71.3578722, :accuracy 34}),
+ :id "chiloe-en-famille",
+ :blog "avesdepaso",
+ :visibility :public}

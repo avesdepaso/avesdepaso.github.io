@@ -1,0 +1,176 @@
+{:updated-at #inst "2011-12-03T01:47:51.000-00:00",
+ :tags #{:etats-unis},
+ :published-at #inst "2011-11-28T06:32:14.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Ahhh "
+    [:a {:href "http://fr.wikipedia.org/wiki/Hawaii"} "Hawai���i"]
+    "��� difficile de r��sister �� l���envie de visiter cet endroit si particulier, au milieu de l���oc��an pacifique. Surtout que c���est juste "
+    [:a
+     {:href
+      "http://maps.google.com/maps?q=hawaii&hl=en&ll=19.808054,-155.566406&spn=84.183985,172.441406&sll=37.0625,-95.677068&sspn=38.638819,86.220703&vpsrc=6&hnear=Hawaii&t=m&z=3"}
+     "en face"]
+    "! Ok c���est une vue de l���esprit, ya toujours un porte-conteneurs qui bouche la vue. Mais quand m��me! Et ca nous rappellera les "
+    [:a
+     {:href
+      "http://vadrouilles.wordpress.com/2009/06/05/iles-galapagos/"}
+     "Galapagos"]
+    ".")}
+  {:type :paragraph,
+   :content
+   ("Hawai���i ��tant un archipel, on va d���abord se concentrer sur 2 des ��les principales:��"
+    [:a {:href "http://fr.wikipedia.org/wiki/Maui"} "Maui"]
+    " et�� "
+    [:a {:href "http://fr.wikipedia.org/wiki/Kauai"} "Kaua���i"]
+    " (1 semaine sur chaque, pas de jaloux). Pas d���"
+    [:a {:href "http://fr.wikipedia.org/wiki/Oahu"} "Oahu"]
+    ", l�����le principale o�� l���on trouve "
+    [:a {:href "http://fr.wikipedia.org/wiki/Honolulu"} "Honolulu"]
+    ". Trop touristique (oui on est snob)."
+    "\nBon pr��parez vous ��a va faire mal. Surtout vu le temps que vous avez en ce moment. Ok c���est pire �� Vancouver, mais nous on skie le week-end. Pr��parez vous �� ��a aussi!")}
+  {:type :paragraph,
+   :content
+   "On vient d���abord aussi pour la nature incroyable. Pas si facile que ��a �� trouver, il faut gratter la couche de touristes am��ricains pour y acc��der. Mais apr��s c���est le bonheur."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/11/dsc_0831.jpg?w=450&h=679"},
+   :width 450,
+   :height 679,
+   :alt "DSC_0831"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/11/dsc_0868.jpg?w=450&h=298"},
+   :width 450,
+   :height 298,
+   :alt "DSC_0868"}
+  {:type :paragraph,
+   :content
+   "Parfois on se perd dans la jungle moderne am��ricaine: les terrains de golf. Pas exactement ce �� quoi on s���attendait. Le summum du chic am��ricain ��tant, au choix, de se marier ou de venir jouer au golf sur une des ��les. Ah pardon il me semblait qu���on se trouvait dans une endroit unique sur la plan��te,�� notamment par sa concentration d���esp��ces end��miques? Nan nan nous on veut juste des Walmart et des golfs. Eh ouai voil�� les effets secondaires de fox news��� Un peu la honte pour les am��ricains, les ��quatoriens font beaucoup mieux."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/11/dsc_0885.jpg?w=450&h=298"},
+   :width 450,
+   :height 298,
+   :alt "DSC_0885"}
+  {:type :paragraph,
+   :content
+   ("Entre deux routes b��tonn��es on croise quelques bestioles. Et comme Annec est assez fan des insectes en tout genre, elle les rep��re tout de suite. Bon moi comme je suis plut��t le genre de mec assez balaise, courageux et tout, m��me pas peur! A part quand ��a pique, comme les "
+    [:a {:href "http://fr.wikipedia.org/wiki/Chilopoda"} "centip��des"]
+    " ou les "
+    [:a
+     {:href "http://hbs.bishopmuseum.org/good-bad/scorpion.html"}
+     "scorpions bruns"]
+    ". Surtout �� 2 m��tres de la tente. Bon bah fini les picnics par terre en tong.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/11/dsc_0968.jpg?w=450&h=679"},
+   :width 450,
+   :height 679,
+   :alt "DSC_0968",
+   :caption "Secouristes �� l&#39;aff��t"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/11/dsc_1042.jpg?w=450&h=298"},
+   :width 450,
+   :height 298,
+   :alt "DSC_1042"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/11/dsc_1477.jpg?w=450&h=679"},
+   :width 450,
+   :height 679,
+   :alt "DSC_1477"}
+  {:type :paragraph,
+   :content
+   ("Kaua���i est notamment connu pour son trek longeant des falaises �� pics sur 30 kms. On bascule rapidement du petit sentier b��tonn�� avec toilettes tous les 50m �� des chemins sauvages, non prot��g��s et parfois m��me dangereux. La vue est incroyable c���est s��r mais bon je risque pas ma vie pour une cascade! Pas de soucis pour les djeun���s am��ricains qui gambadent avec leurs chaussures "
+    [:em {} "doigts de pied"]
+    ".")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/11/dsc_1194.jpg?w=450&h=298"},
+   :width 450,
+   :height 298,
+   :alt "DSC_1194",
+   :caption "Petite pause apr��s les efforts"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/11/dsc_1274.jpg?w=450&h=298"},
+   :width 450,
+   :height 298,
+   :alt "DSC_1274"}
+  {:type :paragraph,
+   :content
+   ("Maui, plus jeune que Kaua���i (mais moins que "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Hawa%C3%AF_%28%C3%AEle%29"}
+     "Big Island"]
+    ") conserve les traces de son pass�� volcanique. Son point culminant, "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Haleakal%C4%81"}
+     "Haleakal��"]
+    " (plus de 3000m!) offre une vue plongeante sur une vall��e form��e d���anciens crat��res volcaniques. Pour les montagnards du dimanche, l���acc��s se fait par la route. On en profite quand m��me pour en faire le tour, avec nuit au milieu des roches volcaniques en prime.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/11/dsc_1339.jpg?w=450&h=298"},
+   :width 450,
+   :height 298,
+   :alt "DSC_1339",
+   :caption "L&#39;origine du filet-o-fish"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/11/dsc_1376.jpg?w=450&h=298"},
+   :width 450,
+   :height 298,
+   :alt "DSC_1376",
+   :caption "Eh ouai je suis dangereux avec un bodyboard"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/11/dsc00023.jpg?w=450&h=337"},
+   :width 450,
+   :height 337,
+   :alt "DCIM101GOPRO",
+   :caption "Annec aux commandes. M��me pas peur!"}
+  {:type :paragraph,
+   :content
+   "Recommand�� par tous, le tour de l�����le dans les airs. La plupart choisissent l���h��licopt��re (on peut voler dans celui de Jurassic Park!) mais on opte pour l���ULM. Le temps de d��coller et l���instructeur non confie les manettes. 1 heure �� planer �� 150 km/h."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/11/dsc_0061.jpg?w=450&h=298"},
+   :width 450,
+   :height 298,
+   :alt "DSC_0061"}
+  {:type :paragraph,
+   :content
+   "Plut��t magique! Tellement dommage que l���am��ricain lambda n���y voit qu���une succession d���immenses plages s��par��es par des golfes.."}
+  {:type :video, :provider :vimeo, :id "32746727"}],
+ :title "Hawai���i",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "hawaii",
+ :source-id "1924",
+ :blog "avesdepaso",
+ :visibility :public}

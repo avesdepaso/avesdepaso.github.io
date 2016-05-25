@@ -1,0 +1,139 @@
+{:updated-at #inst "2009-07-08T11:49:55.000-00:00",
+ :tags #{:equateur},
+ :cover
+ {:provider :wordpress,
+  :id
+  {:url
+   "https://vadrouilles.files.wordpress.com/2009/07/dscn2412-50.jpg?w=300&h=225"},
+  :type :photo,
+  :width 300,
+  :height 225,
+  :alt "Perucho",
+  :caption "Perucho"},
+ :published-at #inst "2009-07-08T11:40:03.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Après 5 mois de marche et de vadrouilles, nous faisons un break à la ferme. Enfin, c'est pas une ferme comme les autres parce qu'elle est Bio et que sa production fait moins mal à la planête que toutes les industries agroalimentaires multinationales."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/07/dscn2414-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Julien, en jardinier",
+   :caption "Julien, en jardinier"}
+  {:type :paragraph, :content "Proriétaire : Michael Ayala"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/07/dscn2455-50.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "Michael, le jefe",
+   :caption "Michael, le jefe"}
+  {:type :paragraph,
+   :content
+   "Où ? : mmmh, un pueblo au milieu de 'No where', à Perucho (2 h de Quito, Equateur)"}
+  {:type :paragraph,
+   :content
+   "Nous avons prévu de rester 2 semaines, le temps pour nous d'en savoir un peu plus sur la production de produits bio. Nos missions consistent à bêcher (passionnant), enlever les mauvaises herbes et aussi creuser un trou de 2.50 m de profondeur en haut d'une montagne afin de créer un réservoir d'eau pour les plantations."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/07/p1000733-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Le trou ",
+   :caption "Le trou "}
+  {:type :paragraph,
+   :content
+   "Mais on a fait des travaux beaucoup plus minutieux et intéressants : planter des carottes blanches, cueillir des graines de café et réaliser le processus de toréfaction, faire du yaourt nature ou du granola sans payer celui de Nestlé ! Et aussi, voir les élevages de Cuy (prononcez 'couilles', cohcon d'inde) qu'on mange après le dur labeur des métiers de l'agriculture. Le projet étant nouveau, il nous a fallu aussi peindre quelques meubles pour les prochains bénévoles."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/07/dscn2431-50.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "Lavage des graines de café",
+   :caption "Lavage des graines de café"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/07/dscn2433-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Ca ressemble à ça",
+   :caption "Ca ressemble à ça"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/07/dscn2415-50.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "Miam miam",
+   :caption "Miam miam"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/07/dscn2503-50.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "Coup de pinceau",
+   :caption "Coup de pinceau"}
+  {:type :paragraph, :content "La vie en communauté :"}
+  {:type :paragraph,
+   :content
+   "Oui, parce qu'on est pas tout seul à vouloir faire du volontariat. Nous avons cohabité avec diverses nationalité : au total, nous comptons 9 personnes, avec qui il faut manger, travailler, dormir."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/07/p1000698-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Préparation de biscuits Bio",
+   :caption "Préparation de biscuits Bio"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/07/dscn2430-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Salade bio du jardin",
+   :caption "Salade bio du jardin"}
+  {:type :paragraph,
+   :content
+   "Par ailleurs, fallait bien découvrir le coin où Michael nous amène en équipe pour faire connaissance avec les plantes médicinales du coin et se baigner dans l'eau froide des cascades."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/07/p1000717-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Vive le pick-up",
+   :caption "Vive le pick-up"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/07/dscn2477-50.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "Une petite douche froide",
+   :caption "Une petite douche froide"}],
+ :title "A la Ferme, comme Martine",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "a-la-ferme-comme-martine",
+ :source-id "1038",
+ :blog "avesdepaso",
+ :visibility :public}

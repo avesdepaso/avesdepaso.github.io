@@ -1,0 +1,1328 @@
+{:name "Aves de paso"
+ :description "Vadrouilles en Amériques"
+ :posts
+ [{:slug "ceramica-1",
+   :title "CERAMICA 1",
+   :visibility :published,
+   :cover {:type :photo}}
+  {:slug "de-paraty-a-ponta-negra",
+   :title "De Paraty à Ponta Negra",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :height 158,
+    :id
+    {:id "21774177311",
+     :farm-id 1,
+     :server-id "587",
+     :photoset-id nil,
+     :secret "4d17cfc7d9",
+     :original-secret nil,
+     :original-format nil},
+    :provider :flickr,
+    :type :photo}}
+  {:slug "la-cuidad-del-oro",
+   :title "La Cuidad del Oro",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :height 158,
+    :id
+    {:id "20954211783",
+     :farm-id 6,
+     :server-id "5778",
+     :photoset-id nil,
+     :secret "a46cd28c0c",
+     :original-secret nil,
+     :original-format nil},
+    :provider :flickr,
+    :type :photo}}
+  {:slug "experience-a-belo-horizonte",
+   :title "Expérience à Belo Horizonte",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :height 158,
+    :id
+    {:id "20952692363",
+     :farm-id 6,
+     :server-id "5632",
+     :photoset-id nil,
+     :secret "c50cf6a800",
+     :original-secret nil,
+     :original-format nil},
+    :provider :flickr,
+    :type :photo}}
+  {:slug "my-31st-years-dinner-in-rio",
+   :title "My 31 years dinner in Rio",
+   :visibility :published,
+   :cover nil}
+  {:slug "la-ville-merveilleuse",
+   :title "La ville merveilleuse",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :height 158,
+    :id
+    {:id "21384702639",
+     :farm-id 6,
+     :server-id "5786",
+     :photoset-id nil,
+     :secret "f09640369b",
+     :original-secret nil,
+     :original-format nil},
+    :provider :flickr,
+    :type :photo}}
+  {:slug "vie-bresilienne",
+   :title "Vie brésilienne",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :height 158,
+    :id
+    {:id "20944886924",
+     :farm-id 1,
+     :server-id "627",
+     :photoset-id nil,
+     :secret "cfb3660eb2",
+     :original-secret nil,
+     :original-format nil},
+    :provider :flickr,
+    :type :photo}}
+  {:slug "hasta-luego-cerro-negro",
+   :title "Hasta luego Cerro Negro",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :height 135,
+    :id
+    {:id "16492584983",
+     :farm-id 8,
+     :server-id "7675",
+     :photoset-id nil,
+     :secret "a57899d3f1",
+     :original-secret nil,
+     :original-format nil},
+    :provider :flickr,
+    :type :photo}}
+  {:slug "3800-kms-chile",
+   :title "3800 KMS - Chile",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :type :photo,
+    :id
+    {:photoset-id nil,
+     :original-format nil,
+     :secret "1af6436bd3",
+     :original-secret nil,
+     :id "20180973376",
+     :farm-id 1,
+     :server-id "301"},
+    :provider :flickr,
+    :height 159}}
+  {:slug "dans-les-entrailles-du-volcan-calbuco",
+   :title "Dans les entrailles du volcan Calbuco",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :height 158,
+    :id
+    {:id "20014284620",
+     :farm-id 1,
+     :server-id "346",
+     :photoset-id nil,
+     :secret "5d1245ea7e",
+     :original-secret nil,
+     :original-format nil},
+    :provider :flickr,
+    :type :photo}}
+  {:slug "highway-to-chile",
+   :title "Highway to Chile",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :height 180,
+    :id
+    {:id "19646287094",
+     :farm-id 4,
+     :server-id "3825",
+     :photoset-id nil,
+     :secret "6c9ce2ba0e",
+     :original-secret nil,
+     :original-format nil},
+    :provider :flickr,
+    :type :photo}}
+  {:slug "vivre-le-van",
+   :title "Vivre le van",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :height 158,
+    :id
+    {:id "19917336152",
+     :farm-id 1,
+     :server-id "273",
+     :photoset-id nil,
+     :secret "c393c672dd",
+     :original-secret nil,
+     :original-format nil},
+    :provider :flickr,
+    :type :photo}}
+  {:slug "the-van-experience",
+   :title "The Ghost Buster Van Experience",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :height 159,
+    :id
+    {:id "19869743571",
+     :farm-id 1,
+     :server-id "423",
+     :photoset-id nil,
+     :secret "519e75e077",
+     :original-secret nil,
+     :original-format nil},
+    :provider :flickr,
+    :type :photo}}
+  {:slug "cendres",
+   :title "Cendres",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :height 180,
+    :id
+    {:id "17247977562",
+     :farm-id 8,
+     :server-id "7688",
+     :photoset-id nil,
+     :secret "c1e7335916",
+     :original-secret nil,
+     :original-format nil},
+    :provider :flickr,
+    :type :photo}}
+  {:slug "vivir-a-la-mina",
+   :title "Vivir en la mina",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :type :photo,
+    :id
+    {:photoset-id nil,
+     :original-format nil,
+     :secret "4e932c7b9c",
+     :original-secret nil,
+     :id "14342815041",
+     :farm-id 4,
+     :server-id "3843"},
+    :provider :flickr,
+    :height 159}}
+  {:slug "chiloe-en-famille",
+   :title "Chiloé en famille",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :height 159,
+    :id
+    {:id "16692253289",
+     :farm-id 9,
+     :server-id "8731",
+     :photoset-id nil,
+     :secret "4f43d58e97",
+     :original-secret nil,
+     :original-format nil},
+    :provider :flickr,
+    :type :photo}}
+  {:slug "caminata-en-el-bolson",
+   :title "Caminata en el Bolson",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :id
+    {:photoset-id nil,
+     :original-format nil,
+     :secret "985cbe45d1",
+     :original-secret nil,
+     :id "15911167284",
+     :farm-id 8,
+     :server-id "7381"},
+    :provider :flickr,
+    :height 135}}
+  {:slug "mont-domuyo--point-culminant-de-la-patagonie",
+   :title "Mont Domuyo",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :id
+    {:photoset-id nil,
+     :original-format nil,
+     :secret "746191d431",
+     :original-secret nil,
+     :id "16263584736",
+     :farm-id 8,
+     :server-id "7540"},
+    :provider :flickr,
+    :height 180}}
+  {:slug "geysers-en-altitude",
+   :title "Geysers en altitude",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :id
+    {:photoset-id nil,
+     :original-format nil,
+     :secret "a33132a564",
+     :original-secret nil,
+     :id "15923351345",
+     :farm-id 8,
+     :server-id "7505"},
+    :provider :flickr,
+    :height 159}}
+  {:slug "30s-years-old-dinner",
+   :title "30's years old dinner",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :height 678,
+    :provider :flickr,
+    :user-id "96129378@N07",
+    :category-id "72157647872068261",
+    :id
+    {:id "15129292307",
+     :farm-id 6,
+     :server-id "5559",
+     :photoset-id nil,
+     :secret "6ec7acc3d2",
+     :original-secret nil,
+     :original-format nil}}}
+  {:slug "navidad-2014--san-martin-de-los-andes",
+   :title "NOEL 2014",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :id
+    {:photoset-id nil,
+     :original-format nil,
+     :secret "fa61193cfa",
+     :original-secret nil,
+     :id "16104062765",
+     :farm-id 8,
+     :server-id "7535"},
+    :provider :flickr,
+    :height 135}}
+  {:slug "family-part-one",
+   :title "Family Part One",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :id
+    {:photoset-id nil,
+     :original-format nil,
+     :secret "01cf29e505",
+     :original-secret nil,
+     :id "15737602937",
+     :farm-id 8,
+     :server-id "7472"},
+    :provider :flickr,
+    :height 159}}
+  {:slug "la-casa-de-madera",
+   :title "Casita de madera",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :id
+    {:photoset-id nil,
+     :original-format nil,
+     :secret "efb5cd74bd",
+     :original-secret nil,
+     :id "15016341703",
+     :farm-id 4,
+     :server-id "3948"},
+    :provider :flickr,
+    :height 159}}
+  {:slug "villa-pehuenia",
+   :title "Villa Pehuenia",
+   :visibility :published,
+   :cover
+   {:width 240,
+    :id
+    {:photoset-id nil,
+     :original-format "jpg",
+     :secret "866026622e",
+     :original-secret "42992ca9c9",
+     :id "15089925926",
+     :farm-id 6,
+     :server-id "5573"},
+    :provider :flickr,
+    :height 159}}
+  {:slug "fin-de-saison",
+   :title "Fin de saison",
+   :visibility :published,
+   :cover nil}
+  {:slug "hola-primavera",
+   :title "HOLA PRIMAVERA",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :height 678,
+    :provider :flickr,
+    :user-id "96129378@N07",
+    :category-id "72157647467922698",
+    :id
+    {:id "15290710846",
+     :farm-id 6,
+     :server-id "5576",
+     :photoset-id nil,
+     :secret "709dac161e",
+     :original-secret nil,
+     :original-format nil}}}
+  {:slug "run-patagonia-run",
+   :title "Run, Patagonia Run",
+   :visibility :published,
+   :cover
+   {:alt "Lac Lacard",
+    :width 4928,
+    :user-id "96129378@N07",
+    :category-id "72157644098279316",
+    :id
+    {:original-format "jpg",
+     :secret "e9144f7f76",
+     :original-secret "b00d1a6d11",
+     :id "13832405544",
+     :farm-id 6,
+     :server-id "5166"},
+    :provider :flickr,
+    :height 3264}}
+  {:slug "linda-rosario",
+   :title "Linda Rosario",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :user-id "96129378@N07",
+    :category-id "72157641157454255",
+    :id
+    {:photoset-id nil,
+     :original-format nil,
+     :secret "1a2a9071b4",
+     :original-secret nil,
+     :id "12611251795",
+     :farm-id 4,
+     :server-id "3681"},
+    :provider :flickr,
+    :height 769}}
+  {:slug "una-estancia-perdida-cerca-de-la-mina",
+   :title "Una estancia perdida cerca de la mina!",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :height 678,
+    :provider :flickr,
+    :user-id "96129378@N07",
+    :category-id "72157640837666453",
+    :id
+    {:id "12460401053",
+     :farm-id 3,
+     :server-id "2820",
+     :photoset-id nil,
+     :secret "58643b3ff0",
+     :original-secret nil,
+     :original-format nil}}}
+  {:slug "pelerinage-a-mendoza-et-plus",
+   :title "Pélerinage à Mendoza et plus",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :user-id "96129378@N07",
+    :category-id "72157640203890154",
+    :id
+    {:photoset-id nil,
+     :original-format nil,
+     :secret "2e27d2e603",
+     :original-secret nil,
+     :id "12165667196",
+     :farm-id 4,
+     :server-id "3827"},
+    :provider :flickr,
+    :height 678}}
+  {:slug "barbier-berlin",
+   :title "Le barbier de Berlin",
+   :visibility :published,
+   :cover nil}
+  {:slug "le-paradis-du-randonneur",
+   :title "Le paradis du randonneur",
+   :visibility :published,
+   :cover
+   {:width 678,
+    :height 1024,
+    :provider :flickr,
+    :user-id "96129378@N07",
+    :category-id "72157636626220784",
+    :id
+    {:id "10313932016",
+     :farm-id 6,
+     :server-id "5497",
+     :photoset-id nil,
+     :secret "0c0df736dc",
+     :original-secret nil,
+     :original-format nil}}}
+  {:slug "4-pieds-en-terre-australe",
+   :title "4 pieds en terre australe",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :height 678,
+    :provider :flickr,
+    :user-id "96129378@N07",
+    :category-id "72157647625145549",
+    :id
+    {:id "15333513126",
+     :farm-id 4,
+     :server-id "3844",
+     :photoset-id nil,
+     :secret "524ec221ab",
+     :original-secret nil,
+     :original-format nil}}}
+  {:slug "rapa-nui",
+   :title "Rapa Nui",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :height 678,
+    :provider :flickr,
+    :user-id "96129378@N07",
+    :category-id "72157648037562265",
+    :id
+    {:id "15324180286",
+     :farm-id 4,
+     :server-id "3918",
+     :photoset-id nil,
+     :secret "e74fc696e8",
+     :original-secret nil,
+     :original-format nil}}}
+  {:slug "diana-en-argentina-por-primera-vez",
+   :title "Diana en Argentina por primera vez!",
+   :visibility :published,
+   :cover nil}
+  {:slug "source-use-of-gold",
+   :title "Source & Use of gold",
+   :visibility :published,
+   :cover nil}
+  {:slug "merveilleux-valparaiso",
+   :title "Merveilleux Valparaiso",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :height 678,
+    :provider :flickr,
+    :user-id "96129378@N07",
+    :category-id "72157647628313100",
+    :id
+    {:id "15355911562",
+     :farm-id 4,
+     :server-id "3922",
+     :photoset-id nil,
+     :secret "0bc3dca676",
+     :original-secret nil,
+     :original-format nil}}}
+  {:slug "un-pti-tour-chez-notre-voisin",
+   :title "Un p'ti tour chez notre voisin",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :user-id "96129378@N07",
+    :category-id "72157647675239457",
+    :id
+    {:photoset-id nil,
+     :original-format nil,
+     :secret "3790b3fbe9",
+     :original-secret nil,
+     :id "15177228878",
+     :farm-id 4,
+     :server-id "3892"},
+    :provider :flickr,
+    :height 678}}
+  {:slug "en-route-pour-le-cone-blanc",
+   :title "En route pour le Cône blanc!",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :user-id "96129378@N07",
+    :category-id "72157633586664260",
+    :id
+    {:photoset-id nil,
+     :original-format "jpg",
+     :secret "39bab0a31d",
+     :original-secret "f3723b6186",
+     :id "8785738679",
+     :farm-id 3,
+     :server-id "2833"},
+    :provider :flickr,
+    :height 678}}
+  {:slug "le-toit-du-monde",
+   :title "Le toit du monde",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :height 678,
+    :provider :flickr,
+    :user-id "96129378@N07",
+    :category-id "72157647546674579",
+    :id
+    {:id "15150163399",
+     :farm-id 4,
+     :server-id "3871",
+     :photoset-id nil,
+     :secret "e5c8a96da0",
+     :original-secret nil,
+     :original-format nil}}}
+  {:slug "mudanza",
+   :title "Mudanza",
+   :visibility :published,
+   :cover nil}
+  {:slug "bienvenidos-a-tierra-santa",
+   :title "Bienvenidos a Tierra Santa",
+   :visibility :published,
+   :cover nil}
+  {:slug "exploration-a-cerro-negro",
+   :title "Exploration à Cerro Negro",
+   :visibility :published,
+   :cover nil}
+  {:slug "poussieres-de-salar",
+   :title "Poussières de salar",
+   :visibility :published,
+   :cover nil}
+  {:slug "rutas-del-sur",
+   :title "Rutas del sur!",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :user-id "96129378@N07",
+    :category-id "72157647618858100",
+    :id
+    {:photoset-id nil,
+     :original-format nil,
+     :secret "42e5cd27d4",
+     :original-secret nil,
+     :id "15353938952",
+     :farm-id 4,
+     :server-id "3929"},
+    :provider :flickr,
+    :height 678}}
+  {:slug "yoga-en-las-salinas-grandes",
+   :title "Yoga en las salinas grandes!",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :user-id "96129378@N07",
+    :category-id "72157647622236899",
+    :id
+    {:photoset-id nil,
+     :original-format nil,
+     :secret "cd64075174",
+     :original-secret nil,
+     :id "15167955160",
+     :farm-id 3,
+     :server-id "2946"},
+    :provider :flickr,
+    :height 678}}
+  {:slug "les-merveilles-du-nord-argentin",
+   :title "Les merveilles du Nord Argentin!",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :height 678,
+    :provider :flickr,
+    :user-id "96129378@N07",
+    :category-id "72157647980707901",
+    :id
+    {:id "15341064201",
+     :farm-id 4,
+     :server-id "3852",
+     :photoset-id nil,
+     :secret "5d747530ae",
+     :original-secret nil,
+     :original-format nil}}}
+  {:slug "equipo-de-rescate-minero",
+   :title "Equipo de Rescate Minero",
+   :visibility :published,
+   :cover nil}
+  {:slug "amour-big-mac-inflation",
+   :title "Amour, Big Mac et inflation",
+   :visibility :published,
+   :cover nil}
+  {:slug "proyecto-cerro-negro",
+   :title "Proyecto Cerro Negro",
+   :visibility :published,
+   :cover nil}
+  {:slug "un-long-weekend-a-mar-del-plata",
+   :title "Un long weekend à mar del Plata",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :height 678,
+    :provider :flickr,
+    :user-id "96129378@N07",
+    :category-id "72157647586815178",
+    :id
+    {:id "15157872118",
+     :farm-id 3,
+     :server-id "2943",
+     :photoset-id nil,
+     :secret "960993fc9b",
+     :original-secret nil,
+     :original-format nil}}}
+  {:slug "douce-france",
+   :title "Douce France",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :height 768,
+    :provider :flickr,
+    :user-id "96129378@N07",
+    :category-id "72157647946460591",
+    :id
+    {:id "15149811828",
+     :farm-id 3,
+     :server-id "2942",
+     :photoset-id nil,
+     :secret "4375d6fc21",
+     :original-secret nil,
+     :original-format nil}}}
+  {:slug "la-feria-de-mataderos",
+   :title "La Feria de Mataderos",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :user-id "96129378@N07",
+    :category-id "72157647952058252",
+    :id
+    {:photoset-id nil,
+     :original-format nil,
+     :secret "59566ed615",
+     :original-secret nil,
+     :id "15150277057",
+     :farm-id 3,
+     :server-id "2943"},
+    :provider :flickr,
+    :height 678}}
+  {:slug "un-petit-saut-dans-les-andes",
+   :title "Un petit saut dans les Andes",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :height 678,
+    :provider :flickr,
+    :user-id "96129378@N07",
+    :category-id "72157647656554420",
+    :id
+    {:id "15173919057",
+     :farm-id 4,
+     :server-id "3911",
+     :photoset-id nil,
+     :secret "925a6b940e",
+     :original-secret nil,
+     :original-format nil}}}
+  {:slug "on-avait-comme-des-ailes",
+   :title "On avait comme des ailes ...",
+   :visibility :published,
+   :cover nil}
+  {:slug "la-casa-de-buenos-aires",
+   :title "La casa de Buenos Aires !",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :height 678,
+    :provider :flickr,
+    :user-id "96129378@N07",
+    :category-id "72157647903763416",
+    :id
+    {:id "15150242947",
+     :farm-id 4,
+     :server-id "3899",
+     :photoset-id nil,
+     :secret "e51922ea6e",
+     :original-secret nil,
+     :original-format nil}}}
+  {:slug "24-mars-2012-a-la-memoire-des-disparus",
+   :title "24 Mars 2012 A la mémoire des disparus",
+   :visibility :published,
+   :cover
+   {:width 768,
+    :height 1024,
+    :provider :flickr,
+    :user-id "96129378@N07",
+    :category-id "72157647552675678",
+    :id
+    {:id "15149552848",
+     :farm-id 3,
+     :server-id "2944",
+     :photoset-id nil,
+     :secret "0be84867ba",
+     :original-secret nil,
+     :original-format nil}}}
+  {:slug "primera-vez-al-milonga",
+   :title "Primera vez al Milonga",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :user-id "96129378@N07",
+    :category-id "72157647615674129",
+    :id
+    {:photoset-id nil,
+     :original-format nil,
+     :secret "4028005692",
+     :original-secret nil,
+     :id "15160590299",
+     :farm-id 4,
+     :server-id "3917"},
+    :provider :flickr,
+    :height 678}}
+  {:slug "nos-premiers-pas-a-buenos-aires",
+   :title "Nos premiers pas à Buenos Aires",
+   :visibility :published,
+   :cover nil}
+  {:slug "panama-city-le-contraste",
+   :title "Panama City : LE contraste !!!",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :height 678,
+    :provider :flickr,
+    :user-id "96129378@N07",
+    :category-id "72157647991021472",
+    :id
+    {:id "15159350689",
+     :farm-id 3,
+     :server-id "2943",
+     :photoset-id nil,
+     :secret "01cd02f517",
+     :original-secret nil,
+     :original-format nil}}}
+  {:slug "ohh-les-zolis-animaux",
+   :title "Costa Rica : Ohh les zolis animaux!",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :height 678,
+    :provider :flickr,
+    :user-id "96129378@N07",
+    :category-id "72157647943335556",
+    :id
+    {:id "15158632207",
+     :farm-id 4,
+     :server-id "3878",
+     :photoset-id nil,
+     :secret "f064582df1",
+     :original-secret nil,
+     :original-format nil}}}
+  {:slug "en-route-mauvaise-troupe",
+   :title "En route mauvaise troupe",
+   :visibility :published,
+   :cover nil}
+  {:slug "ski-de-randonnee-elfin-lakes",
+   :title "Ski de randonnée à Elfin Lakes",
+   :visibility :published,
+   :cover
+   {:width 678,
+    :user-id "96129378@N07",
+    :category-id "72157647675232717",
+    :id
+    {:photoset-id nil,
+     :original-format nil,
+     :secret "d0ae2b245f",
+     :original-secret nil,
+     :id "15362263191",
+     :farm-id 4,
+     :server-id "3922"},
+    :provider :flickr,
+    :height 1024}}
+  {:slug "raquettes-a-vancouver",
+   :title "Raquettes à Vancouver",
+   :visibility :published,
+   :cover nil}
+  {:slug "weekend-de-glisse-a-whistler",
+   :title "Weekend de glisse à Whistler",
+   :visibility :published,
+   :cover
+   {:width 1024,
+    :height 678,
+    :provider :flickr,
+    :user-id "96129378@N07",
+    :category-id "72157648027083902",
+    :id
+    {:id "15169310968",
+     :farm-id 4,
+     :server-id "3857",
+     :photoset-id nil,
+     :secret "7cd156d2bc",
+     :original-secret nil,
+     :original-format nil}}}
+  {:slug "hawaii",
+   :title "Hawaii",
+   :visibility :published,
+   :cover nil}
+  {:slug "movember",
+   :title "Movember",
+   :visibility :published,
+   :cover nil}
+  {:slug "velocity",
+   :title "Velocity",
+   :visibility :published,
+   :cover nil}
+  {:slug "je-men-souviendrai",
+   :title "... je m'en souviendrai",
+   :visibility :published,
+   :cover nil}
+  {:slug "la-belle-province",
+   :title "La belle province ...",
+   :visibility :published,
+   :cover
+   {:width 678,
+    :height 1024,
+    :provider :flickr,
+    :user-id "96129378@N07",
+    :category-id "72157647555844088",
+    :id
+    {:id "15313719266",
+     :farm-id 3,
+     :server-id "2942",
+     :photoset-id nil,
+     :secret "b386cc7cd9",
+     :original-secret nil,
+     :original-format nil}}}
+  {:slug "kayak-sur-indian-arm",
+   :title "Kayak sur Indian Arm",
+   :visibility :published,
+   :cover nil}
+  {:slug "skaha-pour-les-grimpeurs",
+   :title "Skaha pour les Grimpeurs !",
+   :visibility :published,
+   :cover nil}
+  {:slug "vancouverite-wedding",
+   :title "Vancouverite Wedding",
+   :visibility :published,
+   :cover nil}
+  {:slug "seattle-reloaded",
+   :title "Seattle reloaded",
+   :visibility :published,
+   :cover nil}
+  {:slug "celebration-of-light",
+   :title "Celebration of Light !",
+   :visibility :published,
+   :cover nil}
+  {:slug "a-velo-sur-galiano",
+   :title "A vélo sur Galiano",
+   :visibility :published,
+   :cover nil}
+  {:slug "lucille-et-edgar-a-vancouver",
+   :title "Lucille et Edgar à Vancouver !",
+   :visibility :published,
+   :cover nil}
+  {:slug "foodie-2-0",
+   :title "Foodie 2.0",
+   :visibility :published,
+   :cover nil}
+  {:slug "une-journee-sur-la-sunshine-coast",
+   :title "Une journée sur la sunshine coast",
+   :visibility :published,
+   :cover nil}
+  {:slug "richmond-banlieue-de-vancouver",
+   :title "Richmond, la banlieue de Vancouver !",
+   :visibility :published,
+   :cover nil}
+  {:slug "portlandia",
+   :title "Portlandia",
+   :visibility :published,
+   :cover nil}
+  {:slug "weekend-a-seattle",
+   :title "Weekend à Seattle",
+   :visibility :published,
+   :cover nil}
+  {:slug "spring-has-sprung",
+   :title "Spring has sprung",
+   :visibility :published,
+   :cover nil}
+  {:slug "go-giants-go",
+   :title "Go Giants Go !!",
+   :visibility :published,
+   :cover nil}
+  {:slug "lamerique-comme-si-vous-y-etiez",
+   :title "L'amérique comme si vous y étiez",
+   :visibility :published,
+   :cover nil}
+  {:slug "chercher-un-emploi-au-vancouver",
+   :title "Chercher un emploi à Vancouver",
+   :visibility :published,
+   :cover nil}
+  {:slug "sur-des-skis-dans-le-ciel-grouse-mountain",
+   :title "Sur des skis dans le ciel:  Grouse Mountain",
+   :visibility :published,
+   :cover nil}
+  {:slug "la-flamme-sest-rallumee-un-an-apres",
+   :title "La flamme s'est rallumée un an après !",
+   :visibility :published,
+   :cover nil}
+  {:slug "annee-lapin",
+   :title "Cette année un chinois va tuer un lapin (pinhinnhh)",
+   :visibility :published,
+   :cover nil}
+  {:slug "a-new-career-in-a-new-town",
+   :title "A new career in a new town",
+   :visibility :published,
+   :cover
+   {:provider :flickr,
+    :id
+    {:id "13181678533",
+     :farm-id 8,
+     :server-id "7195",
+     :secret "c3e244d226",
+     :original-secret "41c5e81071",
+     :original-format "jpg"},
+    :user-id "96129378@N07",
+    :category-id "72157642411178115",
+    :alt "Lac Lacard",
+    :width 4928,
+    :height 3264}}
+  {:slug "une-semaine-au-milieu-des-peuples",
+   :title "Une semaine au milieu des peuples",
+   :visibility :published,
+   :cover nil}
+  {:slug "flaneri-sur-luang-prabang",
+   :title "Flanerie sur Luang Prabang",
+   :visibility :published,
+   :cover nil}
+  {:slug "une-journee-de-grimpe-a-vang-vieng",
+   :title "Une journée de grimpe à Vang Vieng",
+   :visibility :published,
+   :cover nil}
+  {:slug "visiter-mon-ami-valerian-et-sa-copine-manila",
+   :title "Visiter mon ami Valérian et sa copine Manila",
+   :visibility :published,
+   :cover nil}
+  {:slug "a-la-decouverte-de-la-vie-lao",
+   :title "A la découverte de la vie lao",
+   :visibility :published,
+   :cover nil}
+  {:slug "stage-ucpa-grimpette-a-sormiou",
+   :title "Stage UCPA : Grimpette à Sormiou",
+   :visibility :published,
+   :cover nil}
+  {:slug "en-reperage",
+   :title "En repérage",
+   :visibility :published,
+   :cover nil}
+  {:slug "en-route-vers-la-mer",
+   :title "En route vers la Mer !",
+   :visibility :published,
+   :cover nil}
+  {:slug "culture-et-grignotage",
+   :title "Culture et grignotage",
+   :visibility :published,
+   :cover nil}
+  {:slug "ballade-dans-florence",
+   :title "Ballade dans Florence",
+   :visibility :published,
+   :cover nil}
+  {:slug "florence-go-go-go",
+   :title "Florence : Go Go Go",
+   :visibility :published,
+   :cover nil}
+  {:slug "marche-a-pied",
+   :title "Marche à pied",
+   :visibility :published,
+   :cover nil}
+  {:slug "berlin-part-4",
+   :title "BERLIN (Part 4)",
+   :visibility :published,
+   :cover nil}
+  {:slug "berlin-part-3",
+   :title "BERLIN (Part 3)",
+   :visibility :published,
+   :cover nil}
+  {:slug "berlin-part-2",
+   :title "BERLIN  (Part 2)",
+   :visibility :published,
+   :cover nil}
+  {:slug "berlin-part-1",
+   :title "BERLIN (Part 1)",
+   :visibility :published,
+   :cover nil}
+  {:slug "retour-en-france-a-lyon",
+   :title "Retour en France, à Lyon",
+   :visibility :published,
+   :cover nil}
+  {:slug "retour-a-la-realite",
+   :title "Retour à la réalité",
+   :visibility :published,
+   :cover nil}
+  {:slug "resume-global",
+   :title "Résumé global",
+   :visibility :published,
+   :cover nil}
+  {:slug "resume-equateur",
+   :title "Résumé Equateur",
+   :visibility :published,
+   :cover nil}
+  {:slug "fin-del-viage",
+   :title "Fin del Viage",
+   :visibility :published,
+   :cover nil}
+  {:slug "a-la-ferme-comme-martine",
+   :title "A la Ferme, comme Martine",
+   :visibility :published,
+   :cover
+   {:provider :wordpress,
+    :id
+    {:url
+     "https://vadrouilles.files.wordpress.com/2009/07/dscn2412-50.jpg?w=300&h=225"},
+    :type :photo,
+    :width 300,
+    :height 225,
+    :alt "Perucho",
+    :caption "Perucho"}}
+  {:slug "retour-a-la-detente-dans-leau",
+   :title "Retour à la détente : dans l'eau",
+   :visibility :published,
+   :cover nil}
+  {:slug "cotopaxi-ou-retour-a-quiqui",
+   :title "Cotopaxi ou retour à QuiQui ?",
+   :visibility :published,
+   :cover nil}
+  {:slug "quito-sa-vie-et-ses-nuages",
+   :title "Quito : sa vie et ses nuages",
+   :visibility :published,
+   :cover
+   {:provider :wordpress,
+    :id
+    {:url
+     "https://vadrouilles.files.wordpress.com/2009/06/dscn2315-501.jpg?w=300&h=225"},
+    :type :photo,
+    :width 300,
+    :height 225,
+    :alt "Quito vue d'en haut",
+    :caption "Quito vu d&#39;en haut"}}
+  {:slug "a-la-rencontre-de-limposant-chimborazo-6300m",
+   :title "A la rencontre de l'imposant Chimborazo (6300m)",
+   :visibility :published,
+   :cover nil}
+  {:slug "cuenca-et-le-panama",
+   :title "Cuenca et le Panama",
+   :visibility :published,
+   :cover
+   {:provider :wordpress,
+    :id
+    {:url
+     "https://vadrouilles.files.wordpress.com/2009/06/img_4525-50.jpg?w=199&h=300"},
+    :type :photo,
+    :width 199,
+    :height 300,
+    :alt "Cathedrale de Cuenca",
+    :caption "Cathedrale de Cuenca"}}
+  {:slug "iles-galapagos",
+   :title "Iles Galapagos",
+   :visibility :published,
+   :cover nil}
+  {:slug "mais-si-ca-repousse",
+   :title "Mais si ca repousse",
+   :visibility :published,
+   :cover nil}
+  {:slug "resume-perou",
+   :title "Résumé Pérou",
+   :visibility :published,
+   :cover nil}
+  {:slug "dans-la-vallee-du-santa-cruz",
+   :title "Dans la vallée du Santa Cruz",
+   :visibility :published,
+   :cover nil}
+  {:slug "le-retour-de-la-grimpette",
+   :title "Le retour de la grimpette",
+   :visibility :published,
+   :cover nil}
+  {:slug "bouchons-doreilles",
+   :title "Bouchons d'oreilles",
+   :visibility :published,
+   :cover nil}
+  {:slug "mysterieuses-lignes-de-nazca",
+   :title "Mystérieuses lignes de Nazca",
+   :visibility :published,
+   :cover nil}
+  {:slug "un-depart",
+   :title "Un départ",
+   :visibility :published,
+   :cover nil}
+  {:slug "la-masse-touristique-a-cusco",
+   :title "La masse touristique a Cusco",
+   :visibility :published,
+   :cover
+   {:provider :wordpress,
+    :id
+    {:url
+     "https://vadrouilles.files.wordpress.com/2009/05/img_3501-50.jpg?w=300&h=199"},
+    :type :photo,
+    :width 300,
+    :height 199,
+    :alt "Plaza de Armas",
+    :caption "Plaza de Armas"}}
+  {:slug "machu-picchu-a-notre-sauce",
+   :title "Machu Picchu à notre sauce",
+   :visibility :published,
+   :cover nil}
+  {:slug "3-jours-dans-les-vagues-du-rio-apurimac",
+   :title "3 jours dans les vagues du R��o Apurimac",
+   :visibility :published,
+   :cover nil}
+  {:slug "chute-libre-dans-le-canyon-de-colca",
+   :title "Chute libre dans le Canyon de Colca",
+   :visibility :published,
+   :cover nil}
+  {:slug "initiation-a-la-grimpette",
+   :title "Initiation à la grimpette",
+   :visibility :published,
+   :cover nil}
+  {:slug "resume-bolivie",
+   :title "Résumé Bolivie",
+   :visibility :published,
+   :cover nil}
+  {:slug "la-haut-sur-une-arrete",
+   :title "Là haut sur une arrête",
+   :visibility :published,
+   :cover
+   {:provider :wordpress,
+    :id
+    {:url
+     "https://vadrouilles.files.wordpress.com/2009/04/img_3271-50.jpg?w=300&h=199"},
+    :type :photo,
+    :width 300,
+    :height 199,
+    :alt "L'équipe de winners",
+    :caption "L'équipe de winners"}}
+  {:slug "au-dessus-des-nuages",
+   :title "Au dessus des nuages",
+   :visibility :published,
+   :cover nil}
+  {:slug "en-formation-en-altitude",
+   :title "En formation en altitude",
+   :visibility :published,
+   :cover nil}
+  {:slug "coupe-au-bolivien",
+   :title "Coupe au bol(ivien)",
+   :visibility :published,
+   :cover
+   {:provider :wordpress,
+    :id
+    {:url
+     "https://vadrouilles.files.wordpress.com/2009/04/img_2816.jpg?w=300&h=199"},
+    :type :photo,
+    :width 300,
+    :height 199}}
+  {:slug "viree-dans-les-mines-de-potosi",
+   :title "Virée dans les mines de Potosi",
+   :visibility :published,
+   :cover nil}
+  {:slug "en-44-sur-la-lune",
+   :title "En 4*4 sur la lune",
+   :visibility :published,
+   :cover nil}
+  {:slug "resume-bresil",
+   :title "Résumé Brésil",
+   :visibility :published,
+   :cover nil}
+  {:slug "iguacu-en-pagaille",
+   :title "Iguaçu en pagaille",
+   :visibility :published,
+   :cover nil}
+  {:slug "comme-des-poissons-dans-leau",
+   :title "Comme des poissons dans l'eau",
+   :visibility :published,
+   :cover
+   {:provider :wordpress,
+    :id
+    {:url
+     "https://vadrouilles.files.wordpress.com/2009/03/dsc02839-50.jpg?w=300&h=224"},
+    :type :photo,
+    :width 300,
+    :height 224,
+    :alt "Les nageurs de compet'",
+    :caption "Les nageurs de compet&#39;"}}
+  {:slug "viree-au-pantanal",
+   :title "Virée au Pantanal",
+   :visibility :published,
+   :cover
+   {:provider :wordpress,
+    :id
+    {:url
+     "https://vadrouilles.files.wordpress.com/2009/03/img_2023-50.jpg?w=300&h=199"},
+    :type :photo,
+    :width 300,
+    :height 199,
+    :alt "img_2023-50"}}
+  {:slug "le-retour-du-tang",
+   :title "Le retour du Tang",
+   :visibility :published,
+   :cover nil}
+  {:slug "un-endroit-bien-mal-nomme",
+   :title "Un endroit bien mal nommé",
+   :visibility :published,
+   :cover nil}
+  {:slug "la-ville-au-bresil",
+   :title "La ville au Brésil",
+   :visibility :published,
+   :cover nil}
+  {:slug "55-kms-a-pieds-nus",
+   :title "55 kms à pieds, nus",
+   :visibility :published,
+   :cover nil}
+  {:slug "traversee-de-lamazone",
+   :title "Traversée de l'Amazone",
+   :visibility :published,
+   :cover nil}
+  {:slug "saveurs-cachees",
+   :title "Saveurs cachées",
+   :visibility :published,
+   :cover nil}
+  {:slug "roraima-trek",
+   :title "Roraima Trek",
+   :visibility :published,
+   :cover
+   {:provider :wordpress,
+    :id
+    {:url
+     "https://vadrouilles.files.wordpress.com/2009/02/img_1331-50.jpg?w=150&h=100"},
+    :type :photo,
+    :alt "Roraima trek - Venezuela",
+    :caption "Departure"}}
+  {:slug "uh-ah-chavez-con-el-pueblo",
+   :title "Uh Ah Chavez con el pueblo",
+   :visibility :published,
+   :cover nil}
+  {:slug "playa", :title "Playa", :visibility :published, :cover nil}
+  {:slug "arrrgent",
+   :title "Arrrgent",
+   :visibility :published,
+   :cover nil}
+  {:slug "llegada-en-caracas-venezuela",
+   :title "llegada en Caracas, VENEZUELA",
+   :visibility :published,
+   :cover nil}
+  {:slug "entrainement",
+   :title "Entrainement",
+   :visibility :published,
+   :cover
+   {:provider :wordpress,
+    :id
+    {:url
+     "https://vadrouilles.files.wordpress.com/2009/02/dscn1785.jpg?w=150&h=112"},
+    :type :photo,
+    :alt "dscn1785"}}
+  {:slug "dans-lattente-de-nous-envoler",
+   :title "Dans l'attente de nous envoler",
+   :visibility :published,
+   :cover nil}
+  {:slug "un-mois-de-patience",
+   :title "Un mois de patience !",
+   :visibility :published,
+   :cover nil}
+  {:slug "website-under-construction",
+   :title "Under Construction",
+   :visibility :published,
+   :cover nil}]}

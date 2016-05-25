@@ -1,0 +1,205 @@
+{:updated-at #inst "2014-09-26T14:47:14.441-00:00",
+ :tags #{:argentine :amerique-du-sud :cerro-negro},
+ :cover
+ {:width 1024,
+  :height 678,
+  :provider :flickr,
+  :user-id "96129378@N07",
+  :category-id "72157640837666453",
+  :id
+  {:id "12460401053",
+   :farm-id 3,
+   :server-id "2820",
+   :photoset-id nil,
+   :secret "58643b3ff0",
+   :original-secret nil,
+   :original-format nil}},
+ :published-at #inst "2014-02-23T01:45:05.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Ici c���est l�����t�� donc les grandes vacances. Tout comme en France, le rythme de travail ralenti. Alors���� la mine, on profite des Week Ends pour faire de nouvelles d��couvertes "
+    [:span {:title ";-)", :class "wp-smiley emoji emoji-wink"} ";-)"])}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640837666453",
+   :id
+   {:id "12460289935",
+    :farm-id 4,
+    :server-id "3770",
+    :photoset-id nil,
+    :secret "dcdb7a6023",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Puro Campo patagonico"}
+  {:type :paragraph,
+   :content
+   ("Sur les terres d��limit��es de la mine, vivent des "
+    [:a {:href "http://fr.wikipedia.org/wiki/Gaucho"} "gauchos"]
+    " solitaires ou descendants de pionniers ��trangers dans des "
+    [:em {} "Estancias"]
+    ". Pour plus d���histoire sur les estancias de Patagonie, c���est par "
+    [:a {:href "http://en.wikipedia.org/wiki/Patagonia_rebelde"} "ici"]
+    "!!! et c���est passionant!")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640837666453",
+   :id
+   {:id "12460595394",
+    :farm-id 3,
+    :server-id "2840",
+    :photoset-id nil,
+    :secret "ea1b1db63b",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Estancia Marianas"}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640837666453",
+   :id
+   {:id "12460277913",
+    :farm-id 4,
+    :server-id "3716",
+    :photoset-id nil,
+    :secret "e4ba6cfd61",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   "L���an pass��, l���un d���eux a disparu mais la maison est toujours l�� sur pieds, abandonn��e. Cette ann��e, nous avons ��t�� explorer avec Pablo et Marcos cette terre tranquille au milieu de rien. Les chemins d���acc��s sont fait de terre, la rivi��re est���� environ un km de l���habitation. Vue sur le d��sert patagonique et sa brise �� couper le souffle ���.."}
+  {:type :paragraph,
+   :content
+   ("La maison est intacte, bien que construite �� l���ancienne, elle conserve son plancher de bois, son carrelage en mosaique, ses fen��tres de bois et sa fiambreria (espace frais qui fait office de frigo tout comme celui de ma grand-m��re). Quelques meubles confirment qu���autrefois on y gardait des moutons pour la production de laine���� destination de l���exportation.")}
+  {:type :photoset,
+   :photos
+   [[nil
+     {:width 678,
+      :height 1024,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157640837666453",
+      :id
+      {:id "12460688514",
+       :farm-id 8,
+       :server-id "7311",
+       :photoset-id nil,
+       :secret "26d96904e8",
+       :original-secret nil,
+       :original-format nil}}]
+    [{:width 678,
+      :height 1024,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157640837666453",
+      :id
+      {:id "12460261175",
+       :farm-id 3,
+       :server-id "2850",
+       :photoset-id nil,
+       :secret "af475732a5",
+       :original-secret nil,
+       :original-format nil}}
+     {:width 678,
+      :height 1024,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157640837666453",
+      :id
+      {:id "12460763214",
+       :farm-id 8,
+       :server-id "7404",
+       :photoset-id nil,
+       :secret "0e0dc0f80a",
+       :original-secret nil,
+       :original-format nil}}]]}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157640837666453",
+      :id
+      {:id "12460195755",
+       :farm-id 8,
+       :server-id "7424",
+       :photoset-id nil,
+       :secret "fc4f23ae2c",
+       :original-secret nil,
+       :original-format nil}}
+     {:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157640837666453",
+      :id
+      {:id "12460736214",
+       :farm-id 8,
+       :server-id "7413",
+       :photoset-id nil,
+       :secret "f911aac92f",
+       :original-secret nil,
+       :original-format nil}}]]}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640837666453",
+   :id
+   {:id "12460324453",
+    :farm-id 6,
+    :server-id "5548",
+    :photoset-id nil,
+    :secret "d79b53d04a",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("On profite de notre visite pour r��colter et d��guster guindas, cerises, groseilles maquereau, calafates��� tout naturel, pas de produits chimiques ici��� C���est cr��s cr��s bon!!!")}
+  {:type :photoset, :photos [[nil]], :caption "Guindas"}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640837666453",
+   :id
+   {:id "12460640994",
+    :farm-id 8,
+    :server-id "7364",
+    :photoset-id nil,
+    :secret "d56b51ff81",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Groseilless maquereaux"}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157640837666453",
+   :id
+   {:id "12460088155",
+    :farm-id 8,
+    :server-id "7340",
+    :photoset-id nil,
+    :secret "0409ebe1fe",
+    :original-secret nil,
+    :original-format nil},
+   :caption "A comer!!!"}],
+ :title "Una estancia perdida cerca de la mina!",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "una-estancia-perdida-cerca-de-la-mina",
+ :source-id "2742",
+ :blog "avesdepaso",
+ :visibility :public}

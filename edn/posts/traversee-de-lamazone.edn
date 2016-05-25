@@ -1,0 +1,81 @@
+{:updated-at #inst "2009-02-26T20:00:07.000-00:00",
+ :tags #{:bresil},
+ :published-at #inst "2009-02-25T17:50:07.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Une nouvelle exp��rience pour nous encore une fois. 4 jours de bateau en partant de Manaus, ville construite de toutes pi��ces pour d��velopper le centre de l���Amazonie, pour rejoindre Bel��m, situ��e sur les bords de c��tes br��siliennes. Plus de 1000 kms parcourus��� et l���Amazonie pour d��cor, somptueux et immense."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/02/dscn1940-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Port de Manaus",
+   :caption "Port de Manaus"}
+  {:type :paragraph,
+   :content "Alors voila, la vie sur le bateau, ���."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/02/dscn1935-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Notre dortoir pour 4 jours",
+   :caption "Notre dortoir pour 4 jours"}
+  {:type :paragraph,
+   :content
+   "Nous dormons en Hammac tous plus ou moins coll��s les uns aux autres, parce qu���il y en a du monde sur ces barcos��� un ��tage pour la ���Upper class��� (les riches) et l�����tage du dessous pour la ���Lower Class��� (les moins riches): seule diff��rence la proximit�� du moteur qui emp��che�� de dormir et de respirer. Aussi, chacune des classes embarque �� partir d���un port diff��rent comme pour ne pas nous m��langer���"}
+  {:type :paragraph,
+   :content
+   "Mais une fois embarqu��, les populations se mixent �� nouveau. Et la nous nous retrouvons dans la croisi��re s���amuse ! Les enfants courent partout, nous discutons avec nos voisins de Hammac (en portugais-espagnol + language des signes), la cloche passe pour nous dire que le repas est pr��t (spagetthi, riz, haricots noirs, viande : tout dans la m��me assiette)��� bref, nous d��couvrons les gens, leur fa��ilit�� de contact entre eux et avec les ��trangers (comme nous)."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/02/dscn1944-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "La cuisine du bateau",
+   :caption "La cuisine du bateau"}
+  {:type :paragraph,
+   :content
+   "Quelques rencontres : Matthias et sa copine, argentins, sur la route depuis 3 mois; Julian, british et saoul�� �� la cachaca (rhum br��silien) tous les soirs, content de rentrer au bercail apr��s 1 ann��e de voyage autour du monde et 2 francophones Ben&amp;Ben qui nous ont fait d��couvrir Gabriel Garcia M��rquez���"}
+  {:type :paragraph,
+   :content
+   "Parfois, nous rencontrons sur notre route des barraques de bois accroch��es au rivages gadouilleux de l���Amazone. Nous apercevons alors des petites pirogues manoeuvr��es par des enfants nous approchant dans l���espoir d���un hypoth��tique colis envoy�� par les passagers."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/02/img_1508-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Barraque indig��ne sur le bord de l'Amazone",
+   :caption "Barraque indig��ne sur le bord de l&#39;Amazone"}
+  {:type :paragraph,
+   :content
+   "De nombreuses villes pars��ment notre route. A chaque arr��t, des vendeurs (grands ou petits) viennent nous proposer des produits locaux �� tester ou d���improbables sculptures locales tr��s appr��ci��es des br��siliens, �� notre grand ��tonnement."}
+  {:type :paragraph,
+   :content
+   ("Derni��re chose, parfois, les dauphins de rivi��res et les h��rons nous accompagnaient���incroyable "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :paragraph,
+   :content
+   "L���arriv��e se fera en douceur, au sortir du hammac �� 6 h du matin.. Le temps de faire nos sacs et nous voil�� �� la recherche d���un h��tel."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/02/dscn1983-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "dscn1983-50"}],
+ :title "Travers��e de l���Amazone",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "traversee-de-lamazone",
+ :source-id "523",
+ :blog "avesdepaso",
+ :visibility :public}

@@ -1,0 +1,148 @@
+{:updated-at #inst "2010-11-09T20:58:04.000-00:00",
+ :tags #{:france},
+ :published-at #inst "2010-11-09T20:58:04.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Ma grande premi��re : des vacances sportives intenses ! Pour faire quoi ???? de l���escalade du lever au coucher du soleil ���."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/11/11.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "1",
+   :caption "Calanque de Sormiou"}
+  {:type :paragraph,
+   :content
+   "J���ai jou�� la s��curit�� niveau site de grimpe : je me retrouve �� vivre pendant une semaine au bord de mer au c��ur de la calanque de Sormiou en plein mois d���octobre."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/11/8.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "8",
+   :caption "Au coeur des calanques"}
+  {:type :paragraph,
+   :content
+   ("Magnifique spot pour r��vasser, se d��tendre et surtout grimper "
+    [:span {:class "wp-smiley emoji emoji-smile", :title ":-)"} ":-)"]
+    " Je d��couvre donc les joies de l���UCPA o�� je rencontre de nouveaux copains super sympa qui comme moi aiment grimper toute la journ��e !")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/11/2.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "spot de la pin��de"}
+  {:type :paragraph, :content "J���ai aim�� :"}
+  {:type :paragraph,
+   :content
+   "- Les rochers en prem���s et l���apprentissage des techniques !!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/11/111.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "11",
+   :caption "Au di��dre Guem ! Le��on de grimpe"}
+  {:type :paragraph,
+   :content "- La douche �� la bouteille et le bain de mer"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/11/12.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "12",
+   :caption "15��C....."}
+  {:type :paragraph,
+   :content "- les bons repas de l�����quipe de cuisine"}
+  {:type :paragraph, :content "- l���ambiance conviviale du centre"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/11/14.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "14"}
+  {:type :paragraph,
+   :content "- sans oublier mon moniteur bien s��r !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/11/6.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "6"}
+  {:type :paragraph,
+   :content
+   ("Au niveau grimpe, on est pass�� sur des voies simples, puis en grandes voies !! Tout ��a en t��te "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"]
+    " C���est l���occasion de retrousser ses manches et de foncer vers les challenges !!! Grande satisfaction pour ma part "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/11/7.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "7",
+   :caption "Les Goudes"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/11/15.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "15",
+   :caption "Grandes voies du Bec de Sormiou"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/11/17.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "17",
+   :caption
+   "Presqu&#39;en haut apr��s 6 relais et 150m au-dessus de la mer !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/11/16.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "16",
+   :caption "Done !!! yeahhh"}
+  {:type :paragraph,
+   :content
+   "Semaine donc inoubliable qui ne demande qu���une seule chose : revenir l���ann��e prochaine ���."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/11/10.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "10",
+   :caption "A l&#39;ann��e prochaine ...."}
+  {:type :paragraph, :content "18 au 22 octobre 2010"}],
+ :title "Stage UCPA ��� Grimpette �� Sormiou",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "stage-ucpa-grimpette-a-sormiou",
+ :source-id "1280",
+ :blog "avesdepaso",
+ :visibility :public}

@@ -1,0 +1,110 @@
+{:updated-at #inst "2014-09-22T03:04:15.384-00:00",
+ :tags #{:patagonie :argentine :course},
+ :license :by-nc-nd,
+ :cover
+ {:alt "Lac Lacard",
+  :width 4928,
+  :user-id "96129378@N07",
+  :category-id "72157644098279316",
+  :id
+  {:original-format "jpg",
+   :secret "e9144f7f76",
+   :original-secret "b00d1a6d11",
+   :id "13832405544",
+   :farm-id 6,
+   :server-id "5166"},
+  :provider :flickr,
+  :height 3264},
+ :published-at #inst "2014-04-29T00:00:00.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Chaque ann��e au mois d&#39;avril la course "
+    [:a {:href "http://www.patagoniarun.com/"} "Patagonia Run"]
+    " s&#39;installe �� San Martin, avec sa cohorte de touristes Argentins, Chiliens et Br��siliens."
+    [:br {}]
+    "Une bonne occasion pour la ville de remplir les chambres d&#39;h��tels et terrasses de caf��. Pas loin de 70% d&#39;occupation hors p��riode de vacances, plut��t pas mal!"
+    [:br {}]
+    "Pendant ces quelques jours la ville est transfigur��e et les coureurs en collants fluos sont encore plus nombreux que les chiens errants."
+    [:br {}])}
+  {:type :paragraph,
+   :content
+   ["Comme pour la majorit�� des treks plusieurs parcours permettent �� diff��rents publics de participer. Jusqu'�� 100 kms, 12h de course pour les plus rapides, il faut vraiment aimer se faire mal. Pour l'instant on va en rester �� 10 kms, l'occasion de d��couvrir les montagnes alentours."]}
+  {:type :paragraph,
+   :content
+   ["Le jour J, direction la caserne miltaire la plus proche, lieu du d��part. La moiti�� de la caserne est r��quisitionn��e pour la course pour nous servir des barres c��r��ales. Faut bien occuper les bidasses."]}
+  {:type :paragraph,
+   :content
+   ["Am��rique latine oblige, grosse ambiance au moment de partir. Tout le monde se calme apr��s quelques m��tres."]}
+  {:type :video, :id "92976559", :provider :vimeo}
+  {:type :photo,
+   :alt "Anne-c��cile courant",
+   :width 3840,
+   :user-id "96129378@N07",
+   :category-id "72157644098279316",
+   :id
+   {:original-format "jpg",
+    :secret "d60d355f97",
+    :original-secret "fcd492147b",
+    :id "13959770846",
+    :farm-id 8,
+    :server-id "7181"},
+   :provider :flickr,
+   :height 2560}
+  {:type :photoset,
+   :class ["stretched" "padded"],
+   :photos
+   [[{:alt "Final Anne-c��cile",
+      :width 3543,
+      :user-id "96129378@N07",
+      :category-id "72157644098279316",
+      :id
+      {:original-format "jpg",
+       :secret "3486a7be18",
+       :original-secret "6b89bda542",
+       :id "13983309184",
+       :farm-id 6,
+       :server-id "5245"},
+      :provider :flickr,
+      :height 2347}
+     {:alt "Final Julien",
+      :width 3543,
+      :user-id "96129378@N07",
+      :category-id "72157644098279316",
+      :id
+      {:original-format "jpg",
+       :secret "7813c1e059",
+       :original-secret "324cd8204c",
+       :id "13983305744",
+       :farm-id 8,
+       :server-id "7437"},
+      :provider :flickr,
+      :height 2347}]]}
+  {:type :paragraph,
+   :content
+   ["Courir c'est pas mal, franchir la ligne d'arriv��e c'est beaucoup mieux. Les derni��res centaines de m��tres sont les plus dures, on sert les dents et on profite du tapis rouge."]}
+  {:type :video, :id "92980003", :provider :vimeo}
+  {:type :video, :id "92978876", :provider :vimeo}
+  {:type :paragraph,
+   :content
+   ["On remettra ��a c'est s��r! Objectif pour la fin de l'ann��e, un semi-marathon."]}
+  {:type :photo,
+   :alt "Un repos bien m��rit��",
+   :width 2356,
+   :user-id "96129378@N07",
+   :category-id "72157644098279316",
+   :id
+   {:original-format "jpg",
+    :secret "855f12504a",
+    :original-secret "45cb9c684d",
+    :id "13832064985",
+    :farm-id 8,
+    :server-id "7412"},
+   :provider :flickr,
+   :height 1766}],
+ :title "Run, Patagonia Run",
+ :locations
+ ({:latitude -40.160647, :longitude -71.35894610000001, :accuracy 30}),
+ :id "run-patagonia-run",
+ :blog "avesdepaso",
+ :visibility :public}

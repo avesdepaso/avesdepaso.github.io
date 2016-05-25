@@ -1,0 +1,101 @@
+{:updated-at #inst "2011-02-05T16:21:00.000-00:00",
+ :tags #{:laos},
+ :published-at #inst "2011-02-05T06:12:54.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Nous avons ainsi ��t�� �� Vang Vieng pour faire un peu de grimpette sur les pains de sucres."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050163.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1050163",
+   :caption "Les pains de sucre �� vang Vieng"}
+  {:type :paragraph,
+   :content
+   "Apr��s avoir emprunt�� le traditionnel tuk-tuk, travers�� quelques villages, nous passons la journ��e au Sleeping Wall avec notre guide local Apple ! Celui-ci certainement change de nom lorsqu���il travaille avec les touristes."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050073.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1050073",
+   :caption "Grand tuktuk"}
+  {:type :paragraph,
+   :content
+   "Il est pur lao, mange du rat �� midi, est capable de grimper avec des chaussons trou��s au pouce��et de les refiler aux touristes aguerris en escalade (la bonne blague)��� mais il est sympa."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050418.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1050418",
+   :caption "Du rat pour le d��jeuner..."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050457.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1050457",
+   :caption "Pas de remords pour ces clients"}
+  {:type :paragraph,
+   :content
+   "Il nous raconte notamment qu���il lui est impossible de se procurer le mat��riel n��cessaire d���escalade au Laos, ne serait-ce que la magn��sie vient de Tha��lande !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050368.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1050368",
+   :caption "Sur le mur !!!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050483.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1050483",
+   :caption "En suspension !"}
+  {:type :paragraph,
+   :content
+   "Vang Vieng, c���est aussi la destination des anglophones, jeunes, en recherche de vie peace���. c���est �� dire que la vie quotidienne du touriste anglo-saxon �� Vang Vieng consiste �� sortir du lit vers 11h, petit d��jeuner american-breakfast dans les restaux locaux coucher devant leur s��rie Friends."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/00066-04-janvier-2011-450d.jpg?w=300&h=200"},
+   :width 300,
+   :height 200,
+   :alt "00066-04 janvier 2011-450D",
+   :caption "Au bar �� regarder Friends"}
+  {:type :paragraph,
+   :content
+   ("Si ils ne sont pas encore cass��s une jambe, ils filent ensuite chercher leur bou��e g��ante, empruntent un tuk-tuk pour remonter la rivi��re du coin, se jettent dans l���eau et font plusieurs kilom��tres en tubing, pour rejoindre Vang Vieng. Les bars affluent �� cet endroit au bord de l���eau et les jeun���s se font servir des mojitos, de la beerlao (bi��re locale) et du LaoLao (alcool de riz) tous les 100 m��tres jusqu����� l���arriv��e��� Autant dire que la majorit�� d���entre eux sont plut��t ��m��ch��s. Ils retournent ensuite se boire un verre dans le restau pour regarder �� la t��l�� Friends les heures passant��� Je pr��f��re une bonne journ��e de grimpe "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/p1050489.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1050489",
+   :caption "Le bar qui longe le mur de grimpe : vide et sans son "}],
+ :title "Une journ��e de grimpe �� Vang Vieng",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "une-journee-de-grimpe-a-vang-vieng",
+ :source-id "1320",
+ :blog "avesdepaso",
+ :visibility :public}

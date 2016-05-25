@@ -1,0 +1,60 @@
+{:updated-at #inst "2010-06-02T15:18:29.000-00:00",
+ :tags #{:allemagne},
+ :published-at #inst "2010-06-02T15:18:29.000-00:00",
+ :elements
+ [{:type :paragraph, :content "PRENZLAUERBERG"}
+  {:type :paragraph,
+   :content
+   "En berlinoises qui se respectent, on pouvait pas manquer le marché-vide grenier qui a lieu tous les dimanches dans le quartier de Prenzlauerberg (Mauer Park)! On y trouve de tout. Mais ce qu'on aura préféré c'est la chapka, le manchon russe et les sacs! Bonne ambiance, en mode friperie, je conseille à toute nana qui visite Berlin de passer un p'tit instant dans cet endroit !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/05/p1000795.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1000795",
+   :caption "Brocante"}
+  {:type :paragraph,
+   :content
+   "Après nos emplettes, on avait bien faim et on s'est aperçu que Berlin propose vraiment de bons restaux à prix raisonnables pour tous et ça c'est du luxe quand on voit que le marché de la consommation nous catégorise toujours plus avec ses gammes de produits."}
+  {:type :paragraph,
+   :content
+   "Une fois rassasiées, on s'est dirigées une fois de plus vers l'histoire de Berlin : le Judischer Friedhorf (cimetière juif), le Wassertum, tour de la terreur à Berlin qui fut le premier lieu de concentration pour les juifs aujourd'hui réaménagée en lieu de vie pour de jeunes parents Bobo."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/05/p1000810.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1000810",
+   :caption "Wassertum"}
+  {:type :paragraph,
+   :content
+   "On a visité le musée d'Anne Franck, excellente expo qui met en parallèle la vie d'Anne Franck et les événements de chaque année de la 2de guerre."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/05/p1000825.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "P1000825",
+   :caption "Comparison"}
+  {:type :paragraph, :content "Retour au bercail !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/05/p10008451.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "P1000845",
+   :caption "Chapka"}],
+ :title "BERLIN (Part 3)",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "berlin-part-3",
+ :source-id "1116",
+ :blog "avesdepaso",
+ :visibility :public}

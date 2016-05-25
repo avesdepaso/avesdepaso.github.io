@@ -1,0 +1,91 @@
+{:updated-at #inst "2011-08-22T04:18:39.000-00:00",
+ :tags #{:vancouver},
+ :published-at #inst "2011-08-22T04:18:39.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Skaha : c���est l���endroit o�� tu peux grimper 7 mois dans l���ann��e sans avoir une goutte de pluie ! Autant dire que c���est l���endroit r��v�� du grimpeur dans le coin, m��me si c���est a 5h de route de Vancouver, y a du monde au RDV chaque WE "
+    [:span
+     {:class "wp-smiley emoji emoji-smile", :title ":-)"}
+     ":-)"])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/p1070244.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1070244",
+   :caption "First time - avec Fix &amp; Ida !"}
+  {:type :paragraph,
+   :content "Ici les kilom��tres ne comptent plus���."}
+  {:type :paragraph,
+   :content
+   "Le soleil tape, le rocher en granite nous fait passer de bon moments ! Une fois en haut, on a une tel satisfaction car la vue est torride : d��sert de la Vall��e d���Okanagan !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0153.jpg?w=300&h=198"},
+   :width 300,
+   :height 198,
+   :alt "DSC_0153",
+   :caption "Pr��t pour la grimpe !!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0151.jpg?w=300&h=198"},
+   :width 300,
+   :height 198,
+   :alt "DSC_0151",
+   :caption "La grimpe style !"}
+  {:type :paragraph,
+   :content
+   "On y croise des petits animaux en g��n��ral genre ���.. C���est la fin de journ��e, il sort faire un tour au soleil apr��s que les grimpeurs aient squatt�� son lieu de vie ! Mais tout va bien, on partage hein ?"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/p1070294.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1070294",
+   :caption "Faune de Skaha"}
+  {:type :paragraph,
+   :content
+   "Tout ��a avec du camping au bord de l���eau une fois de plus ! Et ��a on adore !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/p1070254.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1070254",
+   :caption "Campsite au bord du lac Okanagan"}
+  {:type :paragraph,
+   :content
+   "Et mon fr��re fait des exploits ! (5C en t��te avec du d��vers, yeahhhh)"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0170.jpg?w=300&h=198"},
+   :width 300,
+   :height 198,
+   :alt "DSC_0170",
+   :caption "Mon fr��ro en t��te !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0192.jpg?w=197&h=300"},
+   :alt "DSC_0192",
+   :caption "Tout ��a au soleil !!!"}],
+ :title "Skaha pour les Grimpeurs !",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "skaha-pour-les-grimpeurs",
+ :source-id "1779",
+ :blog "avesdepaso",
+ :visibility :public}

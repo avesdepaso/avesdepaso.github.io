@@ -1,0 +1,148 @@
+{:updated-at #inst "2009-03-01T23:42:35.000-00:00",
+ :tags #{:bresil},
+ :published-at #inst "2009-03-01T23:40:09.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "A peine débarqués de notre bus, doucement bercés par le son des cariocas, que nous voilà submergés par une horde de lutins habillés de verts. Tous veulent, moyennant large comission, nous vanter les mérites de la même agence. Belle déception lorsqu'ils se rendirent compte que le bus ne contenait pour unique touristes que nous deux. Après un bref apercu de leur offre nous acceptons celle 2 fois moins chers du voisin de la rue d'en face."}
+  {:type :paragraph,
+   :content
+   "A nous les magnifiques dunes de sable parsemées de lacs crystallins!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1570-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "img_1570-50"}
+  {:type :paragraph,
+   :content
+   ([:em
+     {}
+     "Comment ca 25 kms à pieds nus? Avec nos paires de chaussures, toutes options, qui font notre fierté lors de la ballade dominicale dans le village de courbevoie, en pagaille dans notre sac??"])}
+  {:type :paragraph,
+   :content
+   "Bon après le trajet en 4x4, la traversée de la rivière, pas de demi-tour en vue."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1621-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "img_1621-50"}
+  {:type :paragraph,
+   :content
+   "Des dunes à perte de vue pendant 25 kms. Point. Pour une fois pas de regrets, le guide est bien nécessaire. Celui-ci à un certain nombre de trajets dans les pattes, comme l'attestent ses petits doigts de pieds en forme de crochets, on ne s'étonnera pas par la suite de le voir dormir la tête en bas, suspendu comme une vulgaire chauve souris."}
+  {:type :paragraph,
+   :content
+   "Etonnament la faune d'un désert brésilien se résume à des chèvres, cochons et ce qui ressemble à des vaches de loin mais court trop vite pour nous."}
+  {:type :paragraph,
+   :content
+   ("Après une journée de montées, de descente, de re-montées et de re-descentes, de cascades rivalisant avec les chutes du niagara, de traversées de lacs, d'apparition d'une Jeep, vestige d'un aventurier tombé en rade il y a 40 ans et conservée comme un trophée à la gloire de la nature, nous voilà arrivé à l'"
+    [:em {} "Oasis"]
+    ".")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1568-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "img_1568-50"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1575-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "img_1575-50"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1579-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Un peu de plaisir quand même!",
+   :caption "Un peu de plaisir quand même!"}
+  {:type :paragraph,
+   :content
+   "Etrange Oasis qui pourrait illustrer le mot désolation dans le petit Robert."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1583-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "img_1583-50"}
+  {:type :paragraph,
+   :content
+   "Quelques ruelles de boues plus loin nous arrivons à une fermette, connectée au reste de la civilisation brésilienne par 4 heures de marche et un camion tous les mois."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1615-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Ne pas rater le camion!",
+   :caption "Ne pas rater le camion!"}
+  {:type :paragraph,
+   :content
+   "Ce soir diner au coin d'une table décorée de prospectus politique démesurés, comme savent si bien le faire les sud-américains. Nous touchons du doigt les autochtones, presque émus de partager leur intimité (40 réals). En prime nous avons le droit à une sélection d'anecdotes, toutes plus inventées les unes que les autres. On raconte même certains soirs au coin du feu, lorsque le maître de maison a bu plus que sa ration de Cachaca, que 3 pelerins en route pour St Jacques de Compostelle se sont perdus par là. On entend encore parfois l'un d'entre eux, coincé dans un sable mouvant, proférer des blasphèmes que même Dieu ne mérite pas."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1595-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Diner à la chandelle",
+   :caption "Diner à la chandelle"}
+  {:type :paragraph,
+   :content
+   "Réveillés en pleine nuit par un bruit ignoble, pire que dans la salle d'attente du dentiste, la chèvre de la maison fait son apparition, vaincue par sa peur de finir la tête avalée par les crapauds géants."}
+  {:type :paragraph,
+   :content
+   "Le lendemain debout 5 heures, réveillé par tout ce que la ferme compte de beuglards, la propriétaire la première, nous optons pour un retour beaucoup moins romantique, mais beaucoup plus droit le long de la mer."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1601-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "img_1601-50"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1606-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "img_1606-50"}
+  {:type :paragraph,
+   :content
+   "Enfin en théorie. Eh oui la saison des pluies nous poursuit avec son lot de surprise. Pas de Jeep pour cause de routes transformées en piscines olympiques. 5 kms de plus rien que pour nous. 30 kms dans la journée, de quoi finir comme Daffy Duck, mais nous sommes courageux : de toute façon il y a pas de témoin."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_1611-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "img_1611-50"}
+  {:type :paragraph,
+   :content
+   "Après avoir vu nos pieds se couvrir d'ampoules géantes, bientôt cloques, matté la rebellion de 3 doigts de pied dont le plus gros qui faisait la grêve de la faim et a fini hélitreillé dans une poche de sac à dos, nous observons avec satisfaction nos pieds transformés en pattes d'ours."}
+  {:type :paragraph, :content "La prochaine fois à cloche pied."}],
+ :title "55 kms à pieds, nus",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "55-kms-a-pieds-nus",
+ :source-id "540",
+ :blog "avesdepaso",
+ :visibility :public}

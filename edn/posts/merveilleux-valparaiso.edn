@@ -1,0 +1,151 @@
+{:updated-at #inst "2014-09-26T04:14:52.134-00:00",
+ :tags #{:amerique-du-sud :chili},
+ :cover
+ {:width 1024,
+  :height 678,
+  :provider :flickr,
+  :user-id "96129378@N07",
+  :category-id "72157647628313100",
+  :id
+  {:id "15355911562",
+   :farm-id 4,
+   :server-id "3922",
+   :photoset-id nil,
+   :secret "0bc3dca676",
+   :original-secret nil,
+   :original-format nil}},
+ :published-at #inst "2013-07-02T00:39:08.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Valparaiso (Vall��e Paradis) se trouve tout juste �� 2h de route de Santiago, au bord du pacifique."}
+  {:type :photo,
+   :alt "DSC_0174",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/06/dsc_01741.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :photo,
+   :alt "DSC_0270",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/06/dsc_0270.jpg?w=450&h=679"},
+   :provider :wordpress,
+   :height 679}
+  {:type :paragraph,
+   :content
+   "N��e en 1544, une bonne partie de l���or extraite en Am��rique Latine embarquait de Valparaiso �� destination de l���Asie ou l���Europe. Les Pirates aimaient bien naviguer dans le coin avec l���espoir de voler le pr��cieux."}
+  {:type :photo,
+   :alt "Port de Valparaiso",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/06/dsc_0261.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :paragraph,
+   :content
+   "Avec l���ind��pendance du Chili et la libert�� de commerce,�� Valparaiso est une ville portuaire importante au XIX��me si��cle alors que les marchandises empruntent le d��troit de Magellan pour rejoindre l���Atlantique, avant que le canal de Panama ne le remplace���"}
+  {:type :paragraph,
+   :content
+   "Le port de Valparaiso suit alors une p��riode de d��clin mais la ville encore aujourd���hui rec��le de ces vieux b��timents d�����poque et on imagine tout �� fait son ancienne activit�� en fl��nant dans ses ruelles."}
+  {:type :paragraph,
+   :content
+   "Comme par magie, 44 collines entourent le centre et les maisons color��es embo��t��es les unes aux autres te donnent l���impression d���un amphith����tre vivant!"}
+  {:type :photo,
+   :alt "DSC_0162",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/06/dsc_0162.jpg?w=450&h=679"},
+   :provider :wordpress,
+   :height 679}
+  {:type :photo,
+   :alt "DSC_0155",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/06/dsc_0155.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :photo,
+   :alt "DSC_0149",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/06/dsc_0149.jpg?w=450&h=679"},
+   :provider :wordpress,
+   :height 679}
+  {:type :photo,
+   :alt "DSC_0140",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/06/dsc_0140.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :photo,
+   :alt "DSC_0133",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/06/dsc_0133.jpg?w=450&h=679"},
+   :provider :wordpress,
+   :height 679}
+  {:type :paragraph,
+   :content
+   "On profite de nos jambes et des funiculaires pour passer d���une ruelle �� l���autre et d��couvrir ses secrets."}
+  {:type :photo,
+   :alt "DSC_0276",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/06/dsc_0276.jpg?w=450&h=679"},
+   :provider :wordpress,
+   :height 679}
+  {:type :photo,
+   :alt "DSC_0292",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/06/dsc_02921.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :photo,
+   :alt "DSC_0294",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/06/dsc_0294.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :photo,
+   :alt "DSC_0308",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/06/dsc_0308.jpg?w=450&h=298"},
+   :provider :wordpress,
+   :height 298}
+  {:type :photo,
+   :alt "DSC_0300",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/06/dsc_0300.jpg?w=450&h=679"},
+   :provider :wordpress,
+   :height 679}
+  {:type :paragraph,
+   :content "C��t�� mang����� on se r��gale de poiscaille!!!"}
+  {:type :paragraph,
+   :content
+   "Chaque repas est pour nous l���occasion d���appr��cier de nouveau du bon poisson frais!!!"}],
+ :title "Merveilleux Valparaiso",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "merveilleux-valparaiso",
+ :source-id "2590",
+ :blog "avesdepaso",
+ :visibility :public}

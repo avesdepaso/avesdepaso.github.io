@@ -1,0 +1,119 @@
+{:updated-at #inst "2011-07-29T06:19:26.000-00:00",
+ :tags #{:vancouver},
+ :published-at #inst "2011-07-29T06:19:26.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Quand Lucille et Edgar viennent nous visiter, on fait des trucs qu���on a pas l���habitude de faire��� et ca nous change compl��tement la fa��on de voir Vancouver ! Merci les Amis "
+    [:span {:class "wp-smiley emoji emoji-smile", :title ":-)"} ":-)"]
+    " Les fans de l���Am��rique du Nord : c���est eux !!!")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0101_2.jpg?w=197&h=300"},
+   :alt "DSC_0101_2",
+   :caption "A la d��couverte de Vancouver"}
+  {:type :paragraph,
+   :content
+   "On passe notre WE �� d��nicher des livres, des comics books, des fringues vintage,���.on ne pouvait pas manquer de leur faire d��couvrir Zulu Records, notre disquaire local chez qui ont ach��te notre nouvelle collection de CDs hihi��� Edgar a tellement aim�� qu���il est reparti avec le T-shirt !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0034_2.jpg?w=197&h=300"},
+   :alt "DSC_0034_2",
+   :caption "Ed et Lucille au Comic books&#39; shop"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0013_2.jpg?w=300&h=198"},
+   :width 300,
+   :height 198,
+   :alt "DSC_0013_2",
+   :caption "Zulu Records Oblige !!!"}
+  {:type :paragraph,
+   :content
+   "Et puis on marche, on marche, on marche���. mais eux marchent encore plus cette semaine l�� !! Ils ont visit�� Vancouver de fond en comble���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0117_2.jpg?w=197&h=300"},
+   :alt "DSC_0117_2",
+   :caption "Marche, marche, marche !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0081_2.jpg?w=300&h=198"},
+   :width 300,
+   :height 198,
+   :alt "DSC_0081_2",
+   :caption "Vancouver la nuit..."}
+  {:type :paragraph,
+   :content
+   "Ils ont pas loup�� une goutte le fish &amp; chips de Fisher Wharf, ni le Sophies���brunch, ni la bi��re de Granville !!!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0012_2.jpg?w=300&h=198"},
+   :width 300,
+   :height 198,
+   :alt "DSC_0012_2",
+   :caption "Brunch royal chez Sophie&#39;s"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0107_2.jpg?w=300&h=198"},
+   :width 300,
+   :height 198,
+   :alt "DSC_0107_2",
+   :caption "Granville Island et ces bi��res locales..."}
+  {:type :paragraph, :content "Love BBQ aux clams��� :"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0122_2.jpg?w=300&h=198"},
+   :width 300,
+   :height 198,
+   :alt "DSC_0122_2",
+   :caption "BBQ sur Kitsilano beach"}
+  {:type :paragraph,
+   :content
+   ("On a m��me ��t�� voir Keren Ann en Concert !! Petite salle, petit public,���. notre premier concert �� Vancouver "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0058_2.jpg?w=197&h=300"},
+   :alt "Keren Ann",
+   :caption "Keren Ann"}
+  {:type :paragraph,
+   :content "Et en plus ils sont venus pour les 30 ans de Julien !!!!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0174_2.jpg?w=300&h=198"},
+   :width 300,
+   :height 198,
+   :alt "DSC_0174_2",
+   :caption "arrffff 30 ans d��j�� !"}
+  {:type :paragraph,
+   :content
+   ("Merci les amis !!! Quel plaisir de vous faire partager notre quotidien "
+    [:span
+     {:class "wp-smiley emoji emoji-wink", :title ";-)"}
+     ";-)"])}],
+ :title "Lucille et Edgar �� Vancouver !",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "lucille-et-edgar-a-vancouver",
+ :source-id "1698",
+ :blog "avesdepaso",
+ :visibility :public}

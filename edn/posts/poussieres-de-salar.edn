@@ -1,0 +1,10 @@
+{:updated-at #inst "2013-02-12T21:24:00.000-00:00",
+ :tags #{:argentine},
+ :published-at #inst "2013-02-12T21:24:00.000-00:00",
+ :elements [{:type :video, :provider :vimeo, :id "59519293"}],
+ :title "Poussi��res de salar",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "poussieres-de-salar",
+ :source-id "2460",
+ :blog "avesdepaso",
+ :visibility :public}

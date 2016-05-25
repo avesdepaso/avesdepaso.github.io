@@ -1,0 +1,37 @@
+{:updated-at #inst "2009-02-18T18:35:27.000-00:00",
+ :tags #{:venezuela},
+ :published-at #inst "2009-02-18T18:35:27.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Bah ouai quoi on peut bien en profiter pour faire baver les gens assis derriere un ecran ou perdu dans des tempetes de neiges."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/02/img_1310-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "img_1310-50"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/02/dscn1860-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "dscn1860-50"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/02/dscn1886-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "dscn1886-50"}],
+ :title "Playa",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "playa",
+ :source-id "499",
+ :blog "avesdepaso",
+ :visibility :public}

@@ -1,0 +1,87 @@
+{:updated-at #inst "2009-03-23T21:07:42.000-00:00",
+ :tags #{:bresil :argentine},
+ :published-at #inst "2009-03-23T21:07:42.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("A cheval entre le Br��sil et l��Argentine, les fameuses "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Chutes_d%27Igua%C3%A7u"}
+     "chutes d��Igua��u"]
+    "��nous narguaient d��ja depuis un moment. Plus longues du monde, au patrimoine de l��Unesco, frontiere naturelle entre les deux pays, 2 parcs aux allures de DisneyWorld, pas mal pour une petite riviere.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2193-50.jpg?w=450&h=299"},
+   :width 450,
+   :height 299,
+   :alt "img_2193-50"}
+  {:type :paragraph,
+   :content
+   "Impossible de passer a cot��. Une journ��e par pays, pas de jaloux."}
+  {:type :paragraph,
+   :content
+   "Cot�� Br��sil, un parc d��mesur�� flambant neuf avec rafting, rappel, canyoning, safari, moultes restaurants encadrants un chemin relativement court longeant les chutes. Et oui la nature n��a pas gat�� le Br��sil ce coup ci et les chutes ne peuvent etre apercues qu��a distance depuis le haut d��une falaise."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2184-50.jpg?w=450&h=299"},
+   :width 450,
+   :height 299,
+   :alt "img_2184-50"}
+  {:type :paragraph,
+   :content
+   "D��tour rapide au passage par un parc g��n��reux en perroquets et autres toucans."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2127-50.jpg?w=450&h=299"},
+   :width 450,
+   :height 299,
+   :alt "Un toucan pas empaill��",
+   :caption "Un toucan pas empaill��"}
+  {:type :paragraph,
+   :content
+   "Cot�� Argentine, apr��s un p��riple de 2 heures pour franchire les frontieres via 4 bus diff��rents alors qu��un petit pont au dessus des chutes aurait suffit (l��option nage nous a effleur��e quelques secondes), un parc beaucoup plus sobre mais la possibilit�� de descendre au niveau de l��eau et de voir les chutes de 3 points de vue diff��rents."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2208-50.jpg?w=450&h=675"},
+   :width 450,
+   :height 675,
+   :alt "img_2208-50"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2188-50.jpg?w=450&h=675"},
+   :width 450,
+   :height 675,
+   :alt "img_2188-50"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2221-50.jpg?w=450&h=299"},
+   :width 450,
+   :height 299,
+   :alt "You fuck my wife?",
+   :caption "You fuck my wife?"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/03/img_2203-50.jpg?w=450&h=299"},
+   :width 450,
+   :height 299,
+   :alt "img_2203-50"}],
+ :title "Igua��u en pagaille",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "iguacu-en-pagaille",
+ :source-id "631",
+ :blog "avesdepaso",
+ :visibility :public}

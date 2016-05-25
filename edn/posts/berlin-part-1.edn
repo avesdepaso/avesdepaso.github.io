@@ -1,0 +1,68 @@
+{:updated-at #inst "2010-05-25T06:19:58.000-00:00",
+ :tags #{:allemagne},
+ :published-at #inst "2010-05-25T06:19:58.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Trois mots pour décrire mes 4 jours à Berlin : Construction, Mélange, Large"}
+  {:type :paragraph,
+   :content
+   "Berlin n'est pas tout de suite une ville séduisante et d'autres destinations sont certainement plus en vogue aux yeux des autres! Mais détrompez vous ! Berlin est la capitale à visiter (classée parmi les plus visitées après Paris et Londres !)"}
+  {:type :paragraph,
+   :content
+   ("Nous arrivons par le ciel un matin à 8h prêtes à l'heure, nous allons à la rencontre de notre hôte Melle Mittl, française mariée avec un allemand dont le job est de mettre à disposition des touristes des locations au centre de Berlin. Nous avons loué un petit studio dans le Quartier de Charlottenbourg, quartier chic de Berlin Ouest ! Trop contente de vivre à la berlinoise "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/05/p1000700.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Home in Berlin",
+   :caption "Home in Berlin"}
+  {:type :paragraph,
+   :content
+   "On décolle ensuite à la découverte de la ville, de son S-Bahn (city metro) et U-Bahn (undergroud metro), ses bus qui viennent chaque 5 minutes ! La ville nous apparaît comme immense mais complétement disponible et ouverte !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/05/p1000762.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Metro",
+   :caption "U-Bahn"}
+  {:type :paragraph,
+   :content
+   "Nous découvrons Mitte, le centre de Berlin avec son île des musées (plus de 15 musées sur une tout petite île). Le centre de Berlin est notamment traversé par la Spree et un canal ou plusieurs histoires de meurtres sont nées à l'époque. Les rues sont immenses. On se ballade ensuite vers le cityhall et on y découvre par ailleurs un certains nombres d'églises en parti détruites et rénovées après guerre. On découvre évidemment les petites gourmandises qui n'existe pas par chez nous: dunkin donuts, que lucille aime tout particulièrement: ces donuts roses, bleus, vert vous paraissent tous plus chimiques les uns des autres."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/05/p1000643.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1000643",
+   :caption "Mitte- Cathedral"}
+  {:type :paragraph,
+   :content
+   "En fin de journée, on tente le Historic Deutch museum : fort intéressant. On passe des rois, au reich, aux guerres, en ne zappant pas la culture! Ce musée est magique et nous en apprend plus sur la construction de l'Allemagne et de son histoire."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/05/p1000665.jpg?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1000665",
+   :caption "Prince aux grands yeux"}
+  {:type :paragraph,
+   :content
+   "On finit claquées dans l'appart mais prête à remplir notre lendemain !"}],
+ :title "BERLIN (Part 1)",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "berlin-part-1",
+ :source-id "1105",
+ :blog "avesdepaso",
+ :visibility :public}

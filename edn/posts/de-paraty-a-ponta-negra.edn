@@ -1,0 +1,422 @@
+{:updated-at #inst "2015-10-06T19:52:00.852-00:00",
+ :cover
+ {:width 240,
+  :height 158,
+  :id
+  {:id "21774177311",
+   :farm-id 1,
+   :server-id "587",
+   :photoset-id nil,
+   :secret "4d17cfc7d9",
+   :original-secret nil,
+   :original-format nil},
+  :provider :flickr,
+  :type :photo},
+ :published-at #inst "2015-10-06T19:50:31.487-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Paraty a tellement à nous donner. Je crois qu'on aura pas fini d'explorer ses environs  ... On devra revenir ;-)"
+    [:br {}]
+    [:br {}]
+    "Cette semaine, on a choisi d'explorer le sud, où les plages plus exposées aux méandres de l'Océan Atlantique nous donnent cette impression de bout du monde. Derrière nous, une selva dense, verte, dont on écoute la vie du sol à la cime des arbres.\n\nInsectes, oiseaux, reptiles...ça vit...."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    "Paraty tiene tanto para ofrecernos. Creo que no terminaremos de explorar sus alrededores.... deberemos volver ;-)"
+    [:br {}]
+    [:br {}]
+    "Esta semana, elegimos explorar el sur de Paraty, donde la playas mas expuestas al océano atlantico te dan aquella impresion de estar al fin de un mundo (Se que Argentina detiene EL fin del mundo!!!). Detras de nosotros, esta la Selva, verde, cuyo podemos escuchar la vida desde el suelo hasta la cumbre de los arboles. Bichos, pajaros, reptiles..... esta viviendo...")}
+  {:type :photoset,
+   :photos
+   [[{:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "d83b9b1d3e",
+       :original-secret nil,
+       :id "21145715763",
+       :farm-id 1,
+       :server-id "747"},
+      :provider :flickr,
+      :height 240}
+     {:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "d6435238ff",
+       :original-secret nil,
+       :id "21784957355",
+       :farm-id 6,
+       :server-id "5671"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :paragraph,
+   :content
+   ("On se contentera des trails. Et justement une excellente "
+    [:i {} "caminata"]
+    " au départ de Larenjeiras (1 h de Paraty en bus) nous amènera au petit village de pécheur "
+    [:i {} "Ponta Negra."]
+    " Il s'agit d'une marche paisible qui alterne passages dans la jungle de la réserve protégée Juatinga et baignade sur les plages. On profite de la communauté de Praia do sonos, du spot de surf enchanté de Praia do antiguos et de la plage sauvage do antiguinhos... Un régal pour se détendre après avoir passé les températures tropicales de la jungle."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    "Nosotros quedamos en los senderos. Y justo, una maravillosa caminata comienza en Larenjeiras (1 hora de Paraty) y nos llevaré al pequeno pueblo de pescadores llamado "
+    [:i {} "Ponta Negra"]
+    ". Trata de una caminata tranquila la cual alterna Jungle en la Reserva protegida de Juatinga y bano en el océano. Disfrutamos de la comunidad de Praia de Sonos, del spot de Surf encatador en Praia do Antiguos y de la playa salvaje do Antiguinhos.... una maravilla para descansar despuès de haber cruzado las temperaturas tropicales de la selva.")}
+  {:type :photoset,
+   :class ["stretched"],
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "4d17cfc7d9",
+       :original-secret nil,
+       :id "21774177311",
+       :farm-id 1,
+       :server-id "587"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "0aeda3fc93",
+       :original-secret nil,
+       :id "21774312501",
+       :farm-id 6,
+       :server-id "5789"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "c4c591d861",
+       :original-secret nil,
+       :id "21576681530",
+       :farm-id 6,
+       :server-id "5680"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photo,
+   :caption "Praia do Antiguos",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "514ac8f365",
+    :original-secret nil,
+    :id "21144399734",
+    :farm-id 6,
+    :server-id "5738"},
+   :provider :flickr,
+   :height 158}
+  {:type :photoset,
+   :caption "Praia dos Antiguos e Capoiera en Praia do Antiguinhos",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "6e35800a41",
+       :original-secret nil,
+       :id "21144157544",
+       :farm-id 1,
+       :server-id "631"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "f78fcfb80d",
+       :original-secret nil,
+       :id "21144340674",
+       :farm-id 6,
+       :server-id "5814"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :paragraph,
+   :content
+   ("Une dernière colline nous permet d'apercevoir la plage de Ponta Negra et ses baraques de pécheurs. L'entrée au village se fait par des petits sentiers à peine aménagés. On passe entre les habitations. 'Stsi' Le frère de Teteco nous reçoit et nous fait la visite du village avant de rejoindre notre cabana où nous passerons la nuit."
+    [:br {}]
+    [:br {}]
+    "Eau froide et 'petits' cafards (on a déjà vu plus gros) garantis pour passer une bonne nuit."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    "La ultima loma nos permite observar la playa de Ponta Negra y sus cabanas de pescadores. La entrada a la comunidad se hace a travès de senderos muy precarios y pasamos entre las casitas. 'Stsi', el hermano de Teteco (a quien reservamos un lugar para dormir) nos recibe y arrancamos con una visita corta del pueblo antes de instalarnos en nuestra cabanita donde pasaremos la noche."
+    [:br {}]
+    [:br {}]
+    "Agua fria y cucarachas 'pequenos'(hemos visto mas grande) obligados para pasar una buena noche.")}
+  {:type :photoset,
+   :caption "Ponta Negra",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "5de37a9891",
+       :original-secret nil,
+       :id "21784903165",
+       :farm-id 6,
+       :server-id "5734"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photoset,
+   :caption "Outils de pécheurs",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "a423e94a01",
+       :original-secret nil,
+       :id "21767250695",
+       :farm-id 6,
+       :server-id "5804"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "b12a8f351f",
+       :original-secret nil,
+       :id "21579336980",
+       :farm-id 1,
+       :server-id "742"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photoset,
+   :caption
+   "Arquitectura local : petit restaurant du village et son école",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "4b49eb46fa",
+       :original-secret nil,
+       :id "21773051792",
+       :farm-id 6,
+       :server-id "5690"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "9cd6ff7c44",
+       :original-secret nil,
+       :id "21596500510",
+       :farm-id 1,
+       :server-id "730"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :photoset,
+   :caption "Cabana toute simple : ++++++",
+   :photos
+   [[{:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "84ff6547a9",
+       :original-secret nil,
+       :id "21776867811",
+       :farm-id 6,
+       :server-id "5700"},
+      :provider :flickr,
+      :height 240}
+     {:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "2030cdcf24",
+       :original-secret nil,
+       :id "21776904871",
+       :farm-id 6,
+       :server-id "5739"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :paragraph,
+   :content
+   ("A 19h, le diner sera servi au petit restaurant qui fait face à la mer. Le local est divin. Tour est construit en bois. Peu d'artifice pour la déco. Juste l'air tranquille, des bougies en guise d'éclairage, la femme de Stsi qui nous propose une excellent poisson frais et le traditionnel frijoe brésilien."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    "A las 19 hs, la cena esta lista en el restaurante que da frente al mar. El local es divino. Todo esta construido de madera. Pocos artificiales para la decoracion. Solo el aire tranquilo, candelas para iluminar el lugar, la mujer de Stsi quien nos propone un excelente pescado del dia y el tradicional "
+    [:i {} "Feijoadas"]
+    " brasilero.")}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "6d69ff7cef",
+       :original-secret nil,
+       :id "21146528453",
+       :farm-id 1,
+       :server-id "579"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "b9970a289c",
+       :original-secret nil,
+       :id "21777040811",
+       :farm-id 1,
+       :server-id "679"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "d803582179",
+       :original-secret nil,
+       :id "21144963254",
+       :farm-id 6,
+       :server-id "5754"},
+      :provider :flickr,
+      :height 158}]]}
+  {:type :paragraph,
+   :content
+   ("Il est 20hs. La majorité du village n'ayant pas accès à l'électricité, on aperçoit quelques lampes frontales ou téléphone portable (il semble qu'une antenne leur permetten de se connecter avec le reste du monde) mais aussi des luciolesssss!! Increivel!!!"
+    [:br {}]
+    [:br {}]
+    "On croisera également la voix (ou les pleurs) d'un représentant de Dieu. La croyance est beaucoup représentée au Brésil. Du coup, nombreux sont ceux qui écoutent la parole de dieu ici."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    "Son las 20hrs. La mayoria de la gente no tiene acceso a la energia. Solo podemos observar algunas lamparas frontales o mobiles (parece que hay una antena que les permite conectarse ahora con el resto del mundo). Tambien, estan las luciarnagas!!! Increible!"
+    [:br {}]
+    [:br {}]
+    "Cruzaremos tambien la voz (o las lagrimas) de un representante de Dios. La creencia es muy presente en Brasil. De hecho Brasil, es el pais mas grande del mundo en cuento a catolicismo. Mucha gente escucha la palabra de Dios aca.")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "8d33560efb",
+    :original-secret nil,
+    :id "21146495293",
+    :farm-id 6,
+    :server-id "5772"},
+   :provider :flickr,
+   :height 158}
+  {:type :video, :id {:id "141232327"}, :provider :vimeo}
+  {:type :photoset,
+   :caption "A los electricos! LED baja consomacion es asi?",
+   :photos
+   [[{:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "99a3de47bd",
+       :original-secret nil,
+       :id "21579741090",
+       :farm-id 1,
+       :server-id "716"},
+      :provider :flickr,
+      :height 240}
+     {:width 158,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "dc62119d7e",
+       :original-secret nil,
+       :id "21163384593",
+       :farm-id 6,
+       :server-id "5653"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :paragraph,
+   :content
+   ("Au petit matin, pas un bruit mis à part l'éveil de la jungle et ses habitants."
+    [:br {}]
+    [:br {}]
+    "J'ai oublié de mentionner qu'il n'existe pas d'accès à la comunauté par la route. Deux moyens s'offrent aux habitants: 20 minutes de bateau jusqu'à Larenjeiras ou bien tes pieds (avec ou sans Havaianas). Certains ados semblent prendre le bateau tous les jours pour aller à l'école."
+    [:br {}]
+    [:br {}]
+    "Ahhhhh cette découverte des mondes à part et ses joyaux naturels....."
+    [:br {}]
+    [:br {}]
+    "---"
+    [:br {}]
+    [:br {}]
+    "Al despertarse, no hay ningun ruido salvo el despertador de la selva y sus habitantes."
+    [:br {}]
+    [:br {}]
+    "Me olvido comentar no existe un acceso por la ruta. Dos medios estan ofrecidos : 20 minutos de barco hasta Larenjeiras o bien tus pies (con o sin Havaianas). Algunos adolescentes parecen tomar el barco todos los dias para ir a la escuela."
+    [:br {}]
+    [:br {}]
+    "Ahhhhhhh este descubrimiento de mundos a parte y sus joyas naturales.....")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "97d13f0f3e",
+    :original-secret nil,
+    :id "21772670952",
+    :farm-id 6,
+    :server-id "5762"},
+   :provider :flickr,
+   :height 158}
+  {:type :photo,
+   :caption "Ponta Negra",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "5fe7fcfded",
+    :original-secret nil,
+    :id "21161916614",
+    :farm-id 1,
+    :server-id "628"},
+   :provider :flickr,
+   :height 158}
+  {:type :photoset,
+   :caption "Praia do Sonos",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "eb9b717f9b",
+       :original-secret nil,
+       :id "21578341418",
+       :farm-id 6,
+       :server-id "5823"},
+      :provider :flickr,
+      :height 158}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "234b4d2ac4",
+       :original-secret nil,
+       :id "21759420826",
+       :farm-id 6,
+       :server-id "5731"},
+      :provider :flickr,
+      :height 158}]]}],
+ :title "De Paraty à Ponta Negra",
+ :locations
+ ({:latitude -23.2231027,
+   :longitude -44.722708999999995,
+   :accuracy 36}),
+ :id "de-paraty-a-ponta-negra",
+ :blog "avesdepaso",
+ :visibility :public}

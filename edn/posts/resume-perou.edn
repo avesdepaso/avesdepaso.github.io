@@ -1,0 +1,48 @@
+{:updated-at #inst "2009-05-30T23:59:12.000-00:00",
+ :tags #{:perou},
+ :published-at #inst "2009-05-30T23:59:12.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content ([:em {} [:strong {} "Ce qu���on a aim�� :"]])}
+  {:type :paragraph,
+   :content "La granadia, fruits exotiques qui donne la froutfroute"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_4102-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Intense r��flexion",
+   :caption "Intense r��flexion"}
+  {:type :paragraph, :content ([:em {} "Ce qu���on a moins aim�� :"])}
+  {:type :paragraph,
+   :content "Les m��decins en doudoune qui pique les fesses"}
+  {:type :paragraph,
+   :content
+   ([:em
+     {}
+     "Le tousrisme y est probablement trop d��velopp����� pour nous en tout cas. On s���est pas fait des supers copains comme en Bolivie. Mais certains endroits sont incontournables ! On a d��j�� pr��vu dans nos t��tes de revenir un jour dans le coin."])}
+  {:type :paragraph,
+   :content
+   ([:em
+     {}
+     [:em
+      {}
+      [:img
+       {:class "size-medium wp-image-905",
+        :title "IMG_3918 [50%]",
+        :src
+        "https://vadrouilles.files.wordpress.com/2009/05/img_3918-50.jpg?w=300&h=199",
+        :alt "Bagages des locaux dans les bus",
+        :width "300",
+        :height "199"}]]
+     [:p
+      {:class "wp-caption-text"}
+      "Bagages des locaux dans les bus"]])}],
+ :title "R��sum�� P��rou",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "resume-perou",
+ :source-id "903",
+ :blog "avesdepaso",
+ :visibility :public}

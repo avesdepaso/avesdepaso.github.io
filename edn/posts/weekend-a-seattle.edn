@@ -1,0 +1,108 @@
+{:updated-at #inst "2011-11-18T07:22:00.000-00:00",
+ :tags #{:etats-unis},
+ :published-at #inst "2011-04-29T15:19:06.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Vancouver est si proche de la fronti��re am��ricaine qu���on ne pouvait pas manquer Seattle qui se trouve �� quelques 220 kms."}
+  {:type :paragraph,
+   :content
+   ([:a
+     {:href
+      "https://maps.google.ca/maps?f=d&source=s_d&saddr=1821 Cypress St, Vancouver, BC V6J 3L7&daddr=Seattle, ��tat de Washington, ��tats-Unis&hl=fr&geocode=FTPM7wIdDemo-CmbiEIIynOGVDF3PXwAdldVSA;FcJp1gIdWVy1-ClVM-iTLBCQVDGa1URpRmUlEA&gl=ca&mra=ltm&sll=49.281524,-123.111763&sspn=0.015118,0.045447&ie=UTF8&ll=48.43649,-122.662354&spn=2.551164,4.669189&z=7&source=embed",
+      :style "text-align:left"}
+     "View Larger Map"])}
+  {:type :paragraph,
+   :content
+   "D��part �� 6h du matin avec le Shuttle qui nous conduit jusqu���au Space Needle en 4h. Un petit coup d���ascenseur et on flotte entre 2 nuages pour apercevoir la city d���en haut !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1060920.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "P1060920",
+   :caption "Space Needle"}
+  {:type :paragraph,
+   :content
+   "Gr��ce �� mon cousin Benoit qui a v��cu plus de 4 ans dans la City et ��tait de passage pour le boulot , nous avons profit�� d���une visite guid��e. Comme toute ville de l���ouest Nord-Am��ricain qui se respecte le public market y est impressionnant. Il abrite m��me le premier starbucks du monde ! Il date de 1912���. j���ignorais que le concept avait d��j�� presque 100 ans���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1060940.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060940",
+   :caption "Public Market"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1060948.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060948",
+   :caption "Poissons et crustac��s �� gogo"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1060942.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060942",
+   :caption "Naissance de Starbucks �� Seattle"}
+  {:type :paragraph,
+   :content
+   "Direction ensuite le bord de mer pour une ballade de quelques kms au soleil���. incontournable depuis qu���on vit �� Vancouver."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1060953.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060953",
+   :caption "Seattle City Center"}
+  {:type :paragraph,
+   :content
+   "Mon cousin, il est trop fort ! Il a le pass pour rentrer chez Microsoft. Microsoft �� Seattle, ce n���est pas juste un building, c���est 30 000 collaborateurs (90 000 dans le monde). Donc pour faire simple, Microsoft �� Seattle, c���est une ville avec ses habitations (la maison de Bill n���est pas trop loin non plus), sa boulangerie, les pompiers, le terrain de jeux et les locaux de la R&amp;D���. avec le pass, on d��couvre les zones de travail et la salle de sports ou encore le salon manucure, ���. c���est l�� qu���on prend conscience de la puissance du syst��me��� C���est impressionnant, ��a fait peur et en m��me temps ��a marche. Et aussi ��a sent fort le curry dans les appartements dans lesquels la bo��te loge les indiens���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1060974.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060974",
+   :caption "Salle de sport chez Microsoft"}
+  {:type :paragraph,
+   :content
+   "On finit la soir��e�� dans un restaurant toujours aussi bien d��cor�� mais bruyant��� rencontre avec le Chili, la France et m��me Montr��al."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1060980.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060980",
+   :caption "Un petit lac"}
+  {:type :paragraph, :content "Merci Beno��t !!!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/04/p1060961.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "P1060961",
+   :caption "Beno��t et Julien sur le sea wall"}],
+ :title "Weekend �� Seattle���",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "weekend-a-seattle",
+ :source-id "1550",
+ :blog "avesdepaso",
+ :visibility :public}

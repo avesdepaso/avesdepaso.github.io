@@ -1,0 +1,162 @@
+{:updated-at #inst "2009-06-16T16:44:03.000-00:00",
+ :tags #{:equateur},
+ :published-at #inst "2009-06-16T16:20:49.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Bah retour à QuiQui.Quito "
+    [:span {:class "wp-smiley emoji emoji-sad", :title ":-("} ":-("])}
+  {:type :paragraph,
+   :content "Voilà notre petite ou grande histoire !"}
+  {:type :paragraph, :content ([:strong {} "Sauce tomate"])}
+  {:type :paragraph,
+   :content
+   "On est très excités de partir pour l'ascension du Cotopaxi (et oui, encore une montagne!). Il est 8h, on part de notre hôtel pour la station de bus où je me rend compte que j'ai oublié mes bâtons de rando. Ok, on fait demi tour pour l'hôtel et là on est tous aspergé dans le dos de sauce tomate ! Quoi ????"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/tomato.jpg?w=103&h=150"},
+   :width 103,
+   :height 150,
+   :alt "pas cher mais désagréable pour la victime",
+   :caption "pas cher mais désagréable pour la victime"}
+  {:type :paragraph,
+   :content
+   "Attendez monsieur, vous avez de la sauce tomate sur vous!! laissez moi vous essuyer !! car le monsieur, il se promène avec du papier toilette dans les mains toute la journée bah oui c'est son job de nous couvrir de sauce pour pouvoir nous dérober bien entendu !"}
+  {:type :paragraph,
+   :content
+   "Ah bah je comprends mieux pourquoi 6 jours plus tôt, on avait déjà de la salsa dans le dos."}
+  {:type :paragraph,
+   :content
+   ("Bon, une fois que julien a fait fuir "
+    [:em {} "Mister salsa de tomate, "]
+    "on continue notre chemin, car en attendant j'ai toujours mes bâtons à l'hôtel. On profite de ce moment pour se déshabiller de ce rouge qui pue la tomate.")}
+  {:type :paragraph,
+   :content ([:strong {} "Départ pour le Cotopaxi"])}
+  {:type :paragraph,
+   :content
+   ("Nous repartons à la station de bus. Je suis à ce moment costumée en soldat avec mes bâtons sur l'épaule, prête à bondir sur un quelconque "
+    [:em {} "Mister salsa de tomate"])}
+  {:type :paragraph,
+   :content
+   "Une heure de bus et nous arrivons à notre destination, Papagayo, point de départ du trek pour le cotopaxi."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/mont2.jpg?w=122&h=107"},
+   :width 122,
+   :height 107,
+   :alt "mont2"}
+  {:type :paragraph,
+   :content
+   ("Enfin, juste avant de partir, les guides nous emmènent acheter quelques "
+    [:em {} "dulces"]
+    " (sucreries, bah on a le droit dans ces moments là. eh c'est du sport ! Vive Galak et les tictac à la Maracuya). On passe en caisse, on ouvre le portefeuille et là, deuxième drame de la journée, le portefeuille est strictement VIDE ! rien, nada, nothing.")}
+  {:type :paragraph,
+   :content
+   ([:em
+     {}
+     "Perte : 170$ en cash, carte bancaire de Julien, mon permis de conduire sans oublier mon passeport et tous ses tampons."])}
+  {:type :paragraph, :content ([:strong {} "Temps de réflexion"])}
+  {:type :paragraph,
+   :content
+   ("On se tient la tête, on est furax, on a du mal à réfléchir, on tourne en rond, on laisse nos galaks et tictac sur le bord de la caisse. Mais où est donc passer notre moyen de survie. la"
+    [:em {} " plata"]
+    " (argent) ?")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/reflexion.gif?w=119&h=133"},
+   :width 119,
+   :height 133,
+   :alt "Pas content",
+   :caption "Pas content!!!"}
+  {:type :paragraph,
+   :content
+   "Après 2 heures de réflexion, l'accusation se porte sur notre hôtel de la veille où nous avions passé plusieurs nuits. Seul moment où notre vigilence était à niveau zéro, puisque nous sommes allés au théatre sans sac (donc sans argent et passeports)."}
+  {:type :paragraph,
+   :content
+   "Mais le comble, c'est que nous avons laissé la clé à l'hôtel avant de sortir, ce qui veut dire que notre voleur est soit le réceptionniste soit un complice !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/voleur21.jpg?w=88&h=150"},
+   :alt "voleur2"}
+  {:type :paragraph,
+   :content
+   "Après courte réflexion, nous ne pourrons monter le Cotopaxi, il est 15h, nous faisons demi tour vers Quito. On va bosser un peu avec la police, l'ambassade et la banque pour régler tout ça au plus vite. Pour un backpacker, être aussi loin de chez soi, sans argent (20$), sans carte bancaire et sans passport : c'est le DRAME."}
+  {:type :paragraph, :content ([:strong {} "Quito AGAIN"])}
+  {:type :paragraph,
+   :content
+   ("Une fois de retour à Quito, nous allons à l'hôtel."
+    [:em {} " Todo en espanol"]
+    ", je raconte notre conte au réceptionniste de jour (non coupable) qui me renvoit vers la"
+    [:em {} " documenta"]
+    " de l'hôtel (gérante). Elle nous raconte des arguments nuls à nos yeux. De toute façon, nous ne récupérerons pas nos biens. On s'en va.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/hotel.jpg?w=124&h=124"},
+   :width 124,
+   :height 124,
+   :alt "Voleurs!",
+   :caption "Voleurs!"}
+  {:type :paragraph, :content ([:strong {} "Service de police"])}
+  {:type :paragraph,
+   :content
+   ("Comme partout, nous devons faire un "
+    [:em {} "denuncio"]
+    " (déclaration de vol). Le poste de police est au bout de la rue. Nous franchissons la porte et tombons nez à nez avec un policier regardant avec envie le dessin animé de Dragon-Ball Z. A moins que ça ne fasse parti de leur formation professionnelle, nous trouvons cela quelque peu étrange.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/policier.gif?w=135&h=126"},
+   :width 135,
+   :height 126,
+   :alt "Ressemble pas a ca ceux d'ici....",
+   :caption "Ressemblent pas a ca ceux d'ici...."}
+  {:type :paragraph,
+   :content
+   "Il appelle 2 ou 3 copains, un pick-up arrive et on repart de nouveau à l'hôtel. Il lui faut une deuxième version sur le lieu du crime avec la gérante de l'hôtel. Ca parle, ça se coupe la parole, ça connait pas le droit qui pourrait nous sortir de cette galère... on ressort bredouille."}
+  {:type :paragraph,
+   :content
+   ("Une nouvelle voiture de police nous attend devant l'hôtel. Cette fois-ci, on a affaire à la"
+    [:em {} " Policia de Turismo"]
+    ". Les deux hommes nous accompagnent au poste pour notre déclaration de vol. Nous devons en faire deux exemplaire "
+    [:em {} "a la mano"]
+    " et garder une copie, tout ça devant un match de foot télévis.")}
+  {:type :paragraph, :content ([:strong {} "Ambassade de France"])}
+  {:type :paragraph,
+   :content
+   "Reste à rencontrer les employés du Consulat de France. Et bien figurez vous que le service administratif a bien fonctionné."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/06/leff.gif?w=150&h=100"},
+   :width 150,
+   :height 100,
+   :alt "Douce France",
+   :caption "Douce France"}
+  {:type :paragraph,
+   :content
+   ("Soit on me fait un "
+    [:em {} "laisser passer"]
+    " pour un retour direct en France : pas question! Soit on me fait un "
+    [:em {} "passeport d'urgence "]
+    "(dont je fais la demande bien sur), document qui peut prendre plus de temps à réaliser mais qui me permet de passer des frontieres et ainsi continuer mon voyage.")}
+  {:type :paragraph,
+   :content
+   "Reste a voir comment va se passer le processus en France! J'attends ici sans passeport ni autorisation de sortie."}],
+ :title "Cotopaxi ou retour à QuiQui ?",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "cotopaxi-ou-retour-a-quiqui",
+ :source-id "975",
+ :blog "avesdepaso",
+ :visibility :public}

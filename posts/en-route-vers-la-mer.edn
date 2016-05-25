@@ -1,0 +1,64 @@
+{:updated-at #inst "2010-09-16T15:33:22.000-00:00",
+ :tags #{:italie},
+ :published-at #inst "2010-09-16T15:33:22.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Ce matin, on prend nos clics et nos clacs pour retrouver la voiture que nous avons lou��e en bordure de Florence���.On en profite pour visiter les villes des alentours comme Lucca : ville fortifi��e utltra d��serte o�� l���on d��guste les plats pr��par��s par le traiteur du coin.."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/08/13.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "13",
+   :caption "miam"}
+  {:type :paragraph,
+   :content
+   "On file ensuite �� Pise : ultra touristique o�� l���on baigne dans la foule (15 minutes pas plus)."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/08/16.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "16",
+   :caption "Pise"}
+  {:type :paragraph,
+   :content
+   "C���est parti pour la mer !! sauf qu���on arrive �� Livourne avec une r��sa d���h��tel qui n���en est pas une��� l���h��tel qu���on a book�� se trouve sur l�����le d���Elbe���. en pleine m��diterran��e���.alors quoi de mieux que de trouver un petit nid pour la nuit en derni��re minute? On profite d���un d��ner marin���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/08/17.png?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Fruits de mer frais de la vraie mer",
+   :caption "Fruits de mer frais de la vraie mer"}
+  {:type :paragraph, :content "��� et d���un moment sur le galet !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2010/08/18.png?w=225&h=300"},
+   :width 225,
+   :height 300,
+   :alt "Beach",
+   :caption "Beach"}
+  {:type :paragraph,
+   :content
+   ("A bient��t Toscane !"
+    [:span
+     {:id "edit-slug-buttons"}
+     [:a
+      {:class "edit-slug button hide-if-no-js",
+       :href "post.php?post=1173&action=edit#post_name"}]])}],
+ :title "En route vers la Mer !",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "en-route-vers-la-mer",
+ :source-id "1173",
+ :blog "avesdepaso",
+ :visibility :public}

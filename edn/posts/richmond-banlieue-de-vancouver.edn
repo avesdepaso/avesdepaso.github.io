@@ -1,0 +1,103 @@
+{:updated-at #inst "2011-06-27T21:47:43.000-00:00",
+ :tags #{:vancouver},
+ :published-at #inst "2011-06-27T21:47:43.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Que peut-on faire un dimanche ensoleill�� autour de Vancouver ???? et ben pourquoi pas Richmond, la banlieue de Vancouver o�� 60% des habitants sont asiatiques ! arrrg, c���est comme si vous y ��tiez en Asie !"}
+  {:type :paragraph,
+   :content
+   ("On a d��marr�� le p��riple"
+    [:span
+     {:style "color:#000000;"}
+     " au "
+     [:a
+      {:title "Richmond Olympic Oval",
+       :href "http://richmondoval.ca/venue/facility/overview.htm",
+       :target "_blank"}
+      "Richmond Olympic Oval"]
+     " !"]
+    " The place to be quand il y a des JO �� dans le coin ! Plus de 23000 square feet o�� chacun peut d��sormais trouver son bonheur. Un tas de sport sont pratiqu��s au quotidien y compris le Hockey biens s��r!")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/06/dsc_0097.png?w=400&h=266"},
+   :width 400,
+   :height 266,
+   :alt "DSC_0097",
+   :caption "Olympic Oval"}
+  {:type :paragraph,
+   :content
+   "On poursuit notre chemin en direction de Steveston, petite village de p��cheur��� tout ce qui faut pour se sentir bien : la vente de poissons, le caf��/chocolat au bord de l���eau, l���homme p��ruvien qui joue de la fl��te de pan (y en a toujours un du m��me genre pour nous faire profiter des chants indig��nes ou am��ricains remix��s���), les cerf-volants���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/06/dsc_0119.png?w=400&h=266"},
+   :width 400,
+   :height 266,
+   :alt "DSC_0119",
+   :caption "Cerf-volants l�� o�� y a du vent !!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/06/dsc_0141.png?w=400&h=266"},
+   :width 400,
+   :height 266,
+   :alt "DSC_0141",
+   :caption "Vente de poissons/crevettes �� Stevetson"}
+  {:type :paragraph,
+   :content
+   "On trouve m��me du pain roumain par ici. Un roumain qui a v��cu en France, qui s���est fait expulser, ou pouvait t-il bien aller ? Au Canada pardi !"}
+  {:type :paragraph,
+   :content
+   "En remontant sur Vancouver, on ne pouvait manquer la Highway to Heaven : un route de plusieurs kms ou les lieux de cultes se sont install��s les uns �� c��t�� des autres dans des locaux plus ou moins luxueux selon les dons des pratiquants !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/06/dsc_0162.png?w=400&h=266"},
+   :width 400,
+   :height 266,
+   :alt "DSC_0162",
+   :caption "International Buddhist Temple"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/06/dsc_0168.png?w=400&h=266"},
+   :width 400,
+   :height 266,
+   :alt "DSC_0168",
+   :caption "A l&#39;entr��e du Thrangu Monastry Association"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/06/dsc_0169.png?w=280&h=421"},
+   :width 280,
+   :height 421,
+   :alt "DSC_0169",
+   :caption "Asia feeling"}
+  {:type :paragraph,
+   :content
+   "Enfin, direction le Night Market, tout comme en Asie : les petits marchands s���alignent et forment une farandole d���agitation. Tout le monde se rue sur les brochettes, les takoyaki, le squid, les gauffres chinoises ou encore le Bubble tea ���. ��a s���agite, ��a sent bon les saveurs asiatiques ! La diff��rence c���est qu���on ne marchande pas ici ���"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/06/dsc_0188.png?w=280&h=421"},
+   :width 280,
+   :height 421,
+   :alt "DSC_0188",
+   :caption "Summer Night Market"}
+  {:type :paragraph,
+   :content "Quelle journ��e��� encore une fois pleins les yeux !"}],
+ :title "Richmond, la banlieue de Vancouver !",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "richmond-banlieue-de-vancouver",
+ :source-id "1641",
+ :blog "avesdepaso",
+ :visibility :public}

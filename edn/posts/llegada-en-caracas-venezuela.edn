@@ -1,0 +1,19 @@
+{:updated-at #inst "2009-02-10T16:03:02.000-00:00",
+ :tags #{:venezuela},
+ :published-at #inst "2009-02-07T14:51:36.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Bah voila, nous y sommes ! Atterrissage reussi. Nous avons trouve une allemande, Cathi, sur notre route ! Nous l���avons hebergee avec nous pour la premiere nuit dans un Motel love, avec des glaces au plafond���"}
+  {:type :paragraph,
+   :content
+   "Nous ne sommes pas forcement dans la capitale la plus s��re pour s���adapter �� notre nouveau rythme de vie��� pas mal d���interrogations sur la gestion de nos sacs (qui representent notre patrimoine) !"}
+  {:type :paragraph,
+   :content
+   "A plus tard pour plus de nouvelles, la nous partons a la recherche d���un bus!"}],
+ :title "llegada en Caracas, VENEZUELA",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "llegada-en-caracas-venezuela",
+ :source-id "490",
+ :blog "avesdepaso",
+ :visibility :public}

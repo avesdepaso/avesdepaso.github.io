@@ -1,0 +1,133 @@
+{:updated-at #inst "2012-09-04T12:28:35.000-00:00",
+ :tags #{:cerro-negro},
+ :published-at #inst "2012-09-04T12:28:35.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "L���aventure mini��re a commenc�� il y a 2 mois! Et waouhhh, quel changement!"}
+  {:type :paragraph,
+   :content
+   ("Et dire que je parlais d��j�� de vouloir bosser �� la mine quand on ��tait �� Vancouver��� c���est comme un petit r��ve qui se r��alise dis donc "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/09/cam_1454cc.jpg?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "CAM_1454CC",
+   :caption "Campement Eureka"}
+  {:type :paragraph,
+   :content
+   "Alors en Argentine, pour aller �� Ma mine, il faut compter 2h30 d���avion, 5hrs de pick up dont 2hrs sur terrain���.et un gisement au milieu de rien. A cet endroit habitent 350 employ��s Goldcorp dont je fais partie. Bient��t, nous serons 600 et l���an prochain, nous devrions ��tre 900. C���est sans compter les sous-traitants au nombre infini. Tout ce petit m��lange travaille et vit ensemble: une grande famille avec un objectif commun, sortir le pr��cieux m��tal de la terre."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/09/seb_0135cc.jpg?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "SEB_0135CC",
+   :caption "Mon lieu de vie 18 jours/mois"}
+  {:type :paragraph,
+   :content
+   "Vivre sur le projet donne une autre dimension au travail��� on se croirait dans un monde parall��le �� vivre dans un container en plastique au milieu du d��sert patagonique, d��connect�� du domicile et de l���environnement de la city. Et puis au petit matin le ciel est comme un cadeau !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/09/dsc_1179.jpg?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "DSC_1179",
+   :caption "Au petit matin !"}
+  {:type :paragraph,
+   :content
+   ("Quand je veux, je peux aller papoter avec les guanacos et les Nandous (sortes d���autruches) dans la "
+    [:em {} "campo"]
+    " (champ)���")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/09/cam_1165cc.jpg?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "CAM_1165CC",
+   :caption "C���est aussi leur maison aux Guanacos !!"}
+  {:type :paragraph,
+   :content
+   "Je pensais que ce serait dur de s���int��grer��� moi la petite fran��aise ? l���unique? Mais qui sont mes ���amis��� dans tout ��a?"}
+  {:type :paragraph,
+   :content
+   "Les femmes sont mes premi��res copines. Je travaille avec une ��quipe casi exclusivement f��minine et ���vis ma vie��� priv��e dans le SEUL container de femmes du gisement."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/09/dsc_08461.jpg?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "DSC_0846",
+   :caption "Les camionneuses de compet���"}
+  {:type :paragraph,
+   :content
+   ("El Equipo de Rescate Minero (la brigade d���urgence) forment ma deuxi��me famille. Une ��quipe cette fois-ci enti��rement masculine! Mais que de bonnes ondes "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"]
+    " Je passe avec eux pas mal de soir��e �� marcher dans le campo, me former aux formes de sauvetages en milieu minier avec th��orie et pratique au programme chaque semaine.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/09/dsc_1058.jpg?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "DSC_1058",
+   :caption "Ma Brigade !!! ��� La petite : �� gauche en bas"}
+  {:type :paragraph,
+   :content
+   "Les Experts que je rencontre sur mon chemin : g��ologues, topographes, m��decins, infirmiers, mineurs, managers��� Comme je veux tout comprendre de ce projet, je file avec l���un d���entre eux quand je peux apr��s le boulot et je suis son quotidien. C���est le moment o�� j���apprends le plus sur l���industrie : l���exploration, la g��ologie, ses process, ses ��quipements, ses produits chimiques, les mesures de l���or, la gestion des d��chets, l���environnement, ���. ma culture g��n��rale en mode mine en r��alit�� !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/09/exploracion-agosto-2012-445.jpg?w=400&h=300"},
+   :width 400,
+   :height 300,
+   :alt "Exploracion Agosto 2012 445",
+   :caption
+   "Bien entour��e au pied d���un ��quipement de perforation d���exploration!"}
+  {:type :paragraph,
+   :content
+   "Sur le projet, on d��couvre qu���on peut vivre avec pas grand chose. Une chambre, une douche chaude, 3 plats par jour, une vue 360�� sur la nature ! On touche m��me pas au portefeuille et tous les besoins de consommation disparaissent. M��me pas une pub sur le campement pour te donner envie d���acheter le dernier truc tendance!! C���est comme magique et ��a fait le plus grand bien �� mon cerveau���"}
+  {:type :paragraph,
+   :content
+   ("Nous allons bient��t avoir une belle salle de sport avec machines. J���ai m��me propos�� �� l���instructeur (oui on a m��me un instructeur genre clud med!) d���acheter des tapis de Yoga histoire d���entrainer quelques int��ress��s dans ma folie du yoga��� vous imaginez le mineur en collant? h��h��, on va bien rigoler "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"])}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/09/surynamaskara2.gif?w=450&h=97"},
+   :width 450,
+   :height 97,
+   :alt "surynamaskara2"}
+  {:type :paragraph, :content "Ce qui me manque en trois M ???"}
+  {:type :paragraph, :content "Mon amoureux au bout du 12��me jour !"}
+  {:type :paragraph,
+   :content
+   ([:iframe
+     {:class "youtube-player",
+      :type "text/html",
+      :width "640",
+      :height "390",
+      :src
+      "https://www.youtube.com/embed/5APeZ5oQye4?version=3&rel=1&fs=1&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent",
+      :frameborder "0"}])}],
+ :title "Proyecto Cerro Negro",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "proyecto-cerro-negro",
+ :source-id "2265",
+ :blog "avesdepaso",
+ :visibility :public}

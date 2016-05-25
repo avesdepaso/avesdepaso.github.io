@@ -1,0 +1,158 @@
+{:updated-at #inst "2014-09-27T19:22:51.015-00:00",
+ :cover
+ {:width 1024,
+  :height 678,
+  :provider :flickr,
+  :user-id "96129378@N07",
+  :category-id "72157647467922698",
+  :id
+  {:id "15290710846",
+   :farm-id 6,
+   :server-id "5576",
+   :photoset-id nil,
+   :secret "709dac161e",
+   :original-secret nil,
+   :original-format nil}},
+ :published-at #inst "2014-11-03T02:07:53.258-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("C&#39;est dimanche 21 septembre! Il est 9 heures. J&#39;attends mon amoureux pour le petit dej&#39;. Entre tant, je bouquine le nouveau site de "
+    [:a {:href "http://accion-sur.com.ar/"} "Christian Aprea"]
+    ", guide de montagne (il nous a accompagn�� au "
+    [:a
+     {:href "http://avesdepaso.refug.io/en-route-pour-le-cone-blanc/"}
+     "Lanin "]
+    "en 2013). Je d��couvre l&#39;existence du Cerro Colorado! A seulement 14 kilometres de la maison... je file r��veiller Julien toujours endormi. Il sait pas encore que je veux aller gambader au Cerro heheheh.....")}
+  {:type :photo,
+   :caption "Base du Trek Cerro Colorado",
+   :user-id "96129378@N07",
+   :category-id "72157647467922698",
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "d0a1dfba3b",
+    :original-secret "c96ee4dd43",
+    :id "15309763611",
+    :farm-id 6,
+    :server-id "5556"},
+   :provider :flickr}
+  {:type :paragraph,
+   :content
+   ("Il est 12.30hrs. On d��marre alors notre ballade ;-) M��me si c&#39;est le premier jour du printemps (primavera), on a quand m��me pris le barda de la rando : bonnet, gants, goretex de la t��te aux pieds, polaire...et m��me les crampons ...on peut voir encore pas mal de nevets dans les hauteurs. Avec le vent qu&#39;on a ici, on peut imaginer que la neige est dure!! Alors en cas de doutes, vaut mieux prendre mes petits crampons."
+    [:br {}])}
+  {:type :photo,
+   :width 678,
+   :user-id "96129378@N07",
+   :category-id "72157647467922698",
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "98048a8e3a",
+    :original-secret "9ec212f1a5",
+    :id "15126383267",
+    :farm-id 4,
+    :server-id "3900"},
+   :provider :flickr,
+   :height 1024}
+  {:type :paragraph,
+   :content
+   ("On est seuls dans la nature. Ca grimpe dur ....900 metres de d��nivel��s. On borde la riviere tout en entrant dans un for��t dense en Coihues puis Lengas, arbres communs de la r��gion. Des flocons de neige viennent se poser sur nous et la brise embarque mes cheveux. Hop on cache tout ca sous la capuche. "
+    [:br {}])}
+  {:type :photo,
+   :caption "Lengas sur tapis blanc",
+   :user-id "96129378@N07",
+   :category-id "72157647467922698",
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "7e830d4b47",
+    :original-secret "812839eb44",
+    :id "15312517582",
+    :farm-id 6,
+    :server-id "5596"},
+   :provider :flickr}
+  {:type :paragraph,
+   :content
+   ("On arrive sur un petit perchoir. C&#39;est bien bien venteux.�� Rajoute �� ca, des petites rafales de neige! Vive le printemps!!! On voit rien, pas m��me le sentier. Ahhhhh par l��, regardes, un petit rayon de soleil et hop... on suit ensuite un sentier de roches volcanique rouge, d&#39;o�� la couleur donn��e �� cette montagne "
+    [:i {} "Cerro Colorado"]
+    ". Le sommet est d��cor�� d&#39;un kern qui fait aussi office de cabane de pierre pour se prot��ger du vent. La vue est bien s��re incroyable"
+    [:i {} ". "]
+    "On est heureux."
+    [:br {}])}
+  {:type :photo,
+   :user-id "96129378@N07",
+   :category-id "72157647467922698",
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "d792672158",
+    :original-secret "0fe4ace932",
+    :id "15313410292",
+    :farm-id 4,
+    :server-id "3919"},
+   :provider :flickr}
+  {:type :photo,
+   :caption "Sommet Cerro Colorado - 1780 metres",
+   :user-id "96129378@N07",
+   :category-id "72157647467922698",
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "f095d6b353",
+    :original-secret "4f17dedba8",
+    :id "15312893405",
+    :farm-id 4,
+    :server-id "3915"},
+   :provider :flickr}
+  {:type :paragraph,
+   :content
+   ("On en a pris pleins les yeux!!! yeahhhh. ya plus qu&#39;�� redescendre. On se fera un p&#39;tit casse-cro��te en bas. Et retour �� la maison."
+    [:br {}])}
+  {:type :photo,
+   :width 678,
+   :user-id "96129378@N07",
+   :category-id "72157647467922698",
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "23272ee536",
+    :original-secret "57dd2a2a35",
+    :id "15126296348",
+    :farm-id 6,
+    :server-id "5551"},
+   :provider :flickr,
+   :height 1024}
+  {:type :photo,
+   :user-id "96129378@N07",
+   :category-id "72157647467922698",
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "ebb8a3b3aa",
+    :original-secret "be264ce6bc",
+    :id "15126137410",
+    :farm-id 6,
+    :server-id "5558"},
+   :provider :flickr}
+  {:type :photo,
+   :caption "Querido San Martin de los Andes!",
+   :user-id "96129378@N07",
+   :category-id "72157647467922698",
+   :id
+   {:photoset-id nil,
+    :original-format "jpg",
+    :secret "18df50cf46",
+    :original-secret "81aebe9e08",
+    :id "15309688291",
+    :farm-id 4,
+    :server-id "3862"},
+   :provider :flickr}],
+ :title "HOLA PRIMAVERA",
+ :locations
+ ({:latitude -40.160671799999996,
+   :longitude -71.3587673,
+   :accuracy 30}),
+ :id "hola-primavera",
+ :blog "avesdepaso",
+ :visibility :public}

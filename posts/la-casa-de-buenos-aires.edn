@@ -1,0 +1,130 @@
+{:updated-at #inst "2014-09-25T21:25:08.758-00:00",
+ :tags #{:argentine :amerique-du-sud :buenos-aires},
+ :cover
+ {:width 1024,
+  :height 678,
+  :provider :flickr,
+  :user-id "96129378@N07",
+  :category-id "72157647903763416",
+  :id
+  {:id "15150242947",
+   :farm-id 4,
+   :server-id "3899",
+   :photoset-id nil,
+   :secret "e51922ea6e",
+   :original-secret nil,
+   :original-format nil}},
+ :published-at #inst "2012-04-15T15:30:25.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Bon voil��, on a fini par s���installer "
+    [:span {:title ";-)", :class "wp-smiley emoji emoji-wink"} ";-)"])}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647903763416",
+   :id
+   {:id "15150016559",
+    :farm-id 3,
+    :server-id "2944",
+    :photoset-id nil,
+    :secret "5b8cc7972c",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("A d��faut d���utiliser Craigslist (comme nous l���avons si bien fait au Canada), nous avons pr��f��r�� un appartement meubl��, ce qui nous ��vite d���investir dans les gros achats.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647903763416",
+   :id
+   {:id "15336783415",
+    :farm-id 3,
+    :server-id "2942",
+    :photoset-id nil,
+    :secret "9740e28794",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Nous avons opt�� pour le c��t�� neuf cette fois-ci afin d�����viter les infections de "
+    [:em {} "cucarachas"]
+    " (blattes) et pour le balcon, un vrai plus dans un pays qui n���offre pas de temp��ratures en dessous de 8 degr��s��� pour les nenettes comme moi qui veulent��s���initier��au jardinage ��ou les ���hombres��� (hommes) qui veulent faire du BBQ !")}
+  {:type :photo}
+  {:type :paragraph,
+   :content
+   "On a notre voisine ���V��ro��� qui ��coute de la musique des ann��es 80 �� c��t��, mais ca va elle d��range pas tant. On a d��couvert que nos voisines d���en face faisaient pas mal la bringue dans leur appart si bien que sur les charges mensuelles de l���immeuble o�� figurent la facture de chaque appartement (eh oui, tout le monde sait qui paye quoi���), j���ai d��couvert qu���elles devaient payer 150 euros d���amendes ce mois-ci���. wouuuchhh���"}
+  {:type :paragraph,
+   :content
+   "Moi qui suis plut��t sensible aux sons, je commence tout juste �� m���habituer aux sons de notre environnement :"}
+  {:type :paragraph,
+   :content "- le bip-bip des portes d���entr��e des immeubles���,"}
+  {:type :paragraph,
+   :content
+   "- le bip-bip de l���ascenseur quand tu rentres, quand il monte, quand il descend et quand tu sors���,"}
+  {:type :paragraph,
+   :content "- le bip-bip des entr��e et sorties de parkings,"}
+  {:type :paragraph,
+   :content
+   "- les alarmes de folies des voitures gar��es dans la rue��qui se mettent marche pour un rien,"}
+  {:type :paragraph,
+   :content
+   "- le klaxon du train d����� c��t�� qui pr��vient les gens qui traversent le rail avant de passer de peur d���en ��craser un �� chaque passage,"}
+  {:type :paragraph,
+   :content
+   "- le bruit constant du moustique qui vient te chatouiller l���oreille pour te pr��venir qu���il est dans les parages ���"}
+  {:type :paragraph,
+   :content
+   "Un rythme tr��s latin en r��alit�� que nous avions d��j�� rencontr�� lors de notre long voyage mais la diff��rence, c���est qu���on habite dedans d��sormais ���"}
+  {:type :photo,
+   :caption "Caf�� �� chaque esquina (coin de rue)",
+   :alt "DSC_0989",
+   :width 365,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/04/dsc_09891.jpg?w=365&h=550"},
+   :provider :wordpress,
+   :height 550}
+  {:type :paragraph,
+   :content
+   ("Enfin, un truc qui nous r��jouit : les petits commerces de l��gumes, les "
+    [:em {} "panaderias"]
+    " (boulangerie), les petits restos undergrounds du quartier et le studio de Yoga �� 200m de la maison���")}
+  {:type :photo,
+   :caption "AMAP argentine",
+   :alt "DSC_1190",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/04/dsc_1190.jpg?w=450&h=297"},
+   :provider :wordpress,
+   :height 297}
+  {:type :paragraph,
+   :content
+   ("Ah j���oubliais, pour les voyageurs qui auront l���occasion de passer par chez nous, je vous annonce que nous avons une petite "
+    [:em {} "pileta"]
+    " (piscine) au sommet de l���immeuble avec vue sur Buenos Aires "
+    [:span
+     {:title ":-)", :class "wp-smiley emoji emoji-smile"}
+     ":-)"])}
+  {:type :photo,
+   :alt "DSC_0845_2",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/04/dsc_0845_2.jpg?w=450&h=297"},
+   :provider :wordpress,
+   :height 297}
+  {:type :paragraph, :content "A bient��t !"}],
+ :title "La casa de Buenos Aires !",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "la-casa-de-buenos-aires",
+ :source-id "2135",
+ :blog "avesdepaso",
+ :visibility :public}

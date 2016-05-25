@@ -1,0 +1,275 @@
+{:updated-at #inst "2014-09-26T02:30:10.323-00:00",
+ :tags #{:chili},
+ :cover
+ {:width 1024,
+  :height 678,
+  :provider :flickr,
+  :user-id "96129378@N07",
+  :category-id "72157648037562265",
+  :id
+  {:id "15324180286",
+   :farm-id 4,
+   :server-id "3918",
+   :photoset-id nil,
+   :secret "e74fc696e8",
+   :original-secret nil,
+   :original-format nil}},
+ :published-at #inst "2013-08-02T01:34:14.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ([:a
+     {:href "http://fr.wikipedia.org/wiki/%C3%8Ele_de_P%C3%A2ques"}
+     "Rapa Nui"]
+    " c���est avant tout une ��le. Pas le style plage de sable blanc, mojito et rien �� faire, plut��t le style ��� surnaturel. L�����le de P��ques (pour ceux qui ne parlent pas polyn��sien) est l�����le habit��e la plus isol��e de la plan��te. Et ��a c���est la classe!")}
+  {:type :paragraph,
+   :content
+   ("Rapa nui a ��t�� colonis��e par des populations venues des ��les marquises. Ca fait une petite trotte quand m��me, surtout dans une pirogue de 3 m��tres de long pleine de poules, graines et slips en feuilles de palmiers. Tout ��a en se dirigeant au doigt mouill�� en suivant des mouettes. Vous y penserez la prochaine fois qu���Archibald voudra encore faire une pause pipi sur l���autoroute (un coup de pagaie ouai!).")}
+  {:type :photo,
+   :alt "DSC_0442",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/07/dsc_0442.jpg?w=450&h=679"},
+   :provider :wordpress,
+   :height 679}
+  {:type :paragraph,
+   :content
+   "Pour nous le voyage est plus simple. Faut juste trouver l�����quivalent d���une brouette de pesos et se d��p��cher de payer, chaque jour qui passe c���est une brouette de plus. Ensuite on arrive dans un a��roport de la taille de votre salle de bain et un type en chemise �� fleur nous offre un collier en fleur qui sentent rien. Enfin en th��orie, une heure apr��s notre arriv��e (et le store de l���a��roport baiss��) toujours rien pour nous.\nJe me serai tromp�� dans la date. J���avais pourtant le choix."}
+  {:type :photo,
+   :alt "DSC_0447",
+   :width 450,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2013/07/dsc_0447.jpg?w=450&h=679"},
+   :provider :wordpress,
+   :height 679}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157648037562265",
+   :id
+   {:id "15160718898",
+    :farm-id 4,
+    :server-id "3927",
+    :photoset-id nil,
+    :secret "0d80a6e958",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157648037562265",
+      :id
+      {:id "15160586890",
+       :farm-id 3,
+       :server-id "2944",
+       :photoset-id nil,
+       :secret "404ab34948",
+       :original-secret nil,
+       :original-format nil}}
+     {:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157648037562265",
+      :id
+      {:id "15347283485",
+       :farm-id 4,
+       :server-id "3926",
+       :photoset-id nil,
+       :secret "a418a65af9",
+       :original-secret nil,
+       :original-format nil}}]]}
+  {:type :paragraph,
+   :content
+   ("Ca a l���air sympa comme ��a! C���est s��r c���est pas mal. Le paradis, d���apr��s les gens du coin.\nIl parait m��me que les jeunes reviennent en courant apr��s avoir fait leurs ��tudes �� la capitale, Santiago. L�� j���avoue je suis sceptique. 20 kms sur 15, 1 rue commer��ante (principalement des restaux pour touristes), ��1 cin��ma (enfin une salle dans un h��tel qui diffuse 1 unique film, "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Rapa_Nui_(film)"}
+     "Rapa Nui"]
+    " bien s��r, un coup en anglais un coup en fran��ais), 1 route d���une trentaine de kms ���")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157648037562265",
+   :id
+   {:id "15160705317",
+    :farm-id 4,
+    :server-id "3920",
+    :photoset-id nil,
+    :secret "b845346c71",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157648037562265",
+   :id
+   {:id "15160728817",
+    :farm-id 3,
+    :server-id "2944",
+    :photoset-id nil,
+    :secret "659acd3d26",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Comme toujours avec les civilisations aujourd���hui disparues (sous les balles de fusils europ��ens) on sait pas grand chose de ces dr��les de coutumes. En gros ils aimaient bien sculpter de gros bonhommes (les "
+    [:a {:href "http://fr.wikipedia.org/wiki/Moa%C3%AF"} "Moa��s"]
+    "), les balader dans toute l�����le sur des troncs d���arbres (les coupant jusqu���au dernier au passage) pour finalement les mettre par terre quand ils ��taient pas contents.\nMon fr��re fait pareil. Habill�� par contre, pas en pagne. Et c���est mieux pour tout le monde.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157648037562265",
+   :id
+   {:id "15324198626",
+    :farm-id 4,
+    :server-id "3917",
+    :photoset-id nil,
+    :secret "550c0c7d70",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157648037562265",
+   :id
+   {:id "15160453969",
+    :farm-id 3,
+    :server-id "2944",
+    :photoset-id nil,
+    :secret "92d3da7e03",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Finalement en carte postale c���est plut��t pas mal toutes ces t��tes! A part ��a je vois pas trop. Porte-manteau pour girafe peut-��tre.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157648037562265",
+   :id
+   {:id "15160434999",
+    :farm-id 4,
+    :server-id "3877",
+    :photoset-id nil,
+    :secret "12b590409d",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157648037562265",
+   :id
+   {:id "15347171595",
+    :farm-id 4,
+    :server-id "3876",
+    :photoset-id nil,
+    :secret "86884e55a4",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photoset,
+   :photos
+   [[{:width 678,
+      :height 1024,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157648037562265",
+      :id
+      {:id "15160585328",
+       :farm-id 3,
+       :server-id "2943",
+       :photoset-id nil,
+       :secret "7de73615c4",
+       :original-secret nil,
+       :original-format nil}}
+     {:width 678,
+      :height 1024,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157648037562265",
+      :id
+      {:id "15160576558",
+       :farm-id 3,
+       :server-id "2944",
+       :photoset-id nil,
+       :secret "9b9099b5e8",
+       :original-secret nil,
+       :original-format nil}}]],
+   :caption "Moais"}
+  {:type :paragraph,
+   :content
+   ("De nos jours la nurserie (l�� o�� les Moa��s ��taient sculpt��s) c���est transform��e en cimeti��re. ��Symbole de la course en avant des Rapa nuis: un Moa�� �� moiti�� fini de plus de 20 m��tres, plus du double du plus haut jamais ��rig��.")}
+  {:type :photo,
+   :width 768,
+   :height 1024,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157648037562265",
+   :id
+   {:id "15343957511",
+    :farm-id 4,
+    :server-id "3870",
+    :photoset-id nil,
+    :secret "2351bfe47b",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Bien s��r arr��t obligatoire pour voir un spectacle de danse polyn��sienne traditionnelle: l���occasion de revoir la moiti�� de la population de l�����le (le tatoueur, la responsable d���office touristique, la fille de la vendeuse de statuettes ..) en train de danser un "
+    [:a {:href "http://fr.wikipedia.org/wiki/Haka"} "haka"]
+    "��typique de l�����le.")}
+  {:type :photo,
+   :width 1024,
+   :height 497,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157648037562265",
+   :id
+   {:id "15324246786",
+    :farm-id 4,
+    :server-id "3842",
+    :photoset-id nil,
+    :secret "6ebe1469a2",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157648037562265",
+   :id
+   {:id "15160562980",
+    :farm-id 4,
+    :server-id "3917",
+    :photoset-id nil,
+    :secret "187eeca65f",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   "De bons souvenirs comme d���habitude! N���h��sitez pas �� y faire un crochet si vous passez dans le coin (en voilier-stop par exemple)."}],
+ :title "Rapa Nui",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "rapa-nui",
+ :source-id "2636",
+ :blog "avesdepaso",
+ :visibility :public}

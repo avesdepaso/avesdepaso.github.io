@@ -1,0 +1,27 @@
+{:updated-at #inst "2011-04-18T02:55:19.000-00:00",
+ :tags #{:vancouver},
+ :published-at #inst "2011-04-18T02:55:19.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Allez on est sympa on va vous faire partager les petits moments de loose nord-am��ricaine pour vous remonter un peu le morale (ouai on suit aussi les infos fran��aises..)."}
+  {:type :paragraph,
+   :content
+   ("On commence par ��� l���aspirateur! Et ouai incroyable mais la France est au summum de la technologie de la succion de poussi��re. C���est pas ��vident comme ��a mais oui il est possible de rater un aspirateur. Et pas juste un mod��le bas de gamme chez le revendeur chinois du coin, mais tout le concept de l���aspirateur. Retour aux ann��es 60 avec une version relook�� de l���aspirateur pas traineau, plut��t traine sur ton dos. Faut se charrier la technologie am��ricaine �� bout de bras, un bordel de bruit pour camoufler mes petits g��missements de douleur. Pas de rembobinage�� automatique de fil bien s��r c���est tellement plus marrant d���avoir ��a dans les pattes."
+    "\n��a a pas l���air si horrible comme ��a mais suffit de voir le r��sultat "
+    [:a
+     {:href
+      "http://www.youtube.com/watch?feature=player_detailpage&v=9QaEvw_KQL0#t=19s"}
+     "apr��s "]
+    "quelques utilisations."
+    "\nPetit d��tail qui tue: de magnifiques loupiotes �� l���avant, fa��on Jacky, pour rep��rer la poussi��re qui se planquent. D��s fois qu���il vous prenne une petite envie d���aspirer �� 2 heures du mat, presque incognito!")}
+  {:type :paragraph,
+   :content
+   "Bon en plus on est pas g��t��: le proprio pr��c��dent de cette belle m��canique nous �� laisser en souvenir l���int��gralit�� de ce qu���il �� aspirer. Sisi c�����tait tout bien ranger �� l���int��rieur, �� la c��sar. Forcement quand on ouvre ��a fait pouff!"}
+  {:type :paragraph, :content "Ou alors c���est un aspi jetable.."}],
+ :title "L���am��rique comme si vous y ��tiez",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "lamerique-comme-si-vous-y-etiez",
+ :source-id "1545",
+ :blog "avesdepaso",
+ :visibility :public}

@@ -1,0 +1,62 @@
+{:updated-at #inst "2011-02-06T07:41:06.000-00:00",
+ :tags #{:argentine :vancouver},
+ :license :by-nc-nd,
+ :cover
+ {:provider :flickr,
+  :id
+  {:id "13181678533",
+   :farm-id 8,
+   :server-id "7195",
+   :secret "c3e244d226",
+   :original-secret "41c5e81071",
+   :original-format "jpg"},
+  :user-id "96129378@N07",
+  :category-id "72157642411178115",
+  :alt "Lac Lacard",
+  :width 4928,
+  :height 3264},
+ :published-at #inst "2011-02-06T07:41:06.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Comme "
+    [:a {:href "http://www.youtube.com/watch?v=JhZqsYkl1zI"} "David"]
+    " me le disait récemment ... je sais pas trop en fait j'ai juste compris le titre. Et les rumeurs sur notre amitié sont .. exagérées. Enfin je ne manquerai pas de lui demander des précisions la prochaine fois que je le croiserai.")}
+  {:type :paragraph,
+   :content
+   "Pas de comité d'accueil à notre arrivée, même pas un petit panneau à notre nom. Mais une belle épreuve de traînage de valises pour cause de trop-lourd et aïe-mon-dos. Pour info les charriots à bagages de l'aéroport peuvent bien être utilisés jusqu'aux portes du métro! 20 minutes plus tard nous voilà dans le centre, le temps de sauter dans un taxi et nous sommes arrivés! Manque plus que la clé de l'appartement que nous devons récupérer d'amis (belges) des personnes (belges) nous sous-louant leur appartement. Un coup de portables plus tard (miracle ça fonctionne!) et nous sommes informés que nous récupèrerons les clés auprès d'amis (... belges) des amis sus-mentionnés."}
+  {:type :paragraph,
+   :content
+   "Oui c'est un peu angoissant toute cette mafia belge à Vancouver. Au pire on se fera racketter de la bière.."}
+  {:type :paragraph,
+   :content
+   ([:a
+     {:href
+      "https://maps.google.com/maps?f=q&source=s_q&hl=fr&geocode=&q=1450 Chestnut Street, Vancouver, British Columbia, Canada&aq=0&sll=37.0625,-95.677068&sspn=36.094886,86.220703&ie=UTF8&hnear=1450 Chestnut St, Vancouver, Greater Vancouver Regional District, British Columbia V6J 4V1, Canada&ll=49.273008,-123.146295&spn=0.014531,0.0421&z=14&source=embed",
+      :style "text-align:left"}
+     "View Larger Map"])}
+  {:type :paragraph,
+   :content
+   "Pour rendre impatients ceux qui nous rendront visite et jaloux ceux qui ont dit qu'ils le feraient (mais bon tu comprends la grand-mère et puis en plus mon boss m'a engueulé cette semaine), Vancouver depuis notre fenêtre a ressemble à ça:"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/02/vue-vancouver.jpg?w=1024&h=769"},
+   :alt "vue-vancouver"}
+  {:type :paragraph,
+   :content
+   ("Rappel: c'est bien "
+    [:a {:href "http://en.wikipedia.org/wiki/Vancouver"} "Vancouver"]
+    ", sur la "
+    [:a
+     {:href
+      "http://en.wikipedia.org/wiki/History_of_the_west_coast_of_North_America"}
+     "West Coast"]
+    " (qui a dit Wet Coast?), au Canada. Pas Montreal, Toronto, Ottawa, Osaka?? Ca serait dommage de se tromper..")}],
+ :title "A new career in a new town",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "a-new-career-in-a-new-town",
+ :source-id "1310",
+ :blog "avesdepaso",
+ :visibility :public}

@@ -1,0 +1,187 @@
+{:updated-at #inst "2009-05-12T16:09:25.000-00:00",
+ :tags #{:perou},
+ :published-at #inst "2009-05-12T16:09:25.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("L'Apurimac, 'El dios que habla' en Quechua(Dieu qui parle) compte parmi les rivières les plus intenses dans le monde ! Les rapides atteignent des niveaux 4, 5 et 6. Pour les novices, sachez que c'est du haut niveau "
+    [:span {:class "wp-smiley emoji emoji-smile", :title ":-)"} ":-)"]
+    " On a vraiment la sensation d'épouser la vague.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/1-al-3-apu-145-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "1 al 3 apu 145 [50%]"}
+  {:type :paragraph,
+   :content
+   ("On a pu tester le rafting en Islande et on a vraiment adoré !! Parmis nos rencontres, un pro du Raft en france ("
+    [:a
+     {:href "http://www.coureurs-rivieres.com/"}
+     "http://www.coureurs-rivieres.com/"]
+    "), nous a fait découvrir le rio Apurimac et on pas pu s'empécher de faire le voyage !")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/1-al-3-apu-056-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "Le Canyon étroit de l'Apurimac",
+   :caption "Le Canyon étroit de l'Apurimac"}
+  {:type :paragraph,
+   :content
+   "De Cusco, nous avons tenté une fois de plus d'obtenir le meilleur prix car le rafting, c'est Cher ! (bon c'est plus cher en france, mais quand même) et on s'est vite aperçu qu'il y a une niche à prendre dans le coin, car pour le moment Mayuc a le monopole (agence spécialisée depuis plus de 30 ans) : meilleur matériel, meilleurs guides, un niveau de sécurité ultra élevé et bien sûr un prix similaire."}
+  {:type :paragraph,
+   :content
+   "Bilan : On veut faire cette rivière alors on aligne les billets !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/1-al-3-apu-008-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "Pauvres mais contents",
+   :caption "Pauvres mais contents"}
+  {:type :paragraph,
+   :content
+   ("Comme monopole il y a sur cette agence, la liste du groupe s'allonge. Nous partons à 30 volontaires ! Autant dire que l'esprit colo est de retour! Parmis nos nouvaux amis : Myriam, américaine, 4 péruviens et une vingtaine d'israéliens ! La surprise est grande: on sait qu'ils voyagent beaucoup après leur service militaire mais on ne s'attendait pas à participer à Shabbat lors de notre expédition "
+    [:span
+     {:class "wp-smiley emoji emoji-smile", :title ":-)"}
+     ":-)"])}
+  {:type :paragraph,
+   :content
+   ("Ainsi commence notre voyage, si on veut faire 3 jours de rafting, il nous faut déjà atteindre la rivière soit plus de 4h30 de route de terre au milieu de canyons arides et raides comme mes cheveux !"
+    [:em
+     {}
+     "Pas d'inquiétude, bernado, notre chauffeur, fait la route depuis des années, pas encore d'accidents au compteur"]
+    "... d'accord.")}
+  {:type :paragraph,
+   :content
+   "La première journée est consacrée entre autre aux kms, mais plus particulièrement à un entraînement : apprentissage des positions dans le raft, manipulation de la pagaie, actions de sécurité (comme si j'avais prévu de tomber à l'eau), tout ceci en théorie et en pratique."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/1-al-3-apu-160-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "Entrainement au Flip (Renversement de bateau)",
+   :caption "Entrainement au Flip (Renversement de bateau)"}
+  {:type :paragraph,
+   :content
+   "En fin de journée, on découvre notre camp pour la nuit : une magnifique petite plage de sable en bord du Rio. Magique !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/1-al-3-apu-115-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "Lunch au bord de l'eau",
+   :caption "Lunch au bord de l'eau"}
+  {:type :paragraph,
+   :content
+   "Le deuxième jour, on arrête de rigoler : Etirements et jeux de groupes pour nous mettre en jambe puis on démarre tôt car le rafting nous occupera 6h durant sous un soleil de plomb ! Mais les vagues et les ombres provoquées par la profondeur du canyon savent nous rafraîchir."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/1-al-3-apu-032-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "A fond la forme dans les rapides",
+   :caption "A fond la forme dans les rapides"}
+  {:type :paragraph,
+   :content
+   "Les notions de sécurité sont ultra précises. Par moment, nous devons sortir des rafts pour marcher sur la rive car devant nous, des rapides de classe 6 en ont surpris plus d'un (autrefois quelques touristes y sont restés)."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/1-al-3-apu-164-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "Give me five!",
+   :caption "Give me five!"}
+  {:type :paragraph,
+   :content
+   "Aussi, les guides qui nous accompagnent sont au nombre de 14 pour assurer la logistique et notre sécurité! C'est impresionnant quand on est tous sur l'eau :"}
+  {:type :paragraph,
+   :content
+   "4 Cargos Boat,qui sont en fait des catamarans transportant tout le matériel"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/1-al-3-apu-210-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "Le cargo boat en action",
+   :caption "Le cargo boat en action"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/1-al-3-apu-148-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "Kayaks pour s��curiser les rafts",
+   :caption "Kayaks pour s��curiser les rafts"}
+  {:type :paragraph,
+   :content
+   "Le soir, un feu de camp est préparé pour nous faire rêver, découvrir nos nouveaux amis, manger du machmalo et faire fuir les mosquitos !"}
+  {:type :paragraph,
+   :content
+   "Notre dernier jour est tout aussi intense : 4 h de rafting, autant dire qu'on en profite au maximum. Les rapides sont à chaque coin de la rivière et le paysage est tout aussi magnifique ! Les condors volent haut, très haut et tournent en rond dans les courants chauds."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/1-al-3-apu-058-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "La team de William, notre guide",
+   :caption "La team de William, notre guide"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/1-al-3-apu-182-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "Encore des vagues",
+   :caption "Encore des vagues"}
+  {:type :paragraph,
+   :content
+   "Et malheureusement, comme tout a une fin, au beau milieu de la journée, on amarre les rafts ! Ciao Apurimac ! (je rêve d'y retourner!)"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/1-al-3-apu-167-50.jpg?w=300&h=224"},
+   :width 300,
+   :height 224,
+   :alt "Les guides de Mayuc",
+   :caption "Les guides de Mayuc"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/05/img_3542-50.jpg?w=199&h=300"},
+   :width 199,
+   :height 300,
+   :alt "Kayak, pour une prochaine fois ?",
+   :caption "Kayak, pour une prochaine fois ?"}
+  {:type :paragraph,
+   :content
+   "Activité fortement recommandée pour toute personne mettant les pieds à Cusco, Pérou !"}],
+ :title "3 jours dans les vagues du Rio Apurimac",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "3-jours-dans-les-vagues-du-rio-apurimac",
+ :source-id "792",
+ :blog "avesdepaso",
+ :visibility :public}

@@ -1,0 +1,287 @@
+{:updated-at #inst "2014-09-25T04:04:59.186-00:00",
+ :tags #{:argentine :amerique-du-sud},
+ :cover
+ {:width 1024,
+  :height 678,
+  :provider :flickr,
+  :user-id "96129378@N07",
+  :category-id "72157647980707901",
+  :id
+  {:id "15341064201",
+   :farm-id 4,
+   :server-id "3852",
+   :photoset-id nil,
+   :secret "5d747530ae",
+   :original-secret nil,
+   :original-format nil}},
+ :published-at #inst "2012-12-09T17:53:02.000-00:00",
+ :elements
+ [{:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647980707901",
+   :id
+   {:id "15344034682",
+    :farm-id 3,
+    :server-id "2944",
+    :photoset-id nil,
+    :secret "34191bf0ea",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("On ��tait pas parti en vacances depuis un moment et on s���est dit que la Province de Jujuy pourrait bien nous satisfaire quelques jours���. Faut dire qu���on y avait d��j�� laisser des traces en 2009 lors de notre voyage �� sac-��-dos ���. mais �� travers la fen��tre d���un bus, ��a donne pas tout �� fait les m��mes sensations h��h��!")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647980707901",
+   :id
+   {:id "15157703758",
+    :farm-id 4,
+    :server-id "3897",
+    :photoset-id nil,
+    :secret "878b87def7",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Mais pourquoi donc on a voulu retourner l��-bas vous allez me dire ??? Qu���est ce qu���il y a l��-haut de si Incroyable ???")}
+  {:type :paragraph,
+   :content
+   ("Ahhhhhh, marcher, observer, ��papote avec les locaux, chiner, se trouver les pieds dans les grands espaces, les chevaux au vent frais de la puna, sentir la terre, d��couvrir les coutumes, les petits plats bien du nord, vivre la tranquillit�� du Jujuyeno!���.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647980707901",
+   :id
+   {:id "15344229525",
+    :farm-id 3,
+    :server-id "2942",
+    :photoset-id nil,
+    :secret "aa20a9b6b0",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("D���abord, parlons du Jujuyeno ;-)��Il se trouve qu����� la mine, je suis aussi entour��e de Jujuyno! La plus vieille mine d���Argentine, El Aguilar (87 ans, mine souterraine) se trouve dans la r��gion et fait vivre une bonne partie de la population alentour. Les hommes qui se trouvent l��-haut ont re��u une autre ��ducation et la culture qu���ils vivent au quotidien en a fait des hommes bien tranquilles, humbles!!!! ahhh pis la descendance indig��ne est omnipr��sente! ahhh les "
+    [:em {} "chola"]
+    " sont tr��s jolies !! (femmes indig��nes).")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647980707901",
+   :id
+   {:id "15341099211",
+    :farm-id 4,
+    :server-id "3884",
+    :photoset-id nil,
+    :secret "54fbe69d3a",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Peu de besoins o�� du moins pas les m��mes que nous autres��� malgr�� le d��veloppement du tourisme, certaines coutumes se collent aux prog��nitures et restent casi intactes ! Chacun vit de la culture de la r��gion et mange plus sainement que nous tous!! Bref, un petit monde bien distinct de notre Buenos Aires!")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647980707901",
+   :id
+   {:id "15157520870",
+    :farm-id 3,
+    :server-id "2943",
+    :photoset-id nil,
+    :secret "df6bef1f7d",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Comme d���hab, ce qui nous int��resse, plus que tout, c���est marcher���. alors on s���est fait quelques "
+    [:em {} "caminatas"]
+    " (randonn��e)! ���.. Bon on s���est rendu compte que de partir sans se pr��parer, c���est pas toujours gagn������� hors des sentiers battus��� Le fameux GR���. ici tu oublies "
+    [:span {:title ";-)", :class "wp-smiley emoji emoji-wink"} ";-)"]
+    " Mais bon, des petites marches par ci par l��, on ��tait d��j�� en effervescence "
+    [:span {:title ";-)", :class "wp-smiley emoji emoji-wink"} ";-)"]
+    ".")}
+  {:type :photoset,
+   :photos
+   [[{:width 678,
+      :height 1024,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647980707901",
+      :id
+      {:id "15157712198",
+       :farm-id 4,
+       :server-id "3877",
+       :photoset-id nil,
+       :secret "133ee88d0d",
+       :original-secret nil,
+       :original-format nil}}]
+    [{:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647980707901",
+      :id
+      {:id "15157782267",
+       :farm-id 4,
+       :server-id "3860",
+       :photoset-id nil,
+       :secret "f60901d1c2",
+       :original-secret nil,
+       :original-format nil}}
+     {:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647980707901",
+      :id
+      {:id "15157794807",
+       :farm-id 3,
+       :server-id "2943",
+       :photoset-id nil,
+       :secret "050ac01b62",
+       :original-secret nil,
+       :original-format nil}}]]}
+  {:type :paragraph,
+   :content
+   ("Nous avons eu le temps de voir des canyons, des cactus, des cascades, des formations de roches (la mini��re qui parle), des cailloux �� grimper, de grands espaces, des "
+    [:em {} "Salinas"]
+    " (mer de sel s��ch��es) , des montagnes de toutes les couleurs, des lamas, ���. tout ca quoi���")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647980707901",
+   :id
+   {:id "15344162065",
+    :farm-id 4,
+    :server-id "3925",
+    :photoset-id nil,
+    :secret "85b47f8ab4",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   "De retour �� la mine, je me suis mise �� compter mes histoires de touristes et j���en ai encore appris une tonne sur la r��gion et sa population! Sont fiers de leur histoire les argentins!"}
+  {:type :paragraph,
+   :content
+   "Je discute notamment avec Hilda qui me raconte que le programme scolaire ��vite d���exposer l���histoire de la province de Jujuy et te parle des anglais de La plata qui voulait s���accorder les terres de Buenos Aires���. Ah ces portenos (les locaux de la capitale) se gardent tout pour eux���"}
+  {:type :paragraph,
+   :content
+   ("Mais l���histoire,�� c���est aussi celle de Jujuy et de ces espagnols envahisseurs qui parcourait le P��ru, la Bolivie jusqu���a leur arrivee en Argentine.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647980707901",
+   :id
+   {:id "15157629488",
+    :farm-id 4,
+    :server-id "3840",
+    :photoset-id nil,
+    :secret "b85b10c2b4",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   "Les espagnols eux, volaient l���or et rapportait le pr��cieux en Europe pour s���enrichir �����Ils ont d���abord ��t�� accueillis �� bras ouverts par les Incas��� avant de se faire eux m��mes voler et ��liminer���Les espagnols ont continuer leur route d��vastatrice jusqu���en Argentine en entrant par la Quiaca ou le Paso de Jama (actuelles fronti��res)."}
+  {:type :paragraph,
+   :content
+   ([:a
+     {:title "Manuel Belgrano",
+      :href "http://es.wikipedia.org/wiki/Manuel_Belgrano"}
+     "Manuel Belgrano "]
+    "qui repr��sentait l���embl��me du Libertador choisit le r��le du super h��ros en 1812 pour faire fuir les espagnols!")}
+  {:type :photo,
+   :caption "Manuel Jos�� Joaqu��n del Coraz��n de Jes��s Belgrano",
+   :alt "manuel-belgrano-4",
+   :width 274,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2012/12/manuel-belgrano-4.jpg?w=274&h=362"},
+   :provider :wordpress,
+   :height 362}
+  {:type :paragraph,
+   :content
+   "Les milliers de cactus pr��sents dans la r��gion avec leurs bras piquants portaient un poncho et un chapeau pour se faire passer pour des hommes ! Aussi, on chargeait les mules avec de l���herbe s��che et lorsqu���elles se mettaient en route dans le cadre des exodes entre autre, on pouvait croire �� des troupeaux de chevaux supers puissants !!! haha et bah avec ��a les espagnols n���ont pas compl��tement r��ussi �� se faire la malle."}
+  {:type :paragraph,
+   :content
+   ("A part ����, nous avons pris un moment pour marcher dans la parc Calilegua : �� 1000 m��tres d���altitude, on retrouve une v��g��tation de "
+    [:em {} "selva"]
+    " (Jungle)��� beaucoup de moustiques ��� et pas de spray!!!! arrrrhhh")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647980707901",
+   :id
+   {:id "15343811092",
+    :farm-id 3,
+    :server-id "2944",
+    :photoset-id nil,
+    :secret "9876eb580f",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photoset,
+   :photos
+   [[{:width 678,
+      :height 1024,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647980707901",
+      :id
+      {:id "15157339190",
+       :farm-id 3,
+       :server-id "2943",
+       :photoset-id nil,
+       :secret "cc75a35eb9",
+       :original-secret nil,
+       :original-format nil}}]]}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647980707901",
+      :id
+      {:id "15343697082",
+       :farm-id 3,
+       :server-id "2942",
+       :photoset-id nil,
+       :secret "10303ccce3",
+       :original-secret nil,
+       :original-format nil}}
+     {:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647980707901",
+      :id
+      {:id "15344008205",
+       :farm-id 4,
+       :server-id "3912",
+       :photoset-id nil,
+       :secret "cd0b8fd354",
+       :original-secret nil,
+       :original-format nil}}]]}],
+ :title "Les merveilles du Nord Argentin!",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "les-merveilles-du-nord-argentin",
+ :source-id "2367",
+ :blog "avesdepaso",
+ :visibility :public}

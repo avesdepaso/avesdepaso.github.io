@@ -1,0 +1,169 @@
+{:updated-at #inst "2015-04-25T01:27:04.569-00:00",
+ :cover
+ {:width 240,
+  :height 180,
+  :id
+  {:id "17247977562",
+   :farm-id 8,
+   :server-id "7688",
+   :photoset-id nil,
+   :secret "c1e7335916",
+   :original-secret nil,
+   :original-format nil},
+  :provider :flickr,
+  :type :photo},
+ :published-at #inst "2015-04-25T01:27:08.544-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Ce mardi, le volcan "
+    [:a {:href "https://fr.wikipedia.org/wiki/Calbuco"} "Calbuco"]
+    "est entré en éruption. Il ne nous était pas entièrement inconnu, nous l'avions croisé il y a quelques mois lors de "
+    [:a
+     {:href "http://avesdepaso.refug.io/chiloe-en-famille/"}
+     "la venue de mes parents"]
+    ". A 170kms à vol d'oiseaux il est à la fois proche et lointain.")}
+  {:type :video, :id {:id "3ZvzOYzTgEw"}, :provider :youtube}
+  {:type :paragraph,
+   :content
+   ("Le lendemain, l'éruption déjà presque oubliée, le soleil peine à se lever. Je fais finalement le lien et à peine la tête passée par la fenêtre une bourrasque confirme mon hypothèse: le nuage de cendres traverse la ville. Tellement dense qu'il fera nuit noire jusqu'à midi.")}
+  {:type :photo,
+   :caption "10h passées",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "02afca750d",
+    :original-secret nil,
+    :id "17248243892",
+    :farm-id 8,
+    :server-id "7707"},
+   :provider :flickr,
+   :height 180}
+  {:type :paragraph,
+   :content
+   ("Le jour se lève finalement, le nuage étant continuant son chemin, mais la ville restera toute la journée nappée d'un voile trouble orangé. On pourrait croire qu'il neige, les flocons remplacés par de la farine grise.")}
+  {:type :photoset,
+   :class ["stretched"],
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "3e224bda48",
+       :original-secret nil,
+       :id "17248227682",
+       :farm-id 9,
+       :server-id "8759"},
+      :provider :flickr,
+      :height 180}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "92cfdda68d",
+       :original-secret nil,
+       :id "16627509274",
+       :farm-id 8,
+       :server-id "7714"},
+      :provider :flickr,
+      :height 180}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "51a595cb16",
+       :original-secret nil,
+       :id "16629748393",
+       :farm-id 9,
+       :server-id "8814"},
+      :provider :flickr,
+      :height 180}]]}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "35865f8e06",
+    :original-secret nil,
+    :id "17042494727",
+    :farm-id 8,
+    :server-id "7644"},
+   :provider :flickr,
+   :height 180}
+  {:type :paragraph,
+   :content
+   ("Les rues sont désertes, pas même un animal. Les seules traces de vies sont les chasseurs d'image dont je fais parti.")}
+  {:type :photoset,
+   :class ["stretched"],
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "25b03d9526",
+       :original-secret nil,
+       :id "17223859916",
+       :farm-id 9,
+       :server-id "8746"},
+      :provider :flickr,
+      :height 180}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "ba9ac0a0d5",
+       :original-secret nil,
+       :id "17042181027",
+       :farm-id 8,
+       :server-id "7673"},
+      :provider :flickr,
+      :height 180}]]}
+  {:type :photo,
+   :caption "Ville fantôme",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "64ff44d5cf",
+    :original-secret nil,
+    :id "17063249529",
+    :farm-id 8,
+    :server-id "7718"},
+   :provider :flickr,
+   :height 180}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "e507efa3eb",
+    :original-secret nil,
+    :id "17248133492",
+    :farm-id 8,
+    :server-id "7616"},
+   :provider :flickr,
+   :height 180}
+  {:type :paragraph,
+   :content
+   ("Il ne reste plus qu'à nettoyer. Ca tombe bien, on s'eclipse en France.")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "32355f742b",
+    :original-secret nil,
+    :id "17042062467",
+    :farm-id 9,
+    :server-id "8708"},
+   :provider :flickr,
+   :height 180}],
+ :title "Cendres",
+ :locations
+ ({:latitude -40.160354999999996,
+   :longitude -71.3581087,
+   :accuracy 37}),
+ :id "cendres",
+ :blog "avesdepaso",
+ :visibility :public}

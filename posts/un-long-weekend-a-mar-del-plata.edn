@@ -1,0 +1,172 @@
+{:updated-at #inst "2014-09-25T04:18:32.814-00:00",
+ :tags #{:argentine :amerique-du-sud},
+ :cover
+ {:width 1024,
+  :height 678,
+  :provider :flickr,
+  :user-id "96129378@N07",
+  :category-id "72157647586815178",
+  :id
+  {:id "15157872118",
+   :farm-id 3,
+   :server-id "2943",
+   :photoset-id nil,
+   :secret "960993fc9b",
+   :original-secret nil,
+   :original-format nil}},
+ :published-at #inst "2012-08-04T00:48:01.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("Mar del Plata: c���est le genre de destination qui nous fait peur �� nous adeptes de la montagne ���.mais je dois dire qu���en hiver, ��a vaut la peine !!")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647586815178",
+   :id
+   {:id "15157458147",
+    :farm-id 3,
+    :server-id "2942",
+    :photoset-id nil,
+    :secret "1a20021476",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   "D��j�� on peut y voir la mer, la vraie ! Pas la rivi��re de Buenos Aires. Cette eau, elle a la couleur de l���oc��an !"}
+  {:type :paragraph,
+   :content
+   ("Mar del Plata, c���est 600000 hbts et l�����quivalent de Deauville �� mes yeux. Avec ses couples de retrait��s qui se prom��nent, ses plages dam��es, nettoy��es et privatis��es���, ses casinos, ���. bon malheureusement, l���architecture b��ton des ann��es 60 n���a pas ��pargn��e les c��tes ! Les argentins, eux, se concentrent dans les "
+    [:em {} "ferias"]
+    " (march�� artisanal) et dansent le tango-salsa sur les installations soniques ambulantes au bord de mer.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647586815178",
+   :id
+   {:id "15321427396",
+    :farm-id 4,
+    :server-id "3861",
+    :photoset-id nil,
+    :secret "2e04cc0b6d",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Nous privil��gions une ballade sur le port jusqu���au ���squat��� de lions de mer qui se pr��lassent au soleil !")}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647586815178",
+      :id
+      {:id "15157883217",
+       :farm-id 4,
+       :server-id "3873",
+       :photoset-id nil,
+       :secret "9cf1403ea6",
+       :original-secret nil,
+       :original-format nil}}
+     {:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647586815178",
+      :id
+      {:id "15344424815",
+       :farm-id 3,
+       :server-id "2943",
+       :photoset-id nil,
+       :secret "2692f94087",
+       :original-secret nil,
+       :original-format nil}}]]}
+  {:type :paragraph,
+   :content
+   "C���est le premier vrai port de p��che que nous voyons ���"}
+  {:type :paragraph,
+   :content
+   ("Rien de mieux que de manger du poisson (frais ??). De nombreux locaux sont d��j�� sur le bord des jet��es pour y r��colter leur tambouille pour les prochains jours ! fritures, grosses sardines ���")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647586815178",
+   :id
+   {:id "15157825038",
+    :farm-id 4,
+    :server-id "3854",
+    :photoset-id nil,
+    :secret "5f7c6bdf40",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("A Mar del Plata, il y a m��me un aquarium !! Et comme on s���extasie comme des gosses devant les animaux marins, on pouvait pas manquer ��a���R��sultat, on a vu nos premiers vrais manchots empereur (grands et petits tout poilus) et son cousin le Rockhopper.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647586815178",
+   :id
+   {:id "15321353816",
+    :farm-id 3,
+    :server-id "2943",
+    :photoset-id nil,
+    :secret "db14ea1d4e",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647586815178",
+   :id
+   {:id "15157691130",
+    :farm-id 4,
+    :server-id "3861",
+    :photoset-id nil,
+    :secret "a598bdf8c6",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Nous avons ��t�� jusqu����� Mar Chiquita o�� se trouve une r��serve naturelle \n(UNESCO) parsem��e de dunes, d���oiseaux et de kyte surfers !")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647586815178",
+   :id
+   {:id "15157792598",
+    :farm-id 4,
+    :server-id "3909",
+    :photoset-id nil,
+    :secret "43d5e87453",
+    :original-secret nil,
+    :original-format nil},
+   :caption "Mar Chiquita"}
+  {:type :paragraph,
+   :content
+   "Tout ��a dans un froid ���polaire��� comme ils disent ici ���"}
+  {:type :paragraph,
+   :content
+   ("Un bon weekend glandouille en r��alit�� "
+    [:span
+     {:title ";-)", :class "wp-smiley emoji emoji-wink"}
+     ";-)"])}],
+ :title "Un long weekend �� mar del Plata",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "un-long-weekend-a-mar-del-plata",
+ :source-id "2238",
+ :blog "avesdepaso",
+ :visibility :public}

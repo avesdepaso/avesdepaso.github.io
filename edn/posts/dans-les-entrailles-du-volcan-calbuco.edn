@@ -1,0 +1,218 @@
+{:updated-at #inst "2015-09-26T14:16:05.689-00:00",
+ :cover
+ {:width 240,
+  :height 158,
+  :id
+  {:id "20014284620",
+   :farm-id 1,
+   :server-id "346",
+   :photoset-id nil,
+   :secret "5d1245ea7e",
+   :original-secret nil,
+   :original-format nil},
+  :provider :flickr,
+  :type :photo},
+ :published-at #inst "2015-08-11T17:13:03.240-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("On est très excités d'aller à Petrohué. \nMontagnes, rivières, la proximité avec le volcan Calbuco, lac Peulla aux couleurs turquoises.... un petit diamant."
+    [:br {}]
+    "Bon on a eu une tout autre histoire....\nEn arrivant à Petrohué, on savait qu'il y avait un camping au bord du lac. On s'est donc dirigé vers le site en question.\nMais voilà, plus on rentre dans les entrailles du lac, plus on s'enfonce dans les cendres (rappelez vous que le Volcan Calbuco est rentré en activité en mars 2015).")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "c35241b5c2",
+    :original-secret nil,
+    :id "20014558400",
+    :farm-id 1,
+    :server-id "296"},
+   :provider :flickr,
+   :height 159}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "564e622b8a",
+       :original-secret nil,
+       :id "20208260321",
+       :farm-id 1,
+       :server-id "489"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "ccc8f28f91",
+       :original-secret nil,
+       :id "20208245881",
+       :farm-id 1,
+       :server-id "560"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :paragraph,
+   :content
+   ("Nous sommes coincés au milieu d'un champ de cendres... et à 20 mètres de l'entrée du camping, qui est bien sûr fermée en Hiver.... Il est 18.30hs. \nNous savons que dans moins de 30 minutes, il fera nuit noire... Il faut vite trouver une solution où juste se faire une raison et dormir dans les cendres et s'enfoncer un peu plus pendant la nuit .... No way. ")}
+  {:type :photo,
+   :caption "Camping et Scène du crime",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "c4d240570d",
+    :original-secret nil,
+    :id "20014398528",
+    :farm-id 1,
+    :server-id "497"},
+   :provider :flickr,
+   :height 159}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "f2a9e18fee",
+    :original-secret nil,
+    :id "20014338508",
+    :farm-id 1,
+    :server-id "463"},
+   :provider :flickr,
+   :height 159}
+  {:type :paragraph,
+   :content
+   ("Dans ces coups de temps là, moi je commence à paniquer : mes mains vont dans tous les sens, mon cerveau ne répond plus présent et j'ai une vilaine habitude de malaises... les trois étaient réunis..."
+    [:br {}]
+    [:br {}]
+    "Le plan A est donc de trouver des gens qui veulent bien nous donner un coup de main pour sortir le camioncito des cendres... Il est 18.30hs, Pour avoir un meilleur pouvoir en espagnol que Julien, c'est souvent moi qui pars à la rescousse, fait passer les messages, trouve les mots que Julien méconnait encore de la langue latine."
+    [:br {}]
+    [:br {}]
+    "Petits détails de localisation : la camping se trouve à 5 minutes en courant du poste d'embarcation de Peulla et quelques maisons comme le centre d'administration CONAF (Parques nationaux chilien), le centre médical et une autre maison avec Roberto et Juan, autochtones entre 40 et 50 ans de Petrohue. Voila ca c'est Petrohue."
+    [:br {}]
+    [:br {}]
+    "Je file au "
+    [:i {} "centre"]
+    ", au petit port d'embarcation... Y a un gros bateau et plusieurs petits... je vais bien trouver un cap'tain. Bah nan. J'aperçois en haut de l'édifice une fenêtre d'où sort de la lumière. Je grimpe là-haut. y a même une odeur de soupe quand tu te rapproches de la porte. Je frappe, on m'ouvre au quart de seconde. C'est Lorenzo. Petit, d'une cinquantaine d'années mangeant son sandwich, sûrement son dîner de ce lundi. Gentiment, il m'invite à consulter les officiers des parques nationaux qui soit disant vivent ici toute l'année. Okay mec... Gracias ... ")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "8267bda896",
+    :original-secret nil,
+    :id "20208216031",
+    :farm-id 1,
+    :server-id "278"},
+   :provider :flickr,
+   :height 159}
+  {:type :photoset,
+   :caption "Plage de cendres et roches fraiche du volcan Calbuco",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "09d35aea0b",
+       :original-secret nil,
+       :id "20015741339",
+       :farm-id 1,
+       :server-id "409"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "49b67b5792",
+       :original-secret nil,
+       :id "20202362575",
+       :farm-id 1,
+       :server-id "387"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :paragraph,
+   :content
+   ("Je fais marche arrière vers les bureaux de la CONAF. Pendant ce court temps de marche, les malaises font leur apparition. Je tente quand même de marcher (je sais que Julien m'attends au camion) mais essaie de marcher quand tu as la tête qui danse la valse, t'as plutôt l'air d'une personne éméchée. Je perds donc 10 minutes pour récupérer ma validité et ma vue, en m'asseyant sur le bord de la route. 1 homme seul et 3 autres chiliens en ballade me croisent sans se préoccuper de la Gringuita (petite étrangère) agonisante. Les trois chiliens ne le savent pas encore mais ils vont croiser Julien dans 3 minutes entrain de creuser sous le camion et tenter de libérer la roue des cendres... Là, ils devront nous aider !"
+    [:br {}]
+    [:br {}]
+    "A la CONAF y a personne, juste un poste éclairé mais personne dedans.... mmmh une autre maison est éclairée. Je me faufile. Ca y est il fait nuit noire... Je croise des tas de cendres avant d'atteindre la porte, où au moment d'atteindre la porte d'entrée, je surprends deux chats, un lapin et un chien. Roberto et Juancito m'ouvrent leur porte. Ils ne sont pas plus de la CONAF que leurs animaux. Ils vivent ici. Ici, c'est leur vie. Ils menaient d'ailleurs le guet lorsque le Volcan Calbuco s'est mis à ronronner et à cracher ses entrailles. Pas de solution par là mais un indice sur l'horaire de secours : Pour des raisons de sécurité depuis le volcan, les officiers du parc rentre à la ville chaque soir. Demain, à 9hrs du matin, nous pourrons sortir de notre pétrin...Again, No way!!!")}
+  {:type :photoset,
+   :caption "Construction locale de Petrohué",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "9758cf61e6",
+       :original-secret nil,
+       :id "19581493613",
+       :farm-id 1,
+       :server-id "325"},
+      :provider :flickr,
+      :height 159}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "656a1e7507",
+       :original-secret nil,
+       :id "20208146661",
+       :farm-id 1,
+       :server-id "561"},
+      :provider :flickr,
+      :height 159}]]}
+  {:type :paragraph,
+   :content
+   ("Je cours vers le camping pour retrouver Julien. Il est en compagnie des 3 chiliens (pif, paf, pouf). En m'attendant, Julien se converti en Bill Grills. Il a creusé sous le camion avec ses mains et ses supers gants Arcteryx trop beaux, trop chers.... (are you crazy??) et il a même trouvé une planche de bois pour tenter de sortir le camion. On a déjà vu des articles de voyageurs qui voyagent en van et utilise ce mode de secours. On décide que la planche, c'est pas gagné dans notre cas tout particulier. Le camion mange la planche mais ne bouge pas..."
+    [:br {}]
+    [:br {}]
+    "J'enfile la lampe frontale et je retourne au centre d'embarcation pour trouver une corde. Les cap`tain, z'ont bien ça des cordes (noeuds marins, cordes pour tirer les voiles, cordes pour amarrer les bateaux, cordes pour secourir les suicidaires du lac Peulla...). Bah nan, je croise Freddy avec sa combi de cap`tain rouge Goretex flambant neuve de la tête aux pieds. Il revient tout juste (de nuit) d'une ballade sur la lac avec 5 clients. Je lui raconte, le camion, qu'on est coincés dans la cendre, la corde, Helppppp mais il met fin à mon hystérie : 'Attends, laisse moi réfléchir....Gaston!''.")}
+  {:type :photo,
+   :caption "Chez Gaston - Poste médical",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "72457acefa",
+    :original-secret nil,
+    :id "19581512743",
+    :farm-id 1,
+    :server-id "333"},
+   :provider :flickr,
+   :height 240}
+  {:type :paragraph,
+   :content
+   ("Gaston, c'est le responsable du centre médical. Pas de salle d'opération encore à Petrohué mais il s'occupe des bobos des 10 locaux (ou 'Locos') du hameau et des touristes. Il a aussi sa lancha (barque motorisée) au port, un pick-up, et du matos pour nous secourir!!! Sans le savoir j'avais déjà frappé à sa porte....Et Gaston n'est pas là."
+    [:br {}]
+    [:br {}]
+    "Je retourne voir Roberto et Juancito pour leur soutirer une corde.... je termine dans leur cagibi de fond de jardin à chercher un cable ou une corde... y a bien toute une vie dans ce cagibi mais pas une corde. On a finit par trouver un cable d'acier... c'est bon ça comme plan docteur? Ca va pas nous sauter à la figure cette histoire? Je remercie mes deux hôtes et que je les tiendrai informer de la suite des aventures."
+    [:br {}]
+    [:br {}]
+    "En sortant avec Pif, Paf, pouf et notre cable d'acier, je tombe nez à nez avec un Pick-up. C'est sûrement Gaston!! Gaston??? Si Et voilà la chance nous sourit enfin. Je remercie les 3 chiliens de nous avoir accompagné jusque là mais j'avoue que je suis restée septique sur la force de la SUBARU pour tirer notre camion (bien que je sois fanatique du Forester) Gaston a récupéré THE corde (la bonne, celle qui fait un peu élastique), son pick, et en moins de 5 minutes, il arrive avec ses phares à notre véhicule. Un petit noeud sous le camion et hop le tour est joué!!! Pitchoune nous sommes sauvés!!!"
+    [:br {}]
+    [:br {}]
+    "Un petit Kuchen à la pomme est bien mérité!!!")}
+  {:type :photo,
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "273d85e67e",
+    :original-secret nil,
+    :id "20014039720",
+    :farm-id 1,
+    :server-id "308"},
+   :provider :flickr,
+   :height 240}],
+ :title "Dans les entrailles du volcan Calbuco",
+ :locations
+ ({:latitude -40.1603333,
+   :longitude -71.35808130000001,
+   :accuracy 37}),
+ :id "dans-les-entrailles-du-volcan-calbuco",
+ :blog "avesdepaso",
+ :visibility :public}

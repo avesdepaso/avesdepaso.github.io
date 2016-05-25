@@ -1,0 +1,170 @@
+{:updated-at #inst "2011-08-11T05:13:02.000-00:00",
+ :tags #{:vancouver},
+ :published-at #inst "2011-08-11T04:55:46.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Bah voil��, on s���y attendait pas nous m��me et puis finalement, on s���est mari�� ! La r��gle de l���art aurait ��t�� de s���y prendre 365 jours avant, d���y inviter toute sa famille et ses amis, de s���atteler �� la d��co, la limo, aux invits��� et j���en passe je crois bien ���.. Et bien pour nous tout s���est organis�� en 4 jours !\nPeut-��tre bien qu���un jour en France on devra ��tre plus organis�� alors on a profit�� d���un premier mariage tout petit et �� nos go��ts de Vancouverites !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/03.jpg?w=360&h=541"},
+   :width 360,
+   :height 541,
+   :alt "03",
+   :caption "Notre plage favorite : Kitsilano beach !"}
+  {:type :paragraph,
+   :content
+   "Trouver une commissionnaire (office de maire �� Vancouver, mais c���est pas un maire plut��t un notaire���) pour faire la ���c��r��monie���, c���est facile ! Il y a une liste sur Internet et tu choisis quelqu���un pour te marier en 15 minutes et tu prends RDV. Notre commissionnaire s���appelle Ann moore, elle habite �� 2 pas de la plage, comme nous."}
+  {:type :paragraph,
+   :content
+   "��a tombe bien c���est l�� qu���on veut se marier : Kitsilano beach"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0080.png?w=360&h=544"},
+   :width 360,
+   :height 544,
+   :alt "DSC_0080",
+   :caption
+   "J&#39;ai m��me un chapeau - bateau pour l&#39;��v��nement!"}
+  {:type :paragraph,
+   :content
+   "Trouver les t��moins : pas compliqu�� mon fr��re et son pote arrivent pile pour le mariage (il n���en savaient rien) !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/39.jpg?w=400&h=267"},
+   :width 400,
+   :height 267,
+   :alt "39",
+   :caption
+   "Antoine et Guillaume : les t��moins en vacances �� Vancouver"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/41.jpg?w=400&h=177"},
+   :width 400,
+   :height 177,
+   :alt "41",
+   :caption "Avec nos supers copains : Vanessa et Marc"}
+  {:type :paragraph,
+   :content
+   ("Trouver la robe ���.mmmh super difficile !!! Je n���arrive pas �� me faire aux boutiques ici��� pas faute d���avoir essayer une ribambelle de robe blanches mais j���ai fini par demander �� ma m��re de mettre une jupe blanche qui dormait �� Paris dans le sac de voyage de mon fr��re ! Nickel, je l���essaie et malgr�� un ou deux kilos en trop, le tour de taille n���y voit que du feu "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"]
+    " Tandis que Julien se contente de son style Hipster de Vancouver !")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/42.jpg?w=360&h=540"},
+   :width 360,
+   :height 540,
+   :alt "42",
+   :caption "Ma robe"}
+  {:type :paragraph,
+   :content
+   ("Organiser les invitations : un mail et tout le monde est pr��t �� f��ter ��a avec nous "
+    [:span {:class "wp-smiley emoji emoji-wink", :title ";-)"} ";-)"]
+    ", trop facile ���.")}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/dsc_0108.jpg?w=400&h=265"},
+   :width 400,
+   :height 265,
+   :alt "DSC_0108",
+   :caption "Les invit��s"}
+  {:type :paragraph,
+   :content
+   "D��corer les v��los : aille aille aille, on voulait vraiment que nos v��los fassent office de limo/voiture classique des ann��es 50/Tracteur comme font les autres ���. mais nous ce serait en v��lo !!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/19.jpg?w=400&h=267"},
+   :width 400,
+   :height 267,
+   :alt "19",
+   :caption "Ca y est !!!"}
+  {:type :paragraph,
+   :content
+   "Petite s��rie photos par Fix, ma��tre de la photographie ! Gr��ce �� lui,�� nous avons un m��ga SOUVENIR�� de notre petit mariage!!!!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/26.jpg?w=400&h=266"},
+   :width 400,
+   :height 266,
+   :alt "26",
+   :caption "Grrrrhhhh !!!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/30.jpg?w=400&h=267"},
+   :width 400,
+   :height 267,
+   :alt "30",
+   :caption "Le fameux bisou des mari��s !!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/08/31.jpg?w=400&h=266"},
+   :width 400,
+   :height 266,
+   :alt "31",
+   :caption
+   "Kits beach avec vue sur le Wilderness de la Colombie Britannique"}
+  {:type :paragraph,
+   :content
+   "Apr��s la ���c��r��monie��� et les photos, arrive le D��ner !!! Un barbecue bien s��r ���.. mmh le saumon grill��, la sauce tartare, les chips, les salades compos��es que m���ont offertes mes copines du resto o�� je d��jeune tous les midis !! Sans oublier le champagne !"}
+  {:type :paragraph,
+   :content
+   "Par contre les assiettes en plastique qui bavent, pas top���.. aux vancouverites : je recommande pas le Kitchen Tool shop de la 4th Avenue !"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0103.png?w=360&h=544"},
+   :width 360,
+   :height 544,
+   :alt "DSC_0103"}
+  {:type :paragraph,
+   :content
+   "��Merci �� tous pour vos compliments et vos bisous de pr��ts ou de loin !!"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2011/07/dsc_0097.png?w=400&h=265"},
+   :width 400,
+   :height 265,
+   :alt "DSC_0097"}
+  {:type :paragraph,
+   :content
+   ([:a
+     {:href
+      "http://vadrouilles.files.wordpress.com/2011/07/dsc_01001.png"}
+     [:br {}]
+     "\n"])}
+  {:type :paragraph,
+   :content
+   ([:a
+     {:href
+      "http://vadrouilles.files.wordpress.com/2011/07/dsc_0103.png"}
+     [:br {}]
+     "\n"])}],
+ :title "Vancouverite Wedding",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "vancouverite-wedding",
+ :source-id "1706",
+ :blog "avesdepaso",
+ :visibility :public}

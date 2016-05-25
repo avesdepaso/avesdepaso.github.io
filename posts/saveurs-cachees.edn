@@ -1,0 +1,45 @@
+{:updated-at #inst "2009-02-25T17:03:39.000-00:00",
+ :tags #{:bresil},
+ :published-at #inst "2009-02-25T17:03:39.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   "Le Br��sil, et sutout sa partie amazonienne, rec��le une profusion de fruits acidul��s multicolores inconnus dans nos contr��es, en plus des bananes, mangues et autres goyaves aux prix sacrifi��s. Souvent de bonnes surprises, parfois moins���"}
+  {:type :paragraph,
+   :content
+   "En voici une petite s��lection que nous avons test��e, pas prochainement dans vos Auchan."}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/02/dscn2022-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt
+   "Rambutan, semblable au litchi mais beaucoup plus simple �� ouvrir",
+   :caption
+   "Rambutan, semblable au litchi mais beaucoup plus simple �� ouvrir"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/02/dscn2012-50.jpg?w=300&h=225"},
+   :width 300,
+   :height 225,
+   :alt "Coco verde, �� boire frais",
+   :caption "Coco verde, �� boire frais"}
+  {:type :photo,
+   :provider :wordpress,
+   :id
+   {:url
+    "https://vadrouilles.files.wordpress.com/2009/02/img_1519-50.jpg?w=300&h=199"},
+   :width 300,
+   :height 199,
+   :alt "Nom inconnu, comme sa saveur",
+   :caption "Nom inconnu, comme sa saveur"}],
+ :title "Saveurs cach��es",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "saveurs-cachees",
+ :source-id "518",
+ :blog "avesdepaso",
+ :visibility :public}

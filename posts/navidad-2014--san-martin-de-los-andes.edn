@@ -1,0 +1,170 @@
+{:id "navidad-2014--san-martin-de-los-andes",
+ :title "NOEL 2014",
+ :published-at #inst "2014-12-26T02:28:34.162-00:00",
+ :updated-at #inst "2014-12-25T22:50:54.592-00:00",
+ :visibility :public,
+ :cover
+ {:width 240,
+  :id
+  {:photoset-id nil,
+   :original-format nil,
+   :secret "fa61193cfa",
+   :original-secret nil,
+   :id "16104062765",
+   :farm-id 8,
+   :server-id "7535"},
+  :provider :flickr,
+  :height 135},
+ :elements
+ [{:type :paragraph,
+   :content
+   ("C&#39;est le 25 d��cembre et on profite d&#39;une tres belle journ��e a San Martin de los Andes.....")}
+  {:type :photo,
+   :caption "Lago Lacar",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "9fb7775a58",
+    :original-secret nil,
+    :id "16103351342",
+    :farm-id 9,
+    :server-id "8657"},
+   :provider :flickr,
+   :height 135}
+  {:type :photoset,
+   :caption "Mirador Arrayanes",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "56d299080e",
+       :original-secret nil,
+       :id "15917970809",
+       :farm-id 8,
+       :server-id "7502"},
+      :provider :flickr,
+      :height 240}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "045cc17cc4",
+       :original-secret nil,
+       :id "15481725574",
+       :farm-id 8,
+       :server-id "7505"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :photo,
+   :caption "Playa",
+   :width 240,
+   :id
+   {:photoset-id nil,
+    :original-format nil,
+    :secret "b253d52ef0",
+    :original-secret nil,
+    :id "16103301622",
+    :farm-id 8,
+    :server-id "7509"},
+   :provider :flickr,
+   :height 135}
+  {:type :photoset,
+   :caption "Naturaleza pura y salvaje",
+   :photos
+   [[{:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "246252decc",
+       :original-secret nil,
+       :id "15481686924",
+       :farm-id 8,
+       :server-id "7562"},
+      :provider :flickr,
+      :height 240}
+     {:width 240,
+      :id
+      {:photoset-id nil,
+       :original-format nil,
+       :secret "91e1f478ea",
+       :original-secret nil,
+       :id "15916600838",
+       :farm-id 8,
+       :server-id "7488"},
+      :provider :flickr,
+      :height 240}]]}
+  {:type :paragraph,
+   :content
+   ("Repas de Noel :"
+    [:br {}]
+    [:br {}]
+    "* Sushis langoutine et Pulpo + mango/palta"
+    [:br {}]
+    [:br {}]
+    "* Pastel de Trucha ou tarte a la truite + Sauce Mornay"
+    [:br {}]
+    [:br {}]
+    "* Postre Rogel revisit�� - Marmelade fruits rouges + Marmelade Mango/Kiwi")}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :height 159,
+      :id
+      {:id "16105831235",
+       :farm-id 8,
+       :server-id "7488",
+       :photoset-id nil,
+       :secret "3358580a19",
+       :original-secret nil,
+       :original-format nil},
+      :provider :flickr}
+     {:width 240,
+      :height 159,
+      :id
+      {:id "15919769579",
+       :farm-id 8,
+       :server-id "7568",
+       :photoset-id nil,
+       :secret "db0782cd2f",
+       :original-secret nil,
+       :original-format nil},
+      :provider :flickr}]]}
+  {:type :photoset,
+   :photos
+   [[{:width 240,
+      :height 159,
+      :id
+      {:id "16080086736",
+       :farm-id 9,
+       :server-id "8583",
+       :photoset-id nil,
+       :secret "21408011e7",
+       :original-secret nil,
+       :original-format nil},
+      :provider :flickr}
+     {:width 240,
+      :height 159,
+      :id
+      {:id "16080092396",
+       :farm-id 9,
+       :server-id "8640",
+       :photoset-id nil,
+       :secret "70b1728b42",
+       :original-secret nil,
+       :original-format nil},
+      :provider :flickr}]]}
+  {:type :photo,
+   :width 240,
+   :height 159,
+   :id
+   {:id "15918442418",
+    :farm-id 8,
+    :server-id "7546",
+    :photoset-id nil,
+    :secret "b2aefce27c",
+    :original-secret nil,
+    :original-format nil},
+   :provider :flickr}],
+ :blog "avesdepaso"}

@@ -1,0 +1,197 @@
+{:updated-at #inst "2014-09-27T04:34:45.079-00:00",
+ :tags #{:costa-rica},
+ :cover
+ {:width 1024,
+  :height 678,
+  :provider :flickr,
+  :user-id "96129378@N07",
+  :category-id "72157647943335556",
+  :id
+  {:id "15158632207",
+   :farm-id 4,
+   :server-id "3878",
+   :photoset-id nil,
+   :secret "f064582df1",
+   :original-secret nil,
+   :original-format nil}},
+ :published-at #inst "2012-02-06T01:51:57.000-00:00",
+ :elements
+ [{:type :paragraph,
+   :content
+   ("25% du territoire prot��g�� par des parcs nationaux, 5 % de la biodiversit�� mondiale, acc��s �� l���oc��an pacifique et la mer des cara��bes, le "
+    [:a {:href "http://fr.wikipedia.org/wiki/Costa_Rica"} "Costa Rica"]
+    " c���est un peu le jardin botanique des am��ricains. Et comme il faut bien se reposer apr��s s�����tre cultiv�� les 75% restants du territoire sont constell��s d���attractions pour touristes, type zipline ou saut �� l�����lastique."
+    "\nBon ok j���exag��re, au centre on trouve "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/San_Jos%C3%A9_(Costa_Rica)"}
+     "San Jos��"]
+    ", la capitale, ��qui ressemble pas exactement �� une attraction. Ou alors pour pick-pockets locaux. San Jos�� 9a ressemble plus �� une vieille gare d��saffect��e sur 100km2. Compar��e aux capitales des pays voisins c���est d��j�� pas si mal!")}
+  {:type :paragraph,
+   :content
+   ("On voulait voir des animaux, on est servi! Et on en profite pour cultiver tous nos lecteurs (enfin maman quoi).")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647943335556",
+   :id
+   {:id "15158507230",
+    :farm-id 3,
+    :server-id "2942",
+    :photoset-id nil,
+    :secret "61b0ba4d06",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Surtout connu pour ses repr��sentantes "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Dendrobatidae"}
+     "toxiques"]
+    ", on trouve aussi au Costa Rica des "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Centrolenidae"}
+     "grenouilles de verre"]
+    ", plus r��cente esp��ce de grenouille.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647943335556",
+   :id
+   {:id "15158375189",
+    :farm-id 4,
+    :server-id "3874",
+    :photoset-id nil,
+    :secret "a54c8c5052",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647943335556",
+   :id
+   {:id "15158572428",
+    :farm-id 3,
+    :server-id "2942",
+    :photoset-id nil,
+    :secret "509e9d23c1",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Ah quel bel animal que le "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/Hurleur_noir"}
+     "singe hurleur"]
+    "! On l���"
+    [:a {:href "http://www.youtube.com/watch?v=REPoVfN-Ij4"} "entend"]
+    " plus qu���on ne le voit, en g��n��ral. Nous on l���a jamais entendu. Mais je compatis, ��a doit faire mal de s���en coincer une entre 2 branches.")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647943335556",
+   :id
+   {:id "15158435259",
+    :farm-id 3,
+    :server-id "2944",
+    :photoset-id nil,
+    :secret "0f2129c28a",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647943335556",
+   :id
+   {:id "15341974791",
+    :farm-id 4,
+    :server-id "3880",
+    :photoset-id nil,
+    :secret "668a430530",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Le "
+    [:a
+     {:href "http://fr.wikipedia.org/wiki/P%C3%A9lican_brun"}
+     "p��lican brun"]
+    ", seul p��lican �� plonger dans l���eau pour p��cher. On voit que la pratique est assez r��cente, c���est plut��t ridicule �� regarder. Beaucoup plus classe quand il vole le long de la plage, en escadrille.")}
+  {:type :photo,
+   :width 678,
+   :height 1024,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647943335556",
+   :id
+   {:id "15158608908",
+    :farm-id 4,
+    :server-id "3884",
+    :photoset-id nil,
+    :secret "86f55987ef",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :paragraph,
+   :content
+   ("Il a l���air sympa comme ��a, la capucin �� face blanche, mais attention! Surtout ne pas sortir de sandwich quand il est dans le coin!\nBien s��r on a fait l���erreur (c���est comme ��a qu���on apprend). A peine le temps de comprendre ce qu���un garde du parc me dit que je vois d��bouler une de ces boules de poils furax. Et je lui fait �� peine peur, faut le menacer avec un baton le vicieux. Sinon au revoir nos sandwichs et sacs �� dos. Et tous ses potes arrivent, des arbres, de la plage, de la mer (!?). Ils doivent r��p��ter leur strat��gie toute l���ann��e. ��Arggh! Et si on se d��fend mal ils attaquent et mordent!\nBon ok je capitule, sont trop malins pour moi. On continue notre chemin, sous l���oeil amus�� des autres touristes. A leur tour!")}
+  {:type :photo,
+   :width 1024,
+   :height 678,
+   :provider :flickr,
+   :user-id "96129378@N07",
+   :category-id "72157647943335556",
+   :id
+   {:id "15158434300",
+    :farm-id 4,
+    :server-id "3844",
+    :photoset-id nil,
+    :secret "db9d8b01e8",
+    :original-secret nil,
+    :original-format nil}}
+  {:type :photoset,
+   :photos
+   [[{:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647991021472",
+      :id
+      {:id "15158763030",
+       :farm-id 4,
+       :server-id "3903",
+       :photoset-id nil,
+       :secret "30d8e52d4a",
+       :original-secret nil,
+       :original-format nil}}
+     {:width 1024,
+      :height 678,
+      :provider :flickr,
+      :user-id "96129378@N07",
+      :category-id "72157647991021472",
+      :id
+      {:id "15322430666",
+       :farm-id 4,
+       :server-id "3872",
+       :photoset-id nil,
+       :secret "6ddd84f474",
+       :original-secret nil,
+       :original-format nil}}]
+    []
+    []],
+   :caption "Une feignasse"}
+  {:type :video, :id "36256179", :provider :vimeo}],
+ :title "Costa Rica : Ohh les zolis animaux!",
+ :source-url "http://vadrouilles.wordpress.com",
+ :id "ohh-les-zolis-animaux",
+ :source-id "2071",
+ :blog "avesdepaso",
+ :visibility :public}
