@@ -4,7 +4,16 @@
  [{:slug "ceramica-1",
    :title "CERAMICA 1",
    :visibility :published,
-   :cover {:type :photo}}
+   :cover {:type :photo
+     :provider :flickr
+     :id {
+       :photoset-id nil,
+       :original-format nil,
+       :secret "2eeef05f65",
+       :original-secret nil,
+       :id "21788883706",
+       :farm-id 1,
+       :server-id "630"}}}
   {:slug "de-paraty-a-ponta-negra",
    :title "De Paraty à Ponta Negra",
    :visibility :published,
@@ -56,7 +65,19 @@
   {:slug "my-31st-years-dinner-in-rio",
    :title "My 31 years dinner in Rio",
    :visibility :published,
-   :cover nil}
+   :cover
+   {:type :photo,
+    :width 158,
+    :id
+    {:photoset-id nil,
+     :original-format nil,
+     :secret "c01883a87b",
+     :original-secret nil,
+     :id "21385674559",
+     :farm-id 1,
+     :server-id "571"},
+    :provider :flickr,
+    :height 240}}
   {:slug "la-ville-merveilleuse",
    :title "La ville merveilleuse",
    :visibility :published,

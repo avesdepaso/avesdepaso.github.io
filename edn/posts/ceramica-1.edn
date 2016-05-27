@@ -1,5 +1,15 @@
 {:updated-at #inst "2016-03-09T11:17:46.912-00:00",
- :cover {:type :photo},
+ :cover {:type :photo
+    :provider :flickr
+    :user-id "96129378@N07",
+    :id {
+      :photoset-id nil,
+      :original-format nil,
+      :secret "2eeef05f65",
+      :original-secret nil,
+      :id "21788883706",
+      :farm-id 1,
+      :server-id "630"}},
  :published-at #inst "2016-03-09T08:04:31.293-00:00",
  :elements
  [{:type :paragraph,
