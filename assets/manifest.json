@@ -1,5 +1,6 @@
 {
   "name": "Aves de paso",
+  "lang": "fr",
   "short_name": "Blog",
   "start_url": "./?utm_source=web_app_manifest",
   "display": "standalone",
