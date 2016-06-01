@@ -1,4 +1,4 @@
-const staticCacheName = 'static-';
+const staticCacheName = 'static-4079adb';
 const expectedCaches = [
   staticCacheName
 ];
@@ -13,8 +13,8 @@ self.addEventListener('install', e => {
         "/assets/svg-sprite-editor-symbol.svg",
         "/assets/svg-sprite-image-symbol.svg",
         "/assets/svg-sprite-navigation-symbol.svg",
-        "/assets/refugio.css",
-        "/assets/main.js"
+        "/assets/main-738629d7afef201bb11a37767f4533e0.css",
+        "/assets/main-728ed4ab7a37c894d9db894008c7c17f.js"
       ]).then(() => self.skipWaiting());
     })
   );
