@@ -4,10 +4,10 @@ const expectedCaches = [
 ];
 
 self.addEventListener('install', e => {
+  self.skipWaiting();
   e.waitUntil(
     caches.open(staticCacheName).then(cache => {
       return cache.addAll([
-        "/",
         "/assets/svg-sprite-action-symbol.svg",
         "/assets/svg-sprite-content-symbol.svg",
         "/assets/svg-sprite-editor-symbol.svg",
