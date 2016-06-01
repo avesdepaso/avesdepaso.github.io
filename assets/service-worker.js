@@ -16,7 +16,7 @@ self.addEventListener('install', e => {
         "/assets/svg-sprite-navigation-symbol.svg",
         "/assets/main-738629d7afef201bb11a37767f4533e0.css",
         "/assets/main-728ed4ab7a37c894d9db894008c7c17f.js"
-      ]).then(() => self.skipWaiting());
+      ]);
     })
   );
 });
@@ -33,7 +33,14 @@ self.addEventListener('activate', event => {
 });
 
 self.addEventListener('fetch', event => {
+  let request = event.request;
+  let url = new URL(request.url);
+
+  // Only deal with requests to my own server
+  if (url.origin !== location.origin) {
+      return;
+  }
   event.respondWith(
-    caches.match(event.request).then(res => res || fetch(event.request))
+    caches.match(request).then(res => res || fetch(request))
   );
 });
