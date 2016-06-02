@@ -37,7 +37,8 @@ self.addEventListener('fetch', event => {
   let url = new URL(request.url);
 
   // Only deal with requests to my own server
-  /*if (url.origin !== location.origin) {
+  /*if (url.origin !== location.origin
+      || request.method !== 'GET') {
       return;
   }*/
   event.respondWith(
