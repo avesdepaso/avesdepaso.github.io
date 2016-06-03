@@ -22,7 +22,7 @@ self.addEventListener('install', event => {
 });
 
 // remove caches that aren't in expectedCaches
-self.addEventListener('activate', event => {
+/*self.addEventListener('activate', event => {
   event.waitUntil(
     caches.keys().then(keys => Promise.all(
       keys.map(key => {
@@ -30,7 +30,7 @@ self.addEventListener('activate', event => {
       })
     ))
   );
-});
+});*/
 
 self.addEventListener('fetch', event => {
   let request = event.request;
@@ -43,10 +43,10 @@ self.addEventListener('fetch', event => {
   }
 
   if (url.endsWith('/')) {
-    event.respondWith(caches.match('').then(res => res));
+    event.respondWith(caches.match(''));
+  } else {
+    event.respondWith(
+      caches.match(request).then(res => res || fetch(request));
+    );
   }
-
-  event.respondWith(
-    caches.match(request).then(res => res || fetch(request));
-  );
 });
