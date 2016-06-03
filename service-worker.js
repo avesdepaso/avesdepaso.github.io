@@ -32,16 +32,20 @@ self.addEventListener('install', e => {
   );
 });*/
 
+function fetchAndEventuallyCache(request) {
+  return fetch(request);
+}
+
 self.addEventListener('fetch', event => {
   let request = event.request;
   let url = new URL(request.url);
 
   // Only deal with requests to my own server
-  /*if (url.origin !== location.origin
+  if (url.origin !== location.origin
       || request.method !== 'GET') {
       return;
-  }*/
+  }
   event.respondWith(
-    caches.match(request).then(res => res || fetch(request))
+    caches.match(request).then(res => res || fetchAndEventuallyCache(request));
   );
 });
