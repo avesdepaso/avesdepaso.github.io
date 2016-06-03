@@ -32,10 +32,6 @@ self.addEventListener('activate', event => {
   );
 });
 
-function fetchAndEventuallyCache(request) {
-  return fetch(request);
-}
-
 self.addEventListener('fetch', event => {
   let request = event.request;
   let url = new URL(request.url);
@@ -47,10 +43,10 @@ self.addEventListener('fetch', event => {
   }
 
   if (url.endsWith('/')) {
-    event.respondWith(caches.match(''))
+    event.respondWith(caches.match('').then(res => res));
   }
 
   event.respondWith(
-    caches.match(request).then(res => res || fetchAndEventuallyCache(request));
+    caches.match(request).then(res => res || fetch(request));
   );
 });
