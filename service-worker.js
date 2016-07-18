@@ -1,4 +1,4 @@
-const staticCacheName = 'static-4079adb';
+const staticCacheName = 'static-';
 const expectedCaches = [
   staticCacheName
 ];
@@ -14,8 +14,8 @@ self.addEventListener('install', event => {
         "/assets/svg-sprite-editor-symbol.svg",
         "/assets/svg-sprite-image-symbol.svg",
         "/assets/svg-sprite-navigation-symbol.svg",
-        "/assets/main-738629d7afef201bb11a37767f4533e0.css",
-        "/assets/main-728ed4ab7a37c894d9db894008c7c17f.js"
+        "/assets/refugio.css",
+        "/assets/main.js"
       ]);
     })
   );
@@ -32,6 +32,7 @@ self.addEventListener('install', event => {
   );
 });*/
 
+
 self.addEventListener('fetch', event => {
   let request = event.request;
   let url = new URL(request.url);
@@ -42,11 +43,11 @@ self.addEventListener('fetch', event => {
       return;
   }
 
-  if (url.endsWith('/')) {
-    event.respondWith(caches.match(''));
+  if (url.pathname.endsWith('/')) {
+    event.respondWith(caches.match('/'));
   } else {
     event.respondWith(
-      caches.match(request).then(res => res || fetch(request));
+      caches.match(request).then(res => res || fetch(request))
     );
   }
 });
